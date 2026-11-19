@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:fraction_of:1:446c6c9c9a5c39cc",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What is 3/4 of 36?",
+  "options": [
+   "28",
+   "30",
+   "27",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "36÷4=9, then ×3 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:2:ed2305ede837067e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What is 8/10 of 30?",
+  "options": [
+   "6",
+   "3",
+   "32",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "30÷10=3, then ×8 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:3:9f370ccb0942a7e8",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What is 2/3 of 12?",
+  "options": [
+   "9",
+   "10",
+   "8",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "12÷3=4, then ×2 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:4:fb82bb37da26e33c",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What is 2/5 of 50?",
+  "options": [
+   "22",
+   "30",
+   "10",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "50÷5=10, then ×2 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:5:ac8bcbbfa689c697",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What is 5/6 of 36?",
+  "options": [
+   "30",
+   "6",
+   "35",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "36÷6=6, then ×5 = 30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:6:de91ad3998dcf8b6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What is 3/4 of 32?",
+  "options": [
+   "8",
+   "24",
+   "27",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "32÷4=8, then ×3 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:7:26213f91b5ad25ba",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What is 3/5 of 45?",
+  "options": [
+   "18",
+   "27",
+   "9",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "45÷5=9, then ×3 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:8:46f5408475c3b2ce",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What is 4/5 of 40?",
+  "options": [
+   "32",
+   "33",
+   "36",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "40÷5=8, then ×4 = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:9:411981727ed33698",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What is 5/8 of 16?",
+  "options": [
+   "2",
+   "15",
+   "6",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "16÷8=2, then ×5 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:10:eef65ff3fddc26a5",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What is 4/8 of 32?",
+  "options": [
+   "20",
+   "4",
+   "16",
+   "17"
+  ],
+  "answer_index": 2,
+  "explanation": "32÷8=4, then ×4 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:11:ac54838604b3ac24",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What is 4/8 of 80?",
+  "options": [
+   "41",
+   "10",
+   "40",
+   "44"
+  ],
+  "answer_index": 2,
+  "explanation": "80÷8=10, then ×4 = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:12:64f58308bd191b28",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What is 2/4 of 8?",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "8÷4=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:13:4418ec851e47d57e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What is 2/3 of 18?",
+  "options": [
+   "14",
+   "12",
+   "13",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "18÷3=6, then ×2 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:14:37f8af974b6d014c",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What is 3/10 of 90?",
+  "options": [
+   "30",
+   "63",
+   "9",
+   "27"
+  ],
+  "answer_index": 3,
+  "explanation": "90÷10=9, then ×3 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:15:26d66e4b305c3ebf",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What is 2/10 of 40?",
+  "options": [
+   "10",
+   "8",
+   "4",
+   "32"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷10=4, then ×2 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:16:bc96d2875e0bea90",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What is 6/10 of 80?",
+  "options": [
+   "48",
+   "54",
+   "32",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "80÷10=8, then ×6 = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:17:ecc534f436a56b4e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What is 5/6 of 66?",
+  "options": [
+   "56",
+   "11",
+   "55",
+   "60"
+  ],
+  "answer_index": 2,
+  "explanation": "66÷6=11, then ×5 = 55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:18:3461d1ffc5fc6270",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What is 2/3 of 36?",
+  "options": [
+   "25",
+   "26",
+   "12",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "36÷3=12, then ×2 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:19:29047805550e2659",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What is 2/5 of 50?",
+  "options": [
+   "10",
+   "30",
+   "20",
+   "22"
+  ],
+  "answer_index": 2,
+  "explanation": "50÷5=10, then ×2 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:20:99a135efdbe737c1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What is 3/6 of 30?",
+  "options": [
+   "18",
+   "15",
+   "16",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "30÷6=5, then ×3 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:21:b60b73d12a93fdfb",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What is 3/4 of 44?",
+  "options": [
+   "33",
+   "36",
+   "34",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "44÷4=11, then ×3 = 33.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:22:aa7c38ea92d01e03",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What is 6/8 of 40?",
+  "options": [
+   "5",
+   "30",
+   "36",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷8=5, then ×6 = 30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:23:03dec2de1e9f668f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What is 3/5 of 45?",
+  "options": [
+   "27",
+   "30",
+   "18",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "45÷5=9, then ×3 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:24:246bc1c94061890c",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What is 4/8 of 48?",
+  "options": [
+   "6",
+   "24",
+   "28",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "48÷8=6, then ×4 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:25:b1073091d1f1c59d",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What is 3/4 of 12?",
+  "options": [
+   "9",
+   "3",
+   "12",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "12÷4=3, then ×3 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:26:3f64752e1ae0dc81",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What is 2/4 of 36?",
+  "options": [
+   "20",
+   "18",
+   "9",
+   "19"
+  ],
+  "answer_index": 1,
+  "explanation": "36÷4=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:27:f30611104cce9388",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What is 2/5 of 10?",
+  "options": [
+   "2",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "10÷5=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:28:d003c6f91a734bd1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What is 5/6 of 18?",
+  "options": [
+   "16",
+   "20",
+   "15",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "18÷6=3, then ×5 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:29:2b2580654f538102",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What is 3/10 of 70?",
+  "options": [
+   "49",
+   "7",
+   "24",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "70÷10=7, then ×3 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:30:f2dffdb9d3dea49d",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What is 3/4 of 20?",
+  "options": [
+   "5",
+   "18",
+   "16",
+   "15"
+  ],
+  "answer_index": 3,
+  "explanation": "20÷4=5, then ×3 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:31:bc76dcbef5580aa9",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What is 6/8 of 16?",
+  "options": [
+   "4",
+   "18",
+   "12",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "16÷8=2, then ×6 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:32:d72fc3bd0d3e7eae",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What is 8/10 of 30?",
+  "options": [
+   "32",
+   "3",
+   "24",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "30÷10=3, then ×8 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:33:62d4ac1b6593cedd",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What is 2/3 of 21?",
+  "options": [
+   "16",
+   "14",
+   "15",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "21÷3=7, then ×2 = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:34:598d73a7d7c7826f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What is 2/3 of 27?",
+  "options": [
+   "20",
+   "9",
+   "19",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "27÷3=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:35:57f10638bb317f6f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What is 3/4 of 16?",
+  "options": [
+   "4",
+   "12",
+   "15",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "16÷4=4, then ×3 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:36:d85850986fd66115",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What is 2/3 of 15?",
+  "options": [
+   "5",
+   "10",
+   "11",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "15÷3=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:37:b4eaca386fceb71a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What is 5/6 of 12?",
+  "options": [
+   "11",
+   "15",
+   "2",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "12÷6=2, then ×5 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:38:ac452a033644ba0e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What is 9/10 of 100?",
+  "options": [
+   "90",
+   "10",
+   "91",
+   "99"
+  ],
+  "answer_index": 0,
+  "explanation": "100÷10=10, then ×9 = 90.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:39:dd2e12a6f3f7a01e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What is 2/10 of 90?",
+  "options": [
+   "72",
+   "20",
+   "9",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "90÷10=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:40:9c911ad83318fe16",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What is 5/6 of 30?",
+  "options": [
+   "5",
+   "26",
+   "30",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "30÷6=5, then ×5 = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:41:37697aa6ec7f7435",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What is 2/3 of 33?",
+  "options": [
+   "23",
+   "11",
+   "24",
+   "22"
+  ],
+  "answer_index": 3,
+  "explanation": "33÷3=11, then ×2 = 22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:42:1cc145c886b8cecf",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What is 4/10 of 70?",
+  "options": [
+   "42",
+   "7",
+   "28",
+   "32"
+  ],
+  "answer_index": 2,
+  "explanation": "70÷10=7, then ×4 = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:43:329961d305d81d25",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "What is 2/4 of 16?",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "16÷4=4, then ×2 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:44:d133b2740566cf53",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What is 4/6 of 30?",
+  "options": [
+   "20",
+   "5",
+   "24",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "30÷6=5, then ×4 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:45:6cb3b8180979746a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What is 7/8 of 48?",
+  "options": [
+   "49",
+   "43",
+   "6",
+   "42"
+  ],
+  "answer_index": 3,
+  "explanation": "48÷8=6, then ×7 = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:46:145cfa8811bc1410",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What is 7/8 of 32?",
+  "options": [
+   "29",
+   "4",
+   "28",
+   "35"
+  ],
+  "answer_index": 2,
+  "explanation": "32÷8=4, then ×7 = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:47:1b56c330f4b0338e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What is 4/6 of 72?",
+  "options": [
+   "52",
+   "12",
+   "48",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "72÷6=12, then ×4 = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:48:6c5e04482094c6d1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What is 2/8 of 24?",
+  "options": [
+   "3",
+   "18",
+   "8",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "24÷8=3, then ×2 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:49:03ae16fc17faaff5",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "What is 7/8 of 56?",
+  "options": [
+   "50",
+   "56",
+   "49",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "56÷8=7, then ×7 = 49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:50:29022e8c64c58ea4",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What is 5/6 of 66?",
+  "options": [
+   "11",
+   "60",
+   "56",
+   "55"
+  ],
+  "answer_index": 3,
+  "explanation": "66÷6=11, then ×5 = 55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:51:5f17ca240b537d4e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What is 3/4 of 48?",
+  "options": [
+   "37",
+   "39",
+   "36",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "48÷4=12, then ×3 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:52:89dbcce50572f1d1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What is 2/3 of 24?",
+  "options": [
+   "16",
+   "18",
+   "8",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "24÷3=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:53:a0fac2988fad1de1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What is 2/4 of 20?",
+  "options": [
+   "11",
+   "5",
+   "12",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "20÷4=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:54:96c5e6917b1d7cfd",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What is 2/3 of 36?",
+  "options": [
+   "26",
+   "24",
+   "12",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "36÷3=12, then ×2 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:55:abf2272612cc2f0f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What is 2/5 of 15?",
+  "options": [
+   "8",
+   "6",
+   "9",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "15÷5=3, then ×2 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:56:9bac51a6da607bba",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What is 4/10 of 110?",
+  "options": [
+   "11",
+   "48",
+   "66",
+   "44"
+  ],
+  "answer_index": 3,
+  "explanation": "110÷10=11, then ×4 = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:57:fd240b4ea217e5de",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "What is 2/4 of 40?",
+  "options": [
+   "22",
+   "20",
+   "21",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷4=10, then ×2 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:58:0b123d794125114a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What is 2/3 of 9?",
+  "options": [
+   "6",
+   "8",
+   "3",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "9÷3=3, then ×2 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:59:0f1b6cac746f11e6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What is 9/10 of 30?",
+  "options": [
+   "36",
+   "3",
+   "27",
+   "28"
+  ],
+  "answer_index": 2,
+  "explanation": "30÷10=3, then ×9 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:60:8ea52a079519b335",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What is 2/8 of 96?",
+  "options": [
+   "72",
+   "24",
+   "12",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "96÷8=12, then ×2 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:61:05d968a7fbf54de4",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "What is 7/8 of 48?",
+  "options": [
+   "6",
+   "42",
+   "49",
+   "43"
+  ],
+  "answer_index": 1,
+  "explanation": "48÷8=6, then ×7 = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:62:4643e08f13872f87",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What is 2/3 of 6?",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "6÷3=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:63:6726c83f4a52e4bc",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "What is 3/5 of 35?",
+  "options": [
+   "14",
+   "24",
+   "7",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "35÷5=7, then ×3 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:64:14e4ba75ce5ffe54",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What is 3/4 of 28?",
+  "options": [
+   "22",
+   "24",
+   "21",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "28÷4=7, then ×3 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:65:2e61d8a6c62b2d50",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What is 2/8 of 96?",
+  "options": [
+   "26",
+   "72",
+   "24",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "96÷8=12, then ×2 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:66:b748358466eec373",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What is 4/6 of 12?",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "12÷6=2, then ×4 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:67:d37c32263c2a21e7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "What is 7/10 of 50?",
+  "options": [
+   "42",
+   "15",
+   "35",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "50÷10=5, then ×7 = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:68:275250a941145974",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What is 3/5 of 30?",
+  "options": [
+   "12",
+   "18",
+   "21",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "30÷5=6, then ×3 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:69:9af92485d7e75f20",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What is 3/4 of 8?",
+  "options": [
+   "7",
+   "2",
+   "9",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "8÷4=2, then ×3 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:70:bbf371701f5852a6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What is 5/6 of 24?",
+  "options": [
+   "20",
+   "4",
+   "21",
+   "25"
+  ],
+  "answer_index": 0,
+  "explanation": "24÷6=4, then ×5 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:71:142fa61dba39fa17",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What is 3/6 of 60?",
+  "options": [
+   "33",
+   "30",
+   "10",
+   "31"
+  ],
+  "answer_index": 1,
+  "explanation": "60÷6=10, then ×3 = 30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:72:d1d0065de0230cf3",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What is 3/5 of 15?",
+  "options": [
+   "6",
+   "9",
+   "12",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "15÷5=3, then ×3 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:73:c53bced99bf8cf3e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What is 9/10 of 80?",
+  "options": [
+   "72",
+   "73",
+   "8",
+   "81"
+  ],
+  "answer_index": 0,
+  "explanation": "80÷10=8, then ×9 = 72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:74:2c1fd0d1dfcffd73",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "What is 2/3 of 30?",
+  "options": [
+   "22",
+   "10",
+   "21",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "30÷3=10, then ×2 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:75:677bf569f632a289",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What is 6/8 of 56?",
+  "options": [
+   "42",
+   "14",
+   "7",
+   "48"
+  ],
+  "answer_index": 0,
+  "explanation": "56÷8=7, then ×6 = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:76:131a0e745361ee35",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What is 4/10 of 50?",
+  "options": [
+   "24",
+   "20",
+   "30",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "50÷10=5, then ×4 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:77:6c011e45eab630e7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What is 5/10 of 90?",
+  "options": [
+   "50",
+   "9",
+   "46",
+   "45"
+  ],
+  "answer_index": 3,
+  "explanation": "90÷10=9, then ×5 = 45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:78:f387b9473351896b",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What is 5/10 of 50?",
+  "options": [
+   "30",
+   "26",
+   "25",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "50÷10=5, then ×5 = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:79:1d5bedb05a6dea42",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What is 5/6 of 60?",
+  "options": [
+   "10",
+   "55",
+   "51",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "60÷6=10, then ×5 = 50.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:80:a9c893e6c8cc9707",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What is 3/4 of 20?",
+  "options": [
+   "18",
+   "16",
+   "15",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "20÷4=5, then ×3 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:81:8b6015dbe1f375a1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "What is 3/8 of 56?",
+  "options": [
+   "21",
+   "24",
+   "7",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "56÷8=7, then ×3 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:82:c90c4dd7e662bfa0",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "What is 4/6 of 30?",
+  "options": [
+   "24",
+   "10",
+   "5",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "30÷6=5, then ×4 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:83:07620b82a9e721aa",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What is 2/3 of 27?",
+  "options": [
+   "18",
+   "9",
+   "19",
+   "20"
+  ],
+  "answer_index": 0,
+  "explanation": "27÷3=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:84:b0dc21a948a889a2",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What is 2/3 of 21?",
+  "options": [
+   "15",
+   "7",
+   "16",
+   "14"
+  ],
+  "answer_index": 3,
+  "explanation": "21÷3=7, then ×2 = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:85:9fcafbdc44b047e5",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What is 4/5 of 50?",
+  "options": [
+   "41",
+   "40",
+   "10",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "50÷5=10, then ×4 = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:86:aafc877092b715b8",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What is 4/6 of 36?",
+  "options": [
+   "12",
+   "28",
+   "24",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "36÷6=6, then ×4 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:87:a184546e1803e995",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What is 2/3 of 6?",
+  "options": [
+   "4",
+   "5",
+   "2",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "6÷3=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:88:6ce7fe446fb502dc",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What is 3/8 of 96?",
+  "options": [
+   "39",
+   "60",
+   "12",
+   "36"
+  ],
+  "answer_index": 3,
+  "explanation": "96÷8=12, then ×3 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:89:47321d34dc651d7c",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What is 3/6 of 72?",
+  "options": [
+   "36",
+   "12",
+   "39",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "72÷6=12, then ×3 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:90:3a739958e74aee34",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "What is 4/6 of 48?",
+  "options": [
+   "16",
+   "8",
+   "36",
+   "32"
+  ],
+  "answer_index": 3,
+  "explanation": "48÷6=8, then ×4 = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:92:1b0b424ccc1f8d9f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What is 2/10 of 80?",
+  "options": [
+   "18",
+   "16",
+   "64",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "80÷10=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:93:282747ede9f523c1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What is 3/4 of 48?",
+  "options": [
+   "36",
+   "12",
+   "39",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "48÷4=12, then ×3 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:94:306ae93c0388847a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What is 4/10 of 70?",
+  "options": [
+   "28",
+   "32",
+   "7",
+   "42"
+  ],
+  "answer_index": 0,
+  "explanation": "70÷10=7, then ×4 = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:95:97641268fba5dcdd",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What is 2/4 of 28?",
+  "options": [
+   "15",
+   "16",
+   "14",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "28÷4=7, then ×2 = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:96:8bf3dc793c49b457",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What is 4/8 of 64?",
+  "options": [
+   "33",
+   "36",
+   "8",
+   "32"
+  ],
+  "answer_index": 3,
+  "explanation": "64÷8=8, then ×4 = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:97:2c05d4eba3ee7bf7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What is 2/10 of 60?",
+  "options": [
+   "6",
+   "14",
+   "48",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "60÷10=6, then ×2 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:98:25f01f8656c7886e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What is 4/6 of 36?",
+  "options": [
+   "12",
+   "28",
+   "6",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "36÷6=6, then ×4 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:99:1df6da4cdce9d320",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "What is 4/6 of 48?",
+  "options": [
+   "36",
+   "8",
+   "32",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "48÷6=8, then ×4 = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:100:1151b132b9c0417b",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What is 2/3 of 18?",
+  "options": [
+   "6",
+   "13",
+   "14",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "18÷3=6, then ×2 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:101:a85f406c2ca38b76",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What is 2/5 of 40?",
+  "options": [
+   "8",
+   "24",
+   "18",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "40÷5=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:102:8a27d54cd0bc0ae6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What is 4/5 of 25?",
+  "options": [
+   "20",
+   "21",
+   "5",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "25÷5=5, then ×4 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:103:fe8a35d558aba717",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What is 5/8 of 88?",
+  "options": [
+   "60",
+   "33",
+   "55",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "88÷8=11, then ×5 = 55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:104:319656af5b4bfa90",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What is 3/4 of 8?",
+  "options": [
+   "2",
+   "7",
+   "6",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "8÷4=2, then ×3 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:105:b8977a18d58add21",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What is 3/5 of 25?",
+  "options": [
+   "18",
+   "15",
+   "5",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "25÷5=5, then ×3 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:106:a5b442862dc53a2d",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "What is 4/10 of 30?",
+  "options": [
+   "18",
+   "12",
+   "16",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "30÷10=3, then ×4 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:107:9896ac1025e65432",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What is 3/8 of 40?",
+  "options": [
+   "15",
+   "25",
+   "5",
+   "18"
+  ],
+  "answer_index": 0,
+  "explanation": "40÷8=5, then ×3 = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:108:e30d03129155e69f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What is 4/10 of 90?",
+  "options": [
+   "54",
+   "40",
+   "9",
+   "36"
+  ],
+  "answer_index": 3,
+  "explanation": "90÷10=9, then ×4 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:109:a2c791f46c6d9fcd",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "What is 3/5 of 15?",
+  "options": [
+   "3",
+   "6",
+   "12",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "15÷5=3, then ×3 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:110:fd0d675182715fc0",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "What is 6/10 of 20?",
+  "options": [
+   "8",
+   "18",
+   "12",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "20÷10=2, then ×6 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:111:d11b15606b4a4c38",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What is 2/6 of 54?",
+  "options": [
+   "18",
+   "36",
+   "20",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "54÷6=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:112:f72033bcd79e2a4f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What is 6/8 of 24?",
+  "options": [
+   "24",
+   "3",
+   "18",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "24÷8=3, then ×6 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:113:1d802c4d9b26dd1a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "What is 2/3 of 18?",
+  "options": [
+   "13",
+   "12",
+   "14",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "18÷3=6, then ×2 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:114:af20f572f52b4cac",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What is 4/5 of 15?",
+  "options": [
+   "16",
+   "12",
+   "3",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "15÷5=3, then ×4 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:115:f97a0a715f36d715",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What is 5/6 of 54?",
+  "options": [
+   "45",
+   "9",
+   "50",
+   "46"
+  ],
+  "answer_index": 0,
+  "explanation": "54÷6=9, then ×5 = 45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:116:30712b63ca77d2ab",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What is 2/3 of 24?",
+  "options": [
+   "8",
+   "17",
+   "18",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "24÷3=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:117:253f0bcac5c826a3",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What is 3/6 of 36?",
+  "options": [
+   "21",
+   "19",
+   "18",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "36÷6=6, then ×3 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:118:be72d80d54372dcc",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What is 3/10 of 20?",
+  "options": [
+   "9",
+   "6",
+   "2",
+   "14"
+  ],
+  "answer_index": 1,
+  "explanation": "20÷10=2, then ×3 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:119:b65b16a59bdcecb6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What is 4/6 of 72?",
+  "options": [
+   "52",
+   "12",
+   "24",
+   "48"
+  ],
+  "answer_index": 3,
+  "explanation": "72÷6=12, then ×4 = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:120:fb490c41aa9eb82b",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "What is 2/3 of 9?",
+  "options": [
+   "6",
+   "7",
+   "3",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "9÷3=3, then ×2 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:121:ebc251f8d033b56a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "What is 4/10 of 70?",
+  "options": [
+   "7",
+   "28",
+   "42",
+   "32"
+  ],
+  "answer_index": 1,
+  "explanation": "70÷10=7, then ×4 = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:122:ebbe96e0d257b2e3",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "What is 4/5 of 40?",
+  "options": [
+   "33",
+   "32",
+   "36",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷5=8, then ×4 = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:123:af54fbbd12bd08e7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "What is 2/3 of 27?",
+  "options": [
+   "20",
+   "9",
+   "18",
+   "19"
+  ],
+  "answer_index": 2,
+  "explanation": "27÷3=9, then ×2 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:124:7f335cb4a95c5a80",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "What is 2/8 of 16?",
+  "options": [
+   "2",
+   "12",
+   "4",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "16÷8=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:125:887f98ecb3d4d87a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "What is 3/8 of 64?",
+  "options": [
+   "27",
+   "24",
+   "8",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "64÷8=8, then ×3 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:127:febd17f679020ba7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "What is 3/6 of 42?",
+  "options": [
+   "24",
+   "21",
+   "22",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "42÷6=7, then ×3 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:128:d2a15c91961c528a",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "What is 2/4 of 20?",
+  "options": [
+   "10",
+   "12",
+   "11",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "20÷4=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:129:09da894ddb27e262",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "What is 3/5 of 40?",
+  "options": [
+   "8",
+   "24",
+   "27",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷5=8, then ×3 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:130:fb3b49b4b78f7f2e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "What is 2/3 of 6?",
+  "options": [
+   "5",
+   "4",
+   "6",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "6÷3=2, then ×2 = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:131:3f98808f66d44b6b",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "What is 7/10 of 70?",
+  "options": [
+   "56",
+   "49",
+   "21",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "70÷10=7, then ×7 = 49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:132:769d608529811231",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "What is 4/6 of 66?",
+  "options": [
+   "48",
+   "44",
+   "11",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "66÷6=11, then ×4 = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:133:db71e6e62dfad5a8",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "What is 4/8 of 56?",
+  "options": [
+   "32",
+   "28",
+   "29",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "56÷8=7, then ×4 = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:134:aaed5b2bf112baa7",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "What is 2/3 of 24?",
+  "options": [
+   "18",
+   "8",
+   "16",
+   "17"
+  ],
+  "answer_index": 2,
+  "explanation": "24÷3=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:135:56054080b5a7af6c",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "What is 2/4 of 44?",
+  "options": [
+   "22",
+   "11",
+   "24",
+   "23"
+  ],
+  "answer_index": 0,
+  "explanation": "44÷4=11, then ×2 = 22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:136:2a02b624713f2f29",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "What is 3/4 of 36?",
+  "options": [
+   "27",
+   "30",
+   "28",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "36÷4=9, then ×3 = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:137:751e3281f78ca08e",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "What is 9/10 of 40?",
+  "options": [
+   "4",
+   "37",
+   "45",
+   "36"
+  ],
+  "answer_index": 3,
+  "explanation": "40÷10=4, then ×9 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:138:8aae2034e73635e2",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "What is 3/6 of 24?",
+  "options": [
+   "15",
+   "12",
+   "13",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "24÷6=4, then ×3 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:139:ec44c65cf01903ae",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "What is 2/5 of 50?",
+  "options": [
+   "30",
+   "22",
+   "20",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "50÷5=10, then ×2 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:140:ba326fc4afa579ea",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "What is 4/5 of 20?",
+  "options": [
+   "20",
+   "17",
+   "16",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "20÷5=4, then ×4 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:141:f3eeefde04c7ebea",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "What is 2/3 of 21?",
+  "options": [
+   "14",
+   "15",
+   "16",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "21÷3=7, then ×2 = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:142:a37268a478cc0eb6",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "What is 2/4 of 32?",
+  "options": [
+   "16",
+   "18",
+   "8",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "32÷4=8, then ×2 = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:143:d15fd83a07f6cc7f",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "What is 2/8 of 40?",
+  "options": [
+   "30",
+   "10",
+   "5",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "40÷8=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:144:b26e14f24b6c96dd",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "What is 3/5 of 10?",
+  "options": [
+   "4",
+   "6",
+   "2",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "10÷5=2, then ×3 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:145:d060dcd52b96e66d",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "What is 2/4 of 20?",
+  "options": [
+   "10",
+   "11",
+   "5",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "20÷4=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:146:f3bbf3c89f07c312",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "What is 2/4 of 20?",
+  "options": [
+   "12",
+   "11",
+   "5",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "20÷4=5, then ×2 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:147:f090de540d10e484",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "What is 2/5 of 30?",
+  "options": [
+   "12",
+   "14",
+   "18",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "30÷5=6, then ×2 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:148:ae52462cd1178868",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "What is 2/4 of 12?",
+  "options": [
+   "3",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "12÷4=3, then ×2 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:149:fc94b9faeee5e0c8",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "What is 4/6 of 66?",
+  "options": [
+   "44",
+   "11",
+   "48",
+   "22"
+  ],
+  "answer_index": 0,
+  "explanation": "66÷6=11, then ×4 = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:150:8ccd6fa687f97fd1",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "What is 5/10 of 50?",
+  "options": [
+   "30",
+   "5",
+   "26",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "50÷10=5, then ×5 = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:151:abc05738f660c383",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 151,
+  "stem": "What is 2/3 of 33?",
+  "options": [
+   "24",
+   "23",
+   "22",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "33÷3=11, then ×2 = 22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:fraction_of:152:d26eae51f55cf7ca",
+  "topic_id": "MA-C08",
+  "qtype": "fraction_of",
+  "level": 3,
+  "generator": "reg:fraction_of",
+  "generator_version": 1,
+  "seed": 152,
+  "stem": "What is 4/5 of 60?",
+  "options": [
+   "12",
+   "48",
+   "49",
+   "52"
+  ],
+  "answer_index": 1,
+  "explanation": "60÷5=12, then ×4 = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

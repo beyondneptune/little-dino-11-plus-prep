@@ -1,0 +1,5762 @@
+[
+ {
+  "id": "en:homophone:2:a0c0abe9d850e4b0",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "I think ___ right about the answer.",
+  "options": [
+   "your",
+   "weather",
+   "you're",
+   "where"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “you're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:03fdef8882d798cd",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "The dog wagged ___ tail happily.",
+  "options": [
+   "weather",
+   "it's",
+   "wear",
+   "its"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “its”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:9a12ac148a9f7aea",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "I think ___ going to be late today.",
+  "options": [
+   "their",
+   "there",
+   "where",
+   "they're"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “they're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:c3ed7e09314aa2b2",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "The knight wore a shining suit of ___.",
+  "options": [
+   "mail",
+   "flower",
+   "where",
+   "male"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “mail”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:72e8e9bb24d5cf69",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "After shouting all day his voice felt ___.",
+  "options": [
+   "horse",
+   "flour",
+   "hoarse",
+   "whether"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “hoarse”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:f5fe503f68d108de",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "She picked a yellow ___ from the garden.",
+  "options": [
+   "break",
+   "brake",
+   "flower",
+   "flour"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “flower”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:738a6a2b620e5cb6",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Please write ___ name at the top of the page.",
+  "options": [
+   "flour",
+   "wear",
+   "you're",
+   "your"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “your”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ca191b921e2df6d7",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "whether",
+   "won",
+   "flour",
+   "one"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:250f5361e2e5bce8",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "A bee landed on the sweet ___.",
+  "options": [
+   "weather",
+   "flour",
+   "where",
+   "flower"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “flower”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b8fa943375ef567b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Please ___ your answer in the box.",
+  "options": [
+   "right",
+   "brake",
+   "weather",
+   "write"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “write”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:fec06d6b0d623689",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "The wind ___ through the trees all night.",
+  "options": [
+   "wear",
+   "whether",
+   "blew",
+   "blue"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “blew”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a65bfbe0ae062b4a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "flower",
+   "piece",
+   "peace",
+   "whether"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:9d19ddad1c629a58",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Turn ___ at the end of the road.",
+  "options": [
+   "write",
+   "right",
+   "weather",
+   "brake"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “right”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:19beaf7c6b34a80c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "break",
+   "flower",
+   "one",
+   "won"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:1c4c909c214718c5",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Be careful not to ___ the glass.",
+  "options": [
+   "break",
+   "whether",
+   "flour",
+   "brake"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “break”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:15e3bd0d1569cf32",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "We ate ___ much cake at the party.",
+  "options": [
+   "brake",
+   "two",
+   "to",
+   "too"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “too”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:0d2298bead031679",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "break",
+   "piece",
+   "peace",
+   "wear"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:8286a725bda8eb0d",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Press the ___ to stop the bike.",
+  "options": [
+   "whether",
+   "brake",
+   "flower",
+   "break"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “brake”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b2e91455cb18203c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "She tied a ___ in the rope.",
+  "options": [
+   "knot",
+   "not",
+   "flour",
+   "weather"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “knot”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:f1b669bd5ac37d9e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Please ___ your answer in the box.",
+  "options": [
+   "right",
+   "brake",
+   "write",
+   "wear"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “write”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:48d27f87b289fadd",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "I think ___ right about the answer.",
+  "options": [
+   "you're",
+   "weather",
+   "break",
+   "your"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “you're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b27c72b085479c8b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "one",
+   "won",
+   "wear",
+   "flour"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:22ad943655715eee",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Each ___ lion has a thick mane.",
+  "options": [
+   "mail",
+   "flower",
+   "flour",
+   "male"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “male”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:741931860b2f3e5a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "A bee landed on the sweet ___.",
+  "options": [
+   "brake",
+   "break",
+   "flour",
+   "flower"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “flower”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:bb776c094321aba7",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Can you ___ the music from here?",
+  "options": [
+   "here",
+   "hear",
+   "where",
+   "whether"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “hear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:5e18cc0c7d8cc0c4",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "The knight wore a shining suit of ___.",
+  "options": [
+   "male",
+   "mail",
+   "whether",
+   "wear"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “mail”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:20a052ea1da4c4ae",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "I am sure ___ going to rain later.",
+  "options": [
+   "whether",
+   "it's",
+   "flower",
+   "its"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:dd50ffbf995a5f41",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "flower",
+   "won",
+   "brake",
+   "one"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:d3d337119678e501",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "She painted the door a bright ___.",
+  "options": [
+   "where",
+   "blue",
+   "brake",
+   "blew"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “blue”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e18ac1f286f9ea4e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "He keeps ___ pet rabbits at home.",
+  "options": [
+   "to",
+   "whether",
+   "too",
+   "two"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “two”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:938460ccebc57aad",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "The dog wagged ___ tail happily.",
+  "options": [
+   "its",
+   "whether",
+   "flour",
+   "it's"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “its”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:5db614b2e1e694c0",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "The brave knight rode a white ___.",
+  "options": [
+   "horse",
+   "weather",
+   "hoarse",
+   "brake"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “horse”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:856d7a0e0ccb11c2",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "The ___ of the roses filled the room.",
+  "options": [
+   "where",
+   "whether",
+   "scent",
+   "sent"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “scent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e437f0fa19ce67f4",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "The ___ feet of the children slapped the floor.",
+  "options": [
+   "flower",
+   "bare",
+   "where",
+   "bear"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “bare”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b1567c9cb547fc29",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "I put the cups over ___ on the shelf.",
+  "options": [
+   "their",
+   "they're",
+   "wear",
+   "there"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “there”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:1bbb95be3ab09232",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "I think ___ going to be late today.",
+  "options": [
+   "their",
+   "flower",
+   "there",
+   "they're"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “they're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:366d0fe7ecc60980",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "peace",
+   "wear",
+   "whether",
+   "piece"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:fb81e0d03559f3a3",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "She tied a ___ in the rope.",
+  "options": [
+   "not",
+   "whether",
+   "knot",
+   "weather"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “knot”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:216f24943715cdd8",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Please write ___ name at the top of the page.",
+  "options": [
+   "your",
+   "weather",
+   "you're",
+   "break"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “your”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b91f754d8c753f99",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "We ate ___ much cake at the party.",
+  "options": [
+   "wear",
+   "two",
+   "to",
+   "too"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “too”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b70918730f6c0a86",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Please write ___ name at the top of the page.",
+  "options": [
+   "your",
+   "wear",
+   "brake",
+   "you're"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “your”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:56e45ed0481feb51",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "The dog wagged ___ tail happily.",
+  "options": [
+   "wear",
+   "its",
+   "it's",
+   "weather"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “its”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:5d6705f46a74db70",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "She walked ___ the shop to buy milk.",
+  "options": [
+   "too",
+   "two",
+   "whether",
+   "to"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “to”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:773cd7e8c7509f7b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "He keeps ___ pet rabbits at home.",
+  "options": [
+   "two",
+   "too",
+   "brake",
+   "to"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “two”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:9a7935da0788d60e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which road should we take, this one ___ that one?",
+  "options": [
+   "oar",
+   "ore",
+   "or",
+   "brake"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “or”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:324064579356e257",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Be careful not to ___ the glass.",
+  "options": [
+   "break",
+   "weather",
+   "brake",
+   "where"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “break”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:2da27ae93d498188",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "She picked a yellow ___ from the garden.",
+  "options": [
+   "flour",
+   "whether",
+   "flower",
+   "weather"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “flower”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:7cabf645c9b61db2",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "The wind ___ through the trees all night.",
+  "options": [
+   "where",
+   "blue",
+   "brake",
+   "blew"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “blew”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:defff766b602ec30",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "We ate ___ much cake at the party.",
+  "options": [
+   "to",
+   "too",
+   "two",
+   "where"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “too”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:d5fa83c63bbd1349",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "We ate ___ much cake at the party.",
+  "options": [
+   "wear",
+   "two",
+   "too",
+   "to"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “too”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:14cbb32eb7c21434",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "She tied a ___ in the rope.",
+  "options": [
+   "where",
+   "knot",
+   "weather",
+   "not"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “knot”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:d2c54e8f54decb7c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "He keeps ___ pet rabbits at home.",
+  "options": [
+   "weather",
+   "two",
+   "to",
+   "too"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “two”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a918bdb820f2193a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "We could not ___ the heavy box up the stairs.",
+  "options": [
+   "brake",
+   "bare",
+   "bear",
+   "break"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “bear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:5526ddd2c788daeb",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "I ___ a card to my cousin.",
+  "options": [
+   "flower",
+   "scent",
+   "whether",
+   "sent"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “sent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:fe957fd1f713bbf1",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "She ate a juicy ___ for lunch.",
+  "options": [
+   "pear",
+   "where",
+   "wear",
+   "pair"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “pear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:7508299557c6228a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "The dog wagged ___ tail happily.",
+  "options": [
+   "its",
+   "flower",
+   "where",
+   "it's"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “its”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a95d3763b95ec268",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Can you ___ the music from here?",
+  "options": [
+   "here",
+   "hear",
+   "weather",
+   "whether"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “hear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:28004d6b284d6671",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "I need a new ___ of shoes.",
+  "options": [
+   "flour",
+   "pear",
+   "weather",
+   "pair"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “pair”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:80c3b33067bcaeb4",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "I think ___ right about the answer.",
+  "options": [
+   "you're",
+   "wear",
+   "weather",
+   "your"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “you're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:16fdec186c45f05f",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "weather",
+   "won",
+   "one",
+   "brake"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:d3479b022a048900",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "The knight wore a shining suit of ___.",
+  "options": [
+   "whether",
+   "male",
+   "break",
+   "mail"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “mail”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:7179537a875a4657",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "wear",
+   "piece",
+   "peace",
+   "where"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:7620e87aad8d5cc2",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Can you ___ the music from here?",
+  "options": [
+   "here",
+   "hear",
+   "whether",
+   "flour"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “hear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e97d2d3e3ef853a9",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "I think ___ right about the answer.",
+  "options": [
+   "weather",
+   "you're",
+   "wear",
+   "your"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “you're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:8a146835216fa607",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Please ___ your answer in the box.",
+  "options": [
+   "break",
+   "flour",
+   "write",
+   "right"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “write”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b64a940dcf9c071e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Please ___ your answer in the box.",
+  "options": [
+   "brake",
+   "write",
+   "where",
+   "right"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “write”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ba305f082b253d7b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Please write ___ name at the top of the page.",
+  "options": [
+   "you're",
+   "your",
+   "flower",
+   "whether"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “your”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a9eba083ee2daa0b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "She tied a ___ in the rope.",
+  "options": [
+   "break",
+   "knot",
+   "whether",
+   "not"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “knot”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e3844bd8994495a0",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Come over ___ and sit down.",
+  "options": [
+   "hear",
+   "here",
+   "flower",
+   "whether"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “here”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:7d906309e711cd7a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "break",
+   "whether",
+   "piece",
+   "peace"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:4360a4f3b8e4624f",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which road should we take, this one ___ that one?",
+  "options": [
+   "or",
+   "ore",
+   "brake",
+   "oar"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “or”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:de880e6ee1a95a5b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "She painted the door a bright ___.",
+  "options": [
+   "blew",
+   "wear",
+   "brake",
+   "blue"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “blue”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a6de53463f10b7ae",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Press the ___ to stop the bike.",
+  "options": [
+   "flower",
+   "flour",
+   "break",
+   "brake"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “brake”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e99792ea8983166e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "The knight wore a shining suit of ___.",
+  "options": [
+   "male",
+   "flower",
+   "mail",
+   "weather"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “mail”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:19120a05026978ee",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "I would like a ___ of bread, please.",
+  "options": [
+   "peace",
+   "flower",
+   "piece",
+   "break"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “piece”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a0e06ba912ac1b0f",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "break",
+   "one",
+   "won",
+   "weather"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:a872ee70dbcd14a5",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Be careful not to ___ the glass.",
+  "options": [
+   "wear",
+   "brake",
+   "break",
+   "weather"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “break”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e4c7dee3c441e09b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "I put the cups over ___ on the shelf.",
+  "options": [
+   "brake",
+   "there",
+   "their",
+   "they're"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “there”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:75b131718d6ee480",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "The ___ feet of the children slapped the floor.",
+  "options": [
+   "weather",
+   "bear",
+   "flower",
+   "bare"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “bare”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:8db777e7a18a4258",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "The knight wore a shining suit of ___.",
+  "options": [
+   "mail",
+   "flour",
+   "male",
+   "weather"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “mail”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:1c9a59011493ddb3",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "The wind ___ through the trees all night.",
+  "options": [
+   "blew",
+   "blue",
+   "break",
+   "wear"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “blew”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:214330bb59adfec6",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Come over ___ and sit down.",
+  "options": [
+   "brake",
+   "flour",
+   "hear",
+   "here"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “here”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ded8337a496cb8b3",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "The brave knight rode a white ___.",
+  "options": [
+   "horse",
+   "whether",
+   "hoarse",
+   "weather"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “horse”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:5cd805376325babf",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "The ___ of the roses filled the room.",
+  "options": [
+   "sent",
+   "scent",
+   "brake",
+   "flower"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “scent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:312f2a78a23ef589",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "He keeps ___ pet rabbits at home.",
+  "options": [
+   "to",
+   "flour",
+   "two",
+   "too"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “two”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:d2d368050ec320fb",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "She painted the door a bright ___.",
+  "options": [
+   "whether",
+   "brake",
+   "blue",
+   "blew"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “blue”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ff042c2b9f851c62",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "I think ___ going to be late today.",
+  "options": [
+   "their",
+   "they're",
+   "there",
+   "brake"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “they're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b5fcefc20ab0892c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "I ___ a card to my cousin.",
+  "options": [
+   "sent",
+   "flower",
+   "weather",
+   "scent"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “sent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:6c47a49b11f6131b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "He rowed the boat with a single ___.",
+  "options": [
+   "weather",
+   "ore",
+   "oar",
+   "or"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “oar”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:618358771ddd660d",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Please write ___ name at the top of the page.",
+  "options": [
+   "your",
+   "wear",
+   "weather",
+   "you're"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “your”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:98ab71dbbf9ffad8",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "We ate ___ much cake at the party.",
+  "options": [
+   "two",
+   "brake",
+   "to",
+   "too"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “too”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b8a1bde57f07cbb0",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "I ___ a card to my cousin.",
+  "options": [
+   "sent",
+   "scent",
+   "flower",
+   "whether"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “sent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:45ee18bc93a828fb",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "I need a new ___ of shoes.",
+  "options": [
+   "pair",
+   "whether",
+   "pear",
+   "wear"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “pair”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:339058773936c664",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "She tied a ___ in the rope.",
+  "options": [
+   "not",
+   "knot",
+   "flour",
+   "whether"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “knot”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:bde6a67392e05f4c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "where",
+   "piece",
+   "peace",
+   "whether"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:c72745f395566b1b",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "The ___ feet of the children slapped the floor.",
+  "options": [
+   "bear",
+   "flower",
+   "flour",
+   "bare"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “bare”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ddc1e8f52d9cab78",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "After shouting all day his voice felt ___.",
+  "options": [
+   "flower",
+   "hoarse",
+   "weather",
+   "horse"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “hoarse”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:877338bb7f07d13f",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "She walked ___ the shop to buy milk.",
+  "options": [
+   "to",
+   "two",
+   "too",
+   "weather"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “to”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:9ae3b3919da6ab79",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "We need some ___ to bake the cake.",
+  "options": [
+   "where",
+   "flour",
+   "flower",
+   "break"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “flour”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:bc0f18820fc5dc72",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "She ate a juicy ___ for lunch.",
+  "options": [
+   "brake",
+   "weather",
+   "pair",
+   "pear"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “pear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:e8d33d4a9eb5b470",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Be careful not to ___ the glass.",
+  "options": [
+   "flower",
+   "break",
+   "whether",
+   "brake"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “break”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:252e69b01d0d940e",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "brake",
+   "weather",
+   "piece",
+   "peace"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:109d7bf83db55f94",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Press the ___ to stop the bike.",
+  "options": [
+   "break",
+   "whether",
+   "brake",
+   "wear"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “brake”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:26224fcb0f743ba2",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Press the ___ to stop the bike.",
+  "options": [
+   "weather",
+   "break",
+   "whether",
+   "brake"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “brake”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:fdc0bddc4320cf7a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "The dog wagged ___ tail happily.",
+  "options": [
+   "wear",
+   "whether",
+   "it's",
+   "its"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “its”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:ebc561914e9c13db",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "We could not ___ the heavy box up the stairs.",
+  "options": [
+   "bear",
+   "flour",
+   "bare",
+   "brake"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “bear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:eb910e66d3b8c9ce",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "The soldiers hoped for ___ after the war.",
+  "options": [
+   "weather",
+   "break",
+   "piece",
+   "peace"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “peace”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:bf8119733f18c0b4",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "A bee landed on the sweet ___.",
+  "options": [
+   "brake",
+   "flower",
+   "where",
+   "flour"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “flower”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:eac0d648a0a52c5a",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "I think ___ going to be late today.",
+  "options": [
+   "where",
+   "there",
+   "they're",
+   "their"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “they're”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:6a7f2a8510c65761",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "I am sure ___ going to rain later.",
+  "options": [
+   "its",
+   "it's",
+   "brake",
+   "wear"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:18a4691698f829c5",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "She ate a juicy ___ for lunch.",
+  "options": [
+   "flour",
+   "pear",
+   "pair",
+   "brake"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “pear”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:acbc92697c90ed26",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "wear",
+   "one",
+   "whether",
+   "won"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b0d38eb77b982139",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Our team ___ the match on Saturday.",
+  "options": [
+   "where",
+   "won",
+   "one",
+   "brake"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “won”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:4fea960564648004",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "She walked ___ the shop to buy milk.",
+  "options": [
+   "brake",
+   "too",
+   "two",
+   "to"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “to”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:4ad1d9aba345916c",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "I only have ___ pencil left.",
+  "options": [
+   "whether",
+   "wear",
+   "won",
+   "one"
+  ],
+  "answer_index": 3,
+  "explanation": "In this sentence the correct word is “one”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:b4c7ced031fe88a4",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Please ___ your answer in the box.",
+  "options": [
+   "flower",
+   "right",
+   "write",
+   "wear"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “write”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:54762fbf478c4590",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "He rowed the boat with a single ___.",
+  "options": [
+   "oar",
+   "ore",
+   "or",
+   "wear"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “oar”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:499e16c4b154e256",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "I am sure ___ going to rain later.",
+  "options": [
+   "it's",
+   "its",
+   "wear",
+   "weather"
+  ],
+  "answer_index": 0,
+  "explanation": "In this sentence the correct word is “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:872b7a7f1aa25595",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "I ___ a card to my cousin.",
+  "options": [
+   "whether",
+   "sent",
+   "scent",
+   "weather"
+  ],
+  "answer_index": 1,
+  "explanation": "In this sentence the correct word is “sent”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:homophone:2:53c541e8cd494db9",
+  "topic_id": "EN-F09",
+  "qtype": "en:homophone",
+  "level": 2,
+  "generator": "en:homophone",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "He keeps ___ pet rabbits at home.",
+  "options": [
+   "too",
+   "to",
+   "two",
+   "flour"
+  ],
+  "answer_index": 2,
+  "explanation": "In this sentence the correct word is “two”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

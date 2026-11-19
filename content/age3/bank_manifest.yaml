@@ -1,0 +1,39 @@
+age: 3
+min_bank: 60
+topics:
+  MA-B05:
+    subject: maths
+    generator: order_of_ops
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: Work out 11 × 6 − 6
+          answer: '60'
+        - stem: Work out 7 × 6 + 24
+          answer: '66'
+  MA-B03:
+    subject: maths
+    generator: long_mult
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: Use long multiplication to work out 561 × 32.
+          answer: '17952'
+        - stem: Use long multiplication to work out 314 × 48.
+          answer: '15072'
+  MA-B08:
+    subject: maths
+    generator: primes
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: Which of these is a prime number?
+          answer: '23'
+        - stem: Which of these is a prime number?
+          answer: '31'

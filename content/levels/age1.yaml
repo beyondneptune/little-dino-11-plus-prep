@@ -1,0 +1,283 @@
+# Age 1 (Cambrian Seas) — difficulty level definitions 1-5 (brief section 4).
+# Levels 1-2 = KS2 foundation; 3-4 = typical 11+; 5 = selective stretch.
+# Per-topic level = the subject rubric's size/tier for that level + the topic's
+# own `focus` and `distractors` (the plausible mistakes real children make).
+# This drives Phase 3 generation; it is authored, reviewed by the verification
+# pipeline (section 5), not served directly.
+
+age: 1
+reading_grade_ceiling: 6.0        # early-age readers (7-9); items above this not served
+
+rubrics:
+  Maths:
+    number_size: {1: "to 1,000", 2: "to 10,000", 3: "to 100,000", 4: "to 1,000,000", 5: "millions, with decimals/negatives"}
+    steps:       {1: 1, 2: 1, 3: 2, 4: 2, 5: 3}
+    note: "L3-5 add multi-step reasoning, a line of unnecessary information, and working backwards."
+  English:
+    vocab_tier:    {1: "everyday Year 3", 2: "Year 4", 3: "Year 5 / typical 11+", 4: "Year 6 / 11+", 5: "literary / selective"}
+    reading_grade: {1: 3, 2: 4, 3: 5, 4: 6, 5: 6.5}
+  VR:
+    rule_complexity: {1: "one short rule", 2: "one rule, longer", 3: "two steps", 4: "two rules combined", 5: "multi-rule / reversed"}
+  NVR:
+    features: {1: "one feature changes", 2: "one feature, subtler", 3: "two features", 4: "two-three features", 5: "multiple simultaneous features"}
+
+topics:
+
+  # ---------------- Maths (13) ----------------
+  MA-A02:
+    title: Reading and writing large numbers in words and figures
+    subject: Maths
+    readiness: V
+    focus: {1: "3-digit figures<->words", 2: "4-digit", 3: "5-6 digit", 4: "to a million", 5: "mixed, misleading spacing/zeros"}
+    distractors: ["digit transposition", "place-value slip (wrong column)", "miscounting zeros"]
+    example: "Write 24,603 in words."
+  MA-A03:
+    title: Comparing and ordering positive integers
+    subject: Maths
+    readiness: V
+    focus: {1: "compare two 3-digit", 2: "order four 4-digit", 3: "order 5-6 digit", 4: "mixed digit-lengths", 5: "order with distractor equal-looking numbers"}
+    distractors: ["compares leftmost digit only", "ignores digit count", "ascending/descending confusion"]
+    example: "Put in order, smallest first: 4,090  4,900  4,009  4,190."
+  MA-A05:
+    title: Rounding integers to powers of ten
+    subject: Maths
+    readiness: V
+    verifier: built
+    focus: {1: "nearest 10", 2: "nearest 100", 3: "nearest 1,000", 4: "nearest 10,000", 5: "round then compare/estimate"}
+    distractors: ["rounds the wrong digit", "rounds half down", "truncates instead of rounds"]
+    example: "Round 6,473 to the nearest 100."
+  MA-A07:
+    title: Roman numerals to 1,000
+    subject: Maths
+    readiness: V
+    focus: {1: "to 20", 2: "to 100", 3: "to 1,000", 4: "subtractive forms (IX, XL, CM)", 5: "arithmetic with numerals"}
+    distractors: ["adds a subtractive pair (IV=6)", "wrong symbol value", "order error"]
+    example: "What number is MCMXLIV?"
+  MA-A08:
+    title: Estimation and approximation
+    subject: Maths
+    readiness: V
+    focus: {1: "estimate a sum by rounding", 2: "estimate a product", 3: "best estimate from options", 4: "estimate then check reasonableness", 5: "multi-step estimate with unnecessary info"}
+    distractors: ["computes exactly then mis-rounds", "rounds inconsistently", "picks nearest exact answer not estimate"]
+    example: "Estimate 312 x 49 by rounding."
+  MA-A09:
+    title: Number lines, intervals and missing values
+    subject: Maths
+    readiness: V
+    focus: {1: "intervals of 1/2/5", 2: "intervals of 10/100", 3: "unlabelled ticks", 4: "non-unit intervals", 5: "negative/decimal extension"}
+    distractors: ["counts ticks not gaps", "assumes interval of 1", "off-by-one"]
+    example: "The line runs 0 to 100 in equal steps; what number is at the 3rd mark?"
+  MA-B01:
+    title: Mental addition, subtraction, multiplication and division
+    subject: Maths
+    readiness: V
+    verifier: built
+    focus: {1: "within 100", 2: "within 1,000", 3: "x/÷ facts to 12", 4: "two-step mental", 5: "multi-step with a distractor fact"}
+    distractors: ["adds instead of multiplies", "carries wrong", "order-of-operations slip"]
+    example: "Work out 7 x 8 - 6."
+  MA-B02:
+    title: Written addition and subtraction
+    subject: Maths
+    readiness: V
+    focus: {1: "3-digit, no exchange", 2: "with exchange", 3: "4-digit", 4: "mixed add/subtract", 5: "with unnecessary info / working backwards"}
+    distractors: ["forgets to exchange/borrow", "misaligns columns", "subtracts smaller from larger per column"]
+    example: "Work out 5,002 - 1,347."
+  MA-B04:
+    title: Multiplication tables and division facts
+    subject: Maths
+    readiness: V
+    verifier: built
+    focus: {1: "tables to 10", 2: "to 12", 3: "related division facts", 4: "missing factor", 5: "fact chains"}
+    distractors: ["off-by-one-row table slip", "adds instead of multiplies", "wrong inverse"]
+    example: "What is 54 ÷ 9?"
+  MA-B06:
+    title: Inverse operations and missing numbers
+    subject: Maths
+    readiness: V
+    focus: {1: "missing addend", 2: "missing subtrahend", 3: "missing factor", 4: "two-step missing number", 5: "working backwards"}
+    distractors: ["uses same operation not inverse", "operates in wrong order", "sign slip"]
+    example: "? - 38 = 145. What is ?"
+  MA-B13:
+    title: Odd/even numbers and number properties
+    subject: Maths
+    readiness: V
+    focus: {1: "identify odd/even", 2: "odd/even of a sum", 3: "which must be even", 4: "property reasoning", 5: "must-be-true from properties"}
+    distractors: ["judges by first digit", "even+odd parity error", "overgeneralises"]
+    example: "An even number is added to an odd number. Is the result odd or even?"
+  MA-C01:
+    title: Proper, improper and mixed fractions
+    subject: Maths
+    readiness: V
+    focus: {1: "name a fraction of a shape", 2: "proper vs improper", 3: "mixed<->improper", 4: "place on a line", 5: "compare mixed/improper"}
+    distractors: ["counts parts not equal parts", "inverts numerator/denominator", "whole-number slip in conversion"]
+    example: "Write 7/4 as a mixed number."
+  MA-C02:
+    title: Equivalent and simplified fractions
+    subject: Maths
+    readiness: V
+    focus: {1: "halves/quarters equivalence", 2: "simple equivalents", 3: "simplify to lowest terms", 4: "find missing numerator", 5: "compare via equivalence"}
+    distractors: ["adds same number to top and bottom", "simplifies only one part", "wrong common factor"]
+    example: "Write 8/12 in its simplest form."
+
+  # ---------------- English (12) — all R (authored + verified via section 5) ----------------
+  EN-A01:
+    title: Explicit information retrieval and accurate evidence selection
+    subject: English
+    readiness: R
+    focus: {1: "find a stated fact", 2: "locate a detail", 3: "choose best evidence", 4: "evidence vs near-miss", 5: "which quotation best supports"}
+    distractors: ["true-but-not-asked", "detail from wrong part", "plausible outside-text fact"]
+    example: "(passage) Which sentence tells us where Mira hid?"
+  EN-A02:
+    title: Direct factual questions and locating precise details
+    subject: English
+    readiness: R
+    focus: {1: "who/what/where", 2: "when/how many", 3: "precise detail", 4: "detail among similar", 5: "detail requiring careful scan"}
+    distractors: ["close-but-wrong number", "right fact wrong entity", "paraphrase trap"]
+    example: "(passage) How many eggs did the trilobite lay?"
+  EN-A03:
+    title: Inference from actions, dialogue, behaviour and description
+    subject: English
+    readiness: R
+    focus: {1: "obvious inference", 2: "from one clue", 3: "from behaviour", 4: "from tone/dialogue", 5: "subtle inference"}
+    distractors: ["literal not inferred", "over-reads beyond text", "opposite inference"]
+    example: "(passage) What does the boy's silence suggest?"
+  EN-A04:
+    title: Deduction supported by multiple pieces of evidence
+    subject: English
+    readiness: R
+    focus: {1: "two clues combine", 2: "two clues, one distractor", 3: "three clues", 4: "weigh competing clues", 5: "must-be-true deduction"}
+    distractors: ["uses one clue only", "contradicted by a clue", "assumption not evidence"]
+    example: "(passage) Using the clues, where must the key be?"
+  EN-A05:
+    title: Characters' feelings, motivations, relationships and development
+    subject: English
+    readiness: R
+    focus: {1: "named feeling", 2: "feeling from action", 3: "motivation", 4: "change over the passage", 5: "relationship nuance"}
+    distractors: ["surface emotion word", "motivation not supported", "static vs changing confusion"]
+    example: "(passage) Why does Anya change her mind?"
+  EN-A06:
+    title: Distinguishing fact, opinion, assumption and inference
+    subject: English
+    readiness: R
+    focus: {1: "fact vs opinion", 2: "spot the opinion", 3: "fact/opinion/assumption", 4: "assumption vs inference", 5: "classify four types"}
+    distractors: ["opinion mislabelled fact", "inference labelled fact", "assumption labelled evidence"]
+    example: "(passage) Which statement is an opinion, not a fact?"
+  EN-A07:
+    title: Identifying main ideas and summarising paragraphs
+    subject: English
+    readiness: R
+    focus: {1: "main idea of a sentence", 2: "of a short paragraph", 3: "best title", 4: "best summary", 5: "distinguish main from supporting"}
+    distractors: ["too-narrow detail", "too-broad claim", "supporting idea as main"]
+    example: "(passage) Which is the best title for paragraph 2?"
+  EN-B01:
+    title: Synonyms, antonyms and subtle differences in meaning
+    subject: English
+    readiness: R
+    verifier: built
+    focus: {1: "common synonym", 2: "common antonym", 3: "closest meaning", 4: "subtle shade", 5: "best fit among near-synonyms"}
+    distractors: ["near-synonym not closest", "related but wrong", "opposite when synonym asked"]
+    example: "Which word means most nearly the same as 'ancient'?"
+  EN-B02:
+    title: Word meanings from context
+    subject: English
+    readiness: R
+    focus: {1: "meaning from a clear sentence", 2: "from context clue", 3: "multiple-meaning in context", 4: "unfamiliar word from context", 5: "shade of meaning in context"}
+    distractors: ["dictionary meaning ignoring context", "wrong sense of polyseme", "plausible but unsupported"]
+    example: "In 'the fossil was brittle', 'brittle' means ___?"
+  EN-B06:
+    title: Prefixes, suffixes and root words
+    subject: English
+    readiness: R
+    focus: {1: "common prefix meaning", 2: "common suffix", 3: "root + affix meaning", 4: "build/break words", 5: "less common affixes"}
+    distractors: ["wrong affix meaning", "mis-split root", "overlooks spelling change"]
+    example: "What does the prefix 'sub-' mean in 'submarine'?"
+  EN-B08:
+    title: Word families, derivatives and related forms
+    subject: English
+    readiness: R
+    focus: {1: "noun<->verb pair", 2: "adjective form", 3: "word family member", 4: "correct derived form", 5: "irregular derivations"}
+    distractors: ["wrong part of speech", "invented form", "spelling-change slip"]
+    example: "Which word belongs to the same family as 'strength'?"
+  EN-C01:
+    title: Similes, metaphors and personification
+    subject: English
+    readiness: R
+    focus: {1: "spot a simile", 2: "simile vs metaphor", 3: "identify personification", 4: "effect of the image", 5: "distinguish all three"}
+    distractors: ["literal reading", "simile/metaphor mix-up", "misses 'like/as'"]
+    example: "'The sea roared like a beast' is an example of ___?"
+
+  # ---------------- VR (5) ----------------
+  VR-A01:
+    title: Synonyms and closest meanings
+    subject: VR
+    readiness: R
+    focus: {1: "common synonym", 2: "closest of four", 3: "subtle shade", 4: "near-synonym trap", 5: "best fit"}
+    distractors: ["related not synonym", "opposite", "near-synonym not closest"]
+    example: "Find the word closest in meaning to 'rapid'."
+  VR-A02:
+    title: Antonyms and opposite meanings
+    subject: VR
+    readiness: R
+    focus: {1: "common antonym", 2: "opposite of four", 3: "subtle opposite", 4: "antonym trap", 5: "best opposite"}
+    distractors: ["synonym not antonym", "related word", "near-opposite not best"]
+    example: "Find the opposite of 'ancient'."
+  VR-A05:
+    title: Odd-one-out vocabulary
+    subject: VR
+    readiness: R
+    verifier: built
+    focus: {1: "clear category", 2: "one odd word", 3: "two categories", 4: "subtle category", 5: "overlapping-looking set"}
+    distractors: ["word fitting both groups", "odd by spelling not meaning", "wrong category basis"]
+    example: "Which is the odd one out: oak, pine, rose, birch?"
+  VR-C01:
+    title: Alphabet positions and backward alphabet
+    subject: VR
+    readiness: V
+    focus: {1: "position of a letter", 2: "nth from start", 3: "nth from end", 4: "position arithmetic", 5: "mixed forward/backward"}
+    distractors: ["off-by-one position", "forward/backward confusion", "miscount"]
+    example: "What is the 5th letter from the end of the alphabet?"
+  VR-C02:
+    title: Single-letter sequences
+    subject: VR
+    readiness: V
+    verifier: built
+    focus: {1: "step +1", 2: "step +2/+3", 3: "larger step", 4: "step with wrap-around", 5: "variable step"}
+    distractors: ["wrong step size", "ignores wrap at Z", "off-by-one"]
+    example: "What comes next: C, F, I, L, ?"
+
+  # ---------------- NVR (5) ----------------
+  NV-A01:
+    title: Finding the next figure in a sequence
+    subject: NVR
+    readiness: V
+    focus: {1: "one feature repeats", 2: "one feature changes", 3: "two features", 4: "subtle change", 5: "two-three features"}
+    distractors: ["continues wrong feature", "mirror instead of next", "stops one step early"]
+    example: "Which figure comes next in the sequence?"
+  NV-A02:
+    title: Increasing/decreasing numbers of shapes
+    subject: NVR
+    readiness: V
+    focus: {1: "+1 each step", 2: "+2/-1", 3: "count + position", 4: "two counts change", 5: "count with distractor feature"}
+    distractors: ["wrong count step", "miscounts shapes", "confuses size with number"]
+    example: "The dots increase by 2 each time; how many next?"
+  NV-A03:
+    title: Alternating shading patterns
+    subject: NVR
+    readiness: V
+    focus: {1: "black/white alternate", 2: "alternate + shape", 3: "two alternations", 4: "shading + rotation", 5: "multiple alternations"}
+    distractors: ["continues same shade", "flips wrong element", "phase error"]
+    example: "Shading alternates black, white, black...; what is next?"
+  NV-C01:
+    title: Odd-one-out diagrams
+    subject: NVR
+    readiness: V
+    focus: {1: "one clearly different", 2: "odd by one feature", 3: "odd by two features", 4: "subtle odd", 5: "odd by rule not look"}
+    distractors: ["odd by size not rule", "picks a rotation as odd", "wrong shared feature"]
+    example: "Which shape does not belong with the others?"
+  NV-C03:
+    title: Shape similarities and common features
+    subject: NVR
+    readiness: V
+    focus: {1: "shares one feature", 2: "shares two", 3: "best match", 4: "match by rule", 5: "subtle shared feature"}
+    distractors: ["matches by size only", "matches a distractor feature", "ignores orientation rule"]
+    example: "Which figure belongs to the same group as these three?"

@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:long_mult:1:067349544b6356a7",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Use long multiplication to work out 561 × 32.",
+  "options": [
+   "17953",
+   "17391",
+   "18513",
+   "17952"
+  ],
+  "answer_index": 3,
+  "explanation": "561 × 32 = 17952.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:2:71494d0330f25f86",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Use long multiplication to work out 314 × 48.",
+  "options": [
+   "15073",
+   "14758",
+   "15386",
+   "15072"
+  ],
+  "answer_index": 3,
+  "explanation": "314 × 48 = 15072.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:3:4603abb0afb4014d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Use long multiplication to work out 747 × 26.",
+  "options": [
+   "20169",
+   "18675",
+   "19422",
+   "19423"
+  ],
+  "answer_index": 2,
+  "explanation": "747 × 26 = 19422.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:4:0b240cf924eb3615",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Use long multiplication to work out 314 × 15.",
+  "options": [
+   "5024",
+   "4710",
+   "4396",
+   "4711"
+  ],
+  "answer_index": 1,
+  "explanation": "314 × 15 = 4710.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:5:d3f5d3afe1573b63",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Use long multiplication to work out 328 × 46.",
+  "options": [
+   "14760",
+   "15416",
+   "15088",
+   "15089"
+  ],
+  "answer_index": 2,
+  "explanation": "328 × 46 = 15088.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:6:486dfa55d43a39eb",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Use long multiplication to work out 385 × 35.",
+  "options": [
+   "13860",
+   "13475",
+   "13476",
+   "13090"
+  ],
+  "answer_index": 1,
+  "explanation": "385 × 35 = 13475.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:7:f3a364852ecfb77f",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Use long multiplication to work out 634 × 19.",
+  "options": [
+   "12680",
+   "12046",
+   "12047",
+   "11412"
+  ],
+  "answer_index": 1,
+  "explanation": "634 × 19 = 12046.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:8:17978a29042da84a",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Use long multiplication to work out 125 × 26.",
+  "options": [
+   "3375",
+   "3125",
+   "3250",
+   "3251"
+  ],
+  "answer_index": 2,
+  "explanation": "125 × 26 = 3250.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:9:3e35be245d2d1008",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Use long multiplication to work out 664 × 36.",
+  "options": [
+   "24568",
+   "23904",
+   "23240",
+   "23905"
+  ],
+  "answer_index": 1,
+  "explanation": "664 × 36 = 23904.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:10:9fce50103425cbab",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Use long multiplication to work out 688 × 17.",
+  "options": [
+   "11697",
+   "11008",
+   "11696",
+   "12384"
+  ],
+  "answer_index": 2,
+  "explanation": "688 × 17 = 11696.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:11:9ee36a402a21ee55",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Use long multiplication to work out 849 × 20.",
+  "options": [
+   "16131",
+   "16980",
+   "16981",
+   "17829"
+  ],
+  "answer_index": 1,
+  "explanation": "849 × 20 = 16980.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:12:2ec4c6e017ee9ce8",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Use long multiplication to work out 481 × 42.",
+  "options": [
+   "20203",
+   "20202",
+   "20683",
+   "19721"
+  ],
+  "answer_index": 1,
+  "explanation": "481 × 42 = 20202.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:13:07e6836c05bce5f3",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Use long multiplication to work out 600 × 23.",
+  "options": [
+   "14400",
+   "13800",
+   "13801",
+   "13200"
+  ],
+  "answer_index": 1,
+  "explanation": "600 × 23 = 13800.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:14:4ae474f0fd7535df",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Use long multiplication to work out 657 × 37.",
+  "options": [
+   "24309",
+   "23652",
+   "24310",
+   "24966"
+  ],
+  "answer_index": 0,
+  "explanation": "657 × 37 = 24309.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:15:bb70b251dc75e0d1",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Use long multiplication to work out 132 × 23.",
+  "options": [
+   "3037",
+   "3168",
+   "2904",
+   "3036"
+  ],
+  "answer_index": 3,
+  "explanation": "132 × 23 = 3036.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:16:a2c4a5d418894837",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Use long multiplication to work out 693 × 12.",
+  "options": [
+   "7623",
+   "9009",
+   "8317",
+   "8316"
+  ],
+  "answer_index": 3,
+  "explanation": "693 × 12 = 8316.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:17:71f847ad360c79f5",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Use long multiplication to work out 317 × 33.",
+  "options": [
+   "10462",
+   "10461",
+   "10144",
+   "10778"
+  ],
+  "answer_index": 1,
+  "explanation": "317 × 33 = 10461.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:18:c1e47936e596b99c",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Use long multiplication to work out 124 × 39.",
+  "options": [
+   "4837",
+   "4836",
+   "4960",
+   "4712"
+  ],
+  "answer_index": 1,
+  "explanation": "124 × 39 = 4836.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:19:76fdb5f56fa0c602",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Use long multiplication to work out 387 × 39.",
+  "options": [
+   "15094",
+   "15093",
+   "14706",
+   "15480"
+  ],
+  "answer_index": 1,
+  "explanation": "387 × 39 = 15093.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:20:5a4b48a4c2d3f74e",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Use long multiplication to work out 405 × 12.",
+  "options": [
+   "5265",
+   "4861",
+   "4455",
+   "4860"
+  ],
+  "answer_index": 3,
+  "explanation": "405 × 12 = 4860.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:21:ce4252a145e7ce86",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Use long multiplication to work out 494 × 20.",
+  "options": [
+   "9880",
+   "9881",
+   "9386",
+   "10374"
+  ],
+  "answer_index": 0,
+  "explanation": "494 × 20 = 9880.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:22:afba2501b6e7c21d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Use long multiplication to work out 685 × 32.",
+  "options": [
+   "21235",
+   "21920",
+   "21921",
+   "22605"
+  ],
+  "answer_index": 1,
+  "explanation": "685 × 32 = 21920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:23:dc74bfcaf5a0d622",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Use long multiplication to work out 673 × 29.",
+  "options": [
+   "20190",
+   "19518",
+   "18844",
+   "19517"
+  ],
+  "answer_index": 3,
+  "explanation": "673 × 29 = 19517.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:24:4cb361a24eff1619",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Use long multiplication to work out 392 × 48.",
+  "options": [
+   "19208",
+   "18817",
+   "18424",
+   "18816"
+  ],
+  "answer_index": 3,
+  "explanation": "392 × 48 = 18816.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:25:8b93bbf3c0662563",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Use long multiplication to work out 525 × 19.",
+  "options": [
+   "9450",
+   "10500",
+   "9976",
+   "9975"
+  ],
+  "answer_index": 3,
+  "explanation": "525 × 19 = 9975.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:26:966e801663c6b97d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Use long multiplication to work out 698 × 44.",
+  "options": [
+   "31410",
+   "30713",
+   "30712",
+   "30014"
+  ],
+  "answer_index": 2,
+  "explanation": "698 × 44 = 30712.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:27:48d73d9b6ea60d6b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Use long multiplication to work out 473 × 16.",
+  "options": [
+   "7095",
+   "8041",
+   "7568",
+   "7569"
+  ],
+  "answer_index": 2,
+  "explanation": "473 × 16 = 7568.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:28:024286277e667a27",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Use long multiplication to work out 835 × 29.",
+  "options": [
+   "24216",
+   "23380",
+   "25050",
+   "24215"
+  ],
+  "answer_index": 3,
+  "explanation": "835 × 29 = 24215.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:29:35cd92dc87518c0d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Use long multiplication to work out 536 × 35.",
+  "options": [
+   "18760",
+   "18224",
+   "19296",
+   "18761"
+  ],
+  "answer_index": 0,
+  "explanation": "536 × 35 = 18760.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:30:c8bf073cdbb9e459",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Use long multiplication to work out 234 × 23.",
+  "options": [
+   "5382",
+   "5616",
+   "5383",
+   "5148"
+  ],
+  "answer_index": 0,
+  "explanation": "234 × 23 = 5382.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:31:bb8ce8a888a9da8d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Use long multiplication to work out 296 × 20.",
+  "options": [
+   "5624",
+   "5921",
+   "5920",
+   "6216"
+  ],
+  "answer_index": 2,
+  "explanation": "296 × 20 = 5920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:32:09c6049b590d1ca4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Use long multiplication to work out 786 × 28.",
+  "options": [
+   "22008",
+   "21222",
+   "22009",
+   "22794"
+  ],
+  "answer_index": 0,
+  "explanation": "786 × 28 = 22008.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:33:9469ebc705a3c183",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Use long multiplication to work out 604 × 18.",
+  "options": [
+   "10268",
+   "11476",
+   "10873",
+   "10872"
+  ],
+  "answer_index": 3,
+  "explanation": "604 × 18 = 10872.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:34:ec264249ba34a677",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Use long multiplication to work out 318 × 21.",
+  "options": [
+   "6678",
+   "6360",
+   "6996",
+   "6679"
+  ],
+  "answer_index": 0,
+  "explanation": "318 × 21 = 6678.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:35:319ec48b38f4b057",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Use long multiplication to work out 309 × 37.",
+  "options": [
+   "11124",
+   "11742",
+   "11434",
+   "11433"
+  ],
+  "answer_index": 3,
+  "explanation": "309 × 37 = 11433.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:36:c6bd4b04fe5ce835",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Use long multiplication to work out 154 × 28.",
+  "options": [
+   "4158",
+   "4313",
+   "4312",
+   "4466"
+  ],
+  "answer_index": 2,
+  "explanation": "154 × 28 = 4312.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:37:e99a862e61fbd786",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Use long multiplication to work out 169 × 21.",
+  "options": [
+   "3380",
+   "3718",
+   "3550",
+   "3549"
+  ],
+  "answer_index": 3,
+  "explanation": "169 × 21 = 3549.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:38:38b4fb70bcc3f21e",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Use long multiplication to work out 337 × 38.",
+  "options": [
+   "12806",
+   "12807",
+   "12469",
+   "13143"
+  ],
+  "answer_index": 0,
+  "explanation": "337 × 38 = 12806.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:39:0656664f2f4268fd",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Use long multiplication to work out 424 × 25.",
+  "options": [
+   "10600",
+   "11024",
+   "10601",
+   "10176"
+  ],
+  "answer_index": 0,
+  "explanation": "424 × 25 = 10600.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:40:8f54d5eb6a1423a8",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Use long multiplication to work out 846 × 37.",
+  "options": [
+   "30456",
+   "32148",
+   "31302",
+   "31303"
+  ],
+  "answer_index": 2,
+  "explanation": "846 × 37 = 31302.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:41:6b08db84489acf83",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Use long multiplication to work out 620 × 27.",
+  "options": [
+   "16120",
+   "17360",
+   "16741",
+   "16740"
+  ],
+  "answer_index": 3,
+  "explanation": "620 × 27 = 16740.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:42:444d31a3a0c55657",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Use long multiplication to work out 639 × 32.",
+  "options": [
+   "20449",
+   "19809",
+   "20448",
+   "21087"
+  ],
+  "answer_index": 2,
+  "explanation": "639 × 32 = 20448.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:43:26524940afa5c17f",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Use long multiplication to work out 565 × 23.",
+  "options": [
+   "13560",
+   "12995",
+   "12996",
+   "12430"
+  ],
+  "answer_index": 1,
+  "explanation": "565 × 23 = 12995.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:44:7af82685e76ee930",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Use long multiplication to work out 796 × 39.",
+  "options": [
+   "30248",
+   "31840",
+   "31045",
+   "31044"
+  ],
+  "answer_index": 3,
+  "explanation": "796 × 39 = 31044.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:45:2ad63d0ee4f3bf29",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Use long multiplication to work out 773 × 14.",
+  "options": [
+   "11595",
+   "10049",
+   "10822",
+   "10823"
+  ],
+  "answer_index": 2,
+  "explanation": "773 × 14 = 10822.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:46:3c70289e33610e07",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Use long multiplication to work out 724 × 21.",
+  "options": [
+   "15928",
+   "14480",
+   "15204",
+   "15205"
+  ],
+  "answer_index": 2,
+  "explanation": "724 × 21 = 15204.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:47:a428981fe6f3be10",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Use long multiplication to work out 294 × 46.",
+  "options": [
+   "13524",
+   "13230",
+   "13818",
+   "13525"
+  ],
+  "answer_index": 0,
+  "explanation": "294 × 46 = 13524.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:48:965bf49cd5dc50ee",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Use long multiplication to work out 396 × 28.",
+  "options": [
+   "11089",
+   "11088",
+   "11484",
+   "10692"
+  ],
+  "answer_index": 1,
+  "explanation": "396 × 28 = 11088.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:49:24e7e5952faf0a65",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Use long multiplication to work out 370 × 26.",
+  "options": [
+   "9990",
+   "9250",
+   "9620",
+   "9621"
+  ],
+  "answer_index": 2,
+  "explanation": "370 × 26 = 9620.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:50:29b93decb49a20d0",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Use long multiplication to work out 391 × 26.",
+  "options": [
+   "10166",
+   "10167",
+   "9775",
+   "10557"
+  ],
+  "answer_index": 0,
+  "explanation": "391 × 26 = 10166.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:51:147cbdc183ebd28c",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Use long multiplication to work out 330 × 40.",
+  "options": [
+   "13530",
+   "13200",
+   "13201",
+   "12870"
+  ],
+  "answer_index": 1,
+  "explanation": "330 × 40 = 13200.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:52:b298827f40429fe7",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Use long multiplication to work out 327 × 36.",
+  "options": [
+   "11773",
+   "11772",
+   "11445",
+   "12099"
+  ],
+  "answer_index": 1,
+  "explanation": "327 × 36 = 11772.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:53:7dc74b8d0667ae24",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Use long multiplication to work out 642 × 16.",
+  "options": [
+   "10914",
+   "10273",
+   "10272",
+   "9630"
+  ],
+  "answer_index": 2,
+  "explanation": "642 × 16 = 10272.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:54:2a4835971d17168f",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Use long multiplication to work out 822 × 20.",
+  "options": [
+   "17262",
+   "16441",
+   "15618",
+   "16440"
+  ],
+  "answer_index": 3,
+  "explanation": "822 × 20 = 16440.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:55:5894b04589d010eb",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Use long multiplication to work out 272 × 23.",
+  "options": [
+   "6256",
+   "6257",
+   "6528",
+   "5984"
+  ],
+  "answer_index": 0,
+  "explanation": "272 × 23 = 6256.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:56:2bea5d44ddf61c52",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Use long multiplication to work out 386 × 12.",
+  "options": [
+   "4246",
+   "5018",
+   "4633",
+   "4632"
+  ],
+  "answer_index": 3,
+  "explanation": "386 × 12 = 4632.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:57:1c6d9a106518451b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Use long multiplication to work out 578 × 47.",
+  "options": [
+   "27167",
+   "26588",
+   "27744",
+   "27166"
+  ],
+  "answer_index": 3,
+  "explanation": "578 × 47 = 27166.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:58:2fb6a013a223f82d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Use long multiplication to work out 305 × 17.",
+  "options": [
+   "5185",
+   "5186",
+   "4880",
+   "5490"
+  ],
+  "answer_index": 0,
+  "explanation": "305 × 17 = 5185.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:59:584f9844d9693f29",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Use long multiplication to work out 624 × 39.",
+  "options": [
+   "24336",
+   "24337",
+   "23712",
+   "24960"
+  ],
+  "answer_index": 0,
+  "explanation": "624 × 39 = 24336.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:60:38bcc869b1671930",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Use long multiplication to work out 162 × 37.",
+  "options": [
+   "5832",
+   "5994",
+   "5995",
+   "6156"
+  ],
+  "answer_index": 1,
+  "explanation": "162 × 37 = 5994.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:61:fbd3cbb0c56e5f70",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Use long multiplication to work out 677 × 13.",
+  "options": [
+   "8124",
+   "8802",
+   "8801",
+   "9478"
+  ],
+  "answer_index": 2,
+  "explanation": "677 × 13 = 8801.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:62:3466d5e9e2e0957c",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Use long multiplication to work out 638 × 49.",
+  "options": [
+   "31263",
+   "31900",
+   "30624",
+   "31262"
+  ],
+  "answer_index": 3,
+  "explanation": "638 × 49 = 31262.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:63:677762980fc135b2",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Use long multiplication to work out 759 × 44.",
+  "options": [
+   "33397",
+   "34155",
+   "32637",
+   "33396"
+  ],
+  "answer_index": 3,
+  "explanation": "759 × 44 = 33396.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:64:25fa7dbb95f3a476",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Use long multiplication to work out 560 × 24.",
+  "options": [
+   "14000",
+   "13440",
+   "13441",
+   "12880"
+  ],
+  "answer_index": 1,
+  "explanation": "560 × 24 = 13440.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:65:a78d517a8b75ca20",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Use long multiplication to work out 225 × 13.",
+  "options": [
+   "2700",
+   "2926",
+   "2925",
+   "3150"
+  ],
+  "answer_index": 2,
+  "explanation": "225 × 13 = 2925.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:66:34a4cef9a60414a6",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Use long multiplication to work out 728 × 21.",
+  "options": [
+   "15289",
+   "15288",
+   "14560",
+   "16016"
+  ],
+  "answer_index": 1,
+  "explanation": "728 × 21 = 15288.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:67:35e50184c8bfd285",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Use long multiplication to work out 208 × 48.",
+  "options": [
+   "10192",
+   "9985",
+   "9776",
+   "9984"
+  ],
+  "answer_index": 3,
+  "explanation": "208 × 48 = 9984.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:68:bdce0f258d9acbb6",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Use long multiplication to work out 131 × 42.",
+  "options": [
+   "5633",
+   "5502",
+   "5371",
+   "5503"
+  ],
+  "answer_index": 1,
+  "explanation": "131 × 42 = 5502.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:69:2b60f401ac8010d4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Use long multiplication to work out 718 × 30.",
+  "options": [
+   "21540",
+   "21541",
+   "22258",
+   "20822"
+  ],
+  "answer_index": 0,
+  "explanation": "718 × 30 = 21540.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:70:15d2df5798067130",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Use long multiplication to work out 305 × 15.",
+  "options": [
+   "4576",
+   "4575",
+   "4880",
+   "4270"
+  ],
+  "answer_index": 1,
+  "explanation": "305 × 15 = 4575.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:71:bea825cfd4165f93",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Use long multiplication to work out 662 × 32.",
+  "options": [
+   "21185",
+   "20522",
+   "21184",
+   "21846"
+  ],
+  "answer_index": 2,
+  "explanation": "662 × 32 = 21184.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:72:2204b2062d29653a",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Use long multiplication to work out 591 × 24.",
+  "options": [
+   "14185",
+   "14184",
+   "14775",
+   "13593"
+  ],
+  "answer_index": 1,
+  "explanation": "591 × 24 = 14184.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:73:e33e50f46e31a932",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Use long multiplication to work out 696 × 42.",
+  "options": [
+   "29232",
+   "29233",
+   "28536",
+   "29928"
+  ],
+  "answer_index": 0,
+  "explanation": "696 × 42 = 29232.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:74:3ee33354be7eeb44",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Use long multiplication to work out 173 × 44.",
+  "options": [
+   "7613",
+   "7612",
+   "7785",
+   "7439"
+  ],
+  "answer_index": 1,
+  "explanation": "173 × 44 = 7612.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:75:f59ec3b6cdf5e294",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Use long multiplication to work out 516 × 31.",
+  "options": [
+   "16512",
+   "15480",
+   "15996",
+   "15997"
+  ],
+  "answer_index": 2,
+  "explanation": "516 × 31 = 15996.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:76:f0b98c5b32228c19",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Use long multiplication to work out 360 × 22.",
+  "options": [
+   "7560",
+   "7921",
+   "8280",
+   "7920"
+  ],
+  "answer_index": 3,
+  "explanation": "360 × 22 = 7920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:77:a443f0e688c103a5",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Use long multiplication to work out 815 × 33.",
+  "options": [
+   "26080",
+   "26896",
+   "26895",
+   "27710"
+  ],
+  "answer_index": 2,
+  "explanation": "815 × 33 = 26895.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:78:16e606395bfebc2d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Use long multiplication to work out 735 × 13.",
+  "options": [
+   "8820",
+   "10290",
+   "9555",
+   "9556"
+  ],
+  "answer_index": 2,
+  "explanation": "735 × 13 = 9555.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:79:50a7ef34f10987f2",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Use long multiplication to work out 865 × 13.",
+  "options": [
+   "11245",
+   "10380",
+   "11246",
+   "12110"
+  ],
+  "answer_index": 0,
+  "explanation": "865 × 13 = 11245.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:80:1329d61236ab85a8",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Use long multiplication to work out 385 × 33.",
+  "options": [
+   "12320",
+   "12706",
+   "12705",
+   "13090"
+  ],
+  "answer_index": 2,
+  "explanation": "385 × 33 = 12705.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:81:1aa55a18d56a41c3",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Use long multiplication to work out 672 × 19.",
+  "options": [
+   "12096",
+   "13440",
+   "12769",
+   "12768"
+  ],
+  "answer_index": 3,
+  "explanation": "672 × 19 = 12768.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:82:03ecf5f9addb7134",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Use long multiplication to work out 508 × 40.",
+  "options": [
+   "20321",
+   "19812",
+   "20828",
+   "20320"
+  ],
+  "answer_index": 3,
+  "explanation": "508 × 40 = 20320.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:83:d1408203c10277aa",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Use long multiplication to work out 140 × 18.",
+  "options": [
+   "2521",
+   "2520",
+   "2380",
+   "2660"
+  ],
+  "answer_index": 1,
+  "explanation": "140 × 18 = 2520.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:84:9a5b5b277b48168c",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Use long multiplication to work out 823 × 37.",
+  "options": [
+   "30452",
+   "31274",
+   "29628",
+   "30451"
+  ],
+  "answer_index": 3,
+  "explanation": "823 × 37 = 30451.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:85:80328e29bfbc5cb4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Use long multiplication to work out 415 × 37.",
+  "options": [
+   "15770",
+   "14940",
+   "15355",
+   "15356"
+  ],
+  "answer_index": 2,
+  "explanation": "415 × 37 = 15355.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:86:3694bca6b2c0da62",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Use long multiplication to work out 206 × 33.",
+  "options": [
+   "6799",
+   "7004",
+   "6592",
+   "6798"
+  ],
+  "answer_index": 3,
+  "explanation": "206 × 33 = 6798.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:87:e0a879b23d0e62ca",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Use long multiplication to work out 768 × 38.",
+  "options": [
+   "28416",
+   "29185",
+   "29952",
+   "29184"
+  ],
+  "answer_index": 3,
+  "explanation": "768 × 38 = 29184.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:88:a135d5423758c4db",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Use long multiplication to work out 284 × 20.",
+  "options": [
+   "5681",
+   "5964",
+   "5396",
+   "5680"
+  ],
+  "answer_index": 3,
+  "explanation": "284 × 20 = 5680.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:89:4c5655352f9770ec",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Use long multiplication to work out 377 × 18.",
+  "options": [
+   "7163",
+   "6409",
+   "6787",
+   "6786"
+  ],
+  "answer_index": 3,
+  "explanation": "377 × 18 = 6786.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:90:3858827effc63bb7",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Use long multiplication to work out 519 × 14.",
+  "options": [
+   "7267",
+   "6747",
+   "7785",
+   "7266"
+  ],
+  "answer_index": 3,
+  "explanation": "519 × 14 = 7266.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:91:5d2f7fb163f0f520",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Use long multiplication to work out 175 × 34.",
+  "options": [
+   "5951",
+   "5950",
+   "6125",
+   "5775"
+  ],
+  "answer_index": 1,
+  "explanation": "175 × 34 = 5950.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:92:3c21de0e0dbb6bf2",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Use long multiplication to work out 340 × 22.",
+  "options": [
+   "7820",
+   "7481",
+   "7480",
+   "7140"
+  ],
+  "answer_index": 2,
+  "explanation": "340 × 22 = 7480.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:93:09d329cfea8dfb6f",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Use long multiplication to work out 257 × 31.",
+  "options": [
+   "8224",
+   "7967",
+   "7968",
+   "7710"
+  ],
+  "answer_index": 1,
+  "explanation": "257 × 31 = 7967.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:94:c1a425e28bec0ff6",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Use long multiplication to work out 761 × 34.",
+  "options": [
+   "25875",
+   "26635",
+   "25113",
+   "25874"
+  ],
+  "answer_index": 3,
+  "explanation": "761 × 34 = 25874.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:95:0d92a50072d66ca1",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Use long multiplication to work out 327 × 23.",
+  "options": [
+   "7848",
+   "7522",
+   "7194",
+   "7521"
+  ],
+  "answer_index": 3,
+  "explanation": "327 × 23 = 7521.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:96:a5ac54e6634af4ce",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Use long multiplication to work out 204 × 23.",
+  "options": [
+   "4488",
+   "4896",
+   "4692",
+   "4693"
+  ],
+  "answer_index": 2,
+  "explanation": "204 × 23 = 4692.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:97:2171ef92afcd793e",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Use long multiplication to work out 660 × 40.",
+  "options": [
+   "27060",
+   "25740",
+   "26401",
+   "26400"
+  ],
+  "answer_index": 3,
+  "explanation": "660 × 40 = 26400.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:98:7e9e393c47978ec2",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Use long multiplication to work out 424 × 48.",
+  "options": [
+   "20776",
+   "20352",
+   "20353",
+   "19928"
+  ],
+  "answer_index": 1,
+  "explanation": "424 × 48 = 20352.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:99:524d273b8ad013d0",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Use long multiplication to work out 143 × 24.",
+  "options": [
+   "3289",
+   "3433",
+   "3575",
+   "3432"
+  ],
+  "answer_index": 3,
+  "explanation": "143 × 24 = 3432.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:100:e7892ad7da72c17b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Use long multiplication to work out 810 × 32.",
+  "options": [
+   "25110",
+   "25921",
+   "25920",
+   "26730"
+  ],
+  "answer_index": 2,
+  "explanation": "810 × 32 = 25920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:101:00c11e05ff920440",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Use long multiplication to work out 674 × 27.",
+  "options": [
+   "18199",
+   "18872",
+   "17524",
+   "18198"
+  ],
+  "answer_index": 3,
+  "explanation": "674 × 27 = 18198.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:102:0e587d309fc36640",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Use long multiplication to work out 172 × 21.",
+  "options": [
+   "3784",
+   "3612",
+   "3613",
+   "3440"
+  ],
+  "answer_index": 1,
+  "explanation": "172 × 21 = 3612.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:103:1604e2163f2618b4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Use long multiplication to work out 257 × 48.",
+  "options": [
+   "12337",
+   "12079",
+   "12593",
+   "12336"
+  ],
+  "answer_index": 3,
+  "explanation": "257 × 48 = 12336.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:104:4535272cf427f386",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Use long multiplication to work out 413 × 36.",
+  "options": [
+   "14455",
+   "14869",
+   "14868",
+   "15281"
+  ],
+  "answer_index": 2,
+  "explanation": "413 × 36 = 14868.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:105:b0c64ea7d513d78a",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Use long multiplication to work out 687 × 23.",
+  "options": [
+   "15802",
+   "15114",
+   "15801",
+   "16488"
+  ],
+  "answer_index": 2,
+  "explanation": "687 × 23 = 15801.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:106:be1002b928aa85a7",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Use long multiplication to work out 881 × 30.",
+  "options": [
+   "26431",
+   "27311",
+   "25549",
+   "26430"
+  ],
+  "answer_index": 3,
+  "explanation": "881 × 30 = 26430.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:107:67490f4bd3aa5309",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Use long multiplication to work out 336 × 46.",
+  "options": [
+   "15792",
+   "15120",
+   "15456",
+   "15457"
+  ],
+  "answer_index": 2,
+  "explanation": "336 × 46 = 15456.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:108:164e041ab64ccece",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Use long multiplication to work out 692 × 29.",
+  "options": [
+   "20069",
+   "19376",
+   "20068",
+   "20760"
+  ],
+  "answer_index": 2,
+  "explanation": "692 × 29 = 20068.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:109:65d4cb4023f8f45d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Use long multiplication to work out 522 × 34.",
+  "options": [
+   "17749",
+   "18270",
+   "17748",
+   "17226"
+  ],
+  "answer_index": 2,
+  "explanation": "522 × 34 = 17748.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:110:4ec7cd5b08a786bc",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Use long multiplication to work out 443 × 21.",
+  "options": [
+   "9303",
+   "9304",
+   "8860",
+   "9746"
+  ],
+  "answer_index": 0,
+  "explanation": "443 × 21 = 9303.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:111:e1d7d5dc995ff24c",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Use long multiplication to work out 289 × 28.",
+  "options": [
+   "7803",
+   "8381",
+   "8092",
+   "8093"
+  ],
+  "answer_index": 2,
+  "explanation": "289 × 28 = 8092.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:112:d6f10d272dd21bd3",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Use long multiplication to work out 222 × 27.",
+  "options": [
+   "5994",
+   "6216",
+   "5995",
+   "5772"
+  ],
+  "answer_index": 0,
+  "explanation": "222 × 27 = 5994.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:113:8bfcfa543afc5bd2",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Use long multiplication to work out 470 × 30.",
+  "options": [
+   "14101",
+   "14570",
+   "14100",
+   "13630"
+  ],
+  "answer_index": 2,
+  "explanation": "470 × 30 = 14100.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:114:4bd651f159e9281b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Use long multiplication to work out 410 × 38.",
+  "options": [
+   "15170",
+   "15990",
+   "15580",
+   "15581"
+  ],
+  "answer_index": 2,
+  "explanation": "410 × 38 = 15580.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:115:35a9365911c3b17d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Use long multiplication to work out 605 × 17.",
+  "options": [
+   "10890",
+   "9680",
+   "10285",
+   "10286"
+  ],
+  "answer_index": 2,
+  "explanation": "605 × 17 = 10285.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:116:d109a24a7de20d33",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Use long multiplication to work out 545 × 43.",
+  "options": [
+   "23980",
+   "23435",
+   "23436",
+   "22890"
+  ],
+  "answer_index": 1,
+  "explanation": "545 × 43 = 23435.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:117:96b00051d7e5ad7d",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Use long multiplication to work out 206 × 21.",
+  "options": [
+   "4326",
+   "4327",
+   "4532",
+   "4120"
+  ],
+  "answer_index": 0,
+  "explanation": "206 × 21 = 4326.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:118:62fafbc4a9469528",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Use long multiplication to work out 799 × 37.",
+  "options": [
+   "29563",
+   "30362",
+   "29564",
+   "28764"
+  ],
+  "answer_index": 0,
+  "explanation": "799 × 37 = 29563.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:119:bb8c1a93c7fc7cf3",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Use long multiplication to work out 134 × 29.",
+  "options": [
+   "4020",
+   "3887",
+   "3886",
+   "3752"
+  ],
+  "answer_index": 2,
+  "explanation": "134 × 29 = 3886.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:120:a2748d9d796d0af4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Use long multiplication to work out 365 × 47.",
+  "options": [
+   "17156",
+   "17520",
+   "17155",
+   "16790"
+  ],
+  "answer_index": 2,
+  "explanation": "365 × 47 = 17155.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:121:d47bac137f48f1aa",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Use long multiplication to work out 252 × 19.",
+  "options": [
+   "4788",
+   "4789",
+   "5040",
+   "4536"
+  ],
+  "answer_index": 0,
+  "explanation": "252 × 19 = 4788.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:122:049a508143eb73a5",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Use long multiplication to work out 444 × 34.",
+  "options": [
+   "15096",
+   "15097",
+   "15540",
+   "14652"
+  ],
+  "answer_index": 0,
+  "explanation": "444 × 34 = 15096.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:123:5f8c54a5c4685c94",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Use long multiplication to work out 324 × 42.",
+  "options": [
+   "13932",
+   "13609",
+   "13608",
+   "13284"
+  ],
+  "answer_index": 2,
+  "explanation": "324 × 42 = 13608.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:124:cb1e76597e28b0af",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Use long multiplication to work out 193 × 43.",
+  "options": [
+   "8106",
+   "8492",
+   "8300",
+   "8299"
+  ],
+  "answer_index": 3,
+  "explanation": "193 × 43 = 8299.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:125:ed94c2c325e36125",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Use long multiplication to work out 769 × 45.",
+  "options": [
+   "34605",
+   "35374",
+   "34606",
+   "33836"
+  ],
+  "answer_index": 0,
+  "explanation": "769 × 45 = 34605.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:126:fa77a35439b414f4",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Use long multiplication to work out 841 × 48.",
+  "options": [
+   "39527",
+   "40368",
+   "41209",
+   "40369"
+  ],
+  "answer_index": 1,
+  "explanation": "841 × 48 = 40368.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:127:ee4c62d4ed7acc4a",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Use long multiplication to work out 334 × 41.",
+  "options": [
+   "14028",
+   "13694",
+   "13695",
+   "13360"
+  ],
+  "answer_index": 1,
+  "explanation": "334 × 41 = 13694.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:128:af46f28e1c2038f5",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Use long multiplication to work out 765 × 49.",
+  "options": [
+   "36720",
+   "38250",
+   "37486",
+   "37485"
+  ],
+  "answer_index": 3,
+  "explanation": "765 × 49 = 37485.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:129:2cbe8c0e60ccc456",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Use long multiplication to work out 695 × 28.",
+  "options": [
+   "19460",
+   "20155",
+   "19461",
+   "18765"
+  ],
+  "answer_index": 0,
+  "explanation": "695 × 28 = 19460.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:130:3db3da90fda84f13",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Use long multiplication to work out 170 × 20.",
+  "options": [
+   "3230",
+   "3570",
+   "3400",
+   "3401"
+  ],
+  "answer_index": 2,
+  "explanation": "170 × 20 = 3400.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:131:f4f045d24a3ae36f",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Use long multiplication to work out 137 × 24.",
+  "options": [
+   "3425",
+   "3151",
+   "3288",
+   "3289"
+  ],
+  "answer_index": 2,
+  "explanation": "137 × 24 = 3288.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:132:3026df709ac703e0",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Use long multiplication to work out 202 × 25.",
+  "options": [
+   "5051",
+   "4848",
+   "5252",
+   "5050"
+  ],
+  "answer_index": 3,
+  "explanation": "202 × 25 = 5050.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:133:ec188e7c22ca9471",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Use long multiplication to work out 289 × 38.",
+  "options": [
+   "10982",
+   "10693",
+   "11271",
+   "10983"
+  ],
+  "answer_index": 0,
+  "explanation": "289 × 38 = 10982.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:134:5fba12c6f54b10de",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Use long multiplication to work out 298 × 40.",
+  "options": [
+   "11921",
+   "12218",
+   "11920",
+   "11622"
+  ],
+  "answer_index": 2,
+  "explanation": "298 × 40 = 11920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:135:bf5137f19f6bcd18",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Use long multiplication to work out 512 × 36.",
+  "options": [
+   "18433",
+   "18944",
+   "18432",
+   "17920"
+  ],
+  "answer_index": 2,
+  "explanation": "512 × 36 = 18432.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:136:ec93207b53d30530",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Use long multiplication to work out 769 × 42.",
+  "options": [
+   "32298",
+   "33067",
+   "32299",
+   "31529"
+  ],
+  "answer_index": 0,
+  "explanation": "769 × 42 = 32298.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:137:f2617f870eae5e36",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Use long multiplication to work out 415 × 37.",
+  "options": [
+   "14940",
+   "15355",
+   "15356",
+   "15770"
+  ],
+  "answer_index": 1,
+  "explanation": "415 × 37 = 15355.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:138:135a51fc6ecac04b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Use long multiplication to work out 734 × 34.",
+  "options": [
+   "25690",
+   "24956",
+   "24957",
+   "24222"
+  ],
+  "answer_index": 1,
+  "explanation": "734 × 34 = 24956.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:139:865d2499da1153cd",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Use long multiplication to work out 315 × 49.",
+  "options": [
+   "15436",
+   "15750",
+   "15435",
+   "15120"
+  ],
+  "answer_index": 2,
+  "explanation": "315 × 49 = 15435.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:140:21d88034be3765f6",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Use long multiplication to work out 450 × 43.",
+  "options": [
+   "19350",
+   "19351",
+   "18900",
+   "19800"
+  ],
+  "answer_index": 0,
+  "explanation": "450 × 43 = 19350.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:141:e49807dc3d929f78",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Use long multiplication to work out 529 × 47.",
+  "options": [
+   "24863",
+   "24864",
+   "25392",
+   "24334"
+  ],
+  "answer_index": 0,
+  "explanation": "529 × 47 = 24863.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:142:e5296f512f78d4e9",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Use long multiplication to work out 385 × 37.",
+  "options": [
+   "14246",
+   "13860",
+   "14630",
+   "14245"
+  ],
+  "answer_index": 3,
+  "explanation": "385 × 37 = 14245.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:143:7baa253dbed8fed7",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Use long multiplication to work out 406 × 22.",
+  "options": [
+   "8933",
+   "8932",
+   "8526",
+   "9338"
+  ],
+  "answer_index": 1,
+  "explanation": "406 × 22 = 8932.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:144:7146f7cf1d50e849",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Use long multiplication to work out 212 × 12.",
+  "options": [
+   "2545",
+   "2544",
+   "2332",
+   "2756"
+  ],
+  "answer_index": 1,
+  "explanation": "212 × 12 = 2544.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:145:82866e6b47f83dc0",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Use long multiplication to work out 441 × 38.",
+  "options": [
+   "16317",
+   "16759",
+   "16758",
+   "17199"
+  ],
+  "answer_index": 2,
+  "explanation": "441 × 38 = 16758.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:146:238eefad33188e75",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Use long multiplication to work out 670 × 34.",
+  "options": [
+   "22110",
+   "22781",
+   "23450",
+   "22780"
+  ],
+  "answer_index": 3,
+  "explanation": "670 × 34 = 22780.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:147:9e3d0f390a37008b",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Use long multiplication to work out 186 × 41.",
+  "options": [
+   "7440",
+   "7626",
+   "7812",
+   "7627"
+  ],
+  "answer_index": 1,
+  "explanation": "186 × 41 = 7626.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:148:4dec7bf05dbc9a92",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Use long multiplication to work out 831 × 28.",
+  "options": [
+   "23269",
+   "22437",
+   "24099",
+   "23268"
+  ],
+  "answer_index": 3,
+  "explanation": "831 × 28 = 23268.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:149:57fed9c337ba6e96",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Use long multiplication to work out 374 × 21.",
+  "options": [
+   "7854",
+   "8228",
+   "7855",
+   "7480"
+  ],
+  "answer_index": 0,
+  "explanation": "374 × 21 = 7854.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:long_mult:150:1184d5d446eb4a7e",
+  "topic_id": "MA-B03",
+  "qtype": "long_mult",
+  "level": 3,
+  "generator": "reg:long_mult",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Use long multiplication to work out 123 × 27.",
+  "options": [
+   "3198",
+   "3322",
+   "3444",
+   "3321"
+  ],
+  "answer_index": 3,
+  "explanation": "123 × 27 = 3321.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

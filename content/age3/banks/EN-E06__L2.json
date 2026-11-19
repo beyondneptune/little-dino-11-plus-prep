@@ -1,0 +1,5282 @@
+[
+ {
+  "id": "en:contraction:2:de06d98d0ac6e83f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "What is the correct short form (contraction) of “did not”?",
+  "options": [
+   "didnt",
+   "didnot",
+   "didn't",
+   "did'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“did not” shortens to “didn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:779957cd0f46c5ef",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "thereis",
+   "theres",
+   "ther'es",
+   "there's"
+  ],
+  "answer_index": 3,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ae996c2eb4a0797f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What is the correct short form (contraction) of “cannot”?",
+  "options": [
+   "cant",
+   "ca'nt",
+   "cannot",
+   "can't"
+  ],
+  "answer_index": 3,
+  "explanation": "“cannot” shortens to “can't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ae9c05109659f0b2",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "havent",
+   "havenot",
+   "have'nt",
+   "haven't"
+  ],
+  "answer_index": 3,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:8ebd86a4e72e1077",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "ther'es",
+   "theres",
+   "there's",
+   "thereis"
+  ],
+  "answer_index": 2,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:a620e1683fe345ac",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "neednt",
+   "neednot",
+   "needn't",
+   "need'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:257940ce12aec4f5",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What is the correct short form (contraction) of “had not”?",
+  "options": [
+   "hadnt",
+   "hadnot",
+   "hadn't",
+   "had'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“had not” shortens to “hadn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:7349f085ea2ac657",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What is the correct short form (contraction) of “had not”?",
+  "options": [
+   "had'nt",
+   "hadnt",
+   "hadnot",
+   "hadn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“had not” shortens to “hadn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:61985e2b46593c4f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What is the correct short form (contraction) of “were not”?",
+  "options": [
+   "werenot",
+   "werent",
+   "were'nt",
+   "weren't"
+  ],
+  "answer_index": 3,
+  "explanation": "“were not” shortens to “weren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:828dbe550a8ec4b7",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "ther'es",
+   "thereis",
+   "theres",
+   "there's"
+  ],
+  "answer_index": 3,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ec9e25b9ee54cafe",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What is the correct short form (contraction) of “let us”?",
+  "options": [
+   "let's",
+   "lets",
+   "letus",
+   "le'ts"
+  ],
+  "answer_index": 0,
+  "explanation": "“let us” shortens to “let's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:db8d16469d2b0810",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What is the correct short form (contraction) of “must not”?",
+  "options": [
+   "mustnot",
+   "mustn't",
+   "must'nt",
+   "mustnt"
+  ],
+  "answer_index": 1,
+  "explanation": "“must not” shortens to “mustn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1f5fcc1b4d82b695",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What is the correct short form (contraction) of “cannot”?",
+  "options": [
+   "ca'nt",
+   "can't",
+   "cannot",
+   "cant"
+  ],
+  "answer_index": 1,
+  "explanation": "“cannot” shortens to “can't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:efae058bb5391133",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "havenot",
+   "have'nt",
+   "havent",
+   "haven't"
+  ],
+  "answer_index": 3,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:cbd04eff7b914ae6",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What is the correct short form (contraction) of “it is”?",
+  "options": [
+   "itis",
+   "it's",
+   "its",
+   "i'ts"
+  ],
+  "answer_index": 1,
+  "explanation": "“it is” shortens to “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ad4cba70e1b1de8f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What is the correct short form (contraction) of “he is”?",
+  "options": [
+   "hes",
+   "heis",
+   "h'es",
+   "he's"
+  ],
+  "answer_index": 3,
+  "explanation": "“he is” shortens to “he's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ee16d62dd12a57e9",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "ther'es",
+   "thereis",
+   "there's",
+   "theres"
+  ],
+  "answer_index": 2,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1ee9697ebbb4ef7c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What is the correct short form (contraction) of “he is”?",
+  "options": [
+   "he's",
+   "heis",
+   "h'es",
+   "hes"
+  ],
+  "answer_index": 0,
+  "explanation": "“he is” shortens to “he's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1412f325c4584a4f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What is the correct short form (contraction) of “will not”?",
+  "options": [
+   "wo'nt",
+   "willnot",
+   "won't",
+   "wont"
+  ],
+  "answer_index": 2,
+  "explanation": "“will not” shortens to “won't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:4a3d874ccf0f4c82",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What is the correct short form (contraction) of “he is”?",
+  "options": [
+   "h'es",
+   "hes",
+   "heis",
+   "he's"
+  ],
+  "answer_index": 3,
+  "explanation": "“he is” shortens to “he's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:312a2e3aca95a99e",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldn't",
+   "should'nt",
+   "shouldnt",
+   "shouldnot"
+  ],
+  "answer_index": 0,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:726153f7b1e0faf4",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What is the correct short form (contraction) of “were not”?",
+  "options": [
+   "were'nt",
+   "werenot",
+   "weren't",
+   "werent"
+  ],
+  "answer_index": 2,
+  "explanation": "“were not” shortens to “weren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:2aec5f5a4eb08ce1",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "needn't",
+   "neednt",
+   "need'nt",
+   "neednot"
+  ],
+  "answer_index": 0,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:925fe75e37119411",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "haven't",
+   "havenot",
+   "have'nt",
+   "havent"
+  ],
+  "answer_index": 0,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:b8a50a4c8be04648",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What is the correct short form (contraction) of “are not”?",
+  "options": [
+   "arent",
+   "are'nt",
+   "arenot",
+   "aren't"
+  ],
+  "answer_index": 3,
+  "explanation": "“are not” shortens to “aren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1f6ecefbbe2a87ff",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What is the correct short form (contraction) of “it is”?",
+  "options": [
+   "its",
+   "it's",
+   "i'ts",
+   "itis"
+  ],
+  "answer_index": 1,
+  "explanation": "“it is” shortens to “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:eb31185474bbc056",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "whos",
+   "who's",
+   "whois",
+   "wh'os"
+  ],
+  "answer_index": 1,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:8cbd7d2b9d471abb",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "there's",
+   "theres",
+   "thereis",
+   "ther'es"
+  ],
+  "answer_index": 0,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:9923d4ac95ec7c89",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What is the correct short form (contraction) of “she is”?",
+  "options": [
+   "sh'es",
+   "shes",
+   "she's",
+   "sheis"
+  ],
+  "answer_index": 2,
+  "explanation": "“she is” shortens to “she's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1e07e383e77e09fc",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What is the correct short form (contraction) of “do not”?",
+  "options": [
+   "dont",
+   "don't",
+   "donot",
+   "do'nt"
+  ],
+  "answer_index": 1,
+  "explanation": "“do not” shortens to “don't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:c045dfe564dc6ff6",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What is the correct short form (contraction) of “would not”?",
+  "options": [
+   "would'nt",
+   "wouldnot",
+   "wouldn't",
+   "wouldnt"
+  ],
+  "answer_index": 2,
+  "explanation": "“would not” shortens to “wouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:c94bbf6e9f95688b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What is the correct short form (contraction) of “it is”?",
+  "options": [
+   "itis",
+   "its",
+   "i'ts",
+   "it's"
+  ],
+  "answer_index": 3,
+  "explanation": "“it is” shortens to “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:f7e971b850aff959",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What is the correct short form (contraction) of “did not”?",
+  "options": [
+   "didnot",
+   "did'nt",
+   "didnt",
+   "didn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“did not” shortens to “didn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:dd3ac1631481eeb2",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "wasnt",
+   "was'nt",
+   "wasnot",
+   "wasn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:b352591f0ef9d7e4",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What is the correct short form (contraction) of “are not”?",
+  "options": [
+   "arent",
+   "are'nt",
+   "aren't",
+   "arenot"
+  ],
+  "answer_index": 2,
+  "explanation": "“are not” shortens to “aren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:44dc0a488dce9085",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What is the correct short form (contraction) of “let us”?",
+  "options": [
+   "let's",
+   "le'ts",
+   "letus",
+   "lets"
+  ],
+  "answer_index": 0,
+  "explanation": "“let us” shortens to “let's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:7a7e78306f23f088",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldn't",
+   "shouldnot",
+   "should'nt",
+   "shouldnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1926f63d7122ffab",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "whos",
+   "wh'os",
+   "who's",
+   "whois"
+  ],
+  "answer_index": 2,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:d07c388f52fc5552",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "have'nt",
+   "havenot",
+   "havent",
+   "haven't"
+  ],
+  "answer_index": 3,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:f8650412e4f7da9a",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "neednot",
+   "needn't",
+   "need'nt",
+   "neednt"
+  ],
+  "answer_index": 1,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:48eebf1684ba2046",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What is the correct short form (contraction) of “do not”?",
+  "options": [
+   "dont",
+   "donot",
+   "do'nt",
+   "don't"
+  ],
+  "answer_index": 3,
+  "explanation": "“do not” shortens to “don't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:e5a39353264198e3",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "have'nt",
+   "havent",
+   "havenot",
+   "haven't"
+  ],
+  "answer_index": 3,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:2da04776e0c57442",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isn't",
+   "is'nt",
+   "isnot",
+   "isnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:6ceeba06be024e77",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "was'nt",
+   "wasn't",
+   "wasnt",
+   "wasnot"
+  ],
+  "answer_index": 1,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:223bf74c90fa40a4",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What is the correct short form (contraction) of “will not”?",
+  "options": [
+   "wo'nt",
+   "wont",
+   "willnot",
+   "won't"
+  ],
+  "answer_index": 3,
+  "explanation": "“will not” shortens to “won't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:36aad6bf092ab961",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What is the correct short form (contraction) of “had not”?",
+  "options": [
+   "hadnt",
+   "had'nt",
+   "hadnot",
+   "hadn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“had not” shortens to “hadn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:2638ec2c57f3b07c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What is the correct short form (contraction) of “could not”?",
+  "options": [
+   "could'nt",
+   "couldnt",
+   "couldn't",
+   "couldnot"
+  ],
+  "answer_index": 2,
+  "explanation": "“could not” shortens to “couldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:86b2e6711955a8d0",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What is the correct short form (contraction) of “that is”?",
+  "options": [
+   "thatis",
+   "that's",
+   "thats",
+   "tha'ts"
+  ],
+  "answer_index": 1,
+  "explanation": "“that is” shortens to “that's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:6215aaa1f268a234",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isnt",
+   "isn't",
+   "is'nt",
+   "isnot"
+  ],
+  "answer_index": 1,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:0087e47e3da2239b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What is the correct short form (contraction) of “will not”?",
+  "options": [
+   "wont",
+   "wo'nt",
+   "willnot",
+   "won't"
+  ],
+  "answer_index": 3,
+  "explanation": "“will not” shortens to “won't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:0498da3bc7efddd8",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What is the correct short form (contraction) of “it is”?",
+  "options": [
+   "it's",
+   "i'ts",
+   "its",
+   "itis"
+  ],
+  "answer_index": 0,
+  "explanation": "“it is” shortens to “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:62f839c2f76628d8",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldnt",
+   "should'nt",
+   "shouldn't",
+   "shouldnot"
+  ],
+  "answer_index": 2,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:0991f7753616f84f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What is the correct short form (contraction) of “do not”?",
+  "options": [
+   "don't",
+   "do'nt",
+   "dont",
+   "donot"
+  ],
+  "answer_index": 0,
+  "explanation": "“do not” shortens to “don't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:defe4c349fd761bf",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What is the correct short form (contraction) of “she is”?",
+  "options": [
+   "she's",
+   "shes",
+   "sh'es",
+   "sheis"
+  ],
+  "answer_index": 0,
+  "explanation": "“she is” shortens to “she's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:f483831d80b11958",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What is the correct short form (contraction) of “could not”?",
+  "options": [
+   "couldnt",
+   "couldnot",
+   "couldn't",
+   "could'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“could not” shortens to “couldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:7ac73f75f374350b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "neednot",
+   "neednt",
+   "need'nt",
+   "needn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:f64507140e454db7",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "What is the correct short form (contraction) of “will not”?",
+  "options": [
+   "willnot",
+   "wont",
+   "wo'nt",
+   "won't"
+  ],
+  "answer_index": 3,
+  "explanation": "“will not” shortens to “won't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:5891323db9a8f225",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "whois",
+   "wh'os",
+   "who's",
+   "whos"
+  ],
+  "answer_index": 2,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ed230c9a615d33a6",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What is the correct short form (contraction) of “that is”?",
+  "options": [
+   "thats",
+   "thatis",
+   "tha'ts",
+   "that's"
+  ],
+  "answer_index": 3,
+  "explanation": "“that is” shortens to “that's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:10f576f49711c359",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "wasnt",
+   "was'nt",
+   "wasn't",
+   "wasnot"
+  ],
+  "answer_index": 2,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:0cba41cad9ba1974",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "neednt",
+   "neednot",
+   "need'nt",
+   "needn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:fd7f3254b5fe5635",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "neednot",
+   "needn't",
+   "neednt",
+   "need'nt"
+  ],
+  "answer_index": 1,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:fb7b23ca1a9cc7e4",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "What is the correct short form (contraction) of “has not”?",
+  "options": [
+   "hasn't",
+   "has'nt",
+   "hasnot",
+   "hasnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“has not” shortens to “hasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:e46e89ae81ffa22c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What is the correct short form (contraction) of “would not”?",
+  "options": [
+   "would'nt",
+   "wouldn't",
+   "wouldnt",
+   "wouldnot"
+  ],
+  "answer_index": 1,
+  "explanation": "“would not” shortens to “wouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:51d2c72d9ff0957b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What is the correct short form (contraction) of “do not”?",
+  "options": [
+   "dont",
+   "don't",
+   "do'nt",
+   "donot"
+  ],
+  "answer_index": 1,
+  "explanation": "“do not” shortens to “don't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:b31e906bab5fb6d5",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isn't",
+   "isnot",
+   "is'nt",
+   "isnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:850b3ded5b48a888",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What is the correct short form (contraction) of “it is”?",
+  "options": [
+   "it's",
+   "its",
+   "i'ts",
+   "itis"
+  ],
+  "answer_index": 0,
+  "explanation": "“it is” shortens to “it's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:3964c09f7b6e474a",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "whois",
+   "whos",
+   "wh'os",
+   "who's"
+  ],
+  "answer_index": 3,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:427182b062f3ab86",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What is the correct short form (contraction) of “were not”?",
+  "options": [
+   "werent",
+   "were'nt",
+   "werenot",
+   "weren't"
+  ],
+  "answer_index": 3,
+  "explanation": "“were not” shortens to “weren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:06c91017544a28ad",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What is the correct short form (contraction) of “he is”?",
+  "options": [
+   "hes",
+   "he's",
+   "heis",
+   "h'es"
+  ],
+  "answer_index": 1,
+  "explanation": "“he is” shortens to “he's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:d90fd6f438f42c7e",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What is the correct short form (contraction) of “had not”?",
+  "options": [
+   "hadn't",
+   "hadnot",
+   "had'nt",
+   "hadnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“had not” shortens to “hadn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:050432c29d3e6c9b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What is the correct short form (contraction) of “were not”?",
+  "options": [
+   "were'nt",
+   "werent",
+   "werenot",
+   "weren't"
+  ],
+  "answer_index": 3,
+  "explanation": "“were not” shortens to “weren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:96930af226ab831d",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What is the correct short form (contraction) of “were not”?",
+  "options": [
+   "weren't",
+   "werenot",
+   "were'nt",
+   "werent"
+  ],
+  "answer_index": 0,
+  "explanation": "“were not” shortens to “weren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:bdfe85475b8cb585",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What is the correct short form (contraction) of “let us”?",
+  "options": [
+   "lets",
+   "let's",
+   "le'ts",
+   "letus"
+  ],
+  "answer_index": 1,
+  "explanation": "“let us” shortens to “let's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:d2dbcebb2db179f8",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isnot",
+   "isn't",
+   "is'nt",
+   "isnt"
+  ],
+  "answer_index": 1,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:289625ec4e1ed244",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "need'nt",
+   "needn't",
+   "neednot",
+   "neednt"
+  ],
+  "answer_index": 1,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:54d7ada94de80908",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What is the correct short form (contraction) of “cannot”?",
+  "options": [
+   "cannot",
+   "can't",
+   "cant",
+   "ca'nt"
+  ],
+  "answer_index": 1,
+  "explanation": "“cannot” shortens to “can't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:662b9dc7ae7cc4cf",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldnot",
+   "shouldn't",
+   "should'nt",
+   "shouldnt"
+  ],
+  "answer_index": 1,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:037bd4ea7b97a391",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "was'nt",
+   "wasnot",
+   "wasn't",
+   "wasnt"
+  ],
+  "answer_index": 2,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:79156fa53e932c70",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What is the correct short form (contraction) of “did not”?",
+  "options": [
+   "didn't",
+   "didnot",
+   "did'nt",
+   "didnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“did not” shortens to “didn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:5a27348ce5f69a4f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "wasnt",
+   "wasnot",
+   "wasn't",
+   "was'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:b127cde39592bcb1",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What is the correct short form (contraction) of “cannot”?",
+  "options": [
+   "cant",
+   "ca'nt",
+   "can't",
+   "cannot"
+  ],
+  "answer_index": 2,
+  "explanation": "“cannot” shortens to “can't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ee99da43319fa308",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What is the correct short form (contraction) of “would not”?",
+  "options": [
+   "wouldnot",
+   "would'nt",
+   "wouldn't",
+   "wouldnt"
+  ],
+  "answer_index": 2,
+  "explanation": "“would not” shortens to “wouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:a96b946b7d02e69c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What is the correct short form (contraction) of “could not”?",
+  "options": [
+   "couldn't",
+   "could'nt",
+   "couldnt",
+   "couldnot"
+  ],
+  "answer_index": 0,
+  "explanation": "“could not” shortens to “couldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:a193fd71566e2d81",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isn't",
+   "isnot",
+   "isnt",
+   "is'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:05eb3c3417e211fe",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "theres",
+   "thereis",
+   "there's",
+   "ther'es"
+  ],
+  "answer_index": 2,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:f02e15d3f167a068",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "What is the correct short form (contraction) of “cannot”?",
+  "options": [
+   "cannot",
+   "cant",
+   "ca'nt",
+   "can't"
+  ],
+  "answer_index": 3,
+  "explanation": "“cannot” shortens to “can't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:a2418c4ab8094cca",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What is the correct short form (contraction) of “has not”?",
+  "options": [
+   "hasnt",
+   "hasn't",
+   "has'nt",
+   "hasnot"
+  ],
+  "answer_index": 1,
+  "explanation": "“has not” shortens to “hasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:e1ff8804686bfdb9",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What is the correct short form (contraction) of “must not”?",
+  "options": [
+   "must'nt",
+   "mustn't",
+   "mustnot",
+   "mustnt"
+  ],
+  "answer_index": 1,
+  "explanation": "“must not” shortens to “mustn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:5c085f835661dcdf",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What is the correct short form (contraction) of “do not”?",
+  "options": [
+   "don't",
+   "do'nt",
+   "donot",
+   "dont"
+  ],
+  "answer_index": 0,
+  "explanation": "“do not” shortens to “don't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:c2b2f2bebc487c2c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What is the correct short form (contraction) of “is not”?",
+  "options": [
+   "isn't",
+   "isnt",
+   "isnot",
+   "is'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“is not” shortens to “isn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:a2d1d5e2eada53f7",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What is the correct short form (contraction) of “would not”?",
+  "options": [
+   "wouldn't",
+   "wouldnt",
+   "wouldnot",
+   "would'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“would not” shortens to “wouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:fd5f2db1e2b14727",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What is the correct short form (contraction) of “has not”?",
+  "options": [
+   "hasn't",
+   "hasnt",
+   "has'nt",
+   "hasnot"
+  ],
+  "answer_index": 0,
+  "explanation": "“has not” shortens to “hasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:2dda59a0fa77084b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What is the correct short form (contraction) of “let us”?",
+  "options": [
+   "le'ts",
+   "letus",
+   "let's",
+   "lets"
+  ],
+  "answer_index": 2,
+  "explanation": "“let us” shortens to “let's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:8b90f6d45c565158",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What is the correct short form (contraction) of “would not”?",
+  "options": [
+   "wouldnot",
+   "wouldnt",
+   "wouldn't",
+   "would'nt"
+  ],
+  "answer_index": 2,
+  "explanation": "“would not” shortens to “wouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:8f6b9eb50295bdc9",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What is the correct short form (contraction) of “need not”?",
+  "options": [
+   "needn't",
+   "neednot",
+   "neednt",
+   "need'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“need not” shortens to “needn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:81ef5ec825d775db",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldnt",
+   "shouldn't",
+   "should'nt",
+   "shouldnot"
+  ],
+  "answer_index": 1,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:c15b3af206202a4f",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What is the correct short form (contraction) of “are not”?",
+  "options": [
+   "aren't",
+   "arent",
+   "arenot",
+   "are'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“are not” shortens to “aren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:ad2764ff55e80c81",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What is the correct short form (contraction) of “are not”?",
+  "options": [
+   "aren't",
+   "arenot",
+   "are'nt",
+   "arent"
+  ],
+  "answer_index": 0,
+  "explanation": "“are not” shortens to “aren't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1c7b910a884a434a",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "havenot",
+   "have'nt",
+   "haven't",
+   "havent"
+  ],
+  "answer_index": 2,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:5a2ca3a9c1e6430b",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What is the correct short form (contraction) of “must not”?",
+  "options": [
+   "mustn't",
+   "mustnot",
+   "must'nt",
+   "mustnt"
+  ],
+  "answer_index": 0,
+  "explanation": "“must not” shortens to “mustn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:49fd7e1095244cec",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "wasnot",
+   "wasn't",
+   "was'nt",
+   "wasnt"
+  ],
+  "answer_index": 1,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:12c4e94274b152a7",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "who's",
+   "whois",
+   "whos",
+   "wh'os"
+  ],
+  "answer_index": 0,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:49b9274ae912cca9",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What is the correct short form (contraction) of “let us”?",
+  "options": [
+   "le'ts",
+   "lets",
+   "let's",
+   "letus"
+  ],
+  "answer_index": 2,
+  "explanation": "“let us” shortens to “let's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:8e06d7f279133e86",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What is the correct short form (contraction) of “who is”?",
+  "options": [
+   "whos",
+   "who's",
+   "wh'os",
+   "whois"
+  ],
+  "answer_index": 1,
+  "explanation": "“who is” shortens to “who's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:9c62b453e46aa012",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What is the correct short form (contraction) of “he is”?",
+  "options": [
+   "h'es",
+   "hes",
+   "he's",
+   "heis"
+  ],
+  "answer_index": 2,
+  "explanation": "“he is” shortens to “he's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:43e5779e67618c74",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What is the correct short form (contraction) of “was not”?",
+  "options": [
+   "wasn't",
+   "wasnot",
+   "wasnt",
+   "was'nt"
+  ],
+  "answer_index": 0,
+  "explanation": "“was not” shortens to “wasn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:1067bfdf62ed9b9c",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What is the correct short form (contraction) of “there is”?",
+  "options": [
+   "theres",
+   "ther'es",
+   "thereis",
+   "there's"
+  ],
+  "answer_index": 3,
+  "explanation": "“there is” shortens to “there's”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:2cad0e29804e9ad6",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What is the correct short form (contraction) of “have not”?",
+  "options": [
+   "havent",
+   "haven't",
+   "have'nt",
+   "havenot"
+  ],
+  "answer_index": 1,
+  "explanation": "“have not” shortens to “haven't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:contraction:2:b2f345ffecf86092",
+  "topic_id": "EN-E06",
+  "qtype": "en:contraction",
+  "level": 2,
+  "generator": "en:contraction",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What is the correct short form (contraction) of “should not”?",
+  "options": [
+   "shouldnot",
+   "should'nt",
+   "shouldnt",
+   "shouldn't"
+  ],
+  "answer_index": 3,
+  "explanation": "“should not” shortens to “shouldn't”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

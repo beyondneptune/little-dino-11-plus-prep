@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:bodmas:3:0bfd5674fd26c98b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Work out 5 × 3 − 4.",
+  "options": [
+   "11",
+   "10",
+   "19",
+   "-5"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 3 − 4 = 11.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:52d872c7347533e2",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Work out 5 × 5 − 17.",
+  "options": [
+   "42",
+   "8",
+   "7",
+   "-60"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 5 × 5 − 17 = 8.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   null,
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b6801c080d1b4f5c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Work out 4 × 8 − 20.",
+  "options": [
+   "52",
+   "11",
+   "12",
+   "-48"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 8 − 20 = 12.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:4722ffb56ac564d9",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Work out 5 × 8 − 8.",
+  "options": [
+   "48",
+   "32",
+   "0",
+   "31"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 5 × 8 − 8 = 32.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:49f9761c151ad5f8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Work out 6 × 5 − 18.",
+  "options": [
+   "-78",
+   "48",
+   "12",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 5 − 18 = 12.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:ac2dfce96da78f30",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Work out 4 × 3 − 6.",
+  "options": [
+   "18",
+   "-12",
+   "5",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 3 − 6 = 6.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:8f7e49a892fa4da0",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Work out 6 × 8 − 16.",
+  "options": [
+   "32",
+   "-48",
+   "31",
+   "64"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 8 − 16 = 32.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a84476326e27b3a7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Work out 6 × 8 − 4.",
+  "options": [
+   "52",
+   "24",
+   "44",
+   "43"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 8 − 4 = 44.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:dc8de7aedc951633",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Work out 6 × 6 − 15.",
+  "options": [
+   "-54",
+   "20",
+   "51",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 6 − 15 = 21.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:f7897e33d6587b05",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Work out 7 × 4 − 20.",
+  "options": [
+   "8",
+   "-112",
+   "7",
+   "48"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 4 − 20 = 8.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b2dc14f5f43e7578",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Work out 3 × 3 − 3.",
+  "options": [
+   "0",
+   "5",
+   "6",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 3 − 3 = 6.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:c9c08c6a67bbd97e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Work out 7 × 6 − 8.",
+  "options": [
+   "34",
+   "50",
+   "33",
+   "-14"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 6 − 8 = 34.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b5e3686bd9192e07",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Work out 5 × 7 − 8.",
+  "options": [
+   "27",
+   "-5",
+   "43",
+   "26"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 7 − 8 = 27.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:9c2dfac611f95441",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Work out 4 × 5 − 13.",
+  "options": [
+   "-32",
+   "7",
+   "33",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 5 − 13 = 7.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:1b7a412b7f3d07ff",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Work out 4 × 9 − 3.",
+  "options": [
+   "24",
+   "39",
+   "32",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 9 − 3 = 33.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2d14cc8cd2e62840",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Work out 3 × 8 − 9.",
+  "options": [
+   "-3",
+   "15",
+   "14",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 8 − 9 = 15.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a1a80ee64ab12efd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Work out 4 × 5 − 16.",
+  "options": [
+   "36",
+   "3",
+   "-44",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 5 − 16 = 4.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:8ab8e3f5af6f35fd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Work out 6 × 4 − 13.",
+  "options": [
+   "37",
+   "-54",
+   "11",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 4 − 13 = 11.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:e9523a59d6169609",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Work out 6 × 9 − 15.",
+  "options": [
+   "39",
+   "69",
+   "-36",
+   "38"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 9 − 15 = 39.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a22bf86b51d2a152",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Work out 6 × 3 − 7.",
+  "options": [
+   "25",
+   "10",
+   "-24",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 3 − 7 = 11.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:dfd436b23bd39f4e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Work out 3 × 7 − 15.",
+  "options": [
+   "6",
+   "5",
+   "36",
+   "-24"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 7 − 15 = 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:03c1b49ad4402b33",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Work out 9 × 3 − 6.",
+  "options": [
+   "20",
+   "-27",
+   "21",
+   "33"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 3 − 6 = 21.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a8cb69e02d37b4f1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Work out 5 × 5 − 12.",
+  "options": [
+   "13",
+   "-35",
+   "12",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 5 − 12 = 13.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:473d4242e187ccb8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Work out 3 × 9 − 20.",
+  "options": [
+   "6",
+   "47",
+   "7",
+   "-33"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 9 − 20 = 7.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:08233e4cee8bbbec",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Work out 6 × 6 − 16.",
+  "options": [
+   "-60",
+   "20",
+   "19",
+   "52"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 6 − 16 = 20.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:925e55f76db43c9f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Work out 8 × 9 − 16.",
+  "options": [
+   "-56",
+   "88",
+   "55",
+   "56"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 9 − 16 = 56.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:9d00248c71eec3f6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Work out 9 × 4 − 20.",
+  "options": [
+   "15",
+   "16",
+   "-144",
+   "56"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 4 − 20 = 16.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:60978f36b7910095",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Work out 8 × 7 − 19.",
+  "options": [
+   "-96",
+   "36",
+   "37",
+   "75"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 8 × 7 − 19 = 37.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:3143196c969c1747",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Work out 4 × 3 − 9.",
+  "options": [
+   "3",
+   "21",
+   "-24",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 3 − 9 = 3.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:0c5269736a7fe754",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Work out 6 × 8 − 3.",
+  "options": [
+   "45",
+   "30",
+   "51",
+   "44"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 8 − 3 = 45.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:329bba96bb4d480e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Work out 8 × 4 − 10.",
+  "options": [
+   "-48",
+   "21",
+   "42",
+   "22"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 4 − 10 = 22.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:465889e703f1625b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Work out 5 × 8 − 7.",
+  "options": [
+   "33",
+   "5",
+   "47",
+   "32"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 8 − 7 = 33.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a66cb271a34b5406",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Work out 3 × 5 − 7.",
+  "options": [
+   "22",
+   "8",
+   "7",
+   "-6"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 5 − 7 = 8.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   null,
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:1698200ee58fb598",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Work out 5 × 3 − 20.",
+  "options": [
+   "-85",
+   "35",
+   "-5",
+   "-6"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 5 × 3 − 20 = -5.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:5f71f378c51f7094",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Work out 8 × 4 − 20.",
+  "options": [
+   "-128",
+   "52",
+   "11",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 4 − 20 = 12.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:d1f20cc320307bbd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Work out 9 × 9 − 18.",
+  "options": [
+   "99",
+   "-81",
+   "62",
+   "63"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 9 × 9 − 18 = 63.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:91f96e49e59b98df",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Work out 4 × 9 − 12.",
+  "options": [
+   "23",
+   "24",
+   "48",
+   "-12"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 9 − 12 = 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:83ba3464ee7495cd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Work out 8 × 5 − 15.",
+  "options": [
+   "-80",
+   "55",
+   "25",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 8 × 5 − 15 = 25.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:6ca060c1350a24fe",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Work out 5 × 8 − 14.",
+  "options": [
+   "25",
+   "-30",
+   "54",
+   "26"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 8 − 14 = 26.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:4c71859dc138552b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Work out 4 × 6 − 8.",
+  "options": [
+   "32",
+   "-8",
+   "15",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 6 − 8 = 16.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:81489ac764c8b579",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Work out 7 × 4 − 16.",
+  "options": [
+   "44",
+   "-84",
+   "11",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 4 − 16 = 12.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b2fe082f32beefdc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Work out 3 × 5 − 13.",
+  "options": [
+   "1",
+   "-24",
+   "2",
+   "28"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 5 − 13 = 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:7df1331e5e9b56f1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Work out 4 × 4 − 10.",
+  "options": [
+   "5",
+   "-24",
+   "26",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 4 − 10 = 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:edfe23100fe23ea1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Work out 7 × 8 − 4.",
+  "options": [
+   "28",
+   "52",
+   "60",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 8 − 4 = 52.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:52526f07737b8769",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Work out 4 × 5 − 17.",
+  "options": [
+   "3",
+   "-48",
+   "2",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 5 − 17 = 3.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:bba18849a72a035a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Work out 3 × 7 − 9.",
+  "options": [
+   "12",
+   "-6",
+   "30",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 7 − 9 = 12.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:d23b9297368ede68",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Work out 4 × 8 − 12.",
+  "options": [
+   "20",
+   "19",
+   "44",
+   "-16"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 8 − 12 = 20.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:c341b26fd4952562",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Work out 3 × 3 − 17.",
+  "options": [
+   "-42",
+   "-8",
+   "-9",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 3 − 17 = -8.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:c522baef60b4998e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Work out 3 × 5 − 20.",
+  "options": [
+   "-6",
+   "-5",
+   "-45",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 5 − 20 = -5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:7f77425a9c42c095",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Work out 7 × 5 − 4.",
+  "options": [
+   "30",
+   "7",
+   "31",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 5 − 4 = 31.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:3115d165ee6a30ca",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Work out 8 × 7 − 4.",
+  "options": [
+   "52",
+   "51",
+   "60",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 8 × 7 − 4 = 52.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:847a5a2a8037c939",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Work out 6 × 6 − 5.",
+  "options": [
+   "6",
+   "41",
+   "31",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 6 − 5 = 31.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2d1e5a19f375d1af",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Work out 5 × 7 − 11.",
+  "options": [
+   "23",
+   "-20",
+   "46",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 7 − 11 = 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:8c773be4ed5c8f7f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Work out 3 × 5 − 15.",
+  "options": [
+   "-30",
+   "0",
+   "-1",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 5 − 15 = 0.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b80525fe52bd7bfd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Work out 7 × 8 − 13.",
+  "options": [
+   "-35",
+   "43",
+   "42",
+   "69"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 8 − 13 = 43.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:611d9052d726f9d8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Work out 8 × 5 − 7.",
+  "options": [
+   "33",
+   "32",
+   "47",
+   "-16"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 8 × 5 − 7 = 33.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2fbe0124dea3d86e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Work out 4 × 7 − 13.",
+  "options": [
+   "15",
+   "41",
+   "-24",
+   "14"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 7 − 13 = 15.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:cadacc692a563092",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Work out 4 × 4 − 18.",
+  "options": [
+   "34",
+   "-56",
+   "-3",
+   "-2"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 4 − 18 = -2.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:af6c88a7779f2117",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Work out 3 × 4 − 10.",
+  "options": [
+   "1",
+   "-18",
+   "22",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 10 = 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:35663ebbd9617de6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Work out 6 × 7 − 6.",
+  "options": [
+   "36",
+   "48",
+   "35",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 7 − 6 = 36.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:aae83d7b26fda2d1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Work out 3 × 4 − 11.",
+  "options": [
+   "-21",
+   "1",
+   "0",
+   "23"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 11 = 1.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:de1c83e8008b2fc5",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Work out 7 × 3 − 9.",
+  "options": [
+   "30",
+   "-42",
+   "12",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 3 − 9 = 12.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a68fc2dbe935d40d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Work out 3 × 8 − 7.",
+  "options": [
+   "17",
+   "3",
+   "16",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 8 − 7 = 17.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:79197195c164deed",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Work out 7 × 5 − 17.",
+  "options": [
+   "52",
+   "18",
+   "-84",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 5 − 17 = 18.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:9582845f05bfbc75",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Work out 5 × 9 − 18.",
+  "options": [
+   "27",
+   "26",
+   "-45",
+   "63"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 9 − 18 = 27.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:49a2cee5b9a5c1b1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Work out 8 × 3 − 7.",
+  "options": [
+   "-32",
+   "31",
+   "16",
+   "17"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 3 − 7 = 17.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:13393122abef1a61",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Work out 7 × 9 − 12.",
+  "options": [
+   "50",
+   "-21",
+   "51",
+   "75"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 9 − 12 = 51.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:34a56cb4195976a7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Work out 6 × 3 − 20.",
+  "options": [
+   "-2",
+   "38",
+   "-3",
+   "-102"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 3 − 20 = -2.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:71422dde1c16d955",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Work out 9 × 3 − 16.",
+  "options": [
+   "-117",
+   "11",
+   "43",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 3 − 16 = 11.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a914c491c3ccab65",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Work out 6 × 5 − 13.",
+  "options": [
+   "43",
+   "16",
+   "-48",
+   "17"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 5 − 13 = 17.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:da2ed0b40facf043",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Work out 9 × 6 − 9.",
+  "options": [
+   "44",
+   "-27",
+   "63",
+   "45"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 9 × 6 − 9 = 45.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2209c78244d5c7d5",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Work out 8 × 5 − 8.",
+  "options": [
+   "31",
+   "-24",
+   "48",
+   "32"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 5 − 8 = 32.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:6e5103e0e6cb429b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Work out 5 × 5 − 20.",
+  "options": [
+   "45",
+   "4",
+   "5",
+   "-75"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 5 × 5 − 20 = 5.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:0a648594cb16da0d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Work out 7 × 9 − 2.",
+  "options": [
+   "65",
+   "60",
+   "49",
+   "61"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 9 − 2 = 61.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:cf1cab83779e349e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Work out 7 × 3 − 11.",
+  "options": [
+   "9",
+   "10",
+   "32",
+   "-56"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 3 − 11 = 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a1eae5bd7f15ec77",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Work out 7 × 4 − 14.",
+  "options": [
+   "-70",
+   "14",
+   "42",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 4 − 14 = 14.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:ce579d358a0a8eb3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Work out 3 × 6 − 16.",
+  "options": [
+   "34",
+   "1",
+   "2",
+   "-30"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 6 − 16 = 2.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a94a3dd70d75d0ca",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Work out 9 × 7 − 16.",
+  "options": [
+   "-81",
+   "46",
+   "47",
+   "79"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 7 − 16 = 47.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:78e3d9db1ee872dc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Work out 3 × 8 − 20.",
+  "options": [
+   "3",
+   "4",
+   "44",
+   "-36"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 8 − 20 = 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:945841c705b3e1b7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Work out 3 × 4 − 7.",
+  "options": [
+   "-9",
+   "5",
+   "19",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 7 = 5.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2f129e6ac892217b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Work out 7 × 4 − 11.",
+  "options": [
+   "16",
+   "17",
+   "-49",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 4 − 11 = 17.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a11da9118459feff",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Work out 9 × 8 − 9.",
+  "options": [
+   "-9",
+   "63",
+   "62",
+   "81"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 8 − 9 = 63.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:01f4099c03b6cb2c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Work out 5 × 4 − 14.",
+  "options": [
+   "34",
+   "6",
+   "5",
+   "-50"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 5 × 4 − 14 = 6.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   null,
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:1794a14e897227e1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Work out 8 × 5 − 5.",
+  "options": [
+   "34",
+   "35",
+   "45",
+   "0"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 8 × 5 − 5 = 35.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b3218b9289dc0a9d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Work out 4 × 6 − 10.",
+  "options": [
+   "34",
+   "-16",
+   "14",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 6 − 10 = 14.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:3d0d19bf76642a42",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Work out 7 × 5 − 13.",
+  "options": [
+   "22",
+   "21",
+   "48",
+   "-56"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 5 − 13 = 22.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added instead of subtracting",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:d28b173e249cacc0",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Work out 8 × 9 − 9.",
+  "options": [
+   "62",
+   "0",
+   "63",
+   "81"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 8 × 9 − 9 = 63.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:12dffb442e9d3547",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Work out 6 × 6 − 20.",
+  "options": [
+   "-84",
+   "16",
+   "56",
+   "15"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 6 − 20 = 16.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:821a6dde5cecb322",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Work out 4 × 3 − 20.",
+  "options": [
+   "-8",
+   "-68",
+   "32",
+   "-9"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 3 − 20 = -8.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b5742b4f401d9b83",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Work out 8 × 6 − 15.",
+  "options": [
+   "63",
+   "-72",
+   "32",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 6 − 15 = 33.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:7a95cef5fa33a7cc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Work out 3 × 8 − 3.",
+  "options": [
+   "27",
+   "20",
+   "15",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 3 × 8 − 3 = 21.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:bb5ce32711af1328",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Work out 8 × 8 − 5.",
+  "options": [
+   "24",
+   "69",
+   "58",
+   "59"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 8 − 5 = 59.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:50eeac2fbaafb3cb",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Work out 6 × 7 − 8.",
+  "options": [
+   "-6",
+   "33",
+   "34",
+   "50"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 7 − 8 = 34.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "made a small slip",
+   null,
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:67098575e3dac79a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Work out 3 × 3 − 10.",
+  "options": [
+   "-2",
+   "19",
+   "-1",
+   "-21"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 3 − 10 = -1.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:157652366e12fc01",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Work out 3 × 5 − 4.",
+  "options": [
+   "11",
+   "19",
+   "10",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 5 − 4 = 11.",
+  "distractor_explanations": [
+   null,
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:8f2fc22f0ec05c6f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Work out 7 × 9 − 11.",
+  "options": [
+   "-14",
+   "74",
+   "51",
+   "52"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 9 − 11 = 52.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:4758f89f25cf10cf",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Work out 5 × 4 − 6.",
+  "options": [
+   "-10",
+   "14",
+   "13",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 5 × 4 − 6 = 14.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "made a small slip",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:84b511bae2f79348",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Work out 6 × 4 − 12.",
+  "options": [
+   "-48",
+   "12",
+   "36",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 4 − 12 = 12.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   null,
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:5c9607e5b6cab834",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Work out 3 × 4 − 12.",
+  "options": [
+   "-1",
+   "24",
+   "0",
+   "-24"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 12 = 0.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:2a0eaae0626fa802",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Work out 7 × 6 − 13.",
+  "options": [
+   "28",
+   "55",
+   "29",
+   "-49"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 6 − 13 = 29.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:52d924211cd540b4",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Work out 9 × 3 − 2.",
+  "options": [
+   "25",
+   "9",
+   "29",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 9 × 3 − 2 = 25.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:5d8d6fd66462323f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Work out 4 × 7 − 10.",
+  "options": [
+   "38",
+   "17",
+   "18",
+   "-12"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 7 − 10 = 18.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:97d69e60ba011edf",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Work out 3 × 8 − 19.",
+  "options": [
+   "4",
+   "43",
+   "5",
+   "-33"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 8 − 19 = 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:3478e0fbe042ad44",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Work out 5 × 4 − 8.",
+  "options": [
+   "-20",
+   "28",
+   "11",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 4 − 8 = 12.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:fd2e99a3f563c31d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Work out 8 × 5 − 19.",
+  "options": [
+   "21",
+   "-112",
+   "59",
+   "20"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 8 × 5 − 19 = 21.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:5332d77644fb4f9f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Work out 8 × 4 − 14.",
+  "options": [
+   "17",
+   "-80",
+   "46",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 4 − 14 = 18.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a6d9467452d9d3ff",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Work out 6 × 7 − 13.",
+  "options": [
+   "28",
+   "55",
+   "29",
+   "-36"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 7 − 13 = 29.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added instead of subtracting",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:a968b3e5ec4ef350",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Work out 6 × 4 − 2.",
+  "options": [
+   "21",
+   "22",
+   "12",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 4 − 2 = 22.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:6445c7b6a07951ac",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Work out 7 × 5 − 10.",
+  "options": [
+   "45",
+   "-35",
+   "24",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 5 − 10 = 25.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "subtracted before multiplying",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:20631c91207cda06",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Work out 7 × 3 − 2.",
+  "options": [
+   "23",
+   "18",
+   "19",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 3 − 2 = 19.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:ec25d6595106fe47",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Work out 7 × 9 − 17.",
+  "options": [
+   "46",
+   "-56",
+   "80",
+   "45"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 9 − 17 = 46.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:90b883bae29a197b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Work out 9 × 5 − 10.",
+  "options": [
+   "55",
+   "34",
+   "35",
+   "-45"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 5 − 10 = 35.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:64bdffcdd124f771",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Work out 3 × 4 − 18.",
+  "options": [
+   "-6",
+   "-7",
+   "-42",
+   "30"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 18 = -6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:4f8220808fff66b0",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Work out 8 × 7 − 8.",
+  "options": [
+   "-8",
+   "64",
+   "47",
+   "48"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 7 − 8 = 48.",
+  "distractor_explanations": [
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:9d000951164fdef1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Work out 3 × 4 − 8.",
+  "options": [
+   "3",
+   "4",
+   "-12",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 3 × 4 − 8 = 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:76ade4baffb0e99a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Work out 7 × 4 − 3.",
+  "options": [
+   "31",
+   "24",
+   "7",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 4 − 3 = 25.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   "subtracted before multiplying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:768ac217d1827379",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Work out 3 × 9 − 17.",
+  "options": [
+   "44",
+   "9",
+   "10",
+   "-24"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 9 − 17 = 10.",
+  "distractor_explanations": [
+   "added instead of subtracting",
+   "made a small slip",
+   null,
+   "subtracted before multiplying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:b469734a4c2ea831",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Work out 5 × 5 − 9.",
+  "options": [
+   "15",
+   "-20",
+   "34",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 5 − 9 = 16.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:610d1471e049106d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Work out 9 × 5 − 13.",
+  "options": [
+   "31",
+   "32",
+   "-72",
+   "58"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 5 − 13 = 32.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:3:1d6cccdc7a612e4e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 3,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Work out 5 × 3 − 5.",
+  "options": [
+   "10",
+   "-10",
+   "20",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 3 − 5 = 10.",
+  "distractor_explanations": [
+   null,
+   "subtracted before multiplying",
+   "added instead of subtracting",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

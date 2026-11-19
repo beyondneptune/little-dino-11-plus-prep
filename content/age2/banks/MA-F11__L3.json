@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:money_change:1:32a6f450633adc5e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "A book costs £5.20. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.80",
+   "£5.00",
+   "£5.80",
+   "£5.20"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £5.20 = £4.80.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:2:9b7e96b357829b2e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "A book costs £1.63. You pay with a £5 note. How much change?",
+  "options": [
+   "£3.00",
+   "£4.37",
+   "£1.63",
+   "£3.37"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £5 − £1.63 = £3.37.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:3:b3ee6127e1242e07",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "A book costs £6.36. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.00",
+   "£6.36",
+   "£13.64",
+   "£14.64"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £6.36 = £13.64.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:4:ca60b370d11fd17d",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "A book costs £9.16. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.84",
+   "£9.16",
+   "£1.00",
+   "£0.84"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £9.16 = £0.84.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:5:61823a662c6a4fa1",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "A book costs £6.96. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.04",
+   "£6.96",
+   "£3.00",
+   "£3.04"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £6.96 = £3.04.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:6:abc996c521329c1b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "A book costs £3.54. You pay with a £20 note. How much change?",
+  "options": [
+   "£3.54",
+   "£16.00",
+   "£17.46",
+   "£16.46"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £3.54 = £16.46.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:7:db821aaf42a32056",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "A book costs £5.32. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.68",
+   "£5.32",
+   "£15.00",
+   "£14.68"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £5.32 = £14.68.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:8:4ebdbde1c5a7f2a7",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "A book costs £1.45. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.45",
+   "£8.55",
+   "£9.55",
+   "£9.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £1.45 = £8.55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:9:240ecd393182edac",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "A book costs £4.59. You pay with a £5 note. How much change?",
+  "options": [
+   "£0.41",
+   "£4.59",
+   "£0.00",
+   "£1.41"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £5 − £4.59 = £0.41.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:10:d1da58b459664806",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "A book costs £3.81. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.00",
+   "£6.19",
+   "£3.81",
+   "£7.19"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £3.81 = £6.19.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:11:3adf2c4b48773345",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "A book costs £6.60. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.00",
+   "£13.40",
+   "£14.40",
+   "£6.60"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £6.60 = £13.40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:12:07cbc1d7147b9dd0",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "A book costs £2.12. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.12",
+   "£7.88",
+   "£8.00",
+   "£8.88"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £2.12 = £7.88.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:13:7f3e639e51b6d66a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "A book costs £9.29. You pay with a £20 note. How much change?",
+  "options": [
+   "£10.71",
+   "£9.29",
+   "£11.00",
+   "£11.71"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £9.29 = £10.71.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:14:a6efcbbdb882fe7b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "A book costs £7.48. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.00",
+   "£12.52",
+   "£13.52",
+   "£7.48"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £7.48 = £12.52.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:15:4461adb41d45b018",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "A book costs £3.58. You pay with a £20 note. How much change?",
+  "options": [
+   "£16.00",
+   "£16.42",
+   "£3.58",
+   "£17.42"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £3.58 = £16.42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:16:775895dab912c24e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "A book costs £9.52. You pay with a £20 note. How much change?",
+  "options": [
+   "£10.48",
+   "£10.00",
+   "£11.48",
+   "£9.52"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £9.52 = £10.48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:17:925eb7307dc69739",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "A book costs £4.63. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.37",
+   "£4.63",
+   "£5.37",
+   "£5.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £4.63 = £5.37.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:18:baefd946cfdf80aa",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "A book costs £4.65. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.35",
+   "£4.65",
+   "£16.35",
+   "£15.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £4.65 = £15.35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:19:1cdfdacbe3f9deec",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "A book costs £2.21. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.21",
+   "£7.79",
+   "£8.00",
+   "£8.79"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £2.21 = £7.79.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:20:1c77a9409f1dd6ea",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "A book costs £3.88. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.88",
+   "£7.12",
+   "£6.00",
+   "£6.12"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £3.88 = £6.12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:21:ba4c3c2b0bb7b62d",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "A book costs £5.45. You pay with a £10 note. How much change?",
+  "options": [
+   "£5.00",
+   "£5.45",
+   "£5.55",
+   "£4.55"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £5.45 = £4.55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:22:809f3678c81e828a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "A book costs £5.81. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.19",
+   "£14.19",
+   "£5.81",
+   "£14.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £5.81 = £14.19.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:23:da25c9bb8212dbe5",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "A book costs £3.24. You pay with a £5 note. How much change?",
+  "options": [
+   "£2.00",
+   "£1.76",
+   "£2.76",
+   "£3.24"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £5 − £3.24 = £1.76.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:24:489c2d0879b482fb",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "A book costs £6.02. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.98",
+   "£14.00",
+   "£13.98",
+   "£6.02"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £6.02 = £13.98.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:25:a32a62a9b746f33f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "A book costs £1.46. You pay with a £5 note. How much change?",
+  "options": [
+   "£4.54",
+   "£4.00",
+   "£3.54",
+   "£1.46"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £1.46 = £3.54.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:26:6b46564f925cbd91",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "A book costs £7.29. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.71",
+   "£2.71",
+   "£3.00",
+   "£7.29"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £7.29 = £2.71.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:27:62e647d65d486581",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "A book costs £6.26. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.26",
+   "£3.74",
+   "£4.00",
+   "£4.74"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £6.26 = £3.74.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:28:20cb07720d9903c7",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "A book costs £4.21. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.79",
+   "£6.00",
+   "£4.21",
+   "£5.79"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £4.21 = £5.79.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:29:4705b287702342eb",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "A book costs £5.21. You pay with a £20 note. How much change?",
+  "options": [
+   "£5.21",
+   "£15.00",
+   "£14.79",
+   "£15.79"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £5.21 = £14.79.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:30:bde06d107148634f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "A book costs £1.46. You pay with a £10 note. How much change?",
+  "options": [
+   "£9.54",
+   "£8.54",
+   "£9.00",
+   "£1.46"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £1.46 = £8.54.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:31:72f6d50dbe4a541e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "A book costs £4.71. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.00",
+   "£4.71",
+   "£16.29",
+   "£15.29"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £4.71 = £15.29.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:32:fb625878dc5d1704",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "A book costs £6.19. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.00",
+   "£4.81",
+   "£6.19",
+   "£3.81"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £6.19 = £3.81.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:33:2be834fb50f0f82e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "A book costs £4.29. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.71",
+   "£6.00",
+   "£4.29",
+   "£5.71"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £4.29 = £5.71.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:34:389165cb9e7c2966",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "A book costs £3.51. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.51",
+   "£6.49",
+   "£7.49",
+   "£6.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £3.51 = £6.49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:35:c5e50f28a32ae252",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "A book costs £9.45. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.55",
+   "£11.00",
+   "£9.45",
+   "£10.55"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £9.45 = £10.55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:36:cc4565f38fd909ae",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "A book costs £9.44. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.56",
+   "£10.56",
+   "£11.00",
+   "£9.44"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £9.44 = £10.56.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:37:4c7082756bf37f83",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "A book costs £2.06. You pay with a £20 note. How much change?",
+  "options": [
+   "£17.94",
+   "£18.00",
+   "£18.94",
+   "£2.06"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £2.06 = £17.94.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:38:24f860b0548583a1",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "A book costs £1.49. You pay with a £5 note. How much change?",
+  "options": [
+   "£4.00",
+   "£3.51",
+   "£4.51",
+   "£1.49"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £5 − £1.49 = £3.51.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:39:5ee9d4c7c2ec8876",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "A book costs £7.06. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.94",
+   "£7.06",
+   "£12.94",
+   "£13.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £7.06 = £12.94.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:40:7e42c4155066c879",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "A book costs £4.23. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.00",
+   "£5.77",
+   "£6.77",
+   "£4.23"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £4.23 = £5.77.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:41:ee90b6bb45063468",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "A book costs £3.70. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.30",
+   "£7.30",
+   "£6.00",
+   "£3.70"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £3.70 = £6.30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:42:d09148e1493644a4",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "A book costs £3.58. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.00",
+   "£3.58",
+   "£2.42",
+   "£1.42"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £5 − £3.58 = £1.42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:43:bde79fdaba11f811",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "A book costs £7.34. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.66",
+   "£7.34",
+   "£3.00",
+   "£3.66"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £7.34 = £2.66.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:44:b69fe46367b194ed",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "A book costs £4.89. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.11",
+   "£16.11",
+   "£4.89",
+   "£15.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £4.89 = £15.11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:45:07c9ff73e246c86c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "A book costs £5.30. You pay with a £10 note. How much change?",
+  "options": [
+   "£5.00",
+   "£4.70",
+   "£5.30",
+   "£5.70"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £5.30 = £4.70.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:46:fe33f7383fe51846",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "A book costs £3.57. You pay with a £20 note. How much change?",
+  "options": [
+   "£16.00",
+   "£16.43",
+   "£3.57",
+   "£17.43"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £3.57 = £16.43.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:47:30d1a28754e225cc",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "A book costs £1.56. You pay with a £10 note. How much change?",
+  "options": [
+   "£9.44",
+   "£8.44",
+   "£1.56",
+   "£8.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £1.56 = £8.44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:48:ee412ced7da19eb1",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "A book costs £8.27. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.73",
+   "£2.73",
+   "£8.27",
+   "£2.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £8.27 = £1.73.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:49:769755398c3add88",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "A book costs £4.79. You pay with a £5 note. How much change?",
+  "options": [
+   "£0.00",
+   "£1.21",
+   "£0.21",
+   "£4.79"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £4.79 = £0.21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:50:c2c31159b05b2943",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "A book costs £2.61. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.39",
+   "£7.00",
+   "£7.39",
+   "£2.61"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £2.61 = £7.39.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:51:2bdbf86e83ad2924",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "A book costs £9.28. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.72",
+   "£1.00",
+   "£0.72",
+   "£9.28"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £9.28 = £0.72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:52:53b4d5fc0e968fc0",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "A book costs £1.44. You pay with a £20 note. How much change?",
+  "options": [
+   "£18.56",
+   "£19.00",
+   "£19.56",
+   "£1.44"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £1.44 = £18.56.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:53:7a2920712c82a67b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "A book costs £6.92. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.08",
+   "£4.08",
+   "£6.92",
+   "£3.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £6.92 = £3.08.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:54:76911d1d7f5aa00b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "A book costs £8.03. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.97",
+   "£8.03",
+   "£12.00",
+   "£12.97"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £8.03 = £11.97.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:55:b666911845defdf2",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "A book costs £1.27. You pay with a £20 note. How much change?",
+  "options": [
+   "£1.27",
+   "£19.00",
+   "£18.73",
+   "£19.73"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £1.27 = £18.73.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:56:7444fc238db0e41c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "A book costs £9.43. You pay with a £10 note. How much change?",
+  "options": [
+   "£0.57",
+   "£9.43",
+   "£1.57",
+   "£1.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £9.43 = £0.57.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:57:ac024b4a6dafb6fa",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "A book costs £1.23. You pay with a £10 note. How much change?",
+  "options": [
+   "£9.77",
+   "£9.00",
+   "£8.77",
+   "£1.23"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £1.23 = £8.77.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:58:4f476f6725b4cecc",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "A book costs £1.35. You pay with a £20 note. How much change?",
+  "options": [
+   "£19.65",
+   "£1.35",
+   "£18.65",
+   "£19.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £1.35 = £18.65.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:59:3b8e380ef880aef5",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "A book costs £9.66. You pay with a £20 note. How much change?",
+  "options": [
+   "£10.00",
+   "£9.66",
+   "£10.34",
+   "£11.34"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £9.66 = £10.34.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:60:a00c94fd81c35fa0",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "A book costs £2.51. You pay with a £20 note. How much change?",
+  "options": [
+   "£17.00",
+   "£2.51",
+   "£17.49",
+   "£18.49"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £2.51 = £17.49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:61:61a5089c5a5ee286",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "A book costs £2.93. You pay with a £20 note. How much change?",
+  "options": [
+   "£18.07",
+   "£17.07",
+   "£17.00",
+   "£2.93"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £2.93 = £17.07.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:62:f9e105ef1da14cec",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "A book costs £3.01. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.01",
+   "£7.99",
+   "£7.00",
+   "£6.99"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £3.01 = £6.99.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:63:343d4a329762420e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "A book costs £5.29. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.71",
+   "£5.71",
+   "£5.29",
+   "£5.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £5.29 = £4.71.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:64:15908bb30463d68f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "A book costs £5.30. You pay with a £10 note. How much change?",
+  "options": [
+   "£5.70",
+   "£5.00",
+   "£5.30",
+   "£4.70"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £5.30 = £4.70.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:65:51fce821975c36df",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "A book costs £1.97. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.00",
+   "£1.97",
+   "£8.03",
+   "£9.03"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £1.97 = £8.03.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:66:1acc222d951acc7b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "A book costs £7.27. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.27",
+   "£3.73",
+   "£2.73",
+   "£3.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £7.27 = £2.73.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:67:1b367622854e250c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "A book costs £8.32. You pay with a £20 note. How much change?",
+  "options": [
+   "£8.32",
+   "£12.00",
+   "£11.68",
+   "£12.68"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £8.32 = £11.68.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:68:f1f27438b56829e4",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "A book costs £1.51. You pay with a £20 note. How much change?",
+  "options": [
+   "£1.51",
+   "£18.49",
+   "£19.49",
+   "£18.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £1.51 = £18.49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:69:f8dc605fa9d71ca6",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "A book costs £8.21. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.79",
+   "£1.79",
+   "£2.00",
+   "£8.21"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £8.21 = £1.79.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:70:67f677b5d73f6ecb",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "A book costs £1.25. You pay with a £10 note. How much change?",
+  "options": [
+   "£9.75",
+   "£8.75",
+   "£1.25",
+   "£9.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £1.25 = £8.75.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:71:4c1f7ebfc4b8bf99",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "A book costs £2.34. You pay with a £20 note. How much change?",
+  "options": [
+   "£2.34",
+   "£18.66",
+   "£17.66",
+   "£18.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £2.34 = £17.66.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:72:f0ca3e319cfcf56d",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "A book costs £3.68. You pay with a £20 note. How much change?",
+  "options": [
+   "£3.68",
+   "£16.32",
+   "£16.00",
+   "£17.32"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £3.68 = £16.32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:73:2b243e5c28a0d36c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "A book costs £2.78. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.22",
+   "£7.00",
+   "£2.78",
+   "£7.22"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £2.78 = £7.22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:74:5a43fd0fa5201d85",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "A book costs £1.73. You pay with a £20 note. How much change?",
+  "options": [
+   "£18.00",
+   "£19.27",
+   "£18.27",
+   "£1.73"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £1.73 = £18.27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:75:b20ae6e4a7abfb17",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "A book costs £8.79. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.21",
+   "£8.79",
+   "£1.21",
+   "£1.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £8.79 = £1.21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:76:198f157bd61cdac9",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "A book costs £4.57. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.43",
+   "£15.00",
+   "£16.43",
+   "£4.57"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £4.57 = £15.43.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:77:15925c5bc317d066",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "A book costs £1.81. You pay with a £20 note. How much change?",
+  "options": [
+   "£18.19",
+   "£19.19",
+   "£18.00",
+   "£1.81"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £1.81 = £18.19.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:78:ef76e3b91e747b4c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "A book costs £6.28. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.72",
+   "£6.28",
+   "£13.72",
+   "£14.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £6.28 = £13.72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:79:83f42549f813015e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "A book costs £4.82. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.00",
+   "£4.82",
+   "£16.18",
+   "£15.18"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £4.82 = £15.18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:80:ab38a59a563e335b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "A book costs £5.55. You pay with a £10 note. How much change?",
+  "options": [
+   "£5.45",
+   "£5.55",
+   "£4.45",
+   "£4.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £5.55 = £4.45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:81:88dac38a6e61c10e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "A book costs £3.32. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.00",
+   "£7.68",
+   "£3.32",
+   "£6.68"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £3.32 = £6.68.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:82:a8e2ae506abcf428",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "A book costs £1.34. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.34",
+   "£8.66",
+   "£9.00",
+   "£9.66"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £1.34 = £8.66.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:83:f4b39ae6e03aa9fa",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "A book costs £9.70. You pay with a £10 note. How much change?",
+  "options": [
+   "£0.30",
+   "£0.00",
+   "£9.70",
+   "£1.30"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £9.70 = £0.30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:84:610dc7f82d93bcaa",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "A book costs £2.73. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.27",
+   "£2.73",
+   "£7.00",
+   "£8.27"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £2.73 = £7.27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:85:fd05cf780bbf3a87",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "A book costs £8.23. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.77",
+   "£12.00",
+   "£12.77",
+   "£8.23"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £8.23 = £11.77.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:86:252459d87b782d04",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "A book costs £6.60. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.40",
+   "£13.40",
+   "£13.00",
+   "£6.60"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £6.60 = £13.40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:87:83289b179756d8ab",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "A book costs £3.40. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.40",
+   "£7.00",
+   "£6.60",
+   "£7.60"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £3.40 = £6.60.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:88:39d5c3b963392708",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "A book costs £9.12. You pay with a £10 note. How much change?",
+  "options": [
+   "£9.12",
+   "£1.88",
+   "£1.00",
+   "£0.88"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £9.12 = £0.88.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:89:41b088e470acc045",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "A book costs £6.28. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.00",
+   "£14.72",
+   "£13.72",
+   "£6.28"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £6.28 = £13.72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:90:2dce64d3cd6fc50f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "A book costs £5.87. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.00",
+   "£15.13",
+   "£14.13",
+   "£5.87"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £5.87 = £14.13.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:91:513a7906d2d8369e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "A book costs £9.41. You pay with a £10 note. How much change?",
+  "options": [
+   "£0.59",
+   "£1.59",
+   "£1.00",
+   "£9.41"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £9.41 = £0.59.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:92:808f4d2aba2f3700",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "A book costs £3.65. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.35",
+   "£7.35",
+   "£6.00",
+   "£3.65"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £3.65 = £6.35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:93:49ce596ff2b5e4fa",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "A book costs £1.38. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.38",
+   "£4.62",
+   "£3.62",
+   "£4.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £1.38 = £3.62.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:94:279bd3ba688a6b8a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "A book costs £6.14. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.86",
+   "£4.86",
+   "£4.00",
+   "£6.14"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £6.14 = £3.86.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:95:486c746677e28f5b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "A book costs £7.17. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.83",
+   "£12.83",
+   "£13.00",
+   "£7.17"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £7.17 = £12.83.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:96:836daeb21c3a8481",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "A book costs £1.83. You pay with a £5 note. How much change?",
+  "options": [
+   "£3.00",
+   "£4.17",
+   "£3.17",
+   "£1.83"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £1.83 = £3.17.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:97:19c09fc69f3040a3",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "A book costs £9.58. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.42",
+   "£9.58",
+   "£10.42",
+   "£10.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £9.58 = £10.42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:98:8528f22d412f4a3b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "A book costs £7.23. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.77",
+   "£13.00",
+   "£12.77",
+   "£7.23"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £7.23 = £12.77.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:99:3388817e1f9376ec",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "A book costs £2.22. You pay with a £5 note. How much change?",
+  "options": [
+   "£3.78",
+   "£2.78",
+   "£3.00",
+   "£2.22"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £5 − £2.22 = £2.78.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:100:0f7f776aad1fd117",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "A book costs £7.41. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.00",
+   "£3.59",
+   "£2.59",
+   "£7.41"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £7.41 = £2.59.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:101:e162531db8b87fd2",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "A book costs £5.04. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.96",
+   "£5.00",
+   "£5.96",
+   "£5.04"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £5.04 = £4.96.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:102:3404eade5572d81c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "A book costs £3.51. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.49",
+   "£2.49",
+   "£3.51",
+   "£1.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £5 − £3.51 = £1.49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:103:2ad51d8e968cc938",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "A book costs £3.44. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.56",
+   "£3.44",
+   "£2.56",
+   "£2.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £5 − £3.44 = £1.56.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:104:1c254cbc3f0fc29c",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "A book costs £3.79. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.00",
+   "£2.21",
+   "£1.21",
+   "£3.79"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £3.79 = £1.21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:105:97ee5e748ec8082f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "A book costs £4.23. You pay with a £20 note. How much change?",
+  "options": [
+   "£16.00",
+   "£16.77",
+   "£15.77",
+   "£4.23"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £4.23 = £15.77.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:106:def9dc231fab2018",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "A book costs £9.70. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.30",
+   "£10.00",
+   "£9.70",
+   "£10.30"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £9.70 = £10.30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:107:6f95306d0b780f00",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "A book costs £8.18. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.00",
+   "£1.82",
+   "£2.82",
+   "£8.18"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £8.18 = £1.82.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:108:3a68729381ae6c8e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "A book costs £5.74. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.26",
+   "£5.74",
+   "£15.26",
+   "£14.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £5.74 = £14.26.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:109:d2b1297e13b4a46b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "A book costs £7.78. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.78",
+   "£2.00",
+   "£3.22",
+   "£2.22"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £7.78 = £2.22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:110:6883d5781f48978d",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "A book costs £2.43. You pay with a £5 note. How much change?",
+  "options": [
+   "£3.00",
+   "£3.57",
+   "£2.57",
+   "£2.43"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £5 − £2.43 = £2.57.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:111:6cd6f766cb699198",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "A book costs £8.32. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.32",
+   "£1.68",
+   "£2.68",
+   "£2.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £8.32 = £1.68.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:112:e14d503aeb666fcd",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "A book costs £8.93. You pay with a £20 note. How much change?",
+  "options": [
+   "£8.93",
+   "£11.07",
+   "£11.00",
+   "£12.07"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £8.93 = £11.07.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:113:050ee94b315db7cc",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "A book costs £1.73. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.27",
+   "£1.73",
+   "£9.27",
+   "£8.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £1.73 = £8.27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:114:00f73da4aa007c4d",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "A book costs £2.69. You pay with a £20 note. How much change?",
+  "options": [
+   "£17.31",
+   "£17.00",
+   "£2.69",
+   "£18.31"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £2.69 = £17.31.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:115:bd7f72cb61ddf623",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "A book costs £5.27. You pay with a £20 note. How much change?",
+  "options": [
+   "£15.73",
+   "£5.27",
+   "£14.73",
+   "£15.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £5.27 = £14.73.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:116:340d2887a920d2c1",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "A book costs £6.54. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.46",
+   "£14.46",
+   "£13.00",
+   "£6.54"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £6.54 = £13.46.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:117:b71e6de5a8bc864f",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "A book costs £7.89. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.89",
+   "£3.11",
+   "£2.00",
+   "£2.11"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £7.89 = £2.11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:118:35f6bb6729aa50f4",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "A book costs £3.87. You pay with a £20 note. How much change?",
+  "options": [
+   "£3.87",
+   "£17.13",
+   "£16.00",
+   "£16.13"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £3.87 = £16.13.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:119:7f1dba9ab4b82c1b",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "A book costs £9.01. You pay with a £20 note. How much change?",
+  "options": [
+   "£10.99",
+   "£9.01",
+   "£11.00",
+   "£11.99"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £9.01 = £10.99.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:120:3eb74b370c005a96",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "A book costs £3.49. You pay with a £5 note. How much change?",
+  "options": [
+   "£1.51",
+   "£2.00",
+   "£3.49",
+   "£2.51"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £5 − £3.49 = £1.51.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:121:792ac5948c39fb9a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "A book costs £8.07. You pay with a £10 note. How much change?",
+  "options": [
+   "£1.93",
+   "£8.07",
+   "£2.93",
+   "£2.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £8.07 = £1.93.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:122:1659d7ff2986f36a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "A book costs £7.48. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.52",
+   "£7.48",
+   "£13.00",
+   "£12.52"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £7.48 = £12.52.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:123:4d6ca2d7721f9cb6",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "A book costs £8.55. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.00",
+   "£11.45",
+   "£8.55",
+   "£12.45"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £8.55 = £11.45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:124:37205c4beb7c5bc0",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "A book costs £2.49. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.00",
+   "£7.51",
+   "£8.51",
+   "£2.49"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £10 − £2.49 = £7.51.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:125:63383b97a688ec38",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "A book costs £2.78. You pay with a £20 note. How much change?",
+  "options": [
+   "£17.22",
+   "£2.78",
+   "£18.22",
+   "£17.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £2.78 = £17.22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:126:b2c8a4deba74ddaf",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "A book costs £5.76. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.00",
+   "£14.24",
+   "£5.76",
+   "£15.24"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £5.76 = £14.24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:127:37d2d704ebf925cb",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "A book costs £7.93. You pay with a £20 note. How much change?",
+  "options": [
+   "£12.07",
+   "£13.07",
+   "£7.93",
+   "£12.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £7.93 = £12.07.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:128:4290424724d0e359",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "A book costs £3.15. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.85",
+   "£7.85",
+   "£7.00",
+   "£3.15"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £3.15 = £6.85.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:129:d1802d35b09fee94",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "A book costs £6.40. You pay with a £20 note. How much change?",
+  "options": [
+   "£14.60",
+   "£6.40",
+   "£14.00",
+   "£13.60"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £6.40 = £13.60.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:130:6cb0f784d4fcb0b7",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "A book costs £1.25. You pay with a £20 note. How much change?",
+  "options": [
+   "£19.00",
+   "£19.75",
+   "£1.25",
+   "£18.75"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £1.25 = £18.75.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:131:7af5c860f4e818c3",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "A book costs £7.39. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.00",
+   "£3.61",
+   "£7.39",
+   "£2.61"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £7.39 = £2.61.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:132:0002e272c01f723e",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "A book costs £9.59. You pay with a £20 note. How much change?",
+  "options": [
+   "£9.59",
+   "£10.41",
+   "£10.00",
+   "£11.41"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £9.59 = £10.41.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:133:19a66cd378bf7019",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "A book costs £1.70. You pay with a £20 note. How much change?",
+  "options": [
+   "£1.70",
+   "£18.30",
+   "£19.30",
+   "£18.00"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £1.70 = £18.30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:134:b552fcd7d42b0954",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "A book costs £6.56. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.44",
+   "£6.56",
+   "£3.00",
+   "£4.44"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £6.56 = £3.44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:135:c033a5170dbd0b01",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "A book costs £8.09. You pay with a £20 note. How much change?",
+  "options": [
+   "£12.00",
+   "£11.91",
+   "£12.91",
+   "£8.09"
+  ],
+  "answer_index": 1,
+  "explanation": "Change = £20 − £8.09 = £11.91.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:136:7d491fd004ec6cef",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "A book costs £3.15. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.85",
+   "£7.00",
+   "£7.85",
+   "£3.15"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £3.15 = £6.85.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:137:577fcde55e71fcad",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "A book costs £1.51. You pay with a £20 note. How much change?",
+  "options": [
+   "£1.51",
+   "£19.49",
+   "£18.49",
+   "£18.00"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £1.51 = £18.49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:138:3ee7dcda00b50751",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "A book costs £6.94. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.00",
+   "£6.94",
+   "£4.06",
+   "£3.06"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £6.94 = £3.06.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:139:a8d04a9b4e979060",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "A book costs £8.79. You pay with a £20 note. How much change?",
+  "options": [
+   "£11.21",
+   "£11.00",
+   "£12.21",
+   "£8.79"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £8.79 = £11.21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:140:9730782c92400626",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "A book costs £4.88. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.88",
+   "£6.12",
+   "£5.00",
+   "£5.12"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £4.88 = £5.12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:141:5944724baf7cefc6",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "A book costs £1.56. You pay with a £10 note. How much change?",
+  "options": [
+   "£8.44",
+   "£1.56",
+   "£8.00",
+   "£9.44"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £1.56 = £8.44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:142:e199e6ebe8a00038",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "A book costs £2.88. You pay with a £20 note. How much change?",
+  "options": [
+   "£17.12",
+   "£18.12",
+   "£2.88",
+   "£17.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £20 − £2.88 = £17.12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:143:3c2b63f5485d1a96",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "A book costs £5.13. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.87",
+   "£5.13",
+   "£5.87",
+   "£5.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £5.13 = £4.87.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:144:0b52bfbfe26bdc82",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "A book costs £3.53. You pay with a £10 note. How much change?",
+  "options": [
+   "£3.53",
+   "£7.47",
+   "£6.00",
+   "£6.47"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £10 − £3.53 = £6.47.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:145:f8aba28b8a200ddf",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "A book costs £7.55. You pay with a £20 note. How much change?",
+  "options": [
+   "£13.45",
+   "£7.55",
+   "£12.00",
+   "£12.45"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £20 − £7.55 = £12.45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:146:1d1e4b68f680bba5",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "A book costs £2.99. You pay with a £20 note. How much change?",
+  "options": [
+   "£2.99",
+   "£17.00",
+   "£17.01",
+   "£18.01"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £20 − £2.99 = £17.01.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:147:1f85075abe05874a",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "A book costs £2.12. You pay with a £5 note. How much change?",
+  "options": [
+   "£3.00",
+   "£2.12",
+   "£3.88",
+   "£2.88"
+  ],
+  "answer_index": 3,
+  "explanation": "Change = £5 − £2.12 = £2.88.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:148:1696baaf63f1e115",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "A book costs £2.28. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.72",
+   "£8.72",
+   "£2.28",
+   "£8.00"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £2.28 = £7.72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:149:02e0475ac38a40e2",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "A book costs £3.53. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.47",
+   "£6.00",
+   "£7.47",
+   "£3.53"
+  ],
+  "answer_index": 0,
+  "explanation": "Change = £10 − £3.53 = £6.47.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:money_change:150:aee59d021f32ebb3",
+  "topic_id": "MA-F11",
+  "qtype": "money_change",
+  "level": 3,
+  "generator": "reg:money_change",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "A book costs £6.41. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.00",
+   "£4.59",
+   "£3.59",
+   "£6.41"
+  ],
+  "answer_index": 2,
+  "explanation": "Change = £10 − £6.41 = £3.59.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

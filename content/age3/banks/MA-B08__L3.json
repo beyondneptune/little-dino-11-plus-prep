@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:primes:1:89803d2a9aeaa7af",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "23",
+   "9",
+   "15"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:2:8edf2c2eb2ded0d7",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "49",
+   "35",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:3:56bdf03a1fdff3ed",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "27",
+   "57",
+   "24",
+   "19"
+  ],
+  "answer_index": 3,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:4:85be8e5f02d0bbec",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "33",
+   "24",
+   "17",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:5:81cf3e3319ad90b0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "18",
+   "19",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:6:8d5c1aef1a842030",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "31",
+   "24",
+   "49",
+   "33"
+  ],
+  "answer_index": 0,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:7:528a1f30da40335d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "21",
+   "11",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:8:57e4b71f6255e5a2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "15",
+   "49",
+   "17",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:9:223814d7eb85df58",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "33",
+   "31",
+   "16",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:10:cc87bdcc8d0f65a2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "25",
+   "55",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:11:5871ee8978e4224a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "29",
+   "35",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:12:0fbd276eefe63690",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "17",
+   "21",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:13:2100028098c3ace0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "49",
+   "18",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:14:bed372d9ff8c5b1c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "16",
+   "25",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:15:029dd4dcc878a3b5",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "16",
+   "19",
+   "51"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:16:af5d0dc9eaf62288",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "16",
+   "15",
+   "57"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:17:23eb9cc1ef9508a6",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "9",
+   "29",
+   "15"
+  ],
+  "answer_index": 2,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:18:a2b8fb11124fa56c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "21",
+   "55",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:19:13d687127be20b9e",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "9",
+   "57",
+   "29",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:20:b0396c41ae8b336a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "29",
+   "12",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:21:8107a903a23d37a2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "27",
+   "57",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:22:0a51547d2891779b",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "27",
+   "31",
+   "16",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:23:30ccc73facf02d84",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "23",
+   "16",
+   "33",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:24:268807115933c87b",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "55",
+   "19",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:25:b1728d9d9cdb066e",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "9",
+   "13",
+   "15",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:26:39db68ab65e02c25",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "35",
+   "12",
+   "49",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:27:8f8336e5bae865d0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "29",
+   "35",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:28:34cb44de3a7095e4",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "57",
+   "29",
+   "21"
+  ],
+  "answer_index": 2,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:29:f6f068563f77b91c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "27",
+   "17",
+   "16",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:30:868811b3c335b23e",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "29",
+   "33",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:31:72dd501a2062c60f",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "9",
+   "51",
+   "25"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:32:de50f909e182fe78",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "24",
+   "15",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:33:e88c435ac846f261",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "57",
+   "15",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:34:1f7432416c410f0b",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "17",
+   "51",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:35:336afe9d688cde5c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "35",
+   "19",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:36:178f37554b9096ec",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "12",
+   "49",
+   "37",
+   "15"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:37:806ef99a20a9e001",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "39",
+   "49",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:38:c11dfbef63546e4a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "55",
+   "15",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:39:a1bfe92af1459d34",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "27",
+   "49",
+   "24",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:40:e6cd2ae9e8ddab21",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "51",
+   "9",
+   "33"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:41:c51fb60511bb1132",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "9",
+   "19",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:42:70f33db8ccae0037",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "37",
+   "24",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:43:e052385542b499c3",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "12",
+   "33",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:44:6e859f515c3f4ed9",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "13",
+   "9",
+   "49"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:45:0b0cc89a92fee1af",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "51",
+   "33",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:46:a29f1d59396aabbe",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "17",
+   "49",
+   "21"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:47:b0a6099ed852e029",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "12",
+   "27",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:48:2159c87c63a59413",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "17",
+   "9",
+   "39",
+   "57"
+  ],
+  "answer_index": 0,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:49:29c4d338b7b6a546",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "15",
+   "12",
+   "57",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:50:913eec0736011230",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "9",
+   "27",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:51:547e6d8849703567",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "9",
+   "31",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:52:5094f5e0b4bc5849",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "16",
+   "15",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:53:da01dc228bfa185f",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "21",
+   "9",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:54:f52240b50e88c6c4",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "12",
+   "17",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:55:b2d21cdcd1244c5a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "13",
+   "39",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:56:cde1c9d439e49dbe",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "29",
+   "55",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:57:f1650ffb71b62215",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "37",
+   "33",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:58:278c10a67f159a6d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "13",
+   "55",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:59:cb3f2256575c444a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "23",
+   "49",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:60:04dfb83792447c5d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "15",
+   "18",
+   "57"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:61:fd0af84e174efbba",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "24",
+   "57",
+   "33"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:62:ab44aab1c912513c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "12",
+   "39",
+   "11",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:63:f308dacf74403182",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "29",
+   "49",
+   "24"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:64:da2ecca185214e00",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "19",
+   "33",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:65:e1e73f6cca98286d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "18",
+   "25",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:66:7fbf546eb7620c1a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "9",
+   "11",
+   "57"
+  ],
+  "answer_index": 2,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:67:710c1293745460c4",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "57",
+   "19",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:68:d637035ccbecb719",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "57",
+   "33",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:69:f1630469eaa489c0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "35",
+   "57",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:70:58ec546b69984998",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "55",
+   "12",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:71:e0005ae4f17a7476",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "11",
+   "21",
+   "51",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:72:d8c86f27368dad21",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "9",
+   "51",
+   "33",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:73:158386740c9ac06d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "55",
+   "35",
+   "18"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:74:f919f4d2ab6ba45a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "27",
+   "13",
+   "55",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:75:d4d3242fcce358c2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "15",
+   "57",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:76:aecc854c466d51a7",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "25",
+   "18",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:77:bc25b1de3b2b72ff",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "27",
+   "49",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:78:d1a475376f629c40",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "11",
+   "27",
+   "16",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:79:e33a8961b89dd42d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "51",
+   "12",
+   "19"
+  ],
+  "answer_index": 3,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:80:9e98e86fd4fd68f5",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "17",
+   "39",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:81:6d090f1bffd97354",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "35",
+   "51",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:82:7fa23f6ee2999025",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "24",
+   "37",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:83:5ad2b635ed4aa0ea",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "31",
+   "35",
+   "49",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:84:1048e772cae4a4c0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "33",
+   "31",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:85:1468b2bd5f84b1d2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "9",
+   "57",
+   "27",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:86:868a86d9858e9eff",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "35",
+   "17",
+   "18",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:87:0773d83115a6c927",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "49",
+   "21",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:88:cc638c012c8ef376",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "55",
+   "35",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:89:047f972c01a7c572",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "24",
+   "57",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:90:98f476c083545d92",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "37",
+   "9",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:91:e799e6d06e4aaa05",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "31",
+   "16",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:92:c519119e0393a3f1",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "51",
+   "18",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:93:65097be930b8d224",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "23",
+   "49",
+   "16",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:94:0a66d1413f58e021",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "19",
+   "9",
+   "49",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:95:58430c0e222062ee",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "57",
+   "13",
+   "35"
+  ],
+  "answer_index": 2,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:96:1094e6481f245dd9",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "51",
+   "23",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:97:4bde97ddc25e2321",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "15",
+   "19",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:98:d1415982c41a7a43",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "51",
+   "37",
+   "25"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:99:f6803b12abf3d62c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "12",
+   "11",
+   "57",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:100:9e0c7f7fa5e22d78",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "33",
+   "16",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:101:ee3035ed142ef35a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "57",
+   "19",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:102:8d90acd562f914d3",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "33",
+   "18",
+   "37",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:103:ff6dafac14d5436d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "37",
+   "39",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:104:0bee6ff83940ced8",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "9",
+   "35",
+   "19"
+  ],
+  "answer_index": 3,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:105:fdcae53525cd17af",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "33",
+   "49",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:106:c808cd46471288de",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "31",
+   "39",
+   "51",
+   "18"
+  ],
+  "answer_index": 0,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:107:acc414b60d3d2fad",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "23",
+   "57",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:108:67014cf45e752f21",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "49",
+   "12",
+   "21"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:109:07032a2177e5e0a2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "12",
+   "23",
+   "55",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:110:32bbe35348767a20",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "15",
+   "57",
+   "23",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:111:8980fb2b0d412ab1",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "19",
+   "12",
+   "27",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:113:c6d0c8f9c8a2fdf7",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "27",
+   "12",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:114:3dc7493b03604e2b",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "37",
+   "27",
+   "24"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:115:c4bbcc0609a29988",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "15",
+   "17",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:116:8a23148c433adaa8",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "35",
+   "49",
+   "13",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:117:aa1a01c04216a5dc",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "37",
+   "55",
+   "27"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:118:f606082cf8594ea2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "29",
+   "9",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:119:6d53224f97239afd",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "35",
+   "18",
+   "19"
+  ],
+  "answer_index": 3,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:120:70f4cd6063fffc58",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "27",
+   "11",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:121:b193f8e11122dd30",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "23",
+   "16",
+   "39",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:122:6bdc4cf35c9248ec",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "51",
+   "37",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:123:9e47e732c48f28f4",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "39",
+   "51",
+   "23"
+  ],
+  "answer_index": 3,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:124:fdfa4387333db750",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "23",
+   "12",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:125:681f8c06ac43a58a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "24",
+   "29",
+   "21"
+  ],
+  "answer_index": 2,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:126:f0986b62e0f005d8",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "49",
+   "37",
+   "33"
+  ],
+  "answer_index": 2,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:127:5b6ab9d92801bfd9",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "25",
+   "9",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:128:9cfe350ef2855034",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "19",
+   "16",
+   "35",
+   "49"
+  ],
+  "answer_index": 0,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:129:acc22d0986bd2fac",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "39",
+   "11",
+   "49",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:130:f450e092393ac842",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "35",
+   "24",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "11 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:131:4da905a643d9d3ea",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "12",
+   "31",
+   "25",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:132:e64a2da68fb06ab6",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "21",
+   "37",
+   "12",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:133:b76f3880a2677c36",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "39",
+   "24",
+   "17"
+  ],
+  "answer_index": 3,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:134:02ba802ec21d18a0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "9",
+   "21",
+   "51",
+   "23"
+  ],
+  "answer_index": 3,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:135:d0d0cb267acee007",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "29",
+   "9",
+   "57",
+   "33"
+  ],
+  "answer_index": 0,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:136:2872829864cc3602",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "16",
+   "21",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:137:67978d25df84ca32",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "19",
+   "51",
+   "9",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "19 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:138:1277b7800d1b7087",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "13",
+   "35",
+   "49"
+  ],
+  "answer_index": 1,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:139:d50f9d0c4f8a309d",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "33",
+   "12",
+   "23"
+  ],
+  "answer_index": 3,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:140:b5de4306eb1953be",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "12",
+   "21",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:141:caa5c035a588d40c",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "15",
+   "55",
+   "24",
+   "29"
+  ],
+  "answer_index": 3,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:142:426aaf12e36e6cb3",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "24",
+   "29",
+   "39",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "29 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:143:81571bcbf8bd671a",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "51",
+   "33",
+   "13"
+  ],
+  "answer_index": 3,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:144:12428705e389ad05",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "17",
+   "9",
+   "55",
+   "25"
+  ],
+  "answer_index": 0,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:145:cad21124515339df",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "57",
+   "9",
+   "13",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:146:e2e247df96485873",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "31",
+   "33",
+   "24",
+   "51"
+  ],
+  "answer_index": 0,
+  "explanation": "31 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:147:5e98e255bd6c64f0",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "13",
+   "39",
+   "57",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "13 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:148:1164408720cfdaf2",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "15",
+   "55",
+   "16",
+   "17"
+  ],
+  "answer_index": 3,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:149:c0b129d22b461ac3",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "37",
+   "51",
+   "39",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "37 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:150:a23cf02df50db05e",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "17",
+   "39",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "17 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:primes:151:1c61894c7faad29f",
+  "topic_id": "MA-B08",
+  "qtype": "primes",
+  "level": 3,
+  "generator": "reg:primes",
+  "generator_version": 1,
+  "seed": 151,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "18",
+   "23",
+   "55",
+   "15"
+  ],
+  "answer_index": 1,
+  "explanation": "23 has no factors other than 1 and itself, so it is prime.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "prime check"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

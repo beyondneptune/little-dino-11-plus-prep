@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:estimate:4:7485bdabe1d545a1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Estimate 59 × 51 by rounding each number to the nearest 10.",
+  "options": [
+   "3100",
+   "3009",
+   "3000",
+   "3500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:abbcb400adf14a3b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Estimate 45 × 49 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "2205",
+   "2500",
+   "2600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2500.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:0e04bcc110836872",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Estimate 64 × 83 by rounding each number to the nearest 10.",
+  "options": [
+   "4900",
+   "5600",
+   "5312",
+   "4800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:11d1a67cc36c0ad4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Estimate 33 × 45 by rounding each number to the nearest 10.",
+  "options": [
+   "1485",
+   "1500",
+   "2000",
+   "1600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:cbc879213639ad3d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Estimate 73 × 34 by rounding each number to the nearest 10.",
+  "options": [
+   "2100",
+   "2400",
+   "2200",
+   "2482"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2100.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b42c8197db134da3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Estimate 83 × 71 by rounding each number to the nearest 10.",
+  "options": [
+   "5700",
+   "6300",
+   "5893",
+   "5600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7527d590995c908b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Estimate 88 × 27 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "2800",
+   "2376",
+   "2700"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8eb06d0b115138b3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Estimate 67 × 50 by rounding each number to the nearest 10.",
+  "options": [
+   "3350",
+   "4000",
+   "3500",
+   "3600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:193678c4d9ac7e64",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Estimate 63 × 26 by rounding each number to the nearest 10.",
+  "options": [
+   "1638",
+   "1800",
+   "1900",
+   "2100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:f8c9b2f9709fb8c6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Estimate 78 × 25 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "1950",
+   "2500",
+   "2700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:fe3411d95df61417",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Estimate 39 × 57 by rounding each number to the nearest 10.",
+  "options": [
+   "2223",
+   "2400",
+   "2500",
+   "3000"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:d7e8f022a1149843",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Estimate 89 × 55 by rounding each number to the nearest 10.",
+  "options": [
+   "5500",
+   "6000",
+   "4895",
+   "5400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5400.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b49f820707545a9c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Estimate 89 × 68 by rounding each number to the nearest 10.",
+  "options": [
+   "6400",
+   "7000",
+   "6300",
+   "6052"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:d8cdbf34e24484bf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Estimate 50 × 36 by rounding each number to the nearest 10.",
+  "options": [
+   "1800",
+   "2400",
+   "2100",
+   "2000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8ae10633e86c5883",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Estimate 65 × 88 by rounding each number to the nearest 10.",
+  "options": [
+   "7200",
+   "5720",
+   "6300",
+   "6400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6300.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:82d45dac36e1c575",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Estimate 44 × 27 by rounding each number to the nearest 10.",
+  "options": [
+   "1500",
+   "1300",
+   "1188",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:54ebbc3995adf588",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Estimate 65 × 42 by rounding each number to the nearest 10.",
+  "options": [
+   "3200",
+   "2900",
+   "2800",
+   "2730"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:d9d76f86c100b4cc",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Estimate 27 × 86 by rounding each number to the nearest 10.",
+  "options": [
+   "3600",
+   "2800",
+   "2700",
+   "2322"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7a5fcb6a940270c4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Estimate 55 × 50 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "3500",
+   "2750",
+   "3100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ac4e8eb861322cd7",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Estimate 74 × 57 by rounding each number to the nearest 10.",
+  "options": [
+   "4218",
+   "4800",
+   "4200",
+   "4300"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:5f5a83d9a9726666",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Estimate 74 × 69 by rounding each number to the nearest 10.",
+  "options": [
+   "5000",
+   "4900",
+   "5106",
+   "5600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c895db51fc7ecdcf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Estimate 26 × 69 by rounding each number to the nearest 10.",
+  "options": [
+   "2100",
+   "2800",
+   "2200",
+   "1794"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2100.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:fe4e57d79f9c7574",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Estimate 52 × 24 by rounding each number to the nearest 10.",
+  "options": [
+   "1200",
+   "1100",
+   "1000",
+   "1248"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 1000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:d735784d57e1a8cb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Estimate 80 × 66 by rounding each number to the nearest 10.",
+  "options": [
+   "5600",
+   "5280",
+   "5700",
+   "6300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b1aa4ab6cf86ee29",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Estimate 79 × 77 by rounding each number to the nearest 10.",
+  "options": [
+   "6500",
+   "6400",
+   "6083",
+   "7200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 6400.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:66bae225e94aa5d9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Estimate 71 × 55 by rounding each number to the nearest 10.",
+  "options": [
+   "4300",
+   "4200",
+   "3905",
+   "4800"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:2bee92468c08d141",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Estimate 21 × 64 by rounding each number to the nearest 10.",
+  "options": [
+   "1344",
+   "1200",
+   "1300",
+   "1800"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:bb7fe5087ae873c4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Estimate 35 × 50 by rounding each number to the nearest 10.",
+  "options": [
+   "2100",
+   "2500",
+   "2000",
+   "1750"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:514f886426db5fb9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Estimate 56 × 85 by rounding each number to the nearest 10.",
+  "options": [
+   "6300",
+   "5500",
+   "4760",
+   "5400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5400.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:4ab0f0ed90a6c7cf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Estimate 74 × 40 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "2900",
+   "2960",
+   "3200"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7923aee96db9eacd",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Estimate 27 × 44 by rounding each number to the nearest 10.",
+  "options": [
+   "1200",
+   "1300",
+   "1188",
+   "1600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:a52cda67d2410072",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Estimate 21 × 77 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "1600",
+   "1700",
+   "1617"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1600.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:3fd03ff6f30bcbf1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Estimate 51 × 42 by rounding each number to the nearest 10.",
+  "options": [
+   "2142",
+   "2400",
+   "2100",
+   "2000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:1ba633a45a94461d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Estimate 63 × 31 by rounding each number to the nearest 10.",
+  "options": [
+   "1953",
+   "1800",
+   "2100",
+   "1900"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:742575951a5f1513",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Estimate 67 × 42 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "2814",
+   "2900",
+   "3200"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:68834e7cca86ce16",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Estimate 75 × 84 by rounding each number to the nearest 10.",
+  "options": [
+   "6400",
+   "7200",
+   "6500",
+   "6300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 6400.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:3de1ea3a65acda12",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Estimate 44 × 80 by rounding each number to the nearest 10.",
+  "options": [
+   "3200",
+   "4000",
+   "3300",
+   "3520"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3200.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:27df56f4876a9c59",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Estimate 23 × 65 by rounding each number to the nearest 10.",
+  "options": [
+   "1495",
+   "2100",
+   "1400",
+   "1500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 1400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ae16a3c87ec0e46f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Estimate 25 × 61 by rounding each number to the nearest 10.",
+  "options": [
+   "1800",
+   "2400",
+   "1525",
+   "1900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8206037ae3cfa7dc",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Estimate 34 × 59 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "1800",
+   "1900",
+   "2006"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:a72ce12c5523f00a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Estimate 82 × 34 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "2500",
+   "2700",
+   "2788"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:f4b90d400285419d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Estimate 56 × 84 by rounding each number to the nearest 10.",
+  "options": [
+   "4704",
+   "4800",
+   "4900",
+   "5600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:bb13c0a9a6b7c79a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Estimate 53 × 72 by rounding each number to the nearest 10.",
+  "options": [
+   "4200",
+   "3600",
+   "3500",
+   "3816"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:347345ab0a27cd4c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Estimate 36 × 84 by rounding each number to the nearest 10.",
+  "options": [
+   "3200",
+   "4000",
+   "3024",
+   "3300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3200.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8b671eb59975c128",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Estimate 69 × 57 by rounding each number to the nearest 10.",
+  "options": [
+   "4300",
+   "3933",
+   "4200",
+   "4800"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b195dc8e859dc37f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Estimate 76 × 39 by rounding each number to the nearest 10.",
+  "options": [
+   "3200",
+   "3300",
+   "2964",
+   "3600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:df4392af7411e6a5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Estimate 85 × 48 by rounding each number to the nearest 10.",
+  "options": [
+   "4500",
+   "5000",
+   "4600",
+   "4080"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4500.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:54a15e7897e9343f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Estimate 35 × 86 by rounding each number to the nearest 10.",
+  "options": [
+   "3700",
+   "4500",
+   "3010",
+   "3600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:fe46aeaabe765de0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Estimate 88 × 89 by rounding each number to the nearest 10.",
+  "options": [
+   "8100",
+   "7832",
+   "9000",
+   "8200"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 8100.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b85971dae435b378",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Estimate 69 × 41 by rounding each number to the nearest 10.",
+  "options": [
+   "2900",
+   "2800",
+   "2829",
+   "3200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:9936e7e2a8df8d7f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Estimate 69 × 46 by rounding each number to the nearest 10.",
+  "options": [
+   "3174",
+   "3500",
+   "4000",
+   "3600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8c2f942347ff6a03",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Estimate 70 × 73 by rounding each number to the nearest 10.",
+  "options": [
+   "4900",
+   "5600",
+   "5000",
+   "5110"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:762ecbe122b8a3c2",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Estimate 33 × 37 by rounding each number to the nearest 10.",
+  "options": [
+   "1221",
+   "1300",
+   "1600",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ffa74a4435d3f833",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Estimate 47 × 62 by rounding each number to the nearest 10.",
+  "options": [
+   "3600",
+   "3100",
+   "3000",
+   "2914"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:dac569728f477872",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Estimate 85 × 39 by rounding each number to the nearest 10.",
+  "options": [
+   "3700",
+   "4000",
+   "3315",
+   "3600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7a2f1452f2056de8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Estimate 67 × 68 by rounding each number to the nearest 10.",
+  "options": [
+   "4556",
+   "5600",
+   "5000",
+   "4900"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7ab7e6e1d82820f1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Estimate 49 × 77 by rounding each number to the nearest 10.",
+  "options": [
+   "4800",
+   "4100",
+   "4000",
+   "3773"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:cdef19022beea646",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Estimate 53 × 43 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "2000",
+   "2100",
+   "2279"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:0e2cc698f9be786a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Estimate 60 × 23 by rounding each number to the nearest 10.",
+  "options": [
+   "1400",
+   "1300",
+   "1380",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:1ac941ba01c293f9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Estimate 83 × 79 by rounding each number to the nearest 10.",
+  "options": [
+   "7200",
+   "6400",
+   "6500",
+   "6557"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 6400.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:f3e470595ef7c028",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Estimate 38 × 85 by rounding each number to the nearest 10.",
+  "options": [
+   "4500",
+   "3600",
+   "3230",
+   "3700"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c552b3e1b06f582b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Estimate 47 × 55 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "3100",
+   "2585",
+   "3600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7028e4b2d3879b8f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Estimate 47 × 43 by rounding each number to the nearest 10.",
+  "options": [
+   "2021",
+   "2100",
+   "2000",
+   "2400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:22e67a404556667a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Estimate 46 × 70 by rounding each number to the nearest 10.",
+  "options": [
+   "3500",
+   "3220",
+   "3600",
+   "4200"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:bbb3350e0d48c9fd",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Estimate 63 × 72 by rounding each number to the nearest 10.",
+  "options": [
+   "4300",
+   "4200",
+   "4900",
+   "4536"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c9d5e0e4a53a4b83",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Estimate 44 × 37 by rounding each number to the nearest 10.",
+  "options": [
+   "1628",
+   "1600",
+   "2000",
+   "1700"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:78c60250944d5534",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Estimate 40 × 66 by rounding each number to the nearest 10.",
+  "options": [
+   "3500",
+   "2900",
+   "2640",
+   "2800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:a0df467ac9b14df7",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Estimate 30 × 61 by rounding each number to the nearest 10.",
+  "options": [
+   "1900",
+   "1800",
+   "1830",
+   "2400"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:70620c1fa0a25a71",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Estimate 44 × 32 by rounding each number to the nearest 10.",
+  "options": [
+   "1200",
+   "1300",
+   "1408",
+   "1500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:54ce85ecd3a823ed",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Estimate 59 × 54 by rounding each number to the nearest 10.",
+  "options": [
+   "3500",
+   "3100",
+   "3000",
+   "3186"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:33919cbdc3489c54",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Estimate 54 × 30 by rounding each number to the nearest 10.",
+  "options": [
+   "1620",
+   "1600",
+   "1800",
+   "1500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:271d29c9d5729466",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Estimate 53 × 80 by rounding each number to the nearest 10.",
+  "options": [
+   "4240",
+   "4100",
+   "4800",
+   "4000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7d5c7c0c948efa2b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Estimate 68 × 24 by rounding each number to the nearest 10.",
+  "options": [
+   "1632",
+   "1600",
+   "1500",
+   "1400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:436b71a93c35e24f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Estimate 39 × 47 by rounding each number to the nearest 10.",
+  "options": [
+   "2500",
+   "2000",
+   "1833",
+   "2100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:006b65ba14e43238",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Estimate 23 × 64 by rounding each number to the nearest 10.",
+  "options": [
+   "1800",
+   "1472",
+   "1300",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:6381b66019e77876",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Estimate 25 × 44 by rounding each number to the nearest 10.",
+  "options": [
+   "1300",
+   "1100",
+   "1600",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:58760c6b16dde03b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Estimate 31 × 21 by rounding each number to the nearest 10.",
+  "options": [
+   "700",
+   "600",
+   "651",
+   "800"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:085798b78abcd0ab",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Estimate 36 × 36 by rounding each number to the nearest 10.",
+  "options": [
+   "2000",
+   "1296",
+   "1700",
+   "1600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1600.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:1c92d73076aa86c3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Estimate 28 × 49 by rounding each number to the nearest 10.",
+  "options": [
+   "2000",
+   "1500",
+   "1372",
+   "1600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1500.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:11aa136aff431e82",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Estimate 61 × 40 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "2400",
+   "2500",
+   "2440"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:a2764b8d596bb202",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Estimate 69 × 35 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "2415",
+   "3200",
+   "2900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:34625fbaa98a6fc8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Estimate 69 × 64 by rounding each number to the nearest 10.",
+  "options": [
+   "4300",
+   "4800",
+   "4416",
+   "4200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:bbbd8824baee6fb4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Estimate 43 × 23 by rounding each number to the nearest 10.",
+  "options": [
+   "1000",
+   "900",
+   "989",
+   "800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:a2c9d723e012470f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Estimate 51 × 52 by rounding each number to the nearest 10.",
+  "options": [
+   "2600",
+   "2500",
+   "2652",
+   "3000"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2500.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8e7edb6a725b738e",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Estimate 73 × 41 by rounding each number to the nearest 10.",
+  "options": [
+   "2993",
+   "2900",
+   "2800",
+   "3200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7647b9e0a6ef9ff6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Estimate 86 × 59 by rounding each number to the nearest 10.",
+  "options": [
+   "6000",
+   "5500",
+   "5400",
+   "5074"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 5400.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8b5bb5ca915b2a1c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Estimate 67 × 44 by rounding each number to the nearest 10.",
+  "options": [
+   "2948",
+   "3200",
+   "2800",
+   "2900"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c3dd12ca2d2c7292",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Estimate 39 × 71 by rounding each number to the nearest 10.",
+  "options": [
+   "2900",
+   "2769",
+   "3500",
+   "2800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:dbe6dbb63db57bb8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Estimate 85 × 85 by rounding each number to the nearest 10.",
+  "options": [
+   "9000",
+   "8200",
+   "7225",
+   "8100"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 8100.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8d16ae0a0d0a8f33",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Estimate 30 × 58 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "1900",
+   "1800",
+   "1740"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:4982b2ce40149654",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Estimate 37 × 33 by rounding each number to the nearest 10.",
+  "options": [
+   "1500",
+   "1200",
+   "1300",
+   "1221"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:82675a2cf3caaa49",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Estimate 52 × 78 by rounding each number to the nearest 10.",
+  "options": [
+   "4800",
+   "4056",
+   "4000",
+   "4100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ecb2e3f4e580760d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Estimate 52 × 80 by rounding each number to the nearest 10.",
+  "options": [
+   "4100",
+   "4160",
+   "4800",
+   "4000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c3eeba8d71a9eee6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Estimate 88 × 28 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "3000",
+   "2700",
+   "2464"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ff256ebc1411cb61",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Estimate 74 × 21 by rounding each number to the nearest 10.",
+  "options": [
+   "1554",
+   "1500",
+   "1400",
+   "1600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 1400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:63ffad1c5eb10a5f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Estimate 61 × 79 by rounding each number to the nearest 10.",
+  "options": [
+   "4800",
+   "4819",
+   "4900",
+   "5600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ee7fb827cc0f0520",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Estimate 21 × 85 by rounding each number to the nearest 10.",
+  "options": [
+   "1900",
+   "1800",
+   "2700",
+   "1785"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:1b4d115e682d3026",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Estimate 81 × 60 by rounding each number to the nearest 10.",
+  "options": [
+   "5400",
+   "4860",
+   "4900",
+   "4800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:0c93fed669d32752",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Estimate 56 × 72 by rounding each number to the nearest 10.",
+  "options": [
+   "4900",
+   "4200",
+   "4300",
+   "4032"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:15a751f502ffbb2e",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Estimate 25 × 39 by rounding each number to the nearest 10.",
+  "options": [
+   "975",
+   "1600",
+   "1300",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:c3895cbddef647e9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Estimate 41 × 24 by rounding each number to the nearest 10.",
+  "options": [
+   "984",
+   "900",
+   "1000",
+   "800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:fd99369dc12bf07a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Estimate 88 × 35 by rounding each number to the nearest 10.",
+  "options": [
+   "3080",
+   "4000",
+   "3600",
+   "3700"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:448d69da9e495adb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Estimate 23 × 57 by rounding each number to the nearest 10.",
+  "options": [
+   "1300",
+   "1800",
+   "1311",
+   "1200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8bd80bd48c999dd5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Estimate 48 × 86 by rounding each number to the nearest 10.",
+  "options": [
+   "4500",
+   "4128",
+   "4600",
+   "5400"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4500.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:ca56c78a5bb89dac",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Estimate 47 × 50 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "2600",
+   "2500",
+   "2350"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2500.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:3b13daff5a971f00",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Estimate 68 × 72 by rounding each number to the nearest 10.",
+  "options": [
+   "5000",
+   "5600",
+   "4896",
+   "4900"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:9ef246d8df896ffd",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Estimate 59 × 24 by rounding each number to the nearest 10.",
+  "options": [
+   "1300",
+   "1200",
+   "1416",
+   "1400"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:dea358fcac0edca5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Estimate 27 × 64 by rounding each number to the nearest 10.",
+  "options": [
+   "2400",
+   "1900",
+   "1728",
+   "1800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:2e4ec9e74edd4030",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Estimate 23 × 88 by rounding each number to the nearest 10.",
+  "options": [
+   "1900",
+   "1800",
+   "2024",
+   "2700"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:cd9c3196d15ba8ed",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Estimate 68 × 71 by rounding each number to the nearest 10.",
+  "options": [
+   "5000",
+   "4900",
+   "5600",
+   "4828"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:e7b7b5a0e5b62d10",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Estimate 40 × 87 by rounding each number to the nearest 10.",
+  "options": [
+   "4500",
+   "3700",
+   "3480",
+   "3600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:84bd979000208ac6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Estimate 50 × 47 by rounding each number to the nearest 10.",
+  "options": [
+   "2600",
+   "3000",
+   "2500",
+   "2350"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2500.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:b870b441003b8eec",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Estimate 35 × 57 by rounding each number to the nearest 10.",
+  "options": [
+   "3000",
+   "2400",
+   "2500",
+   "1995"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   "rounded the first number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:7cba5011a5bdca26",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Estimate 39 × 73 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "3500",
+   "2847",
+   "2900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   null,
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:acf76de53dd5532d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Estimate 28 × 40 by rounding each number to the nearest 10.",
+  "options": [
+   "1200",
+   "1120",
+   "1300",
+   "1600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8817c8a5c43880a1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Estimate 48 × 33 by rounding each number to the nearest 10.",
+  "options": [
+   "1584",
+   "1600",
+   "1500",
+   "1800"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 1500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:8cfec0e544ad8e1f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Estimate 66 × 45 by rounding each number to the nearest 10.",
+  "options": [
+   "3600",
+   "2970",
+   "4000",
+   "3500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded the first number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:f866f62b57080285",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Estimate 87 × 28 by rounding each number to the nearest 10.",
+  "options": [
+   "2800",
+   "3000",
+   "2436",
+   "2700"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:5294111efc46be3f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Estimate 64 × 82 by rounding each number to the nearest 10.",
+  "options": [
+   "4800",
+   "4900",
+   "5600",
+   "5248"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded the first number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:4:982458389255d4fb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 4,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Estimate 79 × 73 by rounding each number to the nearest 10.",
+  "options": [
+   "5600",
+   "5767",
+   "5700",
+   "6300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded the first number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

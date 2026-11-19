@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:division_worded:3:94115691a4f6a22c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Priya shares 35 cards equally between 7 friends. How many does each friend get?",
+  "options": [
+   "28",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:0cf2b62e59ba438d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Priya shares 55 rulers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "50",
+   "12",
+   "5",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8c53b465bed5464f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Sam shares 24 apples equally between 3 friends. How many does each friend get?",
+  "options": [
+   "21",
+   "3",
+   "8",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:c0c915ea1bef5603",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Zara shares 84 pencils equally between 7 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "7",
+   "77",
+   "13"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ca96dff8d192d19e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Ava shares 54 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "48",
+   "6",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a23868203af105e6",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Noah shares 42 rulers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "36",
+   "8",
+   "7",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:853d14d04d22cfbe",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Leo shares 45 rulers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "40",
+   "10",
+   "5",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:03ba0cd0859d54ea",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Sam shares 24 badges equally between 4 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "4",
+   "7",
+   "20"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:9f767db6834c1ffc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Noah shares 77 stickers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "11",
+   "7",
+   "70",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:6cbb50b75b19b47b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Noah shares 48 pencils equally between 8 friends. How many does each friend get?",
+  "options": [
+   "7",
+   "6",
+   "40",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d90521fefd308000",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Kai shares 48 rulers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "8",
+   "42",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:41517fa92ae9b773",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Noah shares 15 pencils equally between 3 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:0e2f841db961f021",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Leo shares 60 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "13",
+   "12",
+   "5",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d3f39242416024c5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Priya shares 60 rulers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "54",
+   "6",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:cdcf3c2b83a8c50a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Zara shares 32 pencils equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "4",
+   "24",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:3bd1478079afe155",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Sam shares 60 cards equally between 6 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "54",
+   "11",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e9e48bde328a8482",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Noah shares 28 apples equally between 7 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "21",
+   "4",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:18e44bcc309f913f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Noah shares 60 badges equally between 5 friends. How many does each friend get?",
+  "options": [
+   "55",
+   "13",
+   "12",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:3597637eaec5bbaf",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Sam shares 40 pencils equally between 5 friends. How many does each friend get?",
+  "options": [
+   "35",
+   "8",
+   "5",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:257e79136d4d1700",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Noah shares 54 cards equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "48",
+   "9",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:44ac6db2b0f46430",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Ava shares 63 badges equally between 7 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "7",
+   "56",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b2b580195bddf081",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Sam shares 80 rulers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "11",
+   "72",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e1eff7568eb2cad5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Ava shares 96 stickers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "88",
+   "8",
+   "13",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e5e31f528236af73",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Noah shares 72 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "13",
+   "6",
+   "66"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e7222969dc2c70c5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Leo shares 24 badges equally between 3 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "8",
+   "3",
+   "21"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:9fc25d9398cf3040",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Priya shares 50 stickers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "10",
+   "45",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:69428950ba66c725",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Ava shares 24 rulers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "3",
+   "21",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:f22fa0012f868e37",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Leo shares 72 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "13",
+   "6",
+   "66"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:2c04b1acddf551cc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Leo shares 40 rulers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "5",
+   "32",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:f350a16d756f67da",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Leo shares 48 cards equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "13",
+   "12",
+   "44"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:238ac91abae948ea",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Noah shares 50 stickers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "11",
+   "45",
+   "5",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:18c841eede3bfc3b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Ava shares 24 cards equally between 3 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "21",
+   "9",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d6ebc3af88fd1bf5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Leo shares 27 apples equally between 3 friends. How many does each friend get?",
+  "options": [
+   "24",
+   "9",
+   "10",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:486c528ecc3e8a44",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Zara shares 96 apples equally between 8 friends. How many does each friend get?",
+  "options": [
+   "13",
+   "8",
+   "12",
+   "88"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a6cacd1ff9b3730e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Ava shares 36 rulers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "33",
+   "13",
+   "3",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8f129d360be7f06d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Mia shares 28 badges equally between 7 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "21",
+   "5",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8ad9d6fa081e7eac",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Zara shares 48 apples equally between 8 friends. How many does each friend get?",
+  "options": [
+   "40",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:64c2d7bb7eff51dc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Kai shares 30 rulers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "3",
+   "11",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ce8c3496bf682121",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Leo shares 56 apples equally between 7 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "8",
+   "49",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:3b6ecf1036e69be7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Mia shares 24 stickers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "18",
+   "5",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b0dca830982de1a0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Noah shares 28 pencils equally between 7 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "5",
+   "21",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:083cfe3233267bda",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Leo shares 32 apples equally between 4 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "28",
+   "8",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:6d00c89fab96697c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Leo shares 60 stickers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "13",
+   "5",
+   "55",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5356493a63354ed1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Ava shares 77 badges equally between 7 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "11",
+   "70",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:70e3c4988ead3871",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Mia shares 54 stickers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "48",
+   "9",
+   "10",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ca72092b2f037736",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Mia shares 20 badges equally between 4 friends. How many does each friend get?",
+  "options": [
+   "16",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a439aff7eb5124e2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Mia shares 63 badges equally between 7 friends. How many does each friend get?",
+  "options": [
+   "56",
+   "10",
+   "7",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:134518580720fd03",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Ava shares 18 stickers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "7",
+   "15",
+   "3",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a97fc01855268618",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Mia shares 55 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "5",
+   "50",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a96e608466e007e5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Mia shares 28 rulers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "21",
+   "7",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:21b8ffe2cb5db561",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Priya shares 32 rulers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "28",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ac38664f0adf4ae9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Sam shares 24 pencils equally between 3 friends. How many does each friend get?",
+  "options": [
+   "21",
+   "9",
+   "3",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d028d4848a3be688",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Zara shares 50 stickers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "11",
+   "45",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:7cbe401a59242b92",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Sam shares 40 stickers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "36",
+   "10",
+   "4",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:79bea066b1eac786",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Noah shares 60 badges equally between 6 friends. How many does each friend get?",
+  "options": [
+   "11",
+   "54",
+   "10",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5ef2efb4b6182867",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Noah shares 60 cards equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "10",
+   "11",
+   "54"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:4992c56ac0b91f7a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Sam shares 48 rulers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "12",
+   "13",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:99bdb3d6d8b9a226",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Mia shares 28 stickers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "5",
+   "21",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:aebaaa1a87a35ce1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Kai shares 48 pencils equally between 8 friends. How many does each friend get?",
+  "options": [
+   "40",
+   "8",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:babced3aae5fd58e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Noah shares 33 badges equally between 3 friends. How many does each friend get?",
+  "options": [
+   "30",
+   "3",
+   "12",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:89ac2b11c617269e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Mia shares 44 rulers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "12",
+   "40",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:3aa894ed20414c5d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Priya shares 60 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "13",
+   "12",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:0d9874247ce31e2d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Kai shares 80 rulers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "10",
+   "72",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:44e791aa741bf5dc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Sam shares 63 cards equally between 7 friends. How many does each friend get?",
+  "options": [
+   "56",
+   "9",
+   "7",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b9bb32ac6f753ade",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Priya shares 84 cards equally between 7 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "77",
+   "13",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5c9ce249e65f2376",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Kai shares 20 stickers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "6",
+   "16",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:cebabbb09ec51e85",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Priya shares 70 stickers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "11",
+   "7",
+   "10",
+   "63"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:f82815c75446d322",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Kai shares 12 cards equally between 3 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "9",
+   "4",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:4bc4098126381b0f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Priya shares 32 stickers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "8",
+   "24",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:fadf20b9005b0e70",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Sam shares 48 pencils equally between 4 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "4",
+   "13",
+   "44"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:cdb1cede20ca40db",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Noah shares 18 cards equally between 3 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "7",
+   "15",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:283e503b9cacf6af",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Ava shares 60 pencils equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "10",
+   "11",
+   "54"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:59676b89998f51f6",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Mia shares 12 stickers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "3",
+   "4",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e0431e915f7d8d11",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Zara shares 72 pencils equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "64"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:55463983b477a396",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Zara shares 45 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "9",
+   "40",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:0f272cb37a451021",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Priya shares 96 apples equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "88",
+   "13",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:942947267cbbd54e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Kai shares 28 apples equally between 4 friends. How many does each friend get?",
+  "options": [
+   "24",
+   "7",
+   "8",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5ee07e088474e0c3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Kai shares 54 rulers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "48",
+   "10",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:2d1334538ab9f4e0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Priya shares 24 pencils equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "5",
+   "18",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:eb93e43030e89faf",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Noah shares 18 rulers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "7",
+   "6",
+   "3",
+   "15"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:001ee0d9b60d03d3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Mia shares 20 pencils equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "16",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5dee4c14a0929bf9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Zara shares 72 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "66",
+   "6",
+   "13",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8eba15458ded52e1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Zara shares 40 cards equally between 8 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "6",
+   "32",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:42441be79dba8442",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Sam shares 72 pencils equally between 6 friends. How many does each friend get?",
+  "options": [
+   "13",
+   "12",
+   "6",
+   "66"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:80d3bc760d8c1cb5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Zara shares 27 apples equally between 3 friends. How many does each friend get?",
+  "options": [
+   "3",
+   "24",
+   "9",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8dd07995401072cc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Zara shares 48 apples equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "12",
+   "13",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:730cbad9a425117c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Mia shares 48 badges equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "8",
+   "9",
+   "42"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b4666b64e29755be",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Kai shares 28 apples equally between 7 friends. How many does each friend get?",
+  "options": [
+   "7",
+   "21",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8b641c5812bf1689",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Mia shares 33 badges equally between 3 friends. How many does each friend get?",
+  "options": [
+   "30",
+   "11",
+   "3",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:90f7942301aed8fc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Sam shares 55 rulers equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "50",
+   "11",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:f17752a2619f0dd0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Zara shares 48 cards equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "40",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:a983caf79621ebb8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Kai shares 24 stickers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "3",
+   "8",
+   "21"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ae78eac01d9d1564",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Mia shares 40 rulers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "32",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8b00741840b707f9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Kai shares 36 stickers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "33",
+   "13",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:60cfd6b3e7405828",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Priya shares 50 pencils equally between 5 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "45",
+   "11",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:1e56aebcf6d44603",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Kai shares 36 rulers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "9",
+   "4",
+   "32",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d74e1d3499429fac",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Sam shares 48 pencils equally between 6 friends. How many does each friend get?",
+  "options": [
+   "42",
+   "9",
+   "6",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "gave the number of friends",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e2ad60252dee9305",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Kai shares 40 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "35",
+   "8",
+   "9",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:ba2dec5e7b34dcb8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Kai shares 60 cards equally between 6 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "11",
+   "6",
+   "54"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:d0a5c41e4e720f53",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Kai shares 66 stickers equally between 6 friends. How many does each friend get?",
+  "options": [
+   "60",
+   "6",
+   "12",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:0371729a4b85df90",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Ava shares 80 apples equally between 8 friends. How many does each friend get?",
+  "options": [
+   "8",
+   "11",
+   "72",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b0ee753dc113b85a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Ava shares 60 badges equally between 5 friends. How many does each friend get?",
+  "options": [
+   "13",
+   "12",
+   "5",
+   "55"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:e598b6a29c99a72f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Leo shares 24 pencils equally between 4 friends. How many does each friend get?",
+  "options": [
+   "7",
+   "6",
+   "4",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of friends",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:b6ba82ed9aca1599",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Kai shares 60 cards equally between 5 friends. How many does each friend get?",
+  "options": [
+   "55",
+   "5",
+   "12",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:23ea6b7f9a5837a4",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Leo shares 80 cards equally between 8 friends. How many does each friend get?",
+  "options": [
+   "72",
+   "11",
+   "10",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:7a7d4a0232262051",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Zara shares 20 pencils equally between 4 friends. How many does each friend get?",
+  "options": [
+   "4",
+   "5",
+   "16",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:f2eb96fa460bea15",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Mia shares 72 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "12",
+   "66",
+   "6",
+   "13"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:282fe139c3ff8cf6",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Mia shares 35 apples equally between 7 friends. How many does each friend get?",
+  "options": [
+   "28",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:beff5a299b695b8e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Zara shares 15 pencils equally between 3 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "3",
+   "12",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:73bb8bcb4ecec3e2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Kai shares 48 apples equally between 6 friends. How many does each friend get?",
+  "options": [
+   "6",
+   "42",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:11ce4c0d5ae994dc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Priya shares 54 pencils equally between 6 friends. How many does each friend get?",
+  "options": [
+   "10",
+   "9",
+   "48",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:6eef7ec94bedc45b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Leo shares 32 rulers equally between 8 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "8",
+   "24",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:62a9b9cd5f5a4aa5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Ava shares 40 rulers equally between 4 friends. How many does each friend get?",
+  "options": [
+   "36",
+   "4",
+   "11",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:91ffbe8fb34144d0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Priya shares 30 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "25",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:8ef686aa1d7cbb7e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Mia shares 48 apples equally between 4 friends. How many does each friend get?",
+  "options": [
+   "44",
+   "4",
+   "12",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 12.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:dfee76f8ef8af5a5",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Mia shares 18 rulers equally between 3 friends. How many does each friend get?",
+  "options": [
+   "15",
+   "6",
+   "7",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:5acfbec26dbf4e3b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Leo shares 70 rulers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "63",
+   "7",
+   "11",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:7e904a0d0c0f4430",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Sam shares 70 cards equally between 7 friends. How many does each friend get?",
+  "options": [
+   "11",
+   "63",
+   "10",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "gave the number of friends"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:859a4ec9fb04ca6c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Zara shares 30 apples equally between 5 friends. How many does each friend get?",
+  "options": [
+   "5",
+   "25",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of friends",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:3:7e32219c50c7e9c1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 3,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Sam shares 35 stickers equally between 7 friends. How many does each friend get?",
+  "options": [
+   "28",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "gave the number of friends",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

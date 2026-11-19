@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:work_backwards:5:3930dc8c3249b4c3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 15 coins remain. How many coins were there at the start?",
+  "options": [
+   "180",
+   "30",
+   "29",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 15 ÷ 1/2 = 30.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:10eca52721cdd366",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 126 coins remain. How many coins were there at the start?",
+  "options": [
+   "2016",
+   "224",
+   "175",
+   "223"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 9/16 of the start; 126 ÷ 9/16 = 224.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:60a78e04756ea8f8",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 28 coins remain. How many coins were there at the start?",
+  "options": [
+   "45",
+   "252",
+   "63",
+   "62"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 28 ÷ 4/9 = 63.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:894f7309f52dbbe2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 99 coins remain. How many coins were there at the start?",
+  "options": [
+   "175",
+   "1584",
+   "137",
+   "176"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 9/16 of the start; 99 ÷ 9/16 = 176.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:a4e36a2ca99bccaf",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 36 coins remain. How many coins were there at the start?",
+  "options": [
+   "95",
+   "66",
+   "96",
+   "288"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 36 ÷ 3/8 = 96.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:1fe804fecb00ac99",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 9 coins remain. How many coins were there at the start?",
+  "options": [
+   "18",
+   "17",
+   "108",
+   "13"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 9 ÷ 1/2 = 18.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b0a557444aee2258",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 6 coins remain. How many coins were there at the start?",
+  "options": [
+   "12",
+   "17",
+   "36",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 6 ÷ 1/3 = 18.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:ac2c154f1aaf0964",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 19 coins remain. How many coins were there at the start?",
+  "options": [
+   "57",
+   "38",
+   "114",
+   "56"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 19 ÷ 1/3 = 57.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:ca4982a9fac703e6",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 15 coins remain. How many coins were there at the start?",
+  "options": [
+   "45",
+   "44",
+   "90",
+   "30"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 15 ÷ 1/3 = 45.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:ea02f0369d1d947b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 40 coins remain. How many coins were there at the start?",
+  "options": [
+   "90",
+   "65",
+   "360",
+   "89"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 4/9 of the start; 40 ÷ 4/9 = 90.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:09abbaed9f48dafb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 52 coins remain. How many coins were there at the start?",
+  "options": [
+   "84",
+   "116",
+   "117",
+   "468"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 52 ÷ 4/9 = 117.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:457da6f4d8e7de4b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 117 coins remain. How many coins were there at the start?",
+  "options": [
+   "162",
+   "1872",
+   "207",
+   "208"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 9/16 of the start; 117 ÷ 9/16 = 208.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:bfdecb547b64c44e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 15 coins remain. How many coins were there at the start?",
+  "options": [
+   "45",
+   "30",
+   "90",
+   "44"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 15 ÷ 1/3 = 45.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:6a291bbb1ae87200",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 144 coins remain. How many coins were there at the start?",
+  "options": [
+   "256",
+   "2304",
+   "255",
+   "200"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 9/16 of the start; 144 ÷ 9/16 = 256.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:cf8a804a0a455a5d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 16 coins remain. How many coins were there at the start?",
+  "options": [
+   "32",
+   "192",
+   "31",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 16 ÷ 1/2 = 32.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:6f31be150aa5dcca",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 21 coins remain. How many coins were there at the start?",
+  "options": [
+   "168",
+   "38",
+   "56",
+   "55"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 21 ÷ 3/8 = 56.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:fa0aa335ac0329d9",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 12 coins remain. How many coins were there at the start?",
+  "options": [
+   "23",
+   "24",
+   "144",
+   "18"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 12 ÷ 1/2 = 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2487645e9ec2e0f5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 21 coins remain. How many coins were there at the start?",
+  "options": [
+   "55",
+   "56",
+   "38",
+   "168"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 21 ÷ 3/8 = 56.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:86db8ccd7d9638e0",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 108 coins remain. How many coins were there at the start?",
+  "options": [
+   "150",
+   "192",
+   "191",
+   "1728"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 9/16 of the start; 108 ÷ 9/16 = 192.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:852c55ab89db591c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 60 coins remain. How many coins were there at the start?",
+  "options": [
+   "480",
+   "160",
+   "159",
+   "110"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 60 ÷ 3/8 = 160.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:d2994a10ce6b451d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 14 coins remain. How many coins were there at the start?",
+  "options": [
+   "42",
+   "41",
+   "28",
+   "84"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 14 ÷ 1/3 = 42.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:767dd22cda80bf6d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 135 coins remain. How many coins were there at the start?",
+  "options": [
+   "2160",
+   "240",
+   "187",
+   "239"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 9/16 of the start; 135 ÷ 9/16 = 240.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2d6e99880b9e4610",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "36",
+   "54",
+   "53",
+   "108"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 18 ÷ 1/3 = 54.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:395fe51b5241eddb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 7 coins remain. How many coins were there at the start?",
+  "options": [
+   "13",
+   "10",
+   "84",
+   "14"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 7 ÷ 1/2 = 14.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:945dce47ff411282",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 24 coins remain. How many coins were there at the start?",
+  "options": [
+   "192",
+   "64",
+   "44",
+   "63"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 24 ÷ 3/8 = 64.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:d928de51a3c36bb7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 72 coins remain. How many coins were there at the start?",
+  "options": [
+   "162",
+   "117",
+   "648",
+   "161"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 4/9 of the start; 72 ÷ 4/9 = 162.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:5578ffb21fd9b058",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 45 coins remain. How many coins were there at the start?",
+  "options": [
+   "82",
+   "360",
+   "120",
+   "119"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 45 ÷ 3/8 = 120.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2f5a3fe7a9b2e81b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 6 coins remain. How many coins were there at the start?",
+  "options": [
+   "12",
+   "36",
+   "17",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 6 ÷ 1/3 = 18.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:6a58ae18adfc979b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 30 coins remain. How many coins were there at the start?",
+  "options": [
+   "240",
+   "80",
+   "55",
+   "79"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 30 ÷ 3/8 = 80.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:e4edc1e66ea6ea3a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 27 coins remain. How many coins were there at the start?",
+  "options": [
+   "49",
+   "216",
+   "72",
+   "71"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 27 ÷ 3/8 = 72.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b9c37796d5b4b2e5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "35",
+   "27",
+   "36",
+   "216"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 18 ÷ 1/2 = 36.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:9d09cc03042a6faf",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 9 coins remain. How many coins were there at the start?",
+  "options": [
+   "13",
+   "18",
+   "108",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 9 ÷ 1/2 = 18.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:7047743f8d9e18f1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 7 coins remain. How many coins were there at the start?",
+  "options": [
+   "21",
+   "42",
+   "20",
+   "14"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 7 ÷ 1/3 = 21.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:5e2e44cc8c70116a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 12 coins remain. How many coins were there at the start?",
+  "options": [
+   "72",
+   "36",
+   "24",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 12 ÷ 1/3 = 36.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f37b6c1f439e16e5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 16 coins remain. How many coins were there at the start?",
+  "options": [
+   "32",
+   "48",
+   "96",
+   "47"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 16 ÷ 1/3 = 48.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:0ee8687cc223d3c9",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 11 coins remain. How many coins were there at the start?",
+  "options": [
+   "16",
+   "21",
+   "22",
+   "132"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 11 ÷ 1/2 = 22.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:55b559714881e8c7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 11 coins remain. How many coins were there at the start?",
+  "options": [
+   "32",
+   "66",
+   "33",
+   "22"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 11 ÷ 1/3 = 33.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2dc4bfce6b68948d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 51 coins remain. How many coins were there at the start?",
+  "options": [
+   "408",
+   "136",
+   "93",
+   "135"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 51 ÷ 3/8 = 136.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:0937b94739ea791f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 63 coins remain. How many coins were there at the start?",
+  "options": [
+   "1008",
+   "87",
+   "111",
+   "112"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 9/16 of the start; 63 ÷ 9/16 = 112.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:dd18eab5bc67b59b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 81 coins remain. How many coins were there at the start?",
+  "options": [
+   "1296",
+   "144",
+   "112",
+   "143"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 9/16 of the start; 81 ÷ 9/16 = 144.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:82b2e0922db7b580",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 68 coins remain. How many coins were there at the start?",
+  "options": [
+   "612",
+   "152",
+   "153",
+   "110"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 68 ÷ 4/9 = 153.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:8c2b7ae6b804ccb7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 17 coins remain. How many coins were there at the start?",
+  "options": [
+   "204",
+   "34",
+   "25",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 17 ÷ 1/2 = 34.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:272c1e9cb02b8abf",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 17 coins remain. How many coins were there at the start?",
+  "options": [
+   "34",
+   "51",
+   "102",
+   "50"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 17 ÷ 1/3 = 51.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:082ac62a8777e8d3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 10 coins remain. How many coins were there at the start?",
+  "options": [
+   "30",
+   "20",
+   "60",
+   "29"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 10 ÷ 1/3 = 30.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:9057134e1412a75e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 12 coins remain. How many coins were there at the start?",
+  "options": [
+   "23",
+   "144",
+   "18",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 12 ÷ 1/2 = 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:1a79469001375c39",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 19 coins remain. How many coins were there at the start?",
+  "options": [
+   "28",
+   "228",
+   "37",
+   "38"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 19 ÷ 1/2 = 38.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:aaaedaaa3605b499",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 9 coins remain. How many coins were there at the start?",
+  "options": [
+   "18",
+   "26",
+   "27",
+   "54"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 9 ÷ 1/3 = 27.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:c9fcc1df95abe946",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 56 coins remain. How many coins were there at the start?",
+  "options": [
+   "126",
+   "504",
+   "125",
+   "91"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 4/9 of the start; 56 ÷ 4/9 = 126.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:388e014a1d3e51c1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 42 coins remain. How many coins were there at the start?",
+  "options": [
+   "336",
+   "112",
+   "111",
+   "77"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 42 ÷ 3/8 = 112.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:8d9fde60cae68d3b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 10 coins remain. How many coins were there at the start?",
+  "options": [
+   "20",
+   "15",
+   "120",
+   "19"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 10 ÷ 1/2 = 20.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:a6a39d2d75064208",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 57 coins remain. How many coins were there at the start?",
+  "options": [
+   "104",
+   "152",
+   "456",
+   "151"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 57 ÷ 3/8 = 152.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b4028fb48c1c04e1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 13 coins remain. How many coins were there at the start?",
+  "options": [
+   "26",
+   "19",
+   "156",
+   "25"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 13 ÷ 1/2 = 26.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:62b6e9dd5b6eaaea",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 6 coins remain. How many coins were there at the start?",
+  "options": [
+   "11",
+   "9",
+   "72",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 6 ÷ 1/2 = 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:eecd53f7d8359773",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 9 coins remain. How many coins were there at the start?",
+  "options": [
+   "26",
+   "18",
+   "54",
+   "27"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 9 ÷ 1/3 = 27.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:6d0cfc92538be1b6",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 33 coins remain. How many coins were there at the start?",
+  "options": [
+   "264",
+   "88",
+   "87",
+   "60"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 33 ÷ 3/8 = 88.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:26441b19fbb01028",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 17 coins remain. How many coins were there at the start?",
+  "options": [
+   "204",
+   "34",
+   "33",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 17 ÷ 1/2 = 34.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:7309ab34b8f7d241",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 36 coins remain. How many coins were there at the start?",
+  "options": [
+   "80",
+   "324",
+   "81",
+   "58"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 36 ÷ 4/9 = 81.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2b88ca4ff71388ab",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 14 coins remain. How many coins were there at the start?",
+  "options": [
+   "28",
+   "42",
+   "84",
+   "41"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 14 ÷ 1/3 = 42.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:dc80ef2f89950187",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 54 coins remain. How many coins were there at the start?",
+  "options": [
+   "143",
+   "432",
+   "144",
+   "99"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 54 ÷ 3/8 = 144.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:99b2fa6421e98f00",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 44 coins remain. How many coins were there at the start?",
+  "options": [
+   "396",
+   "98",
+   "99",
+   "71"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 44 ÷ 4/9 = 99.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:32247896d626338f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 80 coins remain. How many coins were there at the start?",
+  "options": [
+   "720",
+   "180",
+   "179",
+   "130"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 4/9 of the start; 80 ÷ 4/9 = 180.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:ef32448c818938da",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 72 coins remain. How many coins were there at the start?",
+  "options": [
+   "127",
+   "128",
+   "100",
+   "1152"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 9/16 of the start; 72 ÷ 9/16 = 128.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:d75df7152fe48a3d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 17 coins remain. How many coins were there at the start?",
+  "options": [
+   "51",
+   "34",
+   "50",
+   "102"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 17 ÷ 1/3 = 51.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f96b97aa2e238318",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 42 coins remain. How many coins were there at the start?",
+  "options": [
+   "112",
+   "336",
+   "111",
+   "77"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 3/8 of the start; 42 ÷ 3/8 = 112.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:a7d630622f8ff96d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 24 coins remain. How many coins were there at the start?",
+  "options": [
+   "63",
+   "44",
+   "192",
+   "64"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 3/8 of the start; 24 ÷ 3/8 = 64.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:d60a27264128a0a2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 64 coins remain. How many coins were there at the start?",
+  "options": [
+   "104",
+   "143",
+   "576",
+   "144"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 4/9 of the start; 64 ÷ 4/9 = 144.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:d56b566aff9f6ea6",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 45 coins remain. How many coins were there at the start?",
+  "options": [
+   "120",
+   "119",
+   "82",
+   "360"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 3/8 of the start; 45 ÷ 3/8 = 120.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:e8cc74bb17420a25",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 15 coins remain. How many coins were there at the start?",
+  "options": [
+   "29",
+   "30",
+   "180",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 15 ÷ 1/2 = 30.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:7465caabb72b21f2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 16 coins remain. How many coins were there at the start?",
+  "options": [
+   "96",
+   "47",
+   "32",
+   "48"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 16 ÷ 1/3 = 48.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3bfac648b4e53f87",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 76 coins remain. How many coins were there at the start?",
+  "options": [
+   "171",
+   "170",
+   "684",
+   "123"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 4/9 of the start; 76 ÷ 4/9 = 171.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:268ca1e9ce035eaf",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 54 coins remain. How many coins were there at the start?",
+  "options": [
+   "432",
+   "143",
+   "99",
+   "144"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 3/8 of the start; 54 ÷ 3/8 = 144.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3ad999cdefa55e69",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 8 coins remain. How many coins were there at the start?",
+  "options": [
+   "16",
+   "15",
+   "96",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 8 ÷ 1/2 = 16.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:752f426b84b223c0",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 11 coins remain. How many coins were there at the start?",
+  "options": [
+   "22",
+   "66",
+   "33",
+   "32"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 11 ÷ 1/3 = 33.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:707024b22cf34d96",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 7 coins remain. How many coins were there at the start?",
+  "options": [
+   "84",
+   "10",
+   "14",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 7 ÷ 1/2 = 14.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:a65d2cbb0c48b84f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 8 coins remain. How many coins were there at the start?",
+  "options": [
+   "23",
+   "48",
+   "24",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 8 ÷ 1/3 = 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:5e2b5de8debe9400",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 39 coins remain. How many coins were there at the start?",
+  "options": [
+   "104",
+   "312",
+   "71",
+   "103"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 3/8 of the start; 39 ÷ 3/8 = 104.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3c3e9023ac325f1c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 36 coins remain. How many coins were there at the start?",
+  "options": [
+   "95",
+   "96",
+   "288",
+   "66"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 36 ÷ 3/8 = 96.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:4ebba93014c391ae",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 20 coins remain. How many coins were there at the start?",
+  "options": [
+   "240",
+   "40",
+   "30",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 20 ÷ 1/2 = 40.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:33ca6072160817de",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 57 coins remain. How many coins were there at the start?",
+  "options": [
+   "151",
+   "152",
+   "456",
+   "104"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 57 ÷ 3/8 = 152.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b50fc863a5a46106",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 171 coins remain. How many coins were there at the start?",
+  "options": [
+   "237",
+   "303",
+   "304",
+   "2736"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 9/16 of the start; 171 ÷ 9/16 = 304.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f1edb995d51b2fcb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 153 coins remain. How many coins were there at the start?",
+  "options": [
+   "212",
+   "271",
+   "272",
+   "2448"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 9/16 of the start; 153 ÷ 9/16 = 272.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f31a734e1e3380bd",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 60 coins remain. How many coins were there at the start?",
+  "options": [
+   "134",
+   "540",
+   "135",
+   "97"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 60 ÷ 4/9 = 135.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f5276cc7a9784745",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 20 coins remain. How many coins were there at the start?",
+  "options": [
+   "40",
+   "60",
+   "59",
+   "120"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/3 of the start; 20 ÷ 1/3 = 60.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:655d18245025b3b7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 13 coins remain. How many coins were there at the start?",
+  "options": [
+   "156",
+   "26",
+   "19",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 13 ÷ 1/2 = 26.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:eb2083063cb3aae2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 8 coins remain. How many coins were there at the start?",
+  "options": [
+   "15",
+   "12",
+   "16",
+   "96"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 8 ÷ 1/2 = 16.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:85022334e3eed8a5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 162 coins remain. How many coins were there at the start?",
+  "options": [
+   "2592",
+   "225",
+   "288",
+   "287"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 9/16 of the start; 162 ÷ 9/16 = 288.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:0c2ee8f47879eba2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 8 coins remain. How many coins were there at the start?",
+  "options": [
+   "16",
+   "23",
+   "48",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 8 ÷ 1/3 = 24.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:75851247f9fecf1c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 19 coins remain. How many coins were there at the start?",
+  "options": [
+   "38",
+   "114",
+   "56",
+   "57"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/3 of the start; 19 ÷ 1/3 = 57.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:0884ef9bf61b9107",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 54 coins remain. How many coins were there at the start?",
+  "options": [
+   "95",
+   "75",
+   "96",
+   "864"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 9/16 of the start; 54 ÷ 9/16 = 96.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3fbcb00e70842286",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 24 coins remain. How many coins were there at the start?",
+  "options": [
+   "53",
+   "216",
+   "54",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 24 ÷ 4/9 = 54.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:58de102c0b027cba",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 13 coins remain. How many coins were there at the start?",
+  "options": [
+   "38",
+   "78",
+   "39",
+   "26"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 13 ÷ 1/3 = 39.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:54012f9ca82dd9c4",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "54",
+   "53",
+   "36",
+   "108"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 18 ÷ 1/3 = 54.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:f309b1d8f3e904ae",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "48",
+   "33",
+   "47",
+   "144"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 3/8 of the start; 18 ÷ 3/8 = 48.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:2618b19f16fa17d6",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 27 coins remain. How many coins were there at the start?",
+  "options": [
+   "49",
+   "216",
+   "71",
+   "72"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 3/8 of the start; 27 ÷ 3/8 = 72.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:466e77d3e92c581f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 48 coins remain. How many coins were there at the start?",
+  "options": [
+   "88",
+   "127",
+   "128",
+   "384"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 48 ÷ 3/8 = 128.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:5649ca9504732fd8",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 10 coins remain. How many coins were there at the start?",
+  "options": [
+   "29",
+   "20",
+   "30",
+   "60"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 10 ÷ 1/3 = 30.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3811585e2dd84aae",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 6 coins remain. How many coins were there at the start?",
+  "options": [
+   "9",
+   "72",
+   "12",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 6 ÷ 1/2 = 12.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:45cca00ed5fd7160",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/2 of what is left. Now 20 coins remain. How many coins were there at the start?",
+  "options": [
+   "59",
+   "40",
+   "60",
+   "120"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 20 ÷ 1/3 = 60.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:00b8ee0b92c36c21",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 51 coins remain. How many coins were there at the start?",
+  "options": [
+   "408",
+   "93",
+   "135",
+   "136"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 3/8 of the start; 51 ÷ 3/8 = 136.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b81d3b00c401d3ba",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "33",
+   "144",
+   "48",
+   "47"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 18 ÷ 3/8 = 48.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:72a7a61fa2bcb6e3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 7 coins remain. How many coins were there at the start?",
+  "options": [
+   "42",
+   "20",
+   "21",
+   "14"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 7 ÷ 1/3 = 21.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b378b66b17765a6e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 18 coins remain. How many coins were there at the start?",
+  "options": [
+   "27",
+   "35",
+   "36",
+   "216"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 18 ÷ 1/2 = 36.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:cb4a6f0285d21199",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 60 coins remain. How many coins were there at the start?",
+  "options": [
+   "160",
+   "110",
+   "480",
+   "159"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 3/8 of the start; 60 ÷ 3/8 = 160.",
+  "distractor_explanations": [
+   null,
+   "only did part of the working",
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:041ef203000770f4",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 20 coins remain. How many coins were there at the start?",
+  "options": [
+   "240",
+   "40",
+   "30",
+   "39"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 20 ÷ 1/2 = 40.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:9a2b30fba3200050",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 48 coins remain. How many coins were there at the start?",
+  "options": [
+   "78",
+   "108",
+   "432",
+   "107"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 4/9 of the start; 48 ÷ 4/9 = 108.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "multiplied by both bottoms",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:82a587416086472a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 11 coins remain. How many coins were there at the start?",
+  "options": [
+   "132",
+   "16",
+   "21",
+   "22"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 11 ÷ 1/2 = 22.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:95e3f5430f7f6f41",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/4 of what is left. Now 30 coins remain. How many coins were there at the start?",
+  "options": [
+   "55",
+   "80",
+   "79",
+   "240"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 3/8 of the start; 30 ÷ 3/8 = 80.",
+  "distractor_explanations": [
+   "only did part of the working",
+   null,
+   "made a small slip",
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:9ad6dc95740ad06e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 19 coins remain. How many coins were there at the start?",
+  "options": [
+   "38",
+   "228",
+   "37",
+   "28"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 19 ÷ 1/2 = 38.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:767c976c2d4dc55f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 39 coins remain. How many coins were there at the start?",
+  "options": [
+   "312",
+   "103",
+   "104",
+   "71"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 39 ÷ 3/8 = 104.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:91f3c55a3c78cc00",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 12 coins remain. How many coins were there at the start?",
+  "options": [
+   "36",
+   "72",
+   "24",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/3 of the start; 12 ÷ 1/3 = 36.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:c4aed1e88c216566",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 90 coins remain. How many coins were there at the start?",
+  "options": [
+   "1440",
+   "159",
+   "125",
+   "160"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 9/16 of the start; 90 ÷ 9/16 = 160.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   "only did part of the working",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:261f052364316432",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "A game has some coins. First 1/2 of the coins are used, then 1/3 of what is left. Now 13 coins remain. How many coins were there at the start?",
+  "options": [
+   "78",
+   "26",
+   "39",
+   "38"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/3 of the start; 13 ÷ 1/3 = 39.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "only did part of the working",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:b402c64c02c9a08e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 33 coins remain. How many coins were there at the start?",
+  "options": [
+   "264",
+   "87",
+   "88",
+   "60"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 33 ÷ 3/8 = 88.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   "made a small slip",
+   null,
+   "only did part of the working"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:8b41732132d19441",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/4 of what is left. Now 180 coins remain. How many coins were there at the start?",
+  "options": [
+   "319",
+   "250",
+   "2880",
+   "320"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 9/16 of the start; 180 ÷ 9/16 = 320.",
+  "distractor_explanations": [
+   "made a small slip",
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:0a0b862cf9c02a0c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 16 coins remain. How many coins were there at the start?",
+  "options": [
+   "192",
+   "32",
+   "24",
+   "31"
+  ],
+  "answer_index": 1,
+  "explanation": "Kept 1/2 of the start; 16 ÷ 1/2 = 32.",
+  "distractor_explanations": [
+   "multiplied by both bottoms",
+   null,
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:25f18442a324414f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 14 coins remain. How many coins were there at the start?",
+  "options": [
+   "28",
+   "168",
+   "21",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "Kept 1/2 of the start; 14 ÷ 1/2 = 28.",
+  "distractor_explanations": [
+   null,
+   "multiplied by both bottoms",
+   "only did part of the working",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:82bcdfdb7a1519db",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/3 of what is left. Now 10 coins remain. How many coins were there at the start?",
+  "options": [
+   "15",
+   "19",
+   "20",
+   "120"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 1/2 of the start; 10 ÷ 1/2 = 20.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:645cff82ae48d5f4",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/4 of what is left. Now 14 coins remain. How many coins were there at the start?",
+  "options": [
+   "21",
+   "27",
+   "168",
+   "28"
+  ],
+  "answer_index": 3,
+  "explanation": "Kept 1/2 of the start; 14 ÷ 1/2 = 28.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   "multiplied by both bottoms",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:4c063222627bb8ff",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "A game has some coins. First 1/3 of the coins are used, then 1/3 of what is left. Now 32 coins remain. How many coins were there at the start?",
+  "options": [
+   "52",
+   "71",
+   "72",
+   "288"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 4/9 of the start; 32 ÷ 4/9 = 72.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "made a small slip",
+   null,
+   "multiplied by both bottoms"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:work_backwards:5:3189c9330c5f6c48",
+  "topic_id": "MA-B06",
+  "qtype": "l35:work_backwards",
+  "level": 5,
+  "generator": "l35:work_backwards",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "A game has some coins. First 1/4 of the coins are used, then 1/2 of what is left. Now 48 coins remain. How many coins were there at the start?",
+  "options": [
+   "88",
+   "384",
+   "128",
+   "127"
+  ],
+  "answer_index": 2,
+  "explanation": "Kept 3/8 of the start; 48 ÷ 3/8 = 128.",
+  "distractor_explanations": [
+   "only did part of the working",
+   "multiplied by both bottoms",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

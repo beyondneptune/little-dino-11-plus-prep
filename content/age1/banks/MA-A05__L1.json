@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:rounding:1:6341eb77e1fa2a07",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Round 33 to the nearest 10.",
+  "options": [
+   "30",
+   "20",
+   "33",
+   "40"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 33; 33 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:2:ab3bdc19e68d673b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Round 43 to the nearest 10.",
+  "options": [
+   "30",
+   "43",
+   "50",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 43; 43 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:3:891b2aa2d5f0abf9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Round 23 to the nearest 10.",
+  "options": [
+   "20",
+   "23",
+   "30",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 23; 23 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:4:40b68ef5399b77ca",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Round 88 to the nearest 10.",
+  "options": [
+   "100",
+   "88",
+   "90",
+   "80"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 88; 88 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:5:9407a5d43dd7fcee",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Round 38 to the nearest 10.",
+  "options": [
+   "40",
+   "50",
+   "38",
+   "30"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 38; 38 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:6:0f0c6c9ee205fcc7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Round 16 to the nearest 10.",
+  "options": [
+   "10",
+   "20",
+   "30",
+   "16"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 16; 16 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:7:0acbb88d364aac40",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Round 52 to the nearest 10.",
+  "options": [
+   "52",
+   "50",
+   "40",
+   "60"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 52; 52 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:8:ad93e23e136b2df2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Round 20 to the nearest 10.",
+  "options": [
+   "10",
+   "30",
+   "21",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 20; 20 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:9:f71e0d5206c8b94b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Round 41 to the nearest 10.",
+  "options": [
+   "40",
+   "30",
+   "41",
+   "50"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 41; 41 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:10:0e045d5107f2d282",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Round 94 to the nearest 10.",
+  "options": [
+   "94",
+   "100",
+   "80",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 94; 94 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:11:71e8744de63f46cb",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Round 71 to the nearest 10.",
+  "options": [
+   "60",
+   "80",
+   "71",
+   "70"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 71; 71 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:12:aa2ff3b4e544ec19",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Round 50 to the nearest 10.",
+  "options": [
+   "60",
+   "50",
+   "40",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 50; 50 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:13:b5e24716959e72c1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Round 15 to the nearest 10.",
+  "options": [
+   "30",
+   "20",
+   "15",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 15; 15 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:14:1310f48f2e9ee55b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Round 93 to the nearest 10.",
+  "options": [
+   "90",
+   "93",
+   "100",
+   "80"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 93; 93 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:15:4ad834d79edcb872",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Round 70 to the nearest 10.",
+  "options": [
+   "60",
+   "70",
+   "80",
+   "71"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 70; 70 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:16:3fa5d74eb5dea465",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Round 27 to the nearest 10.",
+  "options": [
+   "20",
+   "40",
+   "30",
+   "27"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 27; 27 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:17:1e1bd9713f09766d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Round 39 to the nearest 10.",
+  "options": [
+   "50",
+   "40",
+   "39",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 39; 39 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:18:0ae31a593930d460",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Round 17 to the nearest 10.",
+  "options": [
+   "30",
+   "17",
+   "10",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 17; 17 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:19:7d8e4ff479c7ff65",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Round 31 to the nearest 10.",
+  "options": [
+   "20",
+   "30",
+   "31",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 31; 31 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:20:901fc24f84357d93",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Round 36 to the nearest 10.",
+  "options": [
+   "50",
+   "30",
+   "36",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 36; 36 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:21:db01b3972d2a91bc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Round 93 to the nearest 10.",
+  "options": [
+   "80",
+   "93",
+   "90",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 93; 93 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:22:abc418b7f8b4c0bf",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Round 51 to the nearest 10.",
+  "options": [
+   "40",
+   "60",
+   "51",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 51; 51 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:23:37698278c004de32",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Round 79 to the nearest 10.",
+  "options": [
+   "90",
+   "79",
+   "70",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 79; 79 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:24:7ce8a221ed672274",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Round 95 to the nearest 10.",
+  "options": [
+   "100",
+   "110",
+   "95",
+   "90"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 95; 95 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:25:a7c9e2a173965a1c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Round 56 to the nearest 10.",
+  "options": [
+   "50",
+   "70",
+   "56",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 56; 56 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:26:e735ec48ba69bace",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Round 32 to the nearest 10.",
+  "options": [
+   "40",
+   "32",
+   "20",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 32; 32 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:27:8333efcf9c17b5f4",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Round 51 to the nearest 10.",
+  "options": [
+   "40",
+   "51",
+   "60",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 51; 51 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:28:a44d9500c4494fb6",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Round 72 to the nearest 10.",
+  "options": [
+   "72",
+   "70",
+   "60",
+   "80"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 72; 72 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:29:b70dd900d8b60569",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Round 25 to the nearest 10.",
+  "options": [
+   "40",
+   "30",
+   "25",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 25; 25 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:30:93ddae6482c7e3e2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Round 47 to the nearest 10.",
+  "options": [
+   "47",
+   "50",
+   "40",
+   "60"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 47; 47 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:31:19755c321c66408c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Round 109 to the nearest 10.",
+  "options": [
+   "109",
+   "110",
+   "120",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 109; 109 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:32:cb2d461e1597b730",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Round 39 to the nearest 10.",
+  "options": [
+   "50",
+   "30",
+   "40",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 39; 39 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:33:07e47387c5a2be91",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Round 45 to the nearest 10.",
+  "options": [
+   "40",
+   "50",
+   "45",
+   "60"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 45; 45 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:34:44ebb05ccd13f34c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Round 23 to the nearest 10.",
+  "options": [
+   "10",
+   "30",
+   "23",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 23; 23 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:35:55b2f4465d836c9f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Round 40 to the nearest 10.",
+  "options": [
+   "50",
+   "40",
+   "30",
+   "41"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 40; 40 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:36:c60cc535141ee613",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Round 21 to the nearest 10.",
+  "options": [
+   "10",
+   "20",
+   "21",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 21; 21 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:37:ab253eb84941cb06",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Round 94 to the nearest 10.",
+  "options": [
+   "90",
+   "80",
+   "94",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 94; 94 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:38:890df00886314b72",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Round 84 to the nearest 10.",
+  "options": [
+   "84",
+   "90",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 84; 84 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:39:e0476ae55bfca280",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Round 44 to the nearest 10.",
+  "options": [
+   "44",
+   "40",
+   "50",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 44; 44 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:41:5f96c671618aeef2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Round 106 to the nearest 10.",
+  "options": [
+   "100",
+   "106",
+   "120",
+   "110"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 106; 106 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:42:892af34ca3c27dad",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Round 80 to the nearest 10.",
+  "options": [
+   "81",
+   "80",
+   "90",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 80; 80 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:43:b2b397da66eaf5e2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Round 75 to the nearest 10.",
+  "options": [
+   "90",
+   "75",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 75; 75 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:44:8d4ba493ccab505b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Round 98 to the nearest 10.",
+  "options": [
+   "100",
+   "110",
+   "90",
+   "98"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 98; 98 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:45:32d7431c59c25b75",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Round 27 to the nearest 10.",
+  "options": [
+   "20",
+   "27",
+   "40",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 27; 27 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:47:16601c9b2db5c31a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Round 54 to the nearest 10.",
+  "options": [
+   "40",
+   "54",
+   "50",
+   "60"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 54; 54 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:48:21f4f12cfeabe50c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Round 24 to the nearest 10.",
+  "options": [
+   "30",
+   "10",
+   "20",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 24; 24 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:49:6b73644b00797542",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Round 77 to the nearest 10.",
+  "options": [
+   "70",
+   "77",
+   "90",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 77; 77 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:50:e67500177a581f12",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Round 85 to the nearest 10.",
+  "options": [
+   "100",
+   "80",
+   "85",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 85; 85 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:51:8e5de931524e759f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Round 42 to the nearest 10.",
+  "options": [
+   "30",
+   "50",
+   "40",
+   "42"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 42; 42 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:52:ec5651e27b3a6f65",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Round 84 to the nearest 10.",
+  "options": [
+   "90",
+   "80",
+   "70",
+   "84"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 84; 84 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:53:cdc0081989a419bc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Round 64 to the nearest 10.",
+  "options": [
+   "50",
+   "70",
+   "60",
+   "64"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 64; 64 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:54:7d4049de80ebced5",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Round 67 to the nearest 10.",
+  "options": [
+   "70",
+   "80",
+   "60",
+   "67"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 67; 67 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:55:59ed101be990934c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Round 18 to the nearest 10.",
+  "options": [
+   "20",
+   "30",
+   "10",
+   "18"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 18; 18 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:56:f64f82089632a19f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Round 79 to the nearest 10.",
+  "options": [
+   "90",
+   "80",
+   "70",
+   "79"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 79; 79 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:57:4e306e960e7f3e2c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Round 13 to the nearest 10.",
+  "options": [
+   "20",
+   "11",
+   "10",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 13; 13 rounds to 10 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:58:4caa25fb31ce8040",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Round 72 to the nearest 10.",
+  "options": [
+   "80",
+   "72",
+   "70",
+   "60"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 72; 72 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:59:89f8c9fe5d0342c7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Round 79 to the nearest 10.",
+  "options": [
+   "79",
+   "90",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 79; 79 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:60:969927211a564272",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Round 21 to the nearest 10.",
+  "options": [
+   "20",
+   "30",
+   "21",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 21; 21 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:61:46017c9cbb680e5e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Round 75 to the nearest 10.",
+  "options": [
+   "75",
+   "80",
+   "90",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 75; 75 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:62:7310fb73ddc7317b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Round 103 to the nearest 10.",
+  "options": [
+   "90",
+   "100",
+   "110",
+   "103"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 103; 103 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:63:016401e44138e062",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Round 83 to the nearest 10.",
+  "options": [
+   "90",
+   "83",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 83; 83 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:64:5f109865096b369d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Round 64 to the nearest 10.",
+  "options": [
+   "70",
+   "64",
+   "50",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 64; 64 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:65:819ee5be9bc45d0b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Round 92 to the nearest 10.",
+  "options": [
+   "80",
+   "92",
+   "90",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 92; 92 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:67:67933bd89cd5b828",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Round 19 to the nearest 10.",
+  "options": [
+   "10",
+   "30",
+   "19",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 19; 19 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:68:f24276be72e43582",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Round 22 to the nearest 10.",
+  "options": [
+   "10",
+   "22",
+   "30",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 22; 22 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:69:151b32455e9caceb",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Round 71 to the nearest 10.",
+  "options": [
+   "80",
+   "70",
+   "60",
+   "71"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 71; 71 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:70:2f4494ca385fb497",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Round 56 to the nearest 10.",
+  "options": [
+   "70",
+   "60",
+   "56",
+   "50"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 56; 56 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:71:e0690c58ed694693",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Round 22 to the nearest 10.",
+  "options": [
+   "30",
+   "20",
+   "10",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 22; 22 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:72:79d045e93d4abfa8",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Round 59 to the nearest 10.",
+  "options": [
+   "50",
+   "59",
+   "70",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 59; 59 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:73:c747d8bd86703a6c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Round 98 to the nearest 10.",
+  "options": [
+   "98",
+   "100",
+   "110",
+   "90"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 98; 98 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:74:3f5ce265e40e2057",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Round 57 to the nearest 10.",
+  "options": [
+   "50",
+   "57",
+   "70",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 57; 57 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:75:8afade507b0c3d0f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Round 96 to the nearest 10.",
+  "options": [
+   "90",
+   "110",
+   "100",
+   "96"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 96; 96 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:76:6166c200c2ec4b42",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Round 51 to the nearest 10.",
+  "options": [
+   "40",
+   "50",
+   "60",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 51; 51 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:77:f9fd7a985d3b0942",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Round 92 to the nearest 10.",
+  "options": [
+   "80",
+   "90",
+   "92",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 92; 92 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:78:2700637c9ff09ed8",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Round 19 to the nearest 10.",
+  "options": [
+   "19",
+   "10",
+   "20",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 19; 19 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:79:f68cb9a94b917bff",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Round 15 to the nearest 10.",
+  "options": [
+   "30",
+   "15",
+   "20",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 15; 15 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:80:fc7ac99c3171f781",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Round 38 to the nearest 10.",
+  "options": [
+   "50",
+   "30",
+   "38",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 38; 38 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:81:20d31be58c3f0d7f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Round 63 to the nearest 10.",
+  "options": [
+   "60",
+   "50",
+   "63",
+   "70"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 63; 63 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:82:0b13de9449007399",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Round 82 to the nearest 10.",
+  "options": [
+   "90",
+   "70",
+   "80",
+   "82"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 82; 82 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:83:f74470dca9d2cfbc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Round 60 to the nearest 10.",
+  "options": [
+   "61",
+   "50",
+   "60",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 60; 60 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:84:94c68beacf361e33",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Round 88 to the nearest 10.",
+  "options": [
+   "88",
+   "80",
+   "100",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 88; 88 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:85:8efa17fc267f1cec",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Round 60 to the nearest 10.",
+  "options": [
+   "60",
+   "50",
+   "70",
+   "61"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 60; 60 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:86:a74c308bb8515683",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Round 94 to the nearest 10.",
+  "options": [
+   "80",
+   "94",
+   "90",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 94; 94 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:87:b6e551c7a110a746",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Round 12 to the nearest 10.",
+  "options": [
+   "12",
+   "11",
+   "20",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 12; 12 rounds to 10 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:88:5e5c6c171c12c4d2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Round 75 to the nearest 10.",
+  "options": [
+   "75",
+   "80",
+   "70",
+   "90"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 75; 75 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:89:9e9963f5867fadbb",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Round 20 to the nearest 10.",
+  "options": [
+   "20",
+   "30",
+   "10",
+   "21"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 20; 20 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:90:bfe0609000e41f4f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Round 40 to the nearest 10.",
+  "options": [
+   "40",
+   "30",
+   "50",
+   "41"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 40; 40 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:91:c99e48bb8e0fa4a8",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Round 71 to the nearest 10.",
+  "options": [
+   "60",
+   "70",
+   "80",
+   "71"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 71; 71 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:92:ad9f2b86d3a16c38",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Round 34 to the nearest 10.",
+  "options": [
+   "34",
+   "30",
+   "40",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 34; 34 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:93:92bfb7c0fd80e749",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Round 29 to the nearest 10.",
+  "options": [
+   "30",
+   "29",
+   "20",
+   "40"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 29; 29 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:94:d607cee4dc05ad27",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Round 20 to the nearest 10.",
+  "options": [
+   "10",
+   "21",
+   "20",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 20; 20 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:97:92a5b88523c917db",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Round 33 to the nearest 10.",
+  "options": [
+   "33",
+   "40",
+   "20",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 33; 33 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:98:86a9379ccbf99ed0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Round 92 to the nearest 10.",
+  "options": [
+   "92",
+   "100",
+   "90",
+   "80"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 92; 92 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:99:10cf3aca286fe290",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Round 19 to the nearest 10.",
+  "options": [
+   "19",
+   "20",
+   "30",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 19; 19 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:100:83083831d3ed7f96",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Round 12 to the nearest 10.",
+  "options": [
+   "11",
+   "10",
+   "20",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 12; 12 rounds to 10 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:101:4053dd82a00e8a78",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Round 85 to the nearest 10.",
+  "options": [
+   "80",
+   "100",
+   "85",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 85; 85 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:102:bfed2b32008eb84a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Round 84 to the nearest 10.",
+  "options": [
+   "90",
+   "84",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 84; 84 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:103:615c0be8f966a591",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Round 74 to the nearest 10.",
+  "options": [
+   "70",
+   "60",
+   "80",
+   "74"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 74; 74 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:104:1c959a0ed8a1229b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Round 43 to the nearest 10.",
+  "options": [
+   "43",
+   "30",
+   "50",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 43; 43 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:105:bfa366cd0491f298",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Round 49 to the nearest 10.",
+  "options": [
+   "49",
+   "40",
+   "60",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 49; 49 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:106:87ae635b62b66537",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Round 95 to the nearest 10.",
+  "options": [
+   "110",
+   "90",
+   "95",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 95; 95 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:107:425e9913fa7e2ff1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Round 100 to the nearest 10.",
+  "options": [
+   "90",
+   "110",
+   "100",
+   "101"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 100; 100 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:108:2dc7590d4f292e2e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Round 34 to the nearest 10.",
+  "options": [
+   "40",
+   "20",
+   "30",
+   "34"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 34; 34 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:109:5c782bd9cb35665c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Round 70 to the nearest 10.",
+  "options": [
+   "71",
+   "60",
+   "70",
+   "80"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 70; 70 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:110:b4ec00b10d138fc9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Round 63 to the nearest 10.",
+  "options": [
+   "70",
+   "63",
+   "60",
+   "50"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 63; 63 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:111:b7207d45dd1c6e3c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Round 95 to the nearest 10.",
+  "options": [
+   "95",
+   "100",
+   "110",
+   "90"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 95; 95 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:112:ef6e8c466d11e00a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Round 106 to the nearest 10.",
+  "options": [
+   "120",
+   "110",
+   "100",
+   "106"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 106; 106 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:113:1cb58c4bea57da6e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Round 61 to the nearest 10.",
+  "options": [
+   "61",
+   "60",
+   "70",
+   "50"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 61; 61 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:114:1f0c5e63435700e6",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Round 64 to the nearest 10.",
+  "options": [
+   "70",
+   "50",
+   "64",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 64; 64 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:115:4a44903acdc76324",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Round 107 to the nearest 10.",
+  "options": [
+   "120",
+   "107",
+   "110",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 107; 107 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:116:3975c15f6d5e2774",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Round 31 to the nearest 10.",
+  "options": [
+   "20",
+   "31",
+   "30",
+   "40"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 31; 31 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:117:4817301d352c9469",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Round 96 to the nearest 10.",
+  "options": [
+   "90",
+   "100",
+   "96",
+   "110"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 96; 96 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:118:5a4da47c2a0d2e42",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Round 21 to the nearest 10.",
+  "options": [
+   "10",
+   "30",
+   "21",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 21; 21 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:119:2150d191587e8e01",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Round 12 to the nearest 10.",
+  "options": [
+   "12",
+   "20",
+   "10",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 12; 12 rounds to 10 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:120:090e655ac28a946e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Round 101 to the nearest 10.",
+  "options": [
+   "101",
+   "90",
+   "100",
+   "110"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 101; 101 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:121:a53d6a002ca8ee19",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Round 63 to the nearest 10.",
+  "options": [
+   "63",
+   "60",
+   "70",
+   "50"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 63; 63 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:122:e534fa1f6fc140e3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Round 56 to the nearest 10.",
+  "options": [
+   "60",
+   "56",
+   "70",
+   "50"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 56; 56 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:123:ac473284c867b92a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Round 37 to the nearest 10.",
+  "options": [
+   "37",
+   "50",
+   "40",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 37; 37 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:124:788a669bc51ac499",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Round 96 to the nearest 10.",
+  "options": [
+   "90",
+   "96",
+   "100",
+   "110"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 96; 96 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:125:24c8d445b6640146",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Round 40 to the nearest 10.",
+  "options": [
+   "30",
+   "41",
+   "50",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 40; 40 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:126:5f137e839d781cc1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Round 59 to the nearest 10.",
+  "options": [
+   "59",
+   "70",
+   "50",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 59; 59 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:128:5427884d68d597b3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Round 27 to the nearest 10.",
+  "options": [
+   "27",
+   "40",
+   "20",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 27; 27 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:129:655a6a31fb1e38f9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Round 28 to the nearest 10.",
+  "options": [
+   "28",
+   "30",
+   "40",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 28; 28 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:130:e601d6a0080c08ed",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Round 33 to the nearest 10.",
+  "options": [
+   "40",
+   "30",
+   "20",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 33; 33 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:131:68182d190c1043d7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Round 89 to the nearest 10.",
+  "options": [
+   "90",
+   "80",
+   "89",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 89; 89 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:132:5fc767c0e6cea9ea",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Round 87 to the nearest 10.",
+  "options": [
+   "100",
+   "80",
+   "87",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 87; 87 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:133:8c3abab78578027c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Round 81 to the nearest 10.",
+  "options": [
+   "70",
+   "81",
+   "80",
+   "90"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 81; 81 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:134:f9c8dd1227285cef",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Round 79 to the nearest 10.",
+  "options": [
+   "79",
+   "70",
+   "90",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 79; 79 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:135:c29b3cb3ca3c28c7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Round 106 to the nearest 10.",
+  "options": [
+   "106",
+   "100",
+   "120",
+   "110"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 106; 106 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:136:9d973c2823880233",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Round 97 to the nearest 10.",
+  "options": [
+   "110",
+   "97",
+   "90",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 97; 97 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:137:bdd24b1c0b204959",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Round 107 to the nearest 10.",
+  "options": [
+   "120",
+   "107",
+   "100",
+   "110"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 107; 107 rounds to 110 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:138:2cc14954a8637796",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Round 29 to the nearest 10.",
+  "options": [
+   "40",
+   "29",
+   "30",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 29; 29 rounds to 30 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:139:d6915c36bff10721",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Round 84 to the nearest 10.",
+  "options": [
+   "70",
+   "84",
+   "90",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 84; 84 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:140:2c69bc6cd9637dd7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Round 104 to the nearest 10.",
+  "options": [
+   "90",
+   "104",
+   "110",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 104; 104 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:141:e806551f1d24d296",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Round 69 to the nearest 10.",
+  "options": [
+   "69",
+   "70",
+   "60",
+   "80"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 69; 69 rounds to 70 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:142:0be0fd4c3f3539dc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Round 95 to the nearest 10.",
+  "options": [
+   "110",
+   "90",
+   "100",
+   "95"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 95; 95 rounds to 100 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:143:997c49016afeeb87",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Round 83 to the nearest 10.",
+  "options": [
+   "83",
+   "80",
+   "90",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 83; 83 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:144:7b230f97c2544372",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Round 89 to the nearest 10.",
+  "options": [
+   "80",
+   "100",
+   "89",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 89; 89 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:145:388b727d9bed8a9b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Round 76 to the nearest 10.",
+  "options": [
+   "76",
+   "80",
+   "90",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 76; 76 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:146:dba2c43c5c14d2c9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Round 63 to the nearest 10.",
+  "options": [
+   "60",
+   "63",
+   "50",
+   "70"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 63; 63 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:147:d8cf3c7fe4fb2dcc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Round 35 to the nearest 10.",
+  "options": [
+   "40",
+   "30",
+   "50",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 35; 35 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:148:62e776ace80d79a3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Round 12 to the nearest 10.",
+  "options": [
+   "12",
+   "11",
+   "10",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 12; 12 rounds to 10 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:149:ebf907267c1d0371",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Round 91 to the nearest 10.",
+  "options": [
+   "80",
+   "91",
+   "100",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 91; 91 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:150:a2c032e346ef1153",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Round 49 to the nearest 10.",
+  "options": [
+   "60",
+   "50",
+   "49",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the ones digit of 49; 49 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:151:f02feb593d5d0ab9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 151,
+  "stem": "Round 41 to the nearest 10.",
+  "options": [
+   "30",
+   "50",
+   "41",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 41; 41 rounds to 40 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:152:6322afed2c2783d1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 152,
+  "stem": "Round 20 to the nearest 10.",
+  "options": [
+   "21",
+   "30",
+   "10",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the ones digit of 20; 20 rounds to 20 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:153:694b6ea1acf78f51",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 153,
+  "stem": "Round 59 to the nearest 10.",
+  "options": [
+   "60",
+   "59",
+   "70",
+   "50"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 59; 59 rounds to 60 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:154:312555aed4d29498",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 154,
+  "stem": "Round 51 to the nearest 10.",
+  "options": [
+   "50",
+   "40",
+   "51",
+   "60"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the ones digit of 51; 51 rounds to 50 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:155:f8aa90d133dc4351",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 155,
+  "stem": "Round 85 to the nearest 10.",
+  "options": [
+   "100",
+   "80",
+   "90",
+   "85"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 85; 85 rounds to 90 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:156:2aa0e4a5da330641",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 1,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 156,
+  "stem": "Round 83 to the nearest 10.",
+  "options": [
+   "83",
+   "90",
+   "80",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the ones digit of 83; 83 rounds to 80 (nearest 10).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:compare_int:1:b628c964a6bad5ca",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7127",
+   "2159",
+   "6231",
+   "6118"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 2159 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:2:9940cd53a0625ada",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "1180",
+   "1740",
+   "6657",
+   "3264"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 1180 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:3:1051a035aff2b5b6",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3817",
+   "5766",
+   "4519",
+   "6467"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 6467 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:4:e8cba437eb8f24db",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4445",
+   "1819",
+   "2607",
+   "611"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 4445 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:5:ce7501884278cf1b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2500",
+   "4681",
+   "9193",
+   "2786"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 2500 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:6:1c2063190b2416a9",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9103",
+   "4665",
+   "3811",
+   "9639"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 3811 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:7:4184ae14b4834dba",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "6705",
+   "4477",
+   "661",
+   "904"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 6705 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:8:5a91947f5f616fe2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3928",
+   "1167",
+   "217",
+   "5416"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 217 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:9:bb99fb6af1d6facf",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4936",
+   "7596",
+   "7254",
+   "1142"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 1142 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:10:0d6ab27a75ae1556",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9014",
+   "8226",
+   "9671",
+   "3172"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 3172 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:11:3c5d5e7e5253243f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7747",
+   "6106",
+   "8348",
+   "6648"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 6106 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:12:4405302dcd4da9b9",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "6528",
+   "4505",
+   "334",
+   "1857"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 6528 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:13:c6453fe805d4a85e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8252",
+   "2294",
+   "1232",
+   "7508"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 8252 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:14:ebadeddff33cbc19",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "6877",
+   "8729",
+   "2112",
+   "6004"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8729 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:15:a2c3c17d462dc2fa",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "5802",
+   "2436",
+   "5251",
+   "1279"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 1279 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:16:01c29c83770eec46",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4576",
+   "7480",
+   "9420",
+   "3012"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 3012 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:17:a408d9dbdfa342da",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4374",
+   "244",
+   "1570",
+   "1265"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 244 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:18:55f396115f0cee47",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1882",
+   "6673",
+   "6620",
+   "7789"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 7789 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:19:0d774871764f6cda",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9335",
+   "9460",
+   "1609",
+   "4371"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1609 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:20:9170e4aa68ccbab4",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8662",
+   "1324",
+   "2060",
+   "6593"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 1324 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:21:cd1a9739d2dabff2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "504",
+   "5032",
+   "4149",
+   "3721"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 5032 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:22:3815afcf138f9c18",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6931",
+   "8852",
+   "8833",
+   "7632"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 6931 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:23:82b498415a0a4348",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4061",
+   "9610",
+   "3672",
+   "9626"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 3672 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:24:78a51f03e74237c7",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9952",
+   "3053",
+   "7575",
+   "3912"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 3053 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:25:f2278fad4cdb6341",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "284",
+   "6434",
+   "2162",
+   "8713"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 284 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:26:d6003a8ac54c16e6",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5819",
+   "4988",
+   "3363",
+   "752"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 5819 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:27:0dc672077532198b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1290",
+   "3779",
+   "7650",
+   "6509"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 7650 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:28:706bd28744323999",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4163",
+   "7380",
+   "543",
+   "22"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 22 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:29:a33318961d2d3ae9",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "1026",
+   "6971",
+   "8667",
+   "3649"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 1026 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:30:7a2635d1b02c6633",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7746",
+   "4781",
+   "9083",
+   "4823"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 9083 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:31:55a1d8e20caa1cae",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9923",
+   "4036",
+   "7033",
+   "7167"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9923 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:32:cd9a96f428666ab1",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "415",
+   "6390",
+   "2780",
+   "6381"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 415 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:33:82e27b534e345432",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2552",
+   "5650",
+   "7717",
+   "5920"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 7717 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:34:f42f3069a9bfd0b0",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8529",
+   "5439",
+   "1459",
+   "5417"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1459 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:35:ecf27681bc6cd365",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3566",
+   "5424",
+   "5333",
+   "5214"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 5424 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:36:8ed8253d894669b3",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "278",
+   "7178",
+   "4804",
+   "448"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 278 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:37:b53c3dc637275f90",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "701",
+   "1108",
+   "7307",
+   "7742"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 701 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:38:4f26b57ea2cb158f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6391",
+   "3332",
+   "8988",
+   "8444"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 3332 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:39:544e719481f3d50e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8918",
+   "555",
+   "3689",
+   "2546"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 8918 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:40:ba51502f8f912968",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8949",
+   "501",
+   "9016",
+   "9052"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 501 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:41:4cc045e2acb09346",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "548",
+   "1520",
+   "8538",
+   "6375"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8538 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:42:0598b9017c1f06ef",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2387",
+   "4041",
+   "8079",
+   "1066"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8079 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:43:77cf549071dc8670",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "310",
+   "6386",
+   "2442",
+   "1909"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 310 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:44:567d64e6f64bf854",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1269",
+   "4104",
+   "4791",
+   "5377"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 5377 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:45:93356f8724d5c53f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7882",
+   "3861",
+   "285",
+   "9415"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 285 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:46:971fff51e34d860c",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3847",
+   "4610",
+   "1811",
+   "2329"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1811 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:47:9f392ae8b36709cf",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9042",
+   "2880",
+   "1507",
+   "1895"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9042 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:48:c17c4902632f5e71",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "370",
+   "9914",
+   "5154",
+   "9130"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 9914 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:49:1ba85b897cc202f3",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4551",
+   "1539",
+   "5429",
+   "6738"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 6738 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:50:f0573a1382e76d92",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6243",
+   "6334",
+   "3489",
+   "7076"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 3489 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:51:956d47468132c019",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "928",
+   "535",
+   "4582",
+   "6500"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 535 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:52:af28eaa9b16310c7",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7413",
+   "8116",
+   "4205",
+   "6131"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8116 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:53:04718651edc76637",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2091",
+   "2679",
+   "6337",
+   "3809"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 2091 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:54:67e96217da54aa5a",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9772",
+   "5242",
+   "5639",
+   "1378"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9772 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:55:3199546da52e711e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "515",
+   "2587",
+   "8599",
+   "1436"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 515 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:56:49fc21b692f72cfe",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7282",
+   "1015",
+   "8082",
+   "1998"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8082 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:57:07d5caeb13eddca1",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4739",
+   "4801",
+   "8434",
+   "1797"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8434 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:58:1f5f4ad62c65c36e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9529",
+   "1463",
+   "9590",
+   "8182"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 1463 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:59:ffca9e185dbb16f2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3185",
+   "1815",
+   "857",
+   "5550"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 5550 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:60:e3bcbceadfd5f5c0",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9587",
+   "4194",
+   "7951",
+   "6167"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 4194 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:61:874b9f0fc1563370",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2876",
+   "8276",
+   "3105",
+   "684"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8276 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:62:05b131086e6cbdf3",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7703",
+   "3809",
+   "896",
+   "3449"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 7703 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:63:2ea10f976a75e9ee",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2480",
+   "6720",
+   "9618",
+   "94"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 9618 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:64:f92ac668eb86d52b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2494",
+   "4957",
+   "3907",
+   "7343"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 7343 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:65:42b1986e4eaedb04",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "836",
+   "5997",
+   "2695",
+   "3739"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 5997 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:66:18763e5b2a136e7f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4025",
+   "2423",
+   "6444",
+   "3994"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 6444 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:67:2586ba30cfdf7e85",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2606",
+   "8576",
+   "7650",
+   "71"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 71 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:68:e8239ef8b0addb94",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "6781",
+   "7922",
+   "8384",
+   "7051"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8384 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:69:2b04aa336692950d",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7631",
+   "4559",
+   "5321",
+   "9639"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 4559 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:70:da4434d9e5d630da",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5129",
+   "2329",
+   "5657",
+   "672"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 5657 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:71:9f3f55315b90746b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1735",
+   "9322",
+   "1986",
+   "2245"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 9322 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:72:5d58be0b8b9b373f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6965",
+   "2745",
+   "9488",
+   "7588"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 2745 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:73:ae533c1ed592e2e3",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2259",
+   "6652",
+   "1002",
+   "4937"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1002 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:74:1e784b901970c23d",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9406",
+   "3972",
+   "3441",
+   "2012"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 2012 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:75:6a775b7aad5149fc",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3679",
+   "2784",
+   "152",
+   "1010"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 3679 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:76:150db4156ebdc63e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8429",
+   "5302",
+   "6679",
+   "8912"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 5302 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:77:891e61b797bfbb36",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6615",
+   "7907",
+   "9953",
+   "9178"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 6615 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:78:4687a65a57664459",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4236",
+   "8081",
+   "5189",
+   "97"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 97 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:79:5c4a990ee47cb69d",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4013",
+   "682",
+   "1699",
+   "3733"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 682 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:80:fd5826b7656d07df",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8823",
+   "4865",
+   "8972",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8972 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:81:f56c8d8fbf879854",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6985",
+   "5389",
+   "997",
+   "792"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 792 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:82:faf0fe856f22db93",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2880",
+   "9202",
+   "5161",
+   "3241"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 2880 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:83:0d92c618620e0be2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2170",
+   "483",
+   "8184",
+   "9108"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 9108 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:84:85387e1d3be5a6ef",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3411",
+   "4961",
+   "2366",
+   "6692"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 2366 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:85:44f79a7cf4e61989",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8577",
+   "2202",
+   "7387",
+   "9066"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 9066 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:86:9019deac8ace848b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3959",
+   "1767",
+   "4490",
+   "1960"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 1767 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:87:e192893517a76b61",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "520",
+   "3247",
+   "7481",
+   "5555"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 520 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:88:10ec2c419cea6e6c",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "5778",
+   "8970",
+   "6450",
+   "2354"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 2354 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:89:8f0973647b8077ed",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8605",
+   "6373",
+   "8358",
+   "8945"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 6373 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:90:d1fb955c400c75b2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8645",
+   "9350",
+   "2958",
+   "9321"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 2958 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:91:5484862beb651b1c",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8281",
+   "8175",
+   "5083",
+   "2823"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 2823 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:92:a1c1e0db9c91b400",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3385",
+   "4125",
+   "870",
+   "2214"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 870 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:93:bd86cb4cdd341ed5",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "6971",
+   "3498",
+   "302",
+   "8787"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 302 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:94:4c8668eb4f7dbe9c",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7888",
+   "9108",
+   "8397",
+   "3063"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 3063 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:95:96a31bfaf5b2b83e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9306",
+   "8310",
+   "3034",
+   "1997"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9306 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:96:152b3e53f6201741",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3783",
+   "659",
+   "2917",
+   "8689"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 8689 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:97:a64c89ca78edfb68",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7493",
+   "7882",
+   "1175",
+   "7135"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1175 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:98:e566b438b6ac07b2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7466",
+   "7149",
+   "3656",
+   "56"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 7466 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:99:d2aa7fe44bb5a256",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8103",
+   "875",
+   "8066",
+   "201"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 201 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:100:787d2b8358acdbfb",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2658",
+   "5490",
+   "7459",
+   "1169"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 7459 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:101:72aef9d2bafe799f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "6452",
+   "2376",
+   "1896",
+   "4328"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 6452 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:102:c9ca55ed6742b341",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2537",
+   "48",
+   "5253",
+   "1681"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 5253 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:103:10703dd64d3372c8",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5283",
+   "3650",
+   "6582",
+   "4559"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 6582 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:104:9a07ee5f692b7eee",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "479",
+   "4646",
+   "4758",
+   "98"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 4758 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:105:bab90d2d560af2b2",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5362",
+   "759",
+   "7024",
+   "8189"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 8189 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:106:9144177167683b26",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "616",
+   "1312",
+   "8590",
+   "5368"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 616 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:107:aeca5a86625a015d",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2228",
+   "9627",
+   "7924",
+   "2190"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 9627 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:108:a56e913fabe221ff",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "1953",
+   "12",
+   "2814",
+   "6819"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 12 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:109:98288b233c85646e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7914",
+   "9076",
+   "2058",
+   "4289"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 9076 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:110:f2601e9909627f75",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "1617",
+   "6842",
+   "3182",
+   "9564"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 1617 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:111:50a117cf82fc6408",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5601",
+   "8068",
+   "7926",
+   "5031"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8068 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:112:36c00dd91eb7c339",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9186",
+   "9489",
+   "9665",
+   "2622"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 2622 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:113:040b56e82a3beba7",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2094",
+   "3253",
+   "1555",
+   "5255"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 5255 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:114:7b5ff0ab59b9a6c7",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1553",
+   "1529",
+   "8703",
+   "8796"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 8796 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:115:54af500ba677e0d1",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9423",
+   "8906",
+   "1793",
+   "7604"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 1793 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:116:9e94035011ec4569",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4004",
+   "7726",
+   "4866",
+   "5960"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 7726 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:117:a5fa9b247810a65a",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2249",
+   "7354",
+   "3925",
+   "4532"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 7354 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:118:f816fed817368fae",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9137",
+   "3171",
+   "6629",
+   "7569"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9137 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:119:d9496943f05034db",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "4975",
+   "2792",
+   "5901",
+   "3439"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 2792 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:120:3ee856c526d1cde0",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2841",
+   "6382",
+   "6800",
+   "2576"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 6800 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:121:764652ecc3fbca14",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7062",
+   "3784",
+   "2615",
+   "5643"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 2615 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:122:7e93d702c60d3c11",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "9320",
+   "2148",
+   "4350",
+   "3796"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 9320 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:123:084ce6575c81b66f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "171",
+   "2025",
+   "3404",
+   "548"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 3404 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:124:b72330ddaf7736b6",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "3244",
+   "3139",
+   "5810",
+   "9876"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 9876 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:125:9b0e4e95f9263653",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2914",
+   "7698",
+   "8263",
+   "5965"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 2914 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:126:a2aba62dbecb1ba4",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9422",
+   "437",
+   "5126",
+   "5889"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 437 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:127:480d57969655af8b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "963",
+   "6065",
+   "2617",
+   "272"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 6065 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:128:87e66a11e2c770de",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8759",
+   "4882",
+   "6840",
+   "7733"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 8759 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:129:0f8a9282fcdd6f0e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "468",
+   "9764",
+   "976",
+   "7091"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 9764 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:130:3bb45827f30c9dec",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7261",
+   "8464",
+   "2105",
+   "3383"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8464 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:131:9c45349bd425fd2c",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4611",
+   "3895",
+   "7967",
+   "1464"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 7967 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:132:f0adafc24b90d8af",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2743",
+   "382",
+   "8670",
+   "7438"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 8670 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:133:6af5a8e92ba79e86",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5012",
+   "6610",
+   "2084",
+   "6259"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 6610 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:134:66cd40ba68e32016",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "8684",
+   "3788",
+   "9527",
+   "8573"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 9527 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:135:bde6e8f9e2d73827",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4379",
+   "5309",
+   "3590",
+   "334"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 5309 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:136:89e00db3bc633585",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "1084",
+   "1357",
+   "1226",
+   "7133"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 7133 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:137:f131b091cd2588f9",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "9658",
+   "3455",
+   "9635",
+   "3197"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 3197 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:138:0e09a99f9974390f",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2699",
+   "8676",
+   "5660",
+   "601"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 8676 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:139:ced7ff6c16f3101b",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3132",
+   "9336",
+   "737",
+   "4120"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 737 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:140:370d4b91f57341e1",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "1469",
+   "2627",
+   "9655",
+   "3984"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 1469 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:141:2490c814f243e650",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "2703",
+   "2354",
+   "382",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 2703 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:142:93fd6d97de8ff039",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "3220",
+   "5549",
+   "3735",
+   "9713"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 3220 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:143:e56ede20c83cd993",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "4969",
+   "1128",
+   "1815",
+   "5495"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 5495 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:144:fae19b847b9eec0e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "2317",
+   "8090",
+   "694",
+   "1704"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 694 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:145:cbc5e25bf66bc454",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "5459",
+   "8769",
+   "8865",
+   "8771"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 5459 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:146:cc6f15ee4356cd4a",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "5669",
+   "4765",
+   "944",
+   "7908"
+  ],
+  "answer_index": 3,
+  "explanation": "Compare the numbers place by place; 7908 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:147:d856ee8752986f8e",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "5856",
+   "3213",
+   "3064",
+   "4354"
+  ],
+  "answer_index": 2,
+  "explanation": "Compare the numbers place by place; 3064 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:148:b6522f792cef2778",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "8330",
+   "605",
+   "4549",
+   "9463"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 605 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:149:a779d04f6f254d83",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Which of these numbers is the smallest?",
+  "options": [
+   "7467",
+   "122",
+   "7289",
+   "7444"
+  ],
+  "answer_index": 1,
+  "explanation": "Compare the numbers place by place; 122 is the smallest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:compare_int:150:8035f63f89c3322a",
+  "topic_id": "MA-A03",
+  "qtype": "compare_int",
+  "level": 2,
+  "generator": "reg:compare_int",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "7133",
+   "2501",
+   "2681",
+   "1591"
+  ],
+  "answer_index": 0,
+  "explanation": "Compare the numbers place by place; 7133 is the largest.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "compare"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

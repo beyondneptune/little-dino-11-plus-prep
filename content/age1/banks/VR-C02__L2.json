@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:letter_series:1:494d7574101f422c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Find the next letter: P O N M ?",
+  "options": [
+   "K",
+   "L",
+   "N",
+   "M"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:2:10b35b83261a77a8",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Find the next letter: G H I J ?",
+  "options": [
+   "J",
+   "M",
+   "K",
+   "L"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:3:ac6e80aae869e1e7",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Find the next letter: O S W A ?",
+  "options": [
+   "F",
+   "G",
+   "E",
+   "D"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:4:be81a390301f1dab",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Find the next letter: O R U X ?",
+  "options": [
+   "A",
+   "C",
+   "B",
+   "Z"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:5:841df8339a7c7ef6",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Find the next letter: O M K I ?",
+  "options": [
+   "H",
+   "I",
+   "G",
+   "F"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:6:e4c3a5cb934a9d11",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Find the next letter: P N L J ?",
+  "options": [
+   "G",
+   "J",
+   "H",
+   "I"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:7:2c40d403845da0e6",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Find the next letter: J K L M ?",
+  "options": [
+   "P",
+   "M",
+   "N",
+   "O"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:8:6aa8fd91f39461ce",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Find the next letter: L N P R ?",
+  "options": [
+   "U",
+   "V",
+   "T",
+   "S"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:9:9fb63f159506b945",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Find the next letter: O N M L ?",
+  "options": [
+   "K",
+   "M",
+   "L",
+   "J"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:10:3dc5dc2b58a536dd",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Find the next letter: D B Z X ?",
+  "options": [
+   "X",
+   "V",
+   "U",
+   "W"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:11:84611678dfb3c4cf",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Find the next letter: C G K O ?",
+  "options": [
+   "S",
+   "R",
+   "U",
+   "T"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:12:709cc7e8d33203bf",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Find the next letter: J N R V ?",
+  "options": [
+   "A",
+   "Y",
+   "B",
+   "Z"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:13:c3321508e97c68a0",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Find the next letter: P R T V ?",
+  "options": [
+   "X",
+   "W",
+   "Y",
+   "Z"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:14:a5ecd5854b0b2927",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Find the next letter: J M P S ?",
+  "options": [
+   "X",
+   "W",
+   "V",
+   "U"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:15:f042fc0b7ea0f6a9",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Find the next letter: E H K N ?",
+  "options": [
+   "Q",
+   "P",
+   "S",
+   "R"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:16:4470f43617ec998a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Find the next letter: E G I K ?",
+  "options": [
+   "O",
+   "M",
+   "L",
+   "N"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:17:3e484781633dc1d3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Find the next letter: F J N R ?",
+  "options": [
+   "U",
+   "V",
+   "X",
+   "W"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:18:762231d20940a428",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Find the next letter: O P Q R ?",
+  "options": [
+   "T",
+   "S",
+   "U",
+   "R"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:19:a3e0112595f2f16c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Find the next letter: O P Q R ?",
+  "options": [
+   "T",
+   "U",
+   "S",
+   "R"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:20:9a9e940d0b0a4439",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Find the next letter: P S V Y ?",
+  "options": [
+   "D",
+   "A",
+   "C",
+   "B"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:21:f07c975e35780207",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Find the next letter: D G J M ?",
+  "options": [
+   "Q",
+   "O",
+   "R",
+   "P"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:22:6b22e8c59007ad01",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Find the next letter: H F D B ?",
+  "options": [
+   "A",
+   "Y",
+   "B",
+   "Z"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:23:9f091f5c05ecb3d3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Find the next letter: P Q R S ?",
+  "options": [
+   "V",
+   "U",
+   "S",
+   "T"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:24:608d2098543611fe",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Find the next letter: J L N P ?",
+  "options": [
+   "T",
+   "S",
+   "R",
+   "Q"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:25:5935ffb7e33c1469",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Find the next letter: O R U X ?",
+  "options": [
+   "B",
+   "A",
+   "C",
+   "Z"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:26:ed4fb1d655aac894",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Find the next letter: N Q T W ?",
+  "options": [
+   "Z",
+   "Y",
+   "A",
+   "B"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:27:a07d65bb7eeb8664",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Find the next letter: J M P S ?",
+  "options": [
+   "X",
+   "V",
+   "U",
+   "W"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:28:eb59bf2b7dd9cc1e",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Find the next letter: K O S W ?",
+  "options": [
+   "A",
+   "C",
+   "Z",
+   "B"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:29:0ae4f6c9d4444c73",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Find the next letter: J N R V ?",
+  "options": [
+   "Z",
+   "A",
+   "Y",
+   "B"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:30:ae7f228faa807121",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Find the next letter: E C A Y ?",
+  "options": [
+   "Y",
+   "W",
+   "X",
+   "V"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:31:c3e3bef1c6b09605",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Find the next letter: O Q S U ?",
+  "options": [
+   "W",
+   "Y",
+   "X",
+   "V"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:32:e14d4711aeeb30ed",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Find the next letter: L K J I ?",
+  "options": [
+   "I",
+   "J",
+   "G",
+   "H"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:33:aadfbee7e9c3490e",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Find the next letter: K I G E ?",
+  "options": [
+   "E",
+   "C",
+   "D",
+   "B"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:34:f003431c7fe4990c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Find the next letter: J K L M ?",
+  "options": [
+   "P",
+   "N",
+   "O",
+   "M"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:35:339fe2c6a1d28f61",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Find the next letter: J M P S ?",
+  "options": [
+   "U",
+   "V",
+   "W",
+   "X"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:36:9aee2c32c6268b0f",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Find the next letter: K J I H ?",
+  "options": [
+   "H",
+   "I",
+   "G",
+   "F"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:37:fa655b8f526129db",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Find the next letter: P T X B ?",
+  "options": [
+   "F",
+   "H",
+   "G",
+   "E"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:38:8a18b07da7e69442",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Find the next letter: N P R T ?",
+  "options": [
+   "V",
+   "X",
+   "U",
+   "W"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:39:17a54430785f4fab",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Find the next letter: E D C B ?",
+  "options": [
+   "A",
+   "Z",
+   "C",
+   "B"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:40:c9dfc5357d93bc50",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Find the next letter: C F I L ?",
+  "options": [
+   "N",
+   "O",
+   "Q",
+   "P"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:41:d3a74b83c08073f8",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Find the next letter: J L N P ?",
+  "options": [
+   "R",
+   "T",
+   "Q",
+   "S"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:42:f2d827c453692015",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Find the next letter: C G K O ?",
+  "options": [
+   "T",
+   "S",
+   "R",
+   "U"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:44:376499dde10bb1f4",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Find the next letter: M P S V ?",
+  "options": [
+   "Y",
+   "Z",
+   "X",
+   "A"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:45:460dc190d3879fb8",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Find the next letter: H L P T ?",
+  "options": [
+   "X",
+   "Z",
+   "Y",
+   "W"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:46:d593f0b45b01ab05",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Find the next letter: D C B A ?",
+  "options": [
+   "B",
+   "A",
+   "Y",
+   "Z"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:47:145a4a3b0e08b913",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Find the next letter: I K M O ?",
+  "options": [
+   "R",
+   "P",
+   "Q",
+   "S"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:48:093b7bb3b7945c5a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Find the next letter: C A Y W ?",
+  "options": [
+   "U",
+   "W",
+   "T",
+   "V"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:49:d9c586c01ea36371",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Find the next letter: J H F D ?",
+  "options": [
+   "A",
+   "B",
+   "D",
+   "C"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:50:e5e9d506c1a5bd0c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Find the next letter: L P T X ?",
+  "options": [
+   "C",
+   "A",
+   "D",
+   "B"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:51:39b74a2b4137c3a4",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Find the next letter: J L N P ?",
+  "options": [
+   "S",
+   "T",
+   "Q",
+   "R"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:52:25ea7d64aca2cf3c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Find the next letter: G I K M ?",
+  "options": [
+   "Q",
+   "P",
+   "N",
+   "O"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:53:b2a832ec7a1ae527",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Find the next letter: E D C B ?",
+  "options": [
+   "Z",
+   "C",
+   "B",
+   "A"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:54:9a996a0d6602f3fd",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Find the next letter: G K O S ?",
+  "options": [
+   "X",
+   "V",
+   "W",
+   "Y"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:55:9cee4265726448df",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Find the next letter: J H F D ?",
+  "options": [
+   "C",
+   "D",
+   "A",
+   "B"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:56:ee46cb55129ab382",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Find the next letter: D E F G ?",
+  "options": [
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:57:ca95b5757765d99f",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Find the next letter: C B A Z ?",
+  "options": [
+   "X",
+   "Z",
+   "A",
+   "Y"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:58:0c3bb995059221b2",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Find the next letter: G K O S ?",
+  "options": [
+   "Y",
+   "X",
+   "V",
+   "W"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:59:7bc9d437736fa19e",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Find the next letter: P T X B ?",
+  "options": [
+   "E",
+   "G",
+   "F",
+   "H"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:60:470a3f1cff45b7aa",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Find the next letter: H J L N ?",
+  "options": [
+   "P",
+   "R",
+   "O",
+   "Q"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:61:edd9b237bcf19c83",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Find the next letter: J H F D ?",
+  "options": [
+   "D",
+   "C",
+   "A",
+   "B"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:64:120af08d0f8dab17",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Find the next letter: I J K L ?",
+  "options": [
+   "L",
+   "O",
+   "N",
+   "M"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:65:0ebfa5de88540365",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Find the next letter: J L N P ?",
+  "options": [
+   "T",
+   "S",
+   "Q",
+   "R"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:66:3ad6e1c302c2938a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Find the next letter: L K J I ?",
+  "options": [
+   "H",
+   "J",
+   "G",
+   "I"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:67:6cde0cd41516d610",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Find the next letter: C G K O ?",
+  "options": [
+   "R",
+   "U",
+   "S",
+   "T"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:68:fa5901030aa77178",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Find the next letter: D E F G ?",
+  "options": [
+   "J",
+   "H",
+   "I",
+   "G"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:69:7727088550c8704d",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Find the next letter: C G K O ?",
+  "options": [
+   "T",
+   "S",
+   "U",
+   "R"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:70:10d1385e54fe8f86",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Find the next letter: F D B Z ?",
+  "options": [
+   "X",
+   "Y",
+   "Z",
+   "W"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:71:8650610b229fad5e",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Find the next letter: L N P R ?",
+  "options": [
+   "T",
+   "V",
+   "U",
+   "S"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:72:0e29e2d6ec8245ee",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Find the next letter: M L K J ?",
+  "options": [
+   "K",
+   "I",
+   "H",
+   "J"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:73:8346ed7193fb4284",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Find the next letter: J M P S ?",
+  "options": [
+   "V",
+   "X",
+   "W",
+   "U"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:74:88a03018a1947b34",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Find the next letter: D E F G ?",
+  "options": [
+   "I",
+   "H",
+   "G",
+   "J"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:75:0f121a4dce1adebd",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Find the next letter: F H J L ?",
+  "options": [
+   "O",
+   "M",
+   "N",
+   "P"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:76:45f9921f7eb7fca9",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Find the next letter: E H K N ?",
+  "options": [
+   "P",
+   "S",
+   "Q",
+   "R"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:77:d75a98c63c6f9ee5",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Find the next letter: N Q T W ?",
+  "options": [
+   "A",
+   "Z",
+   "Y",
+   "B"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:78:a61ebbaa31665cfa",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Find the next letter: N L J H ?",
+  "options": [
+   "H",
+   "G",
+   "E",
+   "F"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:79:2e5b64ff6da94d34",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Find the next letter: D E F G ?",
+  "options": [
+   "G",
+   "I",
+   "J",
+   "H"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:80:2267454659a9186c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Find the next letter: P N L J ?",
+  "options": [
+   "I",
+   "J",
+   "H",
+   "G"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:81:2a3007c5e12e4ebc",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Find the next letter: N R V Z ?",
+  "options": [
+   "F",
+   "D",
+   "C",
+   "E"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:82:69f00e1aabc76e5c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Find the next letter: M P S V ?",
+  "options": [
+   "X",
+   "Y",
+   "Z",
+   "A"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:83:883617ebd51aac37",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Find the next letter: O S W A ?",
+  "options": [
+   "D",
+   "F",
+   "G",
+   "E"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:84:f64e0207d34f6d41",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Find the next letter: C D E F ?",
+  "options": [
+   "G",
+   "H",
+   "F",
+   "I"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:85:f1c3812f231d403c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Find the next letter: L J H F ?",
+  "options": [
+   "D",
+   "C",
+   "E",
+   "F"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:86:bc82ed84ba77e892",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Find the next letter: I G E C ?",
+  "options": [
+   "B",
+   "A",
+   "C",
+   "Z"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:87:7ddf8b221a897d08",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Find the next letter: N M L K ?",
+  "options": [
+   "K",
+   "I",
+   "J",
+   "L"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:88:2737a3e2b4960c9b",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Find the next letter: H G F E ?",
+  "options": [
+   "F",
+   "D",
+   "C",
+   "E"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:89:c64161ac5a1528cd",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Find the next letter: N P R T ?",
+  "options": [
+   "W",
+   "V",
+   "X",
+   "U"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:90:ce97a8966b026bb8",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Find the next letter: H G F E ?",
+  "options": [
+   "C",
+   "D",
+   "F",
+   "E"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:91:204b530911f98d94",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Find the next letter: G F E D ?",
+  "options": [
+   "C",
+   "B",
+   "E",
+   "D"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:92:de9f0f7ddf5f41c1",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Find the next letter: F E D C ?",
+  "options": [
+   "C",
+   "A",
+   "D",
+   "B"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:93:960a8d525765de50",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Find the next letter: I G E C ?",
+  "options": [
+   "C",
+   "B",
+   "Z",
+   "A"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:94:6accab2f2fceaf26",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Find the next letter: E I M Q ?",
+  "options": [
+   "T",
+   "W",
+   "U",
+   "V"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:95:2181d7c431486cb0",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Find the next letter: L N P R ?",
+  "options": [
+   "V",
+   "U",
+   "S",
+   "T"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:96:99982e15b9af26eb",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Find the next letter: F J N R ?",
+  "options": [
+   "W",
+   "U",
+   "V",
+   "X"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:97:2636d09de361da6f",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Find the next letter: C D E F ?",
+  "options": [
+   "I",
+   "G",
+   "F",
+   "H"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:98:6632e9da16e85e93",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Find the next letter: M L K J ?",
+  "options": [
+   "K",
+   "J",
+   "I",
+   "H"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:99:eaa46399abb61283",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Find the next letter: K O S W ?",
+  "options": [
+   "B",
+   "A",
+   "C",
+   "Z"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:102:71738ff284487194",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Find the next letter: P N L J ?",
+  "options": [
+   "J",
+   "G",
+   "H",
+   "I"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:103:653e7c9b6162f46c",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Find the next letter: G J M P ?",
+  "options": [
+   "U",
+   "T",
+   "R",
+   "S"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:104:d6a950a6aa763251",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Find the next letter: K M O Q ?",
+  "options": [
+   "U",
+   "R",
+   "T",
+   "S"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:105:9443f4f7f00bed59",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Find the next letter: G I K M ?",
+  "options": [
+   "N",
+   "P",
+   "O",
+   "Q"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:106:0dec7bf5eb0ca221",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Find the next letter: C E G I ?",
+  "options": [
+   "K",
+   "M",
+   "J",
+   "L"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:107:940645d0981bb813",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Find the next letter: F D B Z ?",
+  "options": [
+   "Z",
+   "X",
+   "W",
+   "Y"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:108:e2111803f40e28aa",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Find the next letter: G J M P ?",
+  "options": [
+   "S",
+   "R",
+   "T",
+   "U"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:109:374382efcab802f3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Find the next letter: D H L P ?",
+  "options": [
+   "T",
+   "U",
+   "V",
+   "S"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:110:130fa7175fa4d7e8",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Find the next letter: H K N Q ?",
+  "options": [
+   "S",
+   "V",
+   "T",
+   "U"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:111:372075e11c2696ae",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Find the next letter: E F G H ?",
+  "options": [
+   "I",
+   "K",
+   "J",
+   "H"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:112:57cd010abc8b1048",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Find the next letter: D C B A ?",
+  "options": [
+   "A",
+   "B",
+   "Z",
+   "Y"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:113:7246e406b87cee26",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Find the next letter: O N M L ?",
+  "options": [
+   "L",
+   "K",
+   "J",
+   "M"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:114:d1884612a7d7af7f",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Find the next letter: L O R U ?",
+  "options": [
+   "Z",
+   "W",
+   "Y",
+   "X"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:115:73ab9c10a9a46228",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Find the next letter: M K I G ?",
+  "options": [
+   "E",
+   "G",
+   "F",
+   "D"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:116:adf8060423b36ab3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Find the next letter: F J N R ?",
+  "options": [
+   "V",
+   "X",
+   "W",
+   "U"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:117:c7be8e2853c6ac5a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Find the next letter: J L N P ?",
+  "options": [
+   "Q",
+   "T",
+   "S",
+   "R"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:118:24f3ce5e930758b4",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Find the next letter: G J M P ?",
+  "options": [
+   "T",
+   "S",
+   "U",
+   "R"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:119:c1836497cc874831",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Find the next letter: E G I K ?",
+  "options": [
+   "O",
+   "N",
+   "M",
+   "L"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:120:d6bc7f3bc6c25eb6",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Find the next letter: O S W A ?",
+  "options": [
+   "E",
+   "D",
+   "G",
+   "F"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:121:324d46b006b7b2af",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Find the next letter: C D E F ?",
+  "options": [
+   "I",
+   "F",
+   "H",
+   "G"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:123:8c7ce2790da24593",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Find the next letter: F J N R ?",
+  "options": [
+   "W",
+   "U",
+   "X",
+   "V"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:124:b33d91e974ec92c5",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Find the next letter: K I G E ?",
+  "options": [
+   "C",
+   "B",
+   "E",
+   "D"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:125:5adf5736262298ed",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Find the next letter: F D B Z ?",
+  "options": [
+   "X",
+   "Z",
+   "Y",
+   "W"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:126:d624f5785d6e8801",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Find the next letter: F E D C ?",
+  "options": [
+   "D",
+   "C",
+   "B",
+   "A"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:127:c250479f5a21e4b9",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Find the next letter: E F G H ?",
+  "options": [
+   "J",
+   "I",
+   "K",
+   "H"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:128:49a11d631ab5db0d",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Find the next letter: K J I H ?",
+  "options": [
+   "G",
+   "I",
+   "F",
+   "H"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:129:979d7112173fcc0e",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Find the next letter: J K L M ?",
+  "options": [
+   "O",
+   "N",
+   "M",
+   "P"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:131:7bcc0d74085eb72f",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Find the next letter: G E C A ?",
+  "options": [
+   "Z",
+   "Y",
+   "X",
+   "A"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:132:5fef4b09ef7a9e07",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Find the next letter: E D C B ?",
+  "options": [
+   "A",
+   "B",
+   "Z",
+   "C"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:133:6ce70dfda8300c47",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Find the next letter: G E C A ?",
+  "options": [
+   "Y",
+   "A",
+   "X",
+   "Z"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:134:a54121c48f5f3a61",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Find the next letter: C B A Z ?",
+  "options": [
+   "X",
+   "Y",
+   "A",
+   "Z"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:135:596ac574d2fd1023",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Find the next letter: P N L J ?",
+  "options": [
+   "G",
+   "J",
+   "I",
+   "H"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:136:947a6e0511919d82",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Find the next letter: G E C A ?",
+  "options": [
+   "Z",
+   "A",
+   "X",
+   "Y"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:137:73473b4430f912b3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Find the next letter: L K J I ?",
+  "options": [
+   "J",
+   "G",
+   "I",
+   "H"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:138:c1b5c410cddad2b1",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Find the next letter: D C B A ?",
+  "options": [
+   "Y",
+   "A",
+   "B",
+   "Z"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:139:187d195e1f78d8d0",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Find the next letter: P R T V ?",
+  "options": [
+   "Y",
+   "X",
+   "Z",
+   "W"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:140:845af38c04ee0ab0",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Find the next letter: G E C A ?",
+  "options": [
+   "Z",
+   "A",
+   "Y",
+   "X"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:141:8344fd4a4c8a0b7d",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Find the next letter: N P R T ?",
+  "options": [
+   "U",
+   "W",
+   "X",
+   "V"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:142:954240207051c840",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Find the next letter: M O Q S ?",
+  "options": [
+   "V",
+   "U",
+   "T",
+   "W"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:143:96be463f86c2c02b",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Find the next letter: K J I H ?",
+  "options": [
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:144:3b3f538b0ff212ba",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Find the next letter: P R T V ?",
+  "options": [
+   "Y",
+   "Z",
+   "X",
+   "W"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:145:bbbba14c12832edc",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Find the next letter: H G F E ?",
+  "options": [
+   "F",
+   "D",
+   "E",
+   "C"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:146:f2f9f7a8befaca6b",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Find the next letter: P O N M ?",
+  "options": [
+   "N",
+   "L",
+   "M",
+   "K"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:147:a05888bbb1996777",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Find the next letter: G I K M ?",
+  "options": [
+   "O",
+   "P",
+   "N",
+   "Q"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:148:a98b2d00c0257fb0",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Find the next letter: J N R V ?",
+  "options": [
+   "Y",
+   "Z",
+   "A",
+   "B"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:149:134d840ac2117b75",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Find the next letter: J N R V ?",
+  "options": [
+   "Z",
+   "B",
+   "Y",
+   "A"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:150:b07d089a8590703a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Find the next letter: H F D B ?",
+  "options": [
+   "Z",
+   "A",
+   "Y",
+   "B"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves -2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:152:7c8dd3d173c70986",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 152,
+  "stem": "Find the next letter: H G F E ?",
+  "options": [
+   "E",
+   "D",
+   "C",
+   "F"
+  ],
+  "answer_index": 1,
+  "explanation": "Each letter moves -1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:153:d582f80b7109eb09",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 153,
+  "stem": "Find the next letter: E G I K ?",
+  "options": [
+   "M",
+   "N",
+   "O",
+   "L"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:154:82d89519734f4dd3",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 154,
+  "stem": "Find the next letter: I K M O ?",
+  "options": [
+   "Q",
+   "R",
+   "P",
+   "S"
+  ],
+  "answer_index": 0,
+  "explanation": "Each letter moves +2.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:155:46fad68e896e2324",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 155,
+  "stem": "Find the next letter: L P T X ?",
+  "options": [
+   "A",
+   "D",
+   "B",
+   "C"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:156:610c8cc603e8b806",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 156,
+  "stem": "Find the next letter: H K N Q ?",
+  "options": [
+   "S",
+   "U",
+   "V",
+   "T"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:157:3bd07ba7185321ba",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 157,
+  "stem": "Find the next letter: K L M N ?",
+  "options": [
+   "P",
+   "Q",
+   "N",
+   "O"
+  ],
+  "answer_index": 3,
+  "explanation": "Each letter moves +1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:letter_series:158:3c83a77bc761990a",
+  "topic_id": "VR-C02",
+  "qtype": "letter_series",
+  "level": 2,
+  "generator": "reg:letter_series",
+  "generator_version": 1,
+  "seed": 158,
+  "stem": "Find the next letter: P S V Y ?",
+  "options": [
+   "A",
+   "C",
+   "B",
+   "D"
+  ],
+  "answer_index": 2,
+  "explanation": "Each letter moves +3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": ""
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

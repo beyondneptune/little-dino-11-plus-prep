@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:roman:1:d63c6d3fbd166721",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What number does the Roman numeral DCLXVI represent?",
+  "options": [
+   "655",
+   "666",
+   "613",
+   "711"
+  ],
+  "answer_index": 1,
+  "explanation": "DCLXVI = 666.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:2:fcadbeadd9b1224e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What number does the Roman numeral DCCXXX represent?",
+  "options": [
+   "795",
+   "730",
+   "778",
+   "825"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCXXX = 730.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:3:486a2bb095d94de1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What number does the Roman numeral DXXVIII represent?",
+  "options": [
+   "489",
+   "496",
+   "585",
+   "528"
+  ],
+  "answer_index": 3,
+  "explanation": "DXXVIII = 528.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:4:9532483825d37843",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What number does the Roman numeral XLI represent?",
+  "options": [
+   "32",
+   "41",
+   "38",
+   "43"
+  ],
+  "answer_index": 1,
+  "explanation": "XLI = 41.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:5:3323103be9163539",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What number does the Roman numeral DXCII represent?",
+  "options": [
+   "592",
+   "666",
+   "557",
+   "609"
+  ],
+  "answer_index": 0,
+  "explanation": "DXCII = 592.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:6:2711f240b1034e0d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What number does the Roman numeral CCCXVII represent?",
+  "options": [
+   "360",
+   "306",
+   "317",
+   "343"
+  ],
+  "answer_index": 2,
+  "explanation": "CCCXVII = 317.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:7:60a075b61499e00c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What number does the Roman numeral CDLXXXIX represent?",
+  "options": [
+   "489",
+   "478",
+   "493",
+   "512"
+  ],
+  "answer_index": 0,
+  "explanation": "CDLXXXIX = 489.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:8:8e8e591f5b5a8e73",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What number does the Roman numeral CMXXXIV represent?",
+  "options": [
+   "926",
+   "934",
+   "915",
+   "891"
+  ],
+  "answer_index": 1,
+  "explanation": "CMXXXIV = 934.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:9:de9cb400cb5a38fb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What number does the Roman numeral DCXXXIII represent?",
+  "options": [
+   "693",
+   "640",
+   "633",
+   "568"
+  ],
+  "answer_index": 2,
+  "explanation": "DCXXXIII = 633.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:10:b61278dad180ffa0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What number does the Roman numeral CDLX represent?",
+  "options": [
+   "448",
+   "513",
+   "460",
+   "477"
+  ],
+  "answer_index": 2,
+  "explanation": "CDLX = 460.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:11:b62b4328a49c5dca",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What number does the Roman numeral DXXI represent?",
+  "options": [
+   "579",
+   "521",
+   "586",
+   "582"
+  ],
+  "answer_index": 1,
+  "explanation": "DXXI = 521.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:12:61afbaf4451a59da",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What number does the Roman numeral DCLXXX represent?",
+  "options": [
+   "612",
+   "603",
+   "680",
+   "689"
+  ],
+  "answer_index": 2,
+  "explanation": "DCLXXX = 680.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:13:c12ae3989bab01ac",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What number does the Roman numeral CCLXXXV represent?",
+  "options": [
+   "294",
+   "285",
+   "307",
+   "295"
+  ],
+  "answer_index": 1,
+  "explanation": "CCLXXXV = 285.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:14:dbd0c6518efab5c0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What number does the Roman numeral CDIX represent?",
+  "options": [
+   "395",
+   "452",
+   "374",
+   "409"
+  ],
+  "answer_index": 3,
+  "explanation": "CDIX = 409.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:15:9544ccec694467a4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What number does the Roman numeral XL represent?",
+  "options": [
+   "36",
+   "47",
+   "35",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "XL = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:16:560b84cdd74ad923",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What number does the Roman numeral DCCCXLV represent?",
+  "options": [
+   "895",
+   "845",
+   "910",
+   "897"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCCXLV = 845.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:17:b48801b99b0a67cf",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What number does the Roman numeral CDXCIII represent?",
+  "options": [
+   "493",
+   "459",
+   "464",
+   "437"
+  ],
+  "answer_index": 0,
+  "explanation": "CDXCIII = 493.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:18:1820914516971e30",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What number does the Roman numeral DCXXV represent?",
+  "options": [
+   "604",
+   "625",
+   "661",
+   "627"
+  ],
+  "answer_index": 1,
+  "explanation": "DCXXV = 625.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:19:0872e25529f66a51",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What number does the Roman numeral CMXLIX represent?",
+  "options": [
+   "879",
+   "867",
+   "949",
+   "1027"
+  ],
+  "answer_index": 2,
+  "explanation": "CMXLIX = 949.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:20:105fdda57067d84e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What number does the Roman numeral CCXLVI represent?",
+  "options": [
+   "238",
+   "213",
+   "222",
+   "246"
+  ],
+  "answer_index": 3,
+  "explanation": "CCXLVI = 246.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:21:8958180b59d7b4f4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What number does the Roman numeral CLXXXII represent?",
+  "options": [
+   "191",
+   "190",
+   "182",
+   "167"
+  ],
+  "answer_index": 2,
+  "explanation": "CLXXXII = 182.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:22:e62a12ea11a50f95",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What number does the Roman numeral DLXXX represent?",
+  "options": [
+   "580",
+   "524",
+   "615",
+   "560"
+  ],
+  "answer_index": 0,
+  "explanation": "DLXXX = 580.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:23:3da84f9271fb79ce",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What number does the Roman numeral CMXX represent?",
+  "options": [
+   "916",
+   "920",
+   "1023",
+   "841"
+  ],
+  "answer_index": 1,
+  "explanation": "CMXX = 920.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:24:b2ffb764c7684cbe",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What number does the Roman numeral DCCXCVII represent?",
+  "options": [
+   "695",
+   "726",
+   "797",
+   "705"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCXCVII = 797.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:25:ffaeab90f1a0bfd4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What number does the Roman numeral CXXXVIII represent?",
+  "options": [
+   "138",
+   "147",
+   "156",
+   "154"
+  ],
+  "answer_index": 0,
+  "explanation": "CXXXVIII = 138.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:26:7044bad83d89e6f3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What number does the Roman numeral CCCXXII represent?",
+  "options": [
+   "322",
+   "361",
+   "357",
+   "363"
+  ],
+  "answer_index": 0,
+  "explanation": "CCCXXII = 322.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:27:6009d12a4a42c9e4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What number does the Roman numeral DCXXXV represent?",
+  "options": [
+   "635",
+   "612",
+   "559",
+   "696"
+  ],
+  "answer_index": 0,
+  "explanation": "DCXXXV = 635.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:28:d96d2ca56c7e3bd2",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What number does the Roman numeral CMXC represent?",
+  "options": [
+   "933",
+   "954",
+   "1039",
+   "990"
+  ],
+  "answer_index": 3,
+  "explanation": "CMXC = 990.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:29:31157ccaa998d64c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What number does the Roman numeral DCCCLXXII represent?",
+  "options": [
+   "872",
+   "806",
+   "780",
+   "817"
+  ],
+  "answer_index": 0,
+  "explanation": "DCCCLXXII = 872.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:30:ad7db6ddbddca58e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What number does the Roman numeral CXXIX represent?",
+  "options": [
+   "129",
+   "125",
+   "130",
+   "111"
+  ],
+  "answer_index": 0,
+  "explanation": "CXXIX = 129.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:31:154be4cabe1896da",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What number does the Roman numeral CLX represent?",
+  "options": [
+   "160",
+   "150",
+   "171",
+   "174"
+  ],
+  "answer_index": 0,
+  "explanation": "CLX = 160.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:32:273b77847fbe7dd6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What number does the Roman numeral CDXCI represent?",
+  "options": [
+   "552",
+   "553",
+   "474",
+   "491"
+  ],
+  "answer_index": 3,
+  "explanation": "CDXCI = 491.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:33:47cf490b44ac4f35",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What number does the Roman numeral CCCXII represent?",
+  "options": [
+   "289",
+   "312",
+   "320",
+   "307"
+  ],
+  "answer_index": 1,
+  "explanation": "CCCXII = 312.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:34:4b136051b98bbcac",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What number does the Roman numeral XCIX represent?",
+  "options": [
+   "93",
+   "110",
+   "114",
+   "99"
+  ],
+  "answer_index": 3,
+  "explanation": "XCIX = 99.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:35:b4c7c1d35c295db0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What number does the Roman numeral DCCCXXVII represent?",
+  "options": [
+   "899",
+   "827",
+   "727",
+   "861"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCCXXVII = 827.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:36:f7a75129a0c09ed7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What number does the Roman numeral CCCLV represent?",
+  "options": [
+   "355",
+   "361",
+   "320",
+   "350"
+  ],
+  "answer_index": 0,
+  "explanation": "CCCLV = 355.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:37:ebcd0cc21d80c031",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What number does the Roman numeral DXXXI represent?",
+  "options": [
+   "599",
+   "558",
+   "500",
+   "531"
+  ],
+  "answer_index": 3,
+  "explanation": "DXXXI = 531.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:38:950f5c63eecd40fb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What number does the Roman numeral CDXCIII represent?",
+  "options": [
+   "525",
+   "493",
+   "441",
+   "505"
+  ],
+  "answer_index": 1,
+  "explanation": "CDXCIII = 493.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:39:b84be0626b2f7259",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What number does the Roman numeral CVI represent?",
+  "options": [
+   "91",
+   "106",
+   "116",
+   "117"
+  ],
+  "answer_index": 1,
+  "explanation": "CVI = 106.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:40:0635d216db314df4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What number does the Roman numeral CLXXXVII represent?",
+  "options": [
+   "187",
+   "195",
+   "198",
+   "197"
+  ],
+  "answer_index": 0,
+  "explanation": "CLXXXVII = 187.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:41:0c17812abb257cf3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What number does the Roman numeral DCCIX represent?",
+  "options": [
+   "787",
+   "727",
+   "709",
+   "756"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCIX = 709.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:42:2a2b1642e8b356fc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What number does the Roman numeral CMXXVI represent?",
+  "options": [
+   "1039",
+   "928",
+   "926",
+   "820"
+  ],
+  "answer_index": 2,
+  "explanation": "CMXXVI = 926.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:43:977cc55bab0d0b75",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "What number does the Roman numeral DLXXVI represent?",
+  "options": [
+   "631",
+   "580",
+   "576",
+   "536"
+  ],
+  "answer_index": 2,
+  "explanation": "DLXXVI = 576.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:44:5ac4f0db3f3bf4ec",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What number does the Roman numeral CMXLII represent?",
+  "options": [
+   "977",
+   "823",
+   "822",
+   "942"
+  ],
+  "answer_index": 3,
+  "explanation": "CMXLII = 942.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:45:16a9f9b8291c84c9",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What number does the Roman numeral CMLXXVII represent?",
+  "options": [
+   "1103",
+   "992",
+   "997",
+   "977"
+  ],
+  "answer_index": 3,
+  "explanation": "CMLXXVII = 977.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:46:73795eabb47e7052",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What number does the Roman numeral DCLIV represent?",
+  "options": [
+   "580",
+   "682",
+   "654",
+   "611"
+  ],
+  "answer_index": 2,
+  "explanation": "DCLIV = 654.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:47:c6dcb45e82ce34f4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What number does the Roman numeral DCCCXII represent?",
+  "options": [
+   "812",
+   "742",
+   "873",
+   "860"
+  ],
+  "answer_index": 0,
+  "explanation": "DCCCXII = 812.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:48:1e5abca02fda6e9c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What number does the Roman numeral DLXXIV represent?",
+  "options": [
+   "644",
+   "574",
+   "503",
+   "553"
+  ],
+  "answer_index": 1,
+  "explanation": "DLXXIV = 574.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:49:3bb1c55ac4896350",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "What number does the Roman numeral DCLIV represent?",
+  "options": [
+   "654",
+   "704",
+   "583",
+   "597"
+  ],
+  "answer_index": 0,
+  "explanation": "DCLIV = 654.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:50:68b60c23d871bf70",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What number does the Roman numeral CLXXII represent?",
+  "options": [
+   "152",
+   "155",
+   "172",
+   "192"
+  ],
+  "answer_index": 2,
+  "explanation": "CLXXII = 172.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:51:55c98d6f02e2c7b8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What number does the Roman numeral DCCCXVII represent?",
+  "options": [
+   "853",
+   "775",
+   "817",
+   "888"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCCXVII = 817.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:52:7659240781ea69c3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What number does the Roman numeral DCLXI represent?",
+  "options": [
+   "659",
+   "661",
+   "676",
+   "636"
+  ],
+  "answer_index": 1,
+  "explanation": "DCLXI = 661.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:53:58cdbb7689957746",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What number does the Roman numeral DCCXLI represent?",
+  "options": [
+   "655",
+   "795",
+   "741",
+   "767"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCXLI = 741.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:54:0de787c787f29a60",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What number does the Roman numeral CMLII represent?",
+  "options": [
+   "1069",
+   "1058",
+   "952",
+   "1017"
+  ],
+  "answer_index": 2,
+  "explanation": "CMLII = 952.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:55:990df2e6dba4bd04",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What number does the Roman numeral DCLXVII represent?",
+  "options": [
+   "642",
+   "652",
+   "667",
+   "621"
+  ],
+  "answer_index": 2,
+  "explanation": "DCLXVII = 667.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:56:b1124164c0fa2e79",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What number does the Roman numeral CMXXXV represent?",
+  "options": [
+   "984",
+   "1004",
+   "935",
+   "1033"
+  ],
+  "answer_index": 2,
+  "explanation": "CMXXXV = 935.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:57:88fa18d6cf700bef",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "What number does the Roman numeral CMLVIII represent?",
+  "options": [
+   "952",
+   "991",
+   "974",
+   "958"
+  ],
+  "answer_index": 3,
+  "explanation": "CMLVIII = 958.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:58:a519e84b2e99ef57",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What number does the Roman numeral DCCCLXXXI represent?",
+  "options": [
+   "881",
+   "875",
+   "967",
+   "786"
+  ],
+  "answer_index": 0,
+  "explanation": "DCCCLXXXI = 881.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:59:a4de7d597181559c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What number does the Roman numeral DCCLXXIII represent?",
+  "options": [
+   "755",
+   "773",
+   "806",
+   "869"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCLXXIII = 773.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:60:81e284aafb04d84f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What number does the Roman numeral DLXXXVIII represent?",
+  "options": [
+   "576",
+   "544",
+   "627",
+   "588"
+  ],
+  "answer_index": 3,
+  "explanation": "DLXXXVIII = 588.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:61:ffe990ddcbe6c3f8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "What number does the Roman numeral DCLXXV represent?",
+  "options": [
+   "667",
+   "689",
+   "602",
+   "675"
+  ],
+  "answer_index": 3,
+  "explanation": "DCLXXV = 675.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:62:9ed944c369ce435b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What number does the Roman numeral CLXI represent?",
+  "options": [
+   "161",
+   "153",
+   "166",
+   "176"
+  ],
+  "answer_index": 0,
+  "explanation": "CLXI = 161.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:63:a165857d8dedc5da",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "What number does the Roman numeral DCLXIV represent?",
+  "options": [
+   "654",
+   "702",
+   "664",
+   "717"
+  ],
+  "answer_index": 2,
+  "explanation": "DCLXIV = 664.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:64:d48236afc6174f60",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What number does the Roman numeral DCCXXXVIII represent?",
+  "options": [
+   "644",
+   "738",
+   "808",
+   "678"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCXXXVIII = 738.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:65:664cc898b81a15e4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What number does the Roman numeral DCCC represent?",
+  "options": [
+   "871",
+   "800",
+   "814",
+   "736"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCC = 800.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:66:fc7166c40e7472ae",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What number does the Roman numeral LXXXII represent?",
+  "options": [
+   "93",
+   "82",
+   "95",
+   "73"
+  ],
+  "answer_index": 1,
+  "explanation": "LXXXII = 82.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:67:5198b4ba51ffa828",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "What number does the Roman numeral CDLXXXVIII represent?",
+  "options": [
+   "503",
+   "501",
+   "488",
+   "429"
+  ],
+  "answer_index": 2,
+  "explanation": "CDLXXXVIII = 488.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:68:f64826eeaa5772d3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What number does the Roman numeral DLVII represent?",
+  "options": [
+   "564",
+   "517",
+   "506",
+   "557"
+  ],
+  "answer_index": 3,
+  "explanation": "DLVII = 557.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:69:16385fa244348adc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What number does the Roman numeral CDXLVIII represent?",
+  "options": [
+   "414",
+   "457",
+   "499",
+   "448"
+  ],
+  "answer_index": 3,
+  "explanation": "CDXLVIII = 448.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:70:6d237ab10cbd2be7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What number does the Roman numeral DCCCXIII represent?",
+  "options": [
+   "801",
+   "813",
+   "870",
+   "727"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCCXIII = 813.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:71:fe88fc8e7383448f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What number does the Roman numeral CCXLI represent?",
+  "options": [
+   "241",
+   "246",
+   "213",
+   "272"
+  ],
+  "answer_index": 0,
+  "explanation": "CCXLI = 241.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:72:8353730df2166075",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What number does the Roman numeral CXXXIII represent?",
+  "options": [
+   "117",
+   "144",
+   "133",
+   "132"
+  ],
+  "answer_index": 2,
+  "explanation": "CXXXIII = 133.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:73:9a8071365be1c4fc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What number does the Roman numeral CDLXXXI represent?",
+  "options": [
+   "481",
+   "471",
+   "500",
+   "499"
+  ],
+  "answer_index": 0,
+  "explanation": "CDLXXXI = 481.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:74:fb94ce0e4625a2b5",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "What number does the Roman numeral DCCLXVIII represent?",
+  "options": [
+   "708",
+   "769",
+   "768",
+   "750"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCLXVIII = 768.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:75:18de984eaee99e63",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What number does the Roman numeral CXCVII represent?",
+  "options": [
+   "170",
+   "197",
+   "185",
+   "214"
+  ],
+  "answer_index": 1,
+  "explanation": "CXCVII = 197.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:76:e4345a202280708b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What number does the Roman numeral CMXCII represent?",
+  "options": [
+   "924",
+   "947",
+   "992",
+   "1056"
+  ],
+  "answer_index": 2,
+  "explanation": "CMXCII = 992.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:77:348000810c14b386",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What number does the Roman numeral DXCVI represent?",
+  "options": [
+   "631",
+   "547",
+   "596",
+   "546"
+  ],
+  "answer_index": 2,
+  "explanation": "DXCVI = 596.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:78:7b1fab8a880401b5",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What number does the Roman numeral CCCLXXXVIII represent?",
+  "options": [
+   "345",
+   "388",
+   "358",
+   "405"
+  ],
+  "answer_index": 1,
+  "explanation": "CCCLXXXVIII = 388.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:79:7f87d6acb0cab7fc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What number does the Roman numeral CMIV represent?",
+  "options": [
+   "923",
+   "904",
+   "920",
+   "883"
+  ],
+  "answer_index": 1,
+  "explanation": "CMIV = 904.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:80:3be78f8ea78b6f73",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What number does the Roman numeral DLXIV represent?",
+  "options": [
+   "564",
+   "596",
+   "611",
+   "638"
+  ],
+  "answer_index": 0,
+  "explanation": "DLXIV = 564.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:81:e4c4ed33e66aabda",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "What number does the Roman numeral CDXIX represent?",
+  "options": [
+   "443",
+   "396",
+   "398",
+   "419"
+  ],
+  "answer_index": 3,
+  "explanation": "CDXIX = 419.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:82:ab2b71d2415293a6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "What number does the Roman numeral CXLII represent?",
+  "options": [
+   "142",
+   "146",
+   "151",
+   "138"
+  ],
+  "answer_index": 0,
+  "explanation": "CXLII = 142.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:83:eb1d13a3092a7a65",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What number does the Roman numeral CMLXXII represent?",
+  "options": [
+   "1007",
+   "972",
+   "1087",
+   "991"
+  ],
+  "answer_index": 1,
+  "explanation": "CMLXXII = 972.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:84:ed84b5b5fb57b1b6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What number does the Roman numeral DCCCXVIII represent?",
+  "options": [
+   "716",
+   "871",
+   "720",
+   "818"
+  ],
+  "answer_index": 3,
+  "explanation": "DCCCXVIII = 818.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:85:fbd27e8260990e76",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What number does the Roman numeral CCLXVIII represent?",
+  "options": [
+   "284",
+   "250",
+   "251",
+   "268"
+  ],
+  "answer_index": 3,
+  "explanation": "CCLXVIII = 268.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:86:7a99edd2425ba19a",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What number does the Roman numeral CXXIV represent?",
+  "options": [
+   "129",
+   "120",
+   "124",
+   "128"
+  ],
+  "answer_index": 2,
+  "explanation": "CXXIV = 124.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:87:25021f762484f3ab",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What number does the Roman numeral CXCVII represent?",
+  "options": [
+   "218",
+   "188",
+   "191",
+   "197"
+  ],
+  "answer_index": 3,
+  "explanation": "CXCVII = 197.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:88:ccb87495ae902737",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What number does the Roman numeral DCCCXII represent?",
+  "options": [
+   "852",
+   "775",
+   "841",
+   "812"
+  ],
+  "answer_index": 3,
+  "explanation": "DCCCXII = 812.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:89:f6357758b54bb563",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What number does the Roman numeral CCXXVI represent?",
+  "options": [
+   "226",
+   "224",
+   "249",
+   "245"
+  ],
+  "answer_index": 0,
+  "explanation": "CCXXVI = 226.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:90:a3d9134aa9f88f62",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "What number does the Roman numeral DCXLIX represent?",
+  "options": [
+   "571",
+   "669",
+   "690",
+   "649"
+  ],
+  "answer_index": 3,
+  "explanation": "DCXLIX = 649.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:91:b6dfbdd2b4f62fea",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "What number does the Roman numeral DCCCV represent?",
+  "options": [
+   "711",
+   "809",
+   "805",
+   "727"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCCV = 805.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:92:e980c0ed8013de01",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What number does the Roman numeral DLXXI represent?",
+  "options": [
+   "571",
+   "584",
+   "626",
+   "578"
+  ],
+  "answer_index": 0,
+  "explanation": "DLXXI = 571.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:93:2c0ad46bf48b9895",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What number does the Roman numeral CLIV represent?",
+  "options": [
+   "143",
+   "174",
+   "154",
+   "146"
+  ],
+  "answer_index": 2,
+  "explanation": "CLIV = 154.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:94:84b183be2a987845",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What number does the Roman numeral CMXXIII represent?",
+  "options": [
+   "1017",
+   "978",
+   "903",
+   "923"
+  ],
+  "answer_index": 3,
+  "explanation": "CMXXIII = 923.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:95:eb4e4b018402c2b6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What number does the Roman numeral CDLXIII represent?",
+  "options": [
+   "493",
+   "463",
+   "430",
+   "485"
+  ],
+  "answer_index": 1,
+  "explanation": "CDLXIII = 463.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:96:72f11a1fa40208e7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What number does the Roman numeral CXCI represent?",
+  "options": [
+   "181",
+   "172",
+   "191",
+   "177"
+  ],
+  "answer_index": 2,
+  "explanation": "CXCI = 191.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:97:ff1a0ab7fc6d19c1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What number does the Roman numeral LXV represent?",
+  "options": [
+   "58",
+   "56",
+   "60",
+   "65"
+  ],
+  "answer_index": 3,
+  "explanation": "LXV = 65.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:98:6464efda1a24e0db",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What number does the Roman numeral CCXXII represent?",
+  "options": [
+   "203",
+   "213",
+   "222",
+   "211"
+  ],
+  "answer_index": 2,
+  "explanation": "CCXXII = 222.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:99:80f263b6ca6bd544",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "What number does the Roman numeral XCV represent?",
+  "options": [
+   "96",
+   "105",
+   "95",
+   "101"
+  ],
+  "answer_index": 2,
+  "explanation": "XCV = 95.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:100:64165f933c23a6f6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What number does the Roman numeral CCXXIX represent?",
+  "options": [
+   "229",
+   "207",
+   "199",
+   "260"
+  ],
+  "answer_index": 0,
+  "explanation": "CCXXIX = 229.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:101:ce7c769efd98c086",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What number does the Roman numeral DCLII represent?",
+  "options": [
+   "592",
+   "597",
+   "611",
+   "652"
+  ],
+  "answer_index": 3,
+  "explanation": "DCLII = 652.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:102:0504612523285b94",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What number does the Roman numeral DCLXXXII represent?",
+  "options": [
+   "652",
+   "731",
+   "742",
+   "682"
+  ],
+  "answer_index": 3,
+  "explanation": "DCLXXXII = 682.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:103:b53ca807ef407394",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What number does the Roman numeral DCXXIV represent?",
+  "options": [
+   "628",
+   "624",
+   "636",
+   "622"
+  ],
+  "answer_index": 1,
+  "explanation": "DCXXIV = 624.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:104:1c4a94aa62edc078",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What number does the Roman numeral CCXXIII represent?",
+  "options": [
+   "231",
+   "223",
+   "239",
+   "198"
+  ],
+  "answer_index": 1,
+  "explanation": "CCXXIII = 223.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:105:ad838e972800fba6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What number does the Roman numeral CDXXXVIII represent?",
+  "options": [
+   "414",
+   "438",
+   "469",
+   "466"
+  ],
+  "answer_index": 1,
+  "explanation": "CDXXXVIII = 438.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:106:44cf14b90d0cc6cb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "What number does the Roman numeral CDXLII represent?",
+  "options": [
+   "434",
+   "442",
+   "498",
+   "489"
+  ],
+  "answer_index": 1,
+  "explanation": "CDXLII = 442.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:107:ed96bb307449fe26",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What number does the Roman numeral XCIX represent?",
+  "options": [
+   "101",
+   "83",
+   "86",
+   "99"
+  ],
+  "answer_index": 3,
+  "explanation": "XCIX = 99.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:108:772ebaba02735be7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What number does the Roman numeral LII represent?",
+  "options": [
+   "49",
+   "43",
+   "57",
+   "52"
+  ],
+  "answer_index": 3,
+  "explanation": "LII = 52.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:109:361e26da261a673d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "What number does the Roman numeral DCLXXVI represent?",
+  "options": [
+   "749",
+   "723",
+   "622",
+   "676"
+  ],
+  "answer_index": 3,
+  "explanation": "DCLXXVI = 676.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:110:301ee673415dbee7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "What number does the Roman numeral DCCLXIV represent?",
+  "options": [
+   "746",
+   "764",
+   "810",
+   "778"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCLXIV = 764.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:111:d886b1507a53cb61",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What number does the Roman numeral LXXXIV represent?",
+  "options": [
+   "87",
+   "79",
+   "84",
+   "85"
+  ],
+  "answer_index": 2,
+  "explanation": "LXXXIV = 84.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:112:669222c83388b35b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What number does the Roman numeral DCLVII represent?",
+  "options": [
+   "657",
+   "662",
+   "593",
+   "734"
+  ],
+  "answer_index": 0,
+  "explanation": "DCLVII = 657.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:113:3aa4f8557ca9b0ec",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "What number does the Roman numeral CCCLI represent?",
+  "options": [
+   "351",
+   "369",
+   "322",
+   "390"
+  ],
+  "answer_index": 0,
+  "explanation": "CCCLI = 351.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:114:a8eb25750d0c08b2",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What number does the Roman numeral CXCIV represent?",
+  "options": [
+   "182",
+   "186",
+   "194",
+   "197"
+  ],
+  "answer_index": 2,
+  "explanation": "CXCIV = 194.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:115:d4905bd8c97df347",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What number does the Roman numeral DX represent?",
+  "options": [
+   "453",
+   "517",
+   "510",
+   "532"
+  ],
+  "answer_index": 2,
+  "explanation": "DX = 510.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:116:c9154ca8aac13647",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What number does the Roman numeral CCLXXXVII represent?",
+  "options": [
+   "287",
+   "294",
+   "302",
+   "282"
+  ],
+  "answer_index": 0,
+  "explanation": "CCLXXXVII = 287.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:117:62a627feacde489c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What number does the Roman numeral DXVI represent?",
+  "options": [
+   "516",
+   "471",
+   "539",
+   "564"
+  ],
+  "answer_index": 0,
+  "explanation": "DXVI = 516.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:118:5add6362d4df55c8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What number does the Roman numeral CCXLVIII represent?",
+  "options": [
+   "236",
+   "264",
+   "229",
+   "248"
+  ],
+  "answer_index": 3,
+  "explanation": "CCXLVIII = 248.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:119:18301b5d9df9c75b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What number does the Roman numeral DCCC represent?",
+  "options": [
+   "873",
+   "886",
+   "800",
+   "841"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCC = 800.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:120:e4be181363e7518f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "What number does the Roman numeral CXL represent?",
+  "options": [
+   "135",
+   "137",
+   "161",
+   "140"
+  ],
+  "answer_index": 3,
+  "explanation": "CXL = 140.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:121:bc346c0f55037f5d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "What number does the Roman numeral CDLXVI represent?",
+  "options": [
+   "516",
+   "463",
+   "466",
+   "478"
+  ],
+  "answer_index": 2,
+  "explanation": "CDLXVI = 466.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:122:30bcc89b49f853a6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "What number does the Roman numeral DXC represent?",
+  "options": [
+   "590",
+   "564",
+   "518",
+   "622"
+  ],
+  "answer_index": 0,
+  "explanation": "DXC = 590.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:123:d01134ca259144e8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "What number does the Roman numeral DLIX represent?",
+  "options": [
+   "559",
+   "531",
+   "492",
+   "560"
+  ],
+  "answer_index": 0,
+  "explanation": "DLIX = 559.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:124:6c36f35f141ff13f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "What number does the Roman numeral CLXXXVIII represent?",
+  "options": [
+   "175",
+   "174",
+   "188",
+   "191"
+  ],
+  "answer_index": 2,
+  "explanation": "CLXXXVIII = 188.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:125:1af5e7f44fc07733",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "What number does the Roman numeral DXCVI represent?",
+  "options": [
+   "552",
+   "555",
+   "658",
+   "596"
+  ],
+  "answer_index": 3,
+  "explanation": "DXCVI = 596.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:126:ba6add91b4e8adf0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "What number does the Roman numeral CLXIX represent?",
+  "options": [
+   "184",
+   "170",
+   "155",
+   "169"
+  ],
+  "answer_index": 3,
+  "explanation": "CLXIX = 169.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:127:c79e25a4f5995995",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "What number does the Roman numeral CCXC represent?",
+  "options": [
+   "290",
+   "303",
+   "251",
+   "329"
+  ],
+  "answer_index": 0,
+  "explanation": "CCXC = 290.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:128:bdfeffef2678d079",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "What number does the Roman numeral CCCXC represent?",
+  "options": [
+   "428",
+   "376",
+   "390",
+   "392"
+  ],
+  "answer_index": 2,
+  "explanation": "CCCXC = 390.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:129:6fa895101ca14491",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "What number does the Roman numeral DCCXCVII represent?",
+  "options": [
+   "884",
+   "797",
+   "778",
+   "698"
+  ],
+  "answer_index": 1,
+  "explanation": "DCCXCVII = 797.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:130:e50cdd2b887eca9b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "What number does the Roman numeral CDL represent?",
+  "options": [
+   "450",
+   "505",
+   "440",
+   "393"
+  ],
+  "answer_index": 0,
+  "explanation": "CDL = 450.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:131:bf08f601277368a2",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "What number does the Roman numeral CDXLI represent?",
+  "options": [
+   "467",
+   "477",
+   "441",
+   "393"
+  ],
+  "answer_index": 2,
+  "explanation": "CDXLI = 441.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:132:32af4e2dc48fe12d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "What number does the Roman numeral LXXXVII represent?",
+  "options": [
+   "80",
+   "101",
+   "83",
+   "87"
+  ],
+  "answer_index": 3,
+  "explanation": "LXXXVII = 87.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:133:e88b25437a7a64d3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "What number does the Roman numeral DCCLXVI represent?",
+  "options": [
+   "766",
+   "787",
+   "841",
+   "670"
+  ],
+  "answer_index": 0,
+  "explanation": "DCCLXVI = 766.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:134:615bd120ebe2af08",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "What number does the Roman numeral CDII represent?",
+  "options": [
+   "377",
+   "416",
+   "402",
+   "357"
+  ],
+  "answer_index": 2,
+  "explanation": "CDII = 402.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:135:2726a9d4f818d783",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "What number does the Roman numeral CCLXXIX represent?",
+  "options": [
+   "279",
+   "315",
+   "242",
+   "310"
+  ],
+  "answer_index": 0,
+  "explanation": "CCLXXIX = 279.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:136:0ad871653c1b5107",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "What number does the Roman numeral CXLVII represent?",
+  "options": [
+   "168",
+   "146",
+   "156",
+   "147"
+  ],
+  "answer_index": 3,
+  "explanation": "CXLVII = 147.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:137:55cd710a4ca7a0ad",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "What number does the Roman numeral DLI represent?",
+  "options": [
+   "504",
+   "509",
+   "540",
+   "551"
+  ],
+  "answer_index": 3,
+  "explanation": "DLI = 551.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:138:8b23820840c4bcb6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "What number does the Roman numeral CDXXXVII represent?",
+  "options": [
+   "382",
+   "401",
+   "486",
+   "437"
+  ],
+  "answer_index": 3,
+  "explanation": "CDXXXVII = 437.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:139:044b95ac12c09b87",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "What number does the Roman numeral CXC represent?",
+  "options": [
+   "176",
+   "190",
+   "211",
+   "210"
+  ],
+  "answer_index": 1,
+  "explanation": "CXC = 190.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:140:a9e1dae1b27226cb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "What number does the Roman numeral CCLVII represent?",
+  "options": [
+   "288",
+   "257",
+   "291",
+   "272"
+  ],
+  "answer_index": 1,
+  "explanation": "CCLVII = 257.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:141:07a5401e7b237eff",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "What number does the Roman numeral CIV represent?",
+  "options": [
+   "89",
+   "116",
+   "113",
+   "104"
+  ],
+  "answer_index": 3,
+  "explanation": "CIV = 104.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:142:874fc1824cf73ab9",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "What number does the Roman numeral DCCCLXII represent?",
+  "options": [
+   "810",
+   "796",
+   "862",
+   "759"
+  ],
+  "answer_index": 2,
+  "explanation": "DCCCLXII = 862.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:143:0e1d82f809acc681",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "What number does the Roman numeral LV represent?",
+  "options": [
+   "51",
+   "58",
+   "55",
+   "53"
+  ],
+  "answer_index": 2,
+  "explanation": "LV = 55.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:144:4293e32e5a004825",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "What number does the Roman numeral DCXLV represent?",
+  "options": [
+   "632",
+   "704",
+   "566",
+   "645"
+  ],
+  "answer_index": 3,
+  "explanation": "DCXLV = 645.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:145:80a4a69a07924674",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "What number does the Roman numeral CCLXXII represent?",
+  "options": [
+   "259",
+   "250",
+   "260",
+   "272"
+  ],
+  "answer_index": 3,
+  "explanation": "CCLXXII = 272.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:146:ac44f7ccb8621a66",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "What number does the Roman numeral DCLI represent?",
+  "options": [
+   "651",
+   "662",
+   "621",
+   "605"
+  ],
+  "answer_index": 0,
+  "explanation": "DCLI = 651.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:147:5ae5185d88dec586",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "What number does the Roman numeral CCCXCV represent?",
+  "options": [
+   "406",
+   "392",
+   "395",
+   "387"
+  ],
+  "answer_index": 2,
+  "explanation": "CCCXCV = 395.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:148:906ca629b81d6296",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "What number does the Roman numeral CLXVII represent?",
+  "options": [
+   "181",
+   "185",
+   "167",
+   "172"
+  ],
+  "answer_index": 2,
+  "explanation": "CLXVII = 167.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:149:1c81ba22bac49db0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "What number does the Roman numeral CXXXIV represent?",
+  "options": [
+   "127",
+   "150",
+   "134",
+   "126"
+  ],
+  "answer_index": 2,
+  "explanation": "CXXXIV = 134.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:150:1cb19f051211036d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 2,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "What number does the Roman numeral DCLXXXII represent?",
+  "options": [
+   "720",
+   "756",
+   "713",
+   "682"
+  ],
+  "answer_index": 3,
+  "explanation": "DCLXXXII = 682.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

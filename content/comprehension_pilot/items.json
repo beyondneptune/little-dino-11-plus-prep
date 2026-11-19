@@ -1,0 +1,53 @@
+{
+  "note": "Original passages (not copied). Each item has an evidence_span (the exact sentence that justifies the key). Used ONLY for the offline verification pilot; nothing is served.",
+  "passages": [
+    {
+      "id": "P1",
+      "title": "The Trilobite's Armour",
+      "text": "Trilobites were small sea animals that lived long before the dinosaurs. Their bodies were covered by a hard shell, a bit like the shell of a woodlouse today. The shell was split into three long parts, which is how the trilobite got its name. When danger came near, a trilobite could roll itself into a tight ball so that only its armour showed. Soft parts, like its legs and feelers, were tucked safely underneath. Because the shell was so hard, it often turned into a fossil after the animal died, while the soft parts rotted away.",
+      "questions": [
+        {"id": "P1Q1", "type": "literal", "q": "What covered a trilobite's body?", "options": ["A hard shell", "Thick fur", "Smooth scales", "A layer of slime"], "key": "A hard shell", "evidence_span": "Their bodies were covered by a hard shell, a bit like the shell of a woodlouse today."},
+        {"id": "P1Q2", "type": "literal", "q": "How many long parts was the shell split into?", "options": ["Three", "Two", "Four", "Six"], "key": "Three", "evidence_span": "The shell was split into three long parts, which is how the trilobite got its name."},
+        {"id": "P1Q3", "type": "inference", "q": "Why did a trilobite roll into a ball?", "options": ["To protect its soft parts", "To swim faster", "To keep warm", "To find food"], "key": "To protect its soft parts", "evidence_span": "When danger came near, a trilobite could roll itself into a tight ball so that only its armour showed."},
+        {"id": "P1Q4", "type": "inference", "q": "Why are shells found as fossils more often than legs?", "options": ["The shell was hard and did not rot", "The legs were poisonous", "The shell was brightly coloured", "The legs floated away"], "key": "The shell was hard and did not rot", "evidence_span": "Because the shell was so hard, it often turned into a fossil after the animal died, while the soft parts rotted away."},
+        {"id": "P1Q5", "type": "literal", "q": "When did trilobites live?", "options": ["Long before the dinosaurs", "At the same time as people", "Just after the dinosaurs", "In modern rockpools"], "key": "Long before the dinosaurs", "evidence_span": "Trilobites were small sea animals that lived long before the dinosaurs."}
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "Maya's Rockpool",
+      "text": "Maya crouched beside the rockpool, her knees damp from the wet sand. At first the water looked empty, but she waited, as still as the rocks around her. Slowly, a small crab crept out from under a green frond of seaweed. It lifted one claw, as if to warn her, then scuttled sideways across the pool. Maya did not touch it. She had learned on her last visit that grabbing at sea creatures only frightened them away. Instead she smiled and watched until the crab tucked itself back into a crack. When she finally stood up, her legs were stiff, but she did not mind at all.",
+      "questions": [
+        {"id": "P2Q1", "type": "literal", "q": "What came out from under the seaweed?", "options": ["A small crab", "A silver fish", "A starfish", "A shrimp"], "key": "A small crab", "evidence_span": "Slowly, a small crab crept out from under a green frond of seaweed."},
+        {"id": "P2Q2", "type": "inference", "q": "Why did Maya stay so still?", "options": ["So she would not scare the creatures", "Because she was asleep", "Because she was cold", "To hide from Maya's friends"], "key": "So she would not scare the creatures", "evidence_span": "She had learned on her last visit that grabbing at sea creatures only frightened them away."},
+        {"id": "P2Q3", "type": "inference", "q": "How did Maya feel at the end?", "options": ["Happy, even though she was stiff", "Angry that the crab hid", "Bored of waiting", "Frightened of the water"], "key": "Happy, even though she was stiff", "evidence_span": "When she finally stood up, her legs were stiff, but she did not mind at all."},
+        {"id": "P2Q4", "type": "literal", "q": "What did the crab do after lifting its claw?", "options": ["Scuttled sideways across the pool", "Climbed onto Maya's hand", "Swam to the top of the water", "Buried itself in the sand"], "key": "Scuttled sideways across the pool", "evidence_span": "It lifted one claw, as if to warn her, then scuttled sideways across the pool."},
+        {"id": "P2Q5", "type": "inference", "q": "What does the passage suggest about Maya?", "options": ["She is patient and careful", "She is noisy and clumsy", "She dislikes the beach", "She is afraid of crabs"], "key": "She is patient and careful", "evidence_span": "At first the water looked empty, but she waited, as still as the rocks around her."}
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "How a Fossil Forms",
+      "text": "A fossil does not appear overnight. First, an animal dies and sinks to the bottom of a lake or sea. Mud and sand drift down and cover the body, layer upon layer, until the soft parts rot away. The hard parts, such as bones or shells, stay behind. Over many thousands of years, the mud is squeezed into rock, and tiny minerals seep into the bones and turn them to stone. Much later, the rock may be pushed up to the surface, or worn away by wind and rain, until at last the stony fossil is uncovered. Only then can someone find it and learn about the animal that lived so long ago.",
+      "questions": [
+        {"id": "P3Q1", "type": "literal", "q": "What happens first when a fossil forms?", "options": ["An animal dies and sinks", "The rock is pushed up", "Minerals turn bones to stone", "Someone finds the fossil"], "key": "An animal dies and sinks", "evidence_span": "First, an animal dies and sinks to the bottom of a lake or sea."},
+        {"id": "P3Q2", "type": "literal", "q": "Which parts of the body stay behind?", "options": ["The hard parts, like bones or shells", "The skin and muscles", "The eyes", "Nothing stays behind"], "key": "The hard parts, like bones or shells", "evidence_span": "The hard parts, such as bones or shells, stay behind."},
+        {"id": "P3Q3", "type": "inference", "q": "Why does the writer say a fossil does not appear overnight?", "options": ["Because it takes thousands of years", "Because fossils glow in the dark", "Because animals hide at night", "Because rock is soft"], "key": "Because it takes thousands of years", "evidence_span": "Over many thousands of years, the mud is squeezed into rock, and tiny minerals seep into the bones and turn them to stone."},
+        {"id": "P3Q4", "type": "inference", "q": "What must happen before a person can find a fossil?", "options": ["The rock must reach the surface", "The animal must come back to life", "The sea must freeze", "The bones must float"], "key": "The rock must reach the surface", "evidence_span": "Much later, the rock may be pushed up to the surface, or worn away by wind and rain, until at last the stony fossil is uncovered."},
+        {"id": "P3Q5", "type": "literal", "q": "What turns the bones to stone?", "options": ["Tiny minerals", "Warm sunlight", "Salt water", "Strong wind"], "key": "Tiny minerals", "evidence_span": "tiny minerals seep into the bones and turn them to stone."}
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "The Lighthouse Keeper",
+      "text": "Every evening, old Tom climbed the winding stairs of the lighthouse to light the great lamp. The climb left him out of breath, but he never missed a night. Ships far out at sea depended on his light to steer them safely past the sharp rocks below. One stormy night, the wind howled so fiercely that the lamp flickered and nearly went out. Tom cupped his hands around the flame and would not let it die. By morning the storm had passed, and in the harbour the fishing boats were all safely tied up. Tom smiled, rubbed his aching legs, and went down to sleep at last.",
+      "questions": [
+        {"id": "P4Q1", "type": "literal", "q": "What did Tom do every evening?", "options": ["Light the great lamp", "Sail a fishing boat", "Paint the rocks", "Mend the stairs"], "key": "Light the great lamp", "evidence_span": "Every evening, old Tom climbed the winding stairs of the lighthouse to light the great lamp."},
+        {"id": "P4Q2", "type": "inference", "q": "Why was Tom's light important to the ships?", "options": ["It helped them avoid the rocks", "It told them the time", "It kept the sailors warm", "It showed them where to fish"], "key": "It helped them avoid the rocks", "evidence_span": "Ships far out at sea depended on his light to steer them safely past the sharp rocks below."},
+        {"id": "P4Q3", "type": "inference", "q": "What does cupping his hands around the flame show about Tom?", "options": ["He was determined to keep the light going", "He was cold and wanted warmth", "He was trying to put the lamp out", "He was afraid of the dark"], "key": "He was determined to keep the light going", "evidence_span": "Tom cupped his hands around the flame and would not let it die."},
+        {"id": "P4Q4", "type": "literal", "q": "What was the weather like on the difficult night?", "options": ["Stormy with fierce wind", "Calm and sunny", "Foggy and still", "Snowy and silent"], "key": "Stormy with fierce wind", "evidence_span": "One stormy night, the wind howled so fiercely that the lamp flickered and nearly went out."},
+        {"id": "P4Q5", "type": "inference", "q": "How do we know Tom's work paid off?", "options": ["The fishing boats were all safe by morning", "The lighthouse fell down", "The storm never stopped", "The ships crashed on the rocks"], "key": "The fishing boats were all safe by morning", "evidence_span": "By morning the storm had passed, and in the harbour the fishing boats were all safely tied up."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1022 @@
+[
+ {
+  "topic": "percentages",
+  "question": "Find 20% of 135.",
+  "options": [
+   "108",
+   "54",
+   "270",
+   "27"
+  ],
+  "answer": "D",
+  "explanation": "20% = 1/5; 1/5×135 = 27."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 75% of 20.",
+  "options": [
+   "150",
+   "30",
+   "15",
+   "5"
+  ],
+  "answer": "C",
+  "explanation": "75% = 3/4; 3/4×20 = 15."
+ },
+ {
+  "topic": "percentages",
+  "question": "A £20 item is reduced by 50% in a sale. What is the new price?",
+  "options": [
+   "£20",
+   "£15",
+   "£10",
+   "£30"
+  ],
+  "answer": "C",
+  "explanation": "Reduction = 50% of £20 = £10; new price = £10."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 12 × 3 − 5",
+  "options": [
+   "27",
+   "41",
+   "31",
+   "43"
+  ],
+  "answer": "C",
+  "explanation": "Multiply first (BIDMAS): 12×3=36, then subtract 5 = 31."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 11 × 9 + 31",
+  "options": [
+   "141",
+   "130",
+   "68",
+   "290"
+  ],
+  "answer": "B",
+  "explanation": "Multiply first (BIDMAS): 11×9=99, then add 31 = 130."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 49° and 65°. What is the third angle?",
+  "options": [
+   "76°",
+   "114°",
+   "66°",
+   "131°"
+  ],
+  "answer": "C",
+  "explanation": "Angles in a triangle sum to 180°: 180−49−65 = 66°."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 10% of 190.",
+  "options": [
+   "171",
+   "190",
+   "38",
+   "19"
+  ],
+  "answer": "D",
+  "explanation": "10% = 1/10; 1/10×190 = 19."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 43° and 61°. What is the third angle?",
+  "options": [
+   "76°",
+   "104°",
+   "137°",
+   "86°"
+  ],
+  "answer": "A",
+  "explanation": "Angles in a triangle sum to 180°: 180−43−61 = 76°."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 59° and 53°. What is the third angle?",
+  "options": [
+   "121°",
+   "78°",
+   "68°",
+   "112°"
+  ],
+  "answer": "C",
+  "explanation": "Angles in a triangle sum to 180°: 180−59−53 = 68°."
+ },
+ {
+  "topic": "statistics",
+  "question": "Find the mean of: 6, 8, 1.",
+  "options": [
+   "6",
+   "5",
+   "15",
+   "4"
+  ],
+  "answer": "B",
+  "explanation": "Mean = total ÷ how many = 15÷3 = 5."
+ },
+ {
+  "topic": "multiplication",
+  "question": "Use long multiplication to work out 647 × 38.",
+  "options": [
+   "23939",
+   "24586",
+   "24587",
+   "25233"
+  ],
+  "answer": "B",
+  "explanation": "647 × 38 = 24586."
+ },
+ {
+  "topic": "measures/convert",
+  "question": "Convert 9.5 metres into centimetres.",
+  "options": [
+   "95 cm",
+   "960 cm",
+   "9500 cm",
+   "950 cm"
+  ],
+  "answer": "D",
+  "explanation": "1 m = 100 cm, so 9.5 m = 950 cm."
+ },
+ {
+  "topic": "rounding",
+  "question": "Round 9263 to the nearest 100.",
+  "options": [
+   "9300",
+   "9400",
+   "9263",
+   "9200"
+  ],
+  "answer": "A",
+  "explanation": "9263 rounds to 9300 (nearest 100)."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 61° and 67°. What is the third angle?",
+  "options": [
+   "119°",
+   "128°",
+   "52°",
+   "62°"
+  ],
+  "answer": "C",
+  "explanation": "Angles in a triangle sum to 180°: 180−61−67 = 52°."
+ },
+ {
+  "topic": "fractions",
+  "question": "Work out 1/5 + 1/2. Give your answer in its simplest form.",
+  "options": [
+   "7/10",
+   "2/10",
+   "2/7",
+   "8/10"
+  ],
+  "answer": "A",
+  "explanation": "Common denominator: 1/5+1/2 = 7/10 ."
+ },
+ {
+  "topic": "measures/convert",
+  "question": "Convert 7 metres into centimetres.",
+  "options": [
+   "7000 cm",
+   "700 cm",
+   "70 cm",
+   "710 cm"
+  ],
+  "answer": "B",
+  "explanation": "1 m = 100 cm, so 7 m = 700 cm."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 37° and 61°. What is the third angle?",
+  "options": [
+   "98°",
+   "143°",
+   "92°",
+   "82°"
+  ],
+  "answer": "D",
+  "explanation": "Angles in a triangle sum to 180°: 180−37−61 = 82°."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 344 ÷ 8.",
+  "options": [
+   "43",
+   "42",
+   "44",
+   "53"
+  ],
+  "answer": "A",
+  "explanation": "344 ÷ 8 = 43 (since 8×43=344)."
+ },
+ {
+  "topic": "multiplication",
+  "question": "Use long multiplication to work out 293 × 40.",
+  "options": [
+   "11720",
+   "12013",
+   "11427",
+   "11721"
+  ],
+  "answer": "A",
+  "explanation": "293 × 40 = 11720."
+ },
+ {
+  "topic": "measures/convert",
+  "question": "Convert 4.5 metres into centimetres.",
+  "options": [
+   "450 cm",
+   "45 cm",
+   "460 cm",
+   "4500 cm"
+  ],
+  "answer": "A",
+  "explanation": "1 m = 100 cm, so 4.5 m = 450 cm."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 50% of 62.",
+  "options": [
+   "81",
+   "310",
+   "31",
+   "62"
+  ],
+  "answer": "C",
+  "explanation": "50% = 1/2; 1/2×62 = 31."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 384 ÷ 4.",
+  "options": [
+   "95",
+   "106",
+   "96",
+   "97"
+  ],
+  "answer": "C",
+  "explanation": "384 ÷ 4 = 96 (since 4×96=384)."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £7.23. You pay with a £10 note. How much change?",
+  "options": [
+   "£7.23",
+   "£2.77",
+   "£3.00",
+   "£3.77"
+  ],
+  "answer": "B",
+  "explanation": "Change = £10 − £7.23 = £2.77."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 480 ÷ 6.",
+  "options": [
+   "80",
+   "81",
+   "90",
+   "79"
+  ],
+  "answer": "A",
+  "explanation": "480 ÷ 6 = 80 (since 6×80=480)."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 616 ÷ 8.",
+  "options": [
+   "87",
+   "76",
+   "78",
+   "77"
+  ],
+  "answer": "D",
+  "explanation": "616 ÷ 8 = 77 (since 8×77=616)."
+ },
+ {
+  "topic": "percentages",
+  "question": "A £80 item is reduced by 50% in a sale. What is the new price?",
+  "options": [
+   "£45",
+   "£80",
+   "£120",
+   "£40"
+  ],
+  "answer": "D",
+  "explanation": "Reduction = 50% of £80 = £40; new price = £40."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 6 × 3 − 9",
+  "options": [
+   "27",
+   "15",
+   "9",
+   "33"
+  ],
+  "answer": "C",
+  "explanation": "Multiply first (BIDMAS): 6×3=18, then subtract 9 = 9."
+ },
+ {
+  "topic": "angles/geometry",
+  "question": "Two angles in a triangle are 33° and 36°. What is the third angle?",
+  "options": [
+   "147°",
+   "121°",
+   "69°",
+   "111°"
+  ],
+  "answer": "D",
+  "explanation": "Angles in a triangle sum to 180°: 180−33−36 = 111°."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 4 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "32 cm",
+   "26 cm",
+   "24 cm"
+  ],
+  "answer": "D",
+  "explanation": "Perimeter = 2×(4+8) = 24 cm."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 352 ÷ 8.",
+  "options": [
+   "44",
+   "45",
+   "54",
+   "43"
+  ],
+  "answer": "A",
+  "explanation": "352 ÷ 8 = 44 (since 8×44=352)."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£40 is shared in the ratio 2:2. What is the larger share?",
+  "options": [
+   "£20",
+   "£10",
+   "£30",
+   "£21"
+  ],
+  "answer": "A",
+  "explanation": "2+2=4 parts; one part = £10; larger = 2×£10 = £20."
+ },
+ {
+  "topic": "fractions",
+  "question": "Work out 1/2 + 2/3. Give your answer in its simplest form.",
+  "options": [
+   "8/6",
+   "7/6",
+   "3/5",
+   "3/6"
+  ],
+  "answer": "B",
+  "explanation": "Common denominator: 1/2+2/3 = 7/6 ."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 3 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "9 cm",
+   "12 cm",
+   "18 cm",
+   "20 cm"
+  ],
+  "answer": "C",
+  "explanation": "Perimeter = 2×(3+6) = 18 cm."
+ },
+ {
+  "topic": "rounding",
+  "question": "Round 8772 to the nearest 100.",
+  "options": [
+   "8772",
+   "8900",
+   "8700",
+   "8800"
+  ],
+  "answer": "D",
+  "explanation": "8772 rounds to 8800 (nearest 100)."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 8 cm by 5 cm. What is its area?",
+  "options": [
+   "40 cm²",
+   "13 cm²",
+   "48 cm²",
+   "26 cm²"
+  ],
+  "answer": "A",
+  "explanation": "Area = length × width = 8×5 = 40 cm²."
+ },
+ {
+  "topic": "algebra/sequence",
+  "question": "What is the next term: 4, 9, 14, 19, …?",
+  "options": [
+   "23",
+   "24",
+   "25",
+   "29"
+  ],
+  "answer": "B",
+  "explanation": "The rule is +5 each time, so the next term is 19+5 = 24."
+ },
+ {
+  "topic": "fractions",
+  "question": "What is 5/8 of 56?",
+  "options": [
+   "21",
+   "7",
+   "40",
+   "35"
+  ],
+  "answer": "D",
+  "explanation": "56÷8=7, then ×5 = 35."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£84 is shared in the ratio 4:3. What is the larger share?",
+  "options": [
+   "£48",
+   "£60",
+   "£36",
+   "£42"
+  ],
+  "answer": "A",
+  "explanation": "4+3=7 parts; one part = £12; larger = 4×£12 = £48."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 10% of 90.",
+  "options": [
+   "18",
+   "81",
+   "90",
+   "9"
+  ],
+  "answer": "D",
+  "explanation": "10% = 1/10; 1/10×90 = 9."
+ },
+ {
+  "topic": "fractions",
+  "question": "What is 2/5 of 45?",
+  "options": [
+   "20",
+   "27",
+   "9",
+   "18"
+  ],
+  "answer": "D",
+  "explanation": "45÷5=9, then ×2 = 18."
+ },
+ {
+  "topic": "rounding",
+  "question": "Round 1509 to the nearest 10.",
+  "options": [
+   "1520",
+   "1510",
+   "1500",
+   "1509"
+  ],
+  "answer": "B",
+  "explanation": "1509 rounds to 1510 (nearest 10)."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£64 is shared in the ratio 3:5. What is the larger share?",
+  "options": [
+   "£48",
+   "£24",
+   "£32",
+   "£40"
+  ],
+  "answer": "D",
+  "explanation": "3+5=8 parts; one part = £8; larger = 5×£8 = £40."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£35 is shared in the ratio 5:2. What is the larger share?",
+  "options": [
+   "£30",
+   "£17",
+   "£25",
+   "£10"
+  ],
+  "answer": "C",
+  "explanation": "5+2=7 parts; one part = £5; larger = 5×£5 = £25."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 497 ÷ 7.",
+  "options": [
+   "71",
+   "81",
+   "70",
+   "72"
+  ],
+  "answer": "A",
+  "explanation": "497 ÷ 7 = 71 (since 7×71=497)."
+ },
+ {
+  "topic": "algebra/sequence",
+  "question": "What is the next term: 6, 10, 14, 18, …?",
+  "options": [
+   "23",
+   "21",
+   "22",
+   "26"
+  ],
+  "answer": "C",
+  "explanation": "The rule is +4 each time, so the next term is 18+4 = 22."
+ },
+ {
+  "topic": "rounding",
+  "question": "Round 1803 to the nearest 10.",
+  "options": [
+   "1810",
+   "1790",
+   "1800",
+   "1803"
+  ],
+  "answer": "C",
+  "explanation": "1803 rounds to 1800 (nearest 10)."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 7 × 4 + 20",
+  "options": [
+   "48",
+   "55",
+   "87",
+   "8"
+  ],
+  "answer": "A",
+  "explanation": "Multiply first (BIDMAS): 7×4=28, then add 20 = 48."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £2.54. You pay with a £5 note. How much change?",
+  "options": [
+   "£2.46",
+   "£2.54",
+   "£2.00",
+   "£3.46"
+  ],
+  "answer": "A",
+  "explanation": "Change = £5 − £2.54 = £2.46."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £6.33. You pay with a £10 note. How much change?",
+  "options": [
+   "£6.33",
+   "£3.67",
+   "£4.67",
+   "£4.00"
+  ],
+  "answer": "B",
+  "explanation": "Change = £10 − £6.33 = £3.67."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £5.70. You pay with a £10 note. How much change?",
+  "options": [
+   "£4.00",
+   "£5.30",
+   "£5.70",
+   "£4.30"
+  ],
+  "answer": "D",
+  "explanation": "Change = £10 − £5.70 = £4.30."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 546 ÷ 6.",
+  "options": [
+   "92",
+   "101",
+   "90",
+   "91"
+  ],
+  "answer": "D",
+  "explanation": "546 ÷ 6 = 91 (since 6×91=546)."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 75% of 140.",
+  "options": [
+   "35",
+   "210",
+   "105",
+   "1050"
+  ],
+  "answer": "C",
+  "explanation": "75% = 3/4; 3/4×140 = 105."
+ },
+ {
+  "topic": "fractions",
+  "question": "What is 3/4 of 8?",
+  "options": [
+   "7",
+   "2",
+   "9",
+   "6"
+  ],
+  "answer": "D",
+  "explanation": "8÷4=2, then ×3 = 6."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 3 cm by 4 cm. What is its area?",
+  "options": [
+   "12 cm²",
+   "7 cm²",
+   "15 cm²",
+   "14 cm²"
+  ],
+  "answer": "A",
+  "explanation": "Area = length × width = 3×4 = 12 cm²."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£66 is shared in the ratio 5:6. What is the larger share?",
+  "options": [
+   "£30",
+   "£36",
+   "£42",
+   "£33"
+  ],
+  "answer": "B",
+  "explanation": "5+6=11 parts; one part = £6; larger = 6×£6 = £36."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £5.78. You pay with a £10 note. How much change?",
+  "options": [
+   "£5.22",
+   "£4.00",
+   "£4.22",
+   "£5.78"
+  ],
+  "answer": "C",
+  "explanation": "Change = £10 − £5.78 = £4.22."
+ },
+ {
+  "topic": "ratio/proportion",
+  "question": "£36 is shared in the ratio 4:2. What is the larger share?",
+  "options": [
+   "£12",
+   "£18",
+   "£24",
+   "£30"
+  ],
+  "answer": "C",
+  "explanation": "4+2=6 parts; one part = £6; larger = 4×£6 = £24."
+ },
+ {
+  "topic": "algebra/sequence",
+  "question": "What is the next term: 5, 8, 11, 14, …?",
+  "options": [
+   "17",
+   "18",
+   "16",
+   "20"
+  ],
+  "answer": "A",
+  "explanation": "The rule is +3 each time, so the next term is 14+3 = 17."
+ },
+ {
+  "topic": "division",
+  "question": "Work out 145 ÷ 5.",
+  "options": [
+   "30",
+   "28",
+   "29",
+   "39"
+  ],
+  "answer": "C",
+  "explanation": "145 ÷ 5 = 29 (since 5×29=145)."
+ },
+ {
+  "topic": "percentages",
+  "question": "A £40 item is reduced by 50% in a sale. What is the new price?",
+  "options": [
+   "£40",
+   "£25",
+   "£20",
+   "£60"
+  ],
+  "answer": "C",
+  "explanation": "Reduction = 50% of £40 = £20; new price = £20."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 9 cm by 8 cm. What is its area?",
+  "options": [
+   "17 cm²",
+   "72 cm²",
+   "34 cm²",
+   "81 cm²"
+  ],
+  "answer": "B",
+  "explanation": "Area = length × width = 9×8 = 72 cm²."
+ },
+ {
+  "topic": "statistics",
+  "question": "Find the mean of: 1, 7, 6, 2.",
+  "options": [
+   "5",
+   "4",
+   "16",
+   "3"
+  ],
+  "answer": "B",
+  "explanation": "Mean = total ÷ how many = 16÷4 = 4."
+ },
+ {
+  "topic": "multiplication",
+  "question": "Use long multiplication to work out 357 × 18.",
+  "options": [
+   "6427",
+   "6069",
+   "6783",
+   "6426"
+  ],
+  "answer": "D",
+  "explanation": "357 × 18 = 6426."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 5 × 5 − 15",
+  "options": [
+   "15",
+   "10",
+   "80",
+   "40"
+  ],
+  "answer": "B",
+  "explanation": "Multiply first (BIDMAS): 5×5=25, then subtract 15 = 10."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 11 cm by 12 cm. What is its area?",
+  "options": [
+   "23 cm²",
+   "46 cm²",
+   "132 cm²",
+   "143 cm²"
+  ],
+  "answer": "C",
+  "explanation": "Area = length × width = 11×12 = 132 cm²."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 5 × 6 − 10",
+  "options": [
+   "65",
+   "25",
+   "40",
+   "20"
+  ],
+  "answer": "D",
+  "explanation": "Multiply first (BIDMAS): 5×6=30, then subtract 10 = 20."
+ },
+ {
+  "topic": "rounding",
+  "question": "Round 4388 to the nearest 10.",
+  "options": [
+   "4380",
+   "4388",
+   "4390",
+   "4400"
+  ],
+  "answer": "C",
+  "explanation": "4388 rounds to 4390 (nearest 10)."
+ },
+ {
+  "topic": "money",
+  "question": "A book costs £2.44. You pay with a £10 note. How much change?",
+  "options": [
+   "£2.44",
+   "£8.56",
+   "£8.00",
+   "£7.56"
+  ],
+  "answer": "D",
+  "explanation": "Change = £10 − £2.44 = £7.56."
+ },
+ {
+  "topic": "measures/convert",
+  "question": "Convert 6 metres into centimetres.",
+  "options": [
+   "60 cm",
+   "610 cm",
+   "6000 cm",
+   "600 cm"
+  ],
+  "answer": "D",
+  "explanation": "1 m = 100 cm, so 6 m = 600 cm."
+ },
+ {
+  "topic": "multiplication",
+  "question": "Use long multiplication to work out 288 × 28.",
+  "options": [
+   "8352",
+   "7776",
+   "8065",
+   "8064"
+  ],
+  "answer": "D",
+  "explanation": "288 × 28 = 8064."
+ },
+ {
+  "topic": "measures/convert",
+  "question": "Convert 6.5 metres into centimetres.",
+  "options": [
+   "650 cm",
+   "6500 cm",
+   "660 cm",
+   "65 cm"
+  ],
+  "answer": "A",
+  "explanation": "1 m = 100 cm, so 6.5 m = 650 cm."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 13 cm by 5 cm. What is its area?",
+  "options": [
+   "78 cm²",
+   "18 cm²",
+   "36 cm²",
+   "65 cm²"
+  ],
+  "answer": "D",
+  "explanation": "Area = length × width = 13×5 = 65 cm²."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 3 × 8 − 8",
+  "options": [
+   "32",
+   "67",
+   "16",
+   "19"
+  ],
+  "answer": "C",
+  "explanation": "Multiply first (BIDMAS): 3×8=24, then subtract 8 = 16."
+ },
+ {
+  "topic": "multiplication",
+  "question": "Use long multiplication to work out 797 × 39.",
+  "options": [
+   "31083",
+   "31880",
+   "30286",
+   "31084"
+  ],
+  "answer": "A",
+  "explanation": "797 × 39 = 31083."
+ },
+ {
+  "topic": "area/perimeter",
+  "question": "A rectangle is 7 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "42 cm",
+   "28 cm",
+   "26 cm",
+   "13 cm"
+  ],
+  "answer": "C",
+  "explanation": "Perimeter = 2×(7+6) = 26 cm."
+ },
+ {
+  "topic": "percentages",
+  "question": "A £20 item is reduced by 25% in a sale. What is the new price?",
+  "options": [
+   "£20",
+   "£25",
+   "£15",
+   "£5"
+  ],
+  "answer": "C",
+  "explanation": "Reduction = 25% of £20 = £5; new price = £15."
+ },
+ {
+  "topic": "algebra/sequence",
+  "question": "What is the next term: 5, 13, 21, 29, …?",
+  "options": [
+   "38",
+   "36",
+   "37",
+   "45"
+  ],
+  "answer": "C",
+  "explanation": "The rule is +8 each time, so the next term is 29+8 = 37."
+ },
+ {
+  "topic": "algebra/sequence",
+  "question": "What is the next term: 7, 13, 19, 25, …?",
+  "options": [
+   "31",
+   "32",
+   "30",
+   "37"
+  ],
+  "answer": "A",
+  "explanation": "The rule is +6 each time, so the next term is 25+6 = 31."
+ },
+ {
+  "topic": "arithmetic",
+  "question": "Work out 10 × 4 + 33",
+  "options": [
+   "83",
+   "7",
+   "142",
+   "73"
+  ],
+  "answer": "D",
+  "explanation": "Multiply first (BIDMAS): 10×4=40, then add 33 = 73."
+ },
+ {
+  "topic": "percentages",
+  "question": "Find 75% of 88.",
+  "options": [
+   "132",
+   "660",
+   "66",
+   "22"
+  ],
+  "answer": "C",
+  "explanation": "75% = 3/4; 3/4×88 = 66."
+ },
+ {
+  "topic": "primes/factors",
+  "question": "Which of these is a prime number?",
+  "options": [
+   "49",
+   "19",
+   "25",
+   "12"
+  ],
+  "answer": "B",
+  "explanation": "19 has no factors other than 1 and itself, so it is prime."
+ },
+ {
+  "topic": "primes/factors",
+  "question": "Which of these is a prime number?",
+  "options": [
+   "51",
+   "37",
+   "24",
+   "25"
+  ],
+  "answer": "B",
+  "explanation": "37 has no factors other than 1 and itself, so it is prime."
+ },
+ {
+  "topic": "primes/factors",
+  "question": "Which of these is a prime number?",
+  "options": [
+   "25",
+   "13",
+   "9",
+   "51"
+  ],
+  "answer": "B",
+  "explanation": "13 has no factors other than 1 and itself, so it is prime."
+ },
+ {
+  "topic": "primes/factors",
+  "question": "Which of these is a prime number?",
+  "options": [
+   "55",
+   "16",
+   "31",
+   "15"
+  ],
+  "answer": "C",
+  "explanation": "31 has no factors other than 1 and itself, so it is prime."
+ },
+ {
+  "topic": "primes/factors",
+  "question": "Which of these is a prime number?",
+  "options": [
+   "16",
+   "31",
+   "57",
+   "39"
+  ],
+  "answer": "B",
+  "explanation": "31 has no factors other than 1 and itself, so it is prime."
+ }
+]

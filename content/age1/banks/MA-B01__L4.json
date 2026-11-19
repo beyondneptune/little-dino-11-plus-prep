@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:bodmas:4:af88c1cbc2b7015d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Work out 6 × 10 + 16 ÷ 4.",
+  "options": [
+   "64",
+   "19",
+   "76",
+   "65"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 10 + 16 ÷ 4 = 64.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:f09a2a843061bfc4",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Work out 4 × 11 + 8 ÷ 4.",
+  "options": [
+   "47",
+   "46",
+   "13",
+   "52"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 11 + 8 ÷ 4 = 46.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:74310f080ba4c3cc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Work out 12 × 10 + 15 ÷ 3.",
+  "options": [
+   "126",
+   "125",
+   "45",
+   "135"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 12 × 10 + 15 ÷ 3 = 125.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:b26ff8aa1e0be411",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Work out 8 × 11 + 9 ÷ 3.",
+  "options": [
+   "91",
+   "92",
+   "97/3",
+   "97"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 8 × 11 + 9 ÷ 3 = 91.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:771154149751a2e3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Work out 8 × 5 + 32 ÷ 4.",
+  "options": [
+   "72",
+   "49",
+   "48",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 8 × 5 + 32 ÷ 4 = 48.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6f1097ea6a1b1157",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Work out 11 × 11 + 21 ÷ 3.",
+  "options": [
+   "142/3",
+   "142",
+   "128",
+   "129"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 11 × 11 + 21 ÷ 3 = 128.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:87ae85cd10fcdf77",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Work out 5 × 8 + 35 ÷ 5.",
+  "options": [
+   "47",
+   "48",
+   "75",
+   "15"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 8 + 35 ÷ 5 = 47.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:7aeb0f94233b1928",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Work out 6 × 8 + 15 ÷ 3.",
+  "options": [
+   "21",
+   "54",
+   "53",
+   "63"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 8 + 15 ÷ 3 = 53.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:900c4a26344b7f6a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Work out 6 × 4 + 16 ÷ 2.",
+  "options": [
+   "33",
+   "20",
+   "32",
+   "40"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 4 + 16 ÷ 2 = 32.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:f6e8f1b24b486049",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Work out 6 × 12 + 15 ÷ 3.",
+  "options": [
+   "29",
+   "87",
+   "78",
+   "77"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 12 + 15 ÷ 3 = 77.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:8a775346d20dea1d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Work out 11 × 4 + 28 ÷ 4.",
+  "options": [
+   "72",
+   "52",
+   "51",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 11 × 4 + 28 ÷ 4 = 51.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:94f72c8f48d7af87",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Work out 7 × 10 + 25 ÷ 5.",
+  "options": [
+   "19",
+   "95",
+   "75",
+   "76"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 10 + 25 ÷ 5 = 75.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:f367f1ce74a1f136",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Work out 6 × 3 + 9 ÷ 3.",
+  "options": [
+   "22",
+   "27",
+   "9",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 3 + 9 ÷ 3 = 21.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:d91eedbca9385e5b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Work out 7 × 5 + 14 ÷ 2.",
+  "options": [
+   "43",
+   "42",
+   "49/2",
+   "49"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 5 + 14 ÷ 2 = 42.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a26b35d4aaf16c9c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Work out 10 × 12 + 35 ÷ 5.",
+  "options": [
+   "31",
+   "127",
+   "128",
+   "155"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 10 × 12 + 35 ÷ 5 = 127.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:96c8d183d9887934",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Work out 7 × 7 + 32 ÷ 4.",
+  "options": [
+   "57",
+   "81",
+   "58",
+   "81/4"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 7 + 32 ÷ 4 = 57.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:1e27b2f37abda9a3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Work out 10 × 6 + 18 ÷ 3.",
+  "options": [
+   "67",
+   "78",
+   "26",
+   "66"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 10 × 6 + 18 ÷ 3 = 66.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:5ae4922fe8691a36",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Work out 9 × 4 + 28 ÷ 4.",
+  "options": [
+   "16",
+   "43",
+   "64",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 4 + 28 ÷ 4 = 43.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:3852a49676f3016a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Work out 12 × 8 + 21 ÷ 3.",
+  "options": [
+   "39",
+   "104",
+   "117",
+   "103"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 12 × 8 + 21 ÷ 3 = 103.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:be73010cf10c8b8b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Work out 6 × 9 + 35 ÷ 5.",
+  "options": [
+   "62",
+   "89",
+   "61",
+   "89/5"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 9 + 35 ÷ 5 = 61.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:f304b74e9a3e4c59",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Work out 6 × 8 + 32 ÷ 4.",
+  "options": [
+   "57",
+   "20",
+   "80",
+   "56"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 8 + 32 ÷ 4 = 56.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:0f2911ffb765de5e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Work out 7 × 5 + 25 ÷ 5.",
+  "options": [
+   "41",
+   "40",
+   "12",
+   "60"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 5 + 25 ÷ 5 = 40.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:9c4c3f78c4bbf998",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Work out 10 × 10 + 28 ÷ 4.",
+  "options": [
+   "108",
+   "32",
+   "107",
+   "128"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 10 × 10 + 28 ÷ 4 = 107.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:060832a0d4416021",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Work out 12 × 4 + 12 ÷ 2.",
+  "options": [
+   "54",
+   "60",
+   "55",
+   "30"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 12 × 4 + 12 ÷ 2 = 54.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:17bceaac42f311e3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Work out 4 × 11 + 12 ÷ 3.",
+  "options": [
+   "48",
+   "49",
+   "56",
+   "56/3"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 11 + 12 ÷ 3 = 48.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:fa8208cd9aa27c7c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Work out 5 × 5 + 6 ÷ 2.",
+  "options": [
+   "29",
+   "31",
+   "31/2",
+   "28"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 5 + 6 ÷ 2 = 28.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:724919af5a8553ad",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Work out 6 × 8 + 28 ÷ 4.",
+  "options": [
+   "55",
+   "19",
+   "76",
+   "56"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 8 + 28 ÷ 4 = 55.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:03fdc18079b15c75",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Work out 10 × 10 + 8 ÷ 4.",
+  "options": [
+   "103",
+   "27",
+   "102",
+   "108"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 10 × 10 + 8 ÷ 4 = 102.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:b439ca2c6f204828",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Work out 4 × 6 + 12 ÷ 2.",
+  "options": [
+   "30",
+   "18",
+   "31",
+   "36"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 6 + 12 ÷ 2 = 30.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:dd93f9f1f945aeb0",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Work out 7 × 3 + 8 ÷ 4.",
+  "options": [
+   "29/4",
+   "29",
+   "23",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 3 + 8 ÷ 4 = 23.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:4f39b14c3568f0a7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Work out 6 × 12 + 10 ÷ 2.",
+  "options": [
+   "41",
+   "77",
+   "82",
+   "78"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 12 + 10 ÷ 2 = 77.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:e4ac75329a1233b6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Work out 7 × 9 + 35 ÷ 5.",
+  "options": [
+   "71",
+   "98/5",
+   "70",
+   "98"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 7 × 9 + 35 ÷ 5 = 70.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:d6f3bd0db0c75d1c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Work out 9 × 12 + 15 ÷ 5.",
+  "options": [
+   "123",
+   "112",
+   "111",
+   "123/5"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 12 + 15 ÷ 5 = 111.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:50126f9997e06766",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Work out 4 × 5 + 9 ÷ 3.",
+  "options": [
+   "23",
+   "29/3",
+   "29",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 5 + 9 ÷ 3 = 23.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:ae39d29db3af9bcb",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Work out 11 × 12 + 14 ÷ 2.",
+  "options": [
+   "146",
+   "140",
+   "73",
+   "139"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 11 × 12 + 14 ÷ 2 = 139.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:8bf84cee57d08f81",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Work out 5 × 6 + 24 ÷ 4.",
+  "options": [
+   "36",
+   "27/2",
+   "37",
+   "54"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 6 + 24 ÷ 4 = 36.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:b06e9ca8f133de9b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Work out 5 × 6 + 25 ÷ 5.",
+  "options": [
+   "35",
+   "36",
+   "55",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 6 + 25 ÷ 5 = 35.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:ab9e0ed45a5be786",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Work out 9 × 9 + 24 ÷ 4.",
+  "options": [
+   "88",
+   "87",
+   "105",
+   "105/4"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 9 + 24 ÷ 4 = 87.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:cce7c3fb39c88d13",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Work out 8 × 9 + 16 ÷ 2.",
+  "options": [
+   "81",
+   "44",
+   "88",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 9 + 16 ÷ 2 = 80.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:899b841d259f5616",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Work out 4 × 12 + 14 ÷ 2.",
+  "options": [
+   "55",
+   "56",
+   "31",
+   "62"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 12 + 14 ÷ 2 = 55.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:228842848191a866",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Work out 12 × 6 + 24 ÷ 3.",
+  "options": [
+   "80",
+   "32",
+   "96",
+   "81"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 12 × 6 + 24 ÷ 3 = 80.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:21159b2f75f8546e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Work out 5 × 6 + 10 ÷ 5.",
+  "options": [
+   "40",
+   "32",
+   "33",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 5 × 6 + 10 ÷ 5 = 32.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:7ba7bb7d3d1c8771",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Work out 8 × 3 + 16 ÷ 2.",
+  "options": [
+   "20",
+   "32",
+   "33",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 8 × 3 + 16 ÷ 2 = 32.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:0a23fbe40d4d190c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Work out 6 × 7 + 14 ÷ 2.",
+  "options": [
+   "49",
+   "56",
+   "28",
+   "50"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 6 × 7 + 14 ÷ 2 = 49.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:1d59768f113d54c7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Work out 12 × 5 + 12 ÷ 2.",
+  "options": [
+   "36",
+   "72",
+   "67",
+   "66"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 12 × 5 + 12 ÷ 2 = 66.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:fadac5a67cf98b71",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Work out 6 × 10 + 15 ÷ 5.",
+  "options": [
+   "15",
+   "64",
+   "63",
+   "75"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 10 + 15 ÷ 5 = 63.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:e9bea5738cc3ee88",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Work out 4 × 3 + 30 ÷ 5.",
+  "options": [
+   "19",
+   "42/5",
+   "42",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 3 + 30 ÷ 5 = 18.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:61fa439ddc7c0703",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Work out 12 × 10 + 18 ÷ 3.",
+  "options": [
+   "127",
+   "46",
+   "138",
+   "126"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 12 × 10 + 18 ÷ 3 = 126.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:0bcbcd291af023e9",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Work out 9 × 7 + 8 ÷ 2.",
+  "options": [
+   "71",
+   "71/2",
+   "67",
+   "68"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 7 + 8 ÷ 2 = 67.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:2c7e51ceccf441e9",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Work out 6 × 9 + 40 ÷ 5.",
+  "options": [
+   "63",
+   "62",
+   "94",
+   "94/5"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 9 + 40 ÷ 5 = 62.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:bcd19dc4bb11f584",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Work out 12 × 5 + 18 ÷ 3.",
+  "options": [
+   "78",
+   "26",
+   "66",
+   "67"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 12 × 5 + 18 ÷ 3 = 66.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6c41867aec6d4be3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Work out 10 × 8 + 40 ÷ 5.",
+  "options": [
+   "24",
+   "120",
+   "88",
+   "89"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 10 × 8 + 40 ÷ 5 = 88.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:9f8b75779b2f95d6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Work out 11 × 9 + 30 ÷ 5.",
+  "options": [
+   "129/5",
+   "129",
+   "105",
+   "106"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 11 × 9 + 30 ÷ 5 = 105.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:7c68bc5923f527ed",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Work out 9 × 4 + 15 ÷ 3.",
+  "options": [
+   "17",
+   "41",
+   "42",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 4 + 15 ÷ 3 = 41.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:d85a727ea90d7950",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Work out 12 × 9 + 30 ÷ 5.",
+  "options": [
+   "115",
+   "114",
+   "138",
+   "138/5"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 12 × 9 + 30 ÷ 5 = 114.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:eec7c1d4629f372d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Work out 5 × 10 + 10 ÷ 5.",
+  "options": [
+   "12",
+   "53",
+   "60",
+   "52"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 10 + 10 ÷ 5 = 52.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:5892e024106dd2a8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Work out 7 × 8 + 8 ÷ 4.",
+  "options": [
+   "58",
+   "64",
+   "59",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 8 + 8 ÷ 4 = 58.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6f5f61383adf8313",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Work out 6 × 11 + 14 ÷ 2.",
+  "options": [
+   "80",
+   "40",
+   "73",
+   "74"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 11 + 14 ÷ 2 = 73.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:fd0ffad288aa95a8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Work out 8 × 7 + 30 ÷ 5.",
+  "options": [
+   "63",
+   "86/5",
+   "86",
+   "62"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 7 + 30 ÷ 5 = 62.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:aa0d97099a879d9f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Work out 6 × 4 + 21 ÷ 3.",
+  "options": [
+   "15",
+   "45",
+   "32",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 4 + 21 ÷ 3 = 31.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:c6950d3a3be7e87e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Work out 11 × 7 + 18 ÷ 3.",
+  "options": [
+   "95/3",
+   "83",
+   "95",
+   "84"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 11 × 7 + 18 ÷ 3 = 83.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:5a806ca5320c9ee7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Work out 4 × 9 + 18 ÷ 3.",
+  "options": [
+   "54",
+   "43",
+   "18",
+   "42"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 4 × 9 + 18 ÷ 3 = 42.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a7e682977e5fad42",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Work out 10 × 7 + 10 ÷ 2.",
+  "options": [
+   "40",
+   "75",
+   "76",
+   "80"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 10 × 7 + 10 ÷ 2 = 75.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:48f02f6c3337a322",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Work out 4 × 11 + 12 ÷ 4.",
+  "options": [
+   "14",
+   "47",
+   "48",
+   "56"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 11 + 12 ÷ 4 = 47.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6bf595f5eac97e23",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Work out 12 × 4 + 10 ÷ 5.",
+  "options": [
+   "51",
+   "58",
+   "58/5",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 12 × 4 + 10 ÷ 5 = 50.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:386acbf969fcffc7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Work out 8 × 11 + 6 ÷ 2.",
+  "options": [
+   "47",
+   "94",
+   "92",
+   "91"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 11 + 6 ÷ 2 = 91.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:e9cbbf1ca59a6468",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Work out 9 × 3 + 16 ÷ 4.",
+  "options": [
+   "43/4",
+   "43",
+   "32",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 9 × 3 + 16 ÷ 4 = 31.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:700b78035a824762",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Work out 11 × 7 + 16 ÷ 2.",
+  "options": [
+   "93",
+   "93/2",
+   "86",
+   "85"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 11 × 7 + 16 ÷ 2 = 85.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6c3ea7c317b50b71",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Work out 7 × 9 + 16 ÷ 2.",
+  "options": [
+   "79",
+   "71",
+   "79/2",
+   "72"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 9 + 16 ÷ 2 = 71.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "divided the whole thing instead of just the last part",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:0dbf7ca7e86be8cf",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Work out 9 × 12 + 16 ÷ 2.",
+  "options": [
+   "62",
+   "116",
+   "117",
+   "124"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 12 + 16 ÷ 2 = 116.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:e61a713cac726b52",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Work out 4 × 4 + 35 ÷ 5.",
+  "options": [
+   "23",
+   "24",
+   "51",
+   "51/5"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 4 × 4 + 35 ÷ 5 = 23.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a0006cc21ad3dd5a",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Work out 12 × 10 + 35 ÷ 5.",
+  "options": [
+   "155",
+   "127",
+   "128",
+   "31"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 12 × 10 + 35 ÷ 5 = 127.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:dea6110795e7ffae",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Work out 6 × 12 + 24 ÷ 4.",
+  "options": [
+   "24",
+   "79",
+   "96",
+   "78"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 12 + 24 ÷ 4 = 78.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:7435fa3db64918f6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Work out 7 × 9 + 18 ÷ 3.",
+  "options": [
+   "69",
+   "81",
+   "70",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 9 + 18 ÷ 3 = 69.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:41b8447cab2e8e9f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Work out 12 × 5 + 21 ÷ 3.",
+  "options": [
+   "67",
+   "81",
+   "27",
+   "68"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 12 × 5 + 21 ÷ 3 = 67.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:75e1e49c7599192d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Work out 10 × 4 + 15 ÷ 5.",
+  "options": [
+   "44",
+   "55",
+   "11",
+   "43"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 10 × 4 + 15 ÷ 5 = 43.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:3b40385dc8149efd",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Work out 8 × 5 + 6 ÷ 2.",
+  "options": [
+   "43",
+   "44",
+   "23",
+   "46"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 8 × 5 + 6 ÷ 2 = 43.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:777e9e891cfbd3da",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Work out 10 × 10 + 25 ÷ 5.",
+  "options": [
+   "106",
+   "25",
+   "125",
+   "105"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 10 × 10 + 25 ÷ 5 = 105.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a85452e6513c6bfc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Work out 5 × 5 + 40 ÷ 5.",
+  "options": [
+   "65",
+   "34",
+   "33",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 5 × 5 + 40 ÷ 5 = 33.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:405e65d5451f0bb8",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Work out 10 × 12 + 16 ÷ 2.",
+  "options": [
+   "128",
+   "136",
+   "68",
+   "129"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 10 × 12 + 16 ÷ 2 = 128.",
+  "distractor_explanations": [
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:ae70780e8ae89d93",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Work out 11 × 9 + 20 ÷ 5.",
+  "options": [
+   "104",
+   "103",
+   "119",
+   "119/5"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 11 × 9 + 20 ÷ 5 = 103.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:5702ccb070b248f5",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Work out 3 × 7 + 10 ÷ 5.",
+  "options": [
+   "31",
+   "31/5",
+   "23",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 3 × 7 + 10 ÷ 5 = 23.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:76912935b5f9492e",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Work out 9 × 9 + 40 ÷ 5.",
+  "options": [
+   "121/5",
+   "90",
+   "89",
+   "121"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 9 × 9 + 40 ÷ 5 = 89.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:d1ef479d5a3adc7b",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Work out 11 × 5 + 18 ÷ 3.",
+  "options": [
+   "73/3",
+   "62",
+   "73",
+   "61"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 11 × 5 + 18 ÷ 3 = 61.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:230fc8f885e4a328",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Work out 9 × 4 + 8 ÷ 2.",
+  "options": [
+   "40",
+   "41",
+   "22",
+   "44"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 9 × 4 + 8 ÷ 2 = 40.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:03badc7b60bbd34d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Work out 5 × 7 + 24 ÷ 4.",
+  "options": [
+   "41",
+   "59/4",
+   "59",
+   "42"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 5 × 7 + 24 ÷ 4 = 41.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:2fd0c47a1c4c0205",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Work out 3 × 4 + 20 ÷ 5.",
+  "options": [
+   "17",
+   "32",
+   "32/5",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 3 × 4 + 20 ÷ 5 = 16.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:cc91f97b3ce76fc3",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Work out 11 × 7 + 20 ÷ 5.",
+  "options": [
+   "82",
+   "81",
+   "97",
+   "97/5"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 11 × 7 + 20 ÷ 5 = 81.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:fc3981d8d3c986a7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Work out 10 × 7 + 12 ÷ 2.",
+  "options": [
+   "77",
+   "82",
+   "41",
+   "76"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 10 × 7 + 12 ÷ 2 = 76.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:07d94a7d31ee19fc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Work out 4 × 4 + 12 ÷ 3.",
+  "options": [
+   "21",
+   "28/3",
+   "20",
+   "28"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 4 + 12 ÷ 3 = 20.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:45a989064bc3e1c1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Work out 4 × 8 + 15 ÷ 3.",
+  "options": [
+   "38",
+   "47",
+   "37",
+   "47/3"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 8 + 15 ÷ 3 = 37.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:c8444384ef54d17d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Work out 7 × 5 + 16 ÷ 2.",
+  "options": [
+   "51/2",
+   "43",
+   "44",
+   "51"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 7 × 5 + 16 ÷ 2 = 43.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a5c32f4b9a44c449",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Work out 6 × 10 + 8 ÷ 2.",
+  "options": [
+   "68",
+   "64",
+   "65",
+   "34"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 10 + 8 ÷ 2 = 64.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:3f2c159c44cb0164",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Work out 3 × 6 + 20 ÷ 5.",
+  "options": [
+   "22",
+   "38/5",
+   "23",
+   "38"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 3 × 6 + 20 ÷ 5 = 22.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:8f10060a4ab57c8c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Work out 4 × 3 + 25 ÷ 5.",
+  "options": [
+   "37/5",
+   "17",
+   "18",
+   "37"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 3 + 25 ÷ 5 = 17.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:551f39de3e4bd37f",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Work out 12 × 4 + 12 ÷ 3.",
+  "options": [
+   "60",
+   "52",
+   "53",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 12 × 4 + 12 ÷ 3 = 52.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:7d7d477cc6001bf1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Work out 12 × 6 + 40 ÷ 5.",
+  "options": [
+   "112",
+   "112/5",
+   "80",
+   "81"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 12 × 6 + 40 ÷ 5 = 80.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:9d6d8ee1b779cf3d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Work out 6 × 7 + 12 ÷ 4.",
+  "options": [
+   "54",
+   "27/2",
+   "46",
+   "45"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 6 × 7 + 12 ÷ 4 = 45.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:462d3ba396c00bb7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Work out 11 × 10 + 18 ÷ 3.",
+  "options": [
+   "117",
+   "128/3",
+   "116",
+   "128"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 11 × 10 + 18 ÷ 3 = 116.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:d85bebd475078355",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Work out 12 × 8 + 12 ÷ 4.",
+  "options": [
+   "108",
+   "27",
+   "99",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 12 × 8 + 12 ÷ 4 = 99.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:24e60033792ca9ad",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Work out 9 × 9 + 15 ÷ 3.",
+  "options": [
+   "32",
+   "86",
+   "96",
+   "87"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 9 + 15 ÷ 3 = 86.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6f01b4a9d8048560",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Work out 10 × 3 + 9 ÷ 3.",
+  "options": [
+   "13",
+   "34",
+   "33",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 10 × 3 + 9 ÷ 3 = 33.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:8b0d324c1555306c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Work out 3 × 12 + 6 ÷ 2.",
+  "options": [
+   "40",
+   "42",
+   "21",
+   "39"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 3 × 12 + 6 ÷ 2 = 39.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:ad564e557427a24d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Work out 9 × 11 + 6 ÷ 2.",
+  "options": [
+   "102",
+   "103",
+   "105/2",
+   "105"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 9 × 11 + 6 ÷ 2 = 102.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:50fa0f579b91b1ff",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Work out 9 × 8 + 14 ÷ 2.",
+  "options": [
+   "80",
+   "79",
+   "86",
+   "43"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 9 × 8 + 14 ÷ 2 = 79.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:713535f021fca0da",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Work out 5 × 5 + 24 ÷ 4.",
+  "options": [
+   "49/4",
+   "49",
+   "31",
+   "32"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 5 × 5 + 24 ÷ 4 = 31.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:93505e5815cec81d",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Work out 8 × 5 + 21 ÷ 3.",
+  "options": [
+   "61",
+   "48",
+   "61/3",
+   "47"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 8 × 5 + 21 ÷ 3 = 47.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:9b395fbd6ab760a1",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Work out 11 × 6 + 18 ÷ 3.",
+  "options": [
+   "28",
+   "84",
+   "72",
+   "73"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 11 × 6 + 18 ÷ 3 = 72.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:4fc994de9488bb79",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Work out 4 × 6 + 6 ÷ 2.",
+  "options": [
+   "28",
+   "15",
+   "27",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 6 + 6 ÷ 2 = 27.",
+  "distractor_explanations": [
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:5656324033d840fc",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Work out 5 × 5 + 32 ÷ 4.",
+  "options": [
+   "57",
+   "34",
+   "57/4",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 5 × 5 + 32 ÷ 4 = 33.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:921c2f43cae6b9a7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Work out 6 × 3 + 16 ÷ 2.",
+  "options": [
+   "34",
+   "26",
+   "27",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 6 × 3 + 16 ÷ 2 = 26.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   null,
+   "made a small slip",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:e6392c501b1ce4b7",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Work out 9 × 7 + 12 ÷ 3.",
+  "options": [
+   "67",
+   "25",
+   "75",
+   "68"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 9 × 7 + 12 ÷ 3 = 67.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "forgot to do the dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:6cd88f8ad9aa360c",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Work out 12 × 4 + 18 ÷ 3.",
+  "options": [
+   "54",
+   "22",
+   "55",
+   "66"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 12 × 4 + 18 ÷ 3 = 54.",
+  "distractor_explanations": [
+   null,
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:f0293ca8b3fd53d9",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Work out 4 × 8 + 12 ÷ 4.",
+  "options": [
+   "11",
+   "36",
+   "35",
+   "44"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 4 × 8 + 12 ÷ 4 = 35.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null,
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:4a3e8d3bfe2a9b73",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Work out 4 × 8 + 8 ÷ 4.",
+  "options": [
+   "10",
+   "34",
+   "35",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Work left to right using BODMAS: 4 × 8 + 8 ÷ 4 = 34.",
+  "distractor_explanations": [
+   "divided the whole thing instead of just the last part",
+   null,
+   "made a small slip",
+   "forgot to do the dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:dca3b3055902c870",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Work out 11 × 4 + 10 ÷ 2.",
+  "options": [
+   "54",
+   "50",
+   "27",
+   "49"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 11 × 4 + 10 ÷ 2 = 49.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   "divided the whole thing instead of just the last part",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:a0bb9bf58f1eb255",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Work out 6 × 8 + 24 ÷ 4.",
+  "options": [
+   "72",
+   "55",
+   "54",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 6 × 8 + 24 ÷ 4 = 54.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:33808474ff78d033",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Work out 12 × 12 + 25 ÷ 5.",
+  "options": [
+   "169",
+   "150",
+   "149",
+   "169/5"
+  ],
+  "answer_index": 2,
+  "explanation": "Work left to right using BODMAS: 12 × 12 + 25 ÷ 5 = 149.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "made a small slip",
+   null,
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:25052e8e45f583ba",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Work out 7 × 8 + 25 ÷ 5.",
+  "options": [
+   "61",
+   "62",
+   "81",
+   "81/5"
+  ],
+  "answer_index": 0,
+  "explanation": "Work left to right using BODMAS: 7 × 8 + 25 ÷ 5 = 61.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:bodmas:4:9211fa215a5479b6",
+  "topic_id": "MA-B01",
+  "qtype": "l35:bodmas",
+  "level": 4,
+  "generator": "l35:bodmas",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Work out 7 × 8 + 24 ÷ 3.",
+  "options": [
+   "80",
+   "80/3",
+   "65",
+   "64"
+  ],
+  "answer_index": 3,
+  "explanation": "Work left to right using BODMAS: 7 × 8 + 24 ÷ 3 = 64.",
+  "distractor_explanations": [
+   "forgot to do the dividing",
+   "divided the whole thing instead of just the last part",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

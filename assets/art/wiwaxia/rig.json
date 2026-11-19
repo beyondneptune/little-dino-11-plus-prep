@@ -1,0 +1,24 @@
+{
+  "name": "Wiwaxia",
+  "viewBox": "0 0 240 240",
+  "shadow": "shadow.svg",
+  "parts": [
+    {
+      "id": "body",
+      "src": "body.svg"
+    },
+    {
+      "id": "eyes",
+      "src": "eyes.svg",
+      "anim": "blink"
+    }
+  ],
+  "states": {
+    "idle": "breathe+blink",
+    "tap": "hop",
+    "talking": "talk",
+    "happy": "happy",
+    "kindWrong": "wrong",
+    "celebrate": "happy"
+  }
+}

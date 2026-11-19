@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:mental_single:1:b7d17c9067ed0edf",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Work out 36 ÷ 4",
+  "options": [
+   "32",
+   "10",
+   "9",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 4 × 9 = 36, so 36 ÷ 4 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:2:ddf69bad750d449f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Work out 11 × 10",
+  "options": [
+   "110",
+   "100",
+   "121",
+   "21"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 11 × 10 = 110.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:3:22693b7fd49fb4f4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Work out 10 × 11",
+  "options": [
+   "21",
+   "99",
+   "120",
+   "110"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 10 × 11 = 110.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:4:d164f76b03010a7a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Work out 7 × 8",
+  "options": [
+   "15",
+   "56",
+   "63",
+   "48"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 7 × 8 = 56.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:5:fd1625122b853d1d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Work out 96 ÷ 8",
+  "options": [
+   "88",
+   "13",
+   "12",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 8 × 12 = 96, so 96 ÷ 8 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:6:7bb9e3732ade794a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Work out 262 − 240",
+  "options": [
+   "502",
+   "32",
+   "23",
+   "22"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 262 − 240 = 22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:7:c226c7a1e925bdc6",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Work out 2 × 9",
+  "options": [
+   "18",
+   "11",
+   "9",
+   "20"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 2 × 9 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:8:fa03ba5a1437792b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Work out 444 + 492",
+  "options": [
+   "936",
+   "48",
+   "946",
+   "937"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 444 + 492 = 936.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:9:3a66bc01adce23fe",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Work out 185 + 494",
+  "options": [
+   "309",
+   "689",
+   "679",
+   "680"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 185 + 494 = 679.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:11:9f917e9e6b6ea103",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Work out 421 + 170",
+  "options": [
+   "251",
+   "592",
+   "591",
+   "601"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 421 + 170 = 591.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:12:ab78377f954e3381",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Work out 167 + 379",
+  "options": [
+   "556",
+   "546",
+   "212",
+   "547"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 167 + 379 = 546.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:13:f812f5f7928b58d7",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Work out 487 + 419",
+  "options": [
+   "907",
+   "906",
+   "916",
+   "68"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 487 + 419 = 906.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:14:1399b20b76b4cd59",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Work out 348 − 133",
+  "options": [
+   "216",
+   "225",
+   "215",
+   "481"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 348 − 133 = 215.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:15:407a13be65aebb3f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Work out 799 − 240",
+  "options": [
+   "559",
+   "560",
+   "569",
+   "1039"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 799 − 240 = 559.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:16:697ccd20e9be6c8d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Work out 336 − 153",
+  "options": [
+   "193",
+   "183",
+   "184",
+   "489"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 336 − 153 = 183.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:17:a46675bd1c984993",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Work out 99 ÷ 11",
+  "options": [
+   "9",
+   "10",
+   "8",
+   "88"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 11 × 9 = 99, so 99 ÷ 11 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:18:64ce3987c8a389a1",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Work out 351 + 295",
+  "options": [
+   "656",
+   "56",
+   "646",
+   "647"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 351 + 295 = 646.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:19:d9dbae0a77b9696c",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Work out 88 ÷ 8",
+  "options": [
+   "12",
+   "80",
+   "11",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 8 × 11 = 88, so 88 ÷ 8 = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:20:daf3242ee60eae7b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Work out 4 × 6",
+  "options": [
+   "18",
+   "10",
+   "24",
+   "28"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 4 × 6 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:21:767c0f7e5d181af8",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Work out 5 × 7",
+  "options": [
+   "28",
+   "12",
+   "35",
+   "40"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 5 × 7 = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:22:2411bc5290a29b61",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Work out 108 ÷ 9",
+  "options": [
+   "11",
+   "99",
+   "12",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 9 × 12 = 108, so 108 ÷ 9 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:23:854269c1cefa81f5",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Work out 120 ÷ 10",
+  "options": [
+   "11",
+   "12",
+   "13",
+   "110"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 10 × 12 = 120, so 120 ÷ 10 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:24:345fbfd507ed0214",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Work out 761 − 196",
+  "options": [
+   "575",
+   "957",
+   "566",
+   "565"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 761 − 196 = 565.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:25:aa498061a913f09c",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Work out 3 × 12",
+  "options": [
+   "36",
+   "39",
+   "24",
+   "15"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 3 × 12 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:26:a01c322910a6748b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Work out 3 × 6",
+  "options": [
+   "21",
+   "12",
+   "18",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 3 × 6 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:27:62d9c17e93fb1688",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Work out 60 ÷ 6",
+  "options": [
+   "10",
+   "11",
+   "54",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 6 × 10 = 60, so 60 ÷ 6 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:28:ff54cc041a00d370",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Work out 6 × 10",
+  "options": [
+   "66",
+   "50",
+   "60",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 6 × 10 = 60.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:29:ecaf0ee8b9c5fb7a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Work out 169 + 164",
+  "options": [
+   "334",
+   "343",
+   "333",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 169 + 164 = 333.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:30:efe0051852c6dbd6",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Work out 433 − 364",
+  "options": [
+   "70",
+   "69",
+   "797",
+   "79"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 433 − 364 = 69.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:31:49c958538bc7474b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Work out 36 ÷ 6",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 6 × 6 = 36, so 36 ÷ 6 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:32:5395cbac34325af1",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Work out 685 − 283",
+  "options": [
+   "403",
+   "412",
+   "402",
+   "968"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 685 − 283 = 402.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:33:d42cffdb90256684",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Work out 200 + 116",
+  "options": [
+   "316",
+   "84",
+   "326",
+   "317"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 200 + 116 = 316.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:34:4d893d0571a3f8d0",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Work out 11 × 8",
+  "options": [
+   "80",
+   "88",
+   "19",
+   "99"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 11 × 8 = 88.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:35:f12326cf69ae6a6b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Work out 12 × 9",
+  "options": [
+   "120",
+   "99",
+   "21",
+   "108"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 12 × 9 = 108.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:36:f2ca2c645ff7a0db",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Work out 2 × 10",
+  "options": [
+   "20",
+   "10",
+   "12",
+   "22"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 2 × 10 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:37:d1f4fb8bc568ec91",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Work out 560 − 475",
+  "options": [
+   "85",
+   "86",
+   "1035",
+   "95"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 560 − 475 = 85.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:38:d03420d912e1eb12",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Work out 363 − 339",
+  "options": [
+   "25",
+   "34",
+   "702",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 363 − 339 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:39:f4958563cd89b3a9",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Work out 56 ÷ 8",
+  "options": [
+   "6",
+   "7",
+   "48",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 8 × 7 = 56, so 56 ÷ 8 = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:40:30213609d8148507",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Work out 10 × 9",
+  "options": [
+   "19",
+   "90",
+   "81",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 10 × 9 = 90.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:41:c42bedfbaecc8a65",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Work out 9 × 12",
+  "options": [
+   "117",
+   "21",
+   "108",
+   "96"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 9 × 12 = 108.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:42:696f3ff8eb60c17c",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Work out 374 + 177",
+  "options": [
+   "551",
+   "197",
+   "552",
+   "561"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 374 + 177 = 551.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:43:25a17df84b796a3f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Work out 257 + 189",
+  "options": [
+   "446",
+   "68",
+   "456",
+   "447"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 257 + 189 = 446.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:44:9e9c79a9d7354bba",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Work out 88 ÷ 11",
+  "options": [
+   "77",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide: 11 × 8 = 88, so 88 ÷ 11 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:45:78d1055a3168aba3",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Work out 3 × 11",
+  "options": [
+   "36",
+   "33",
+   "22",
+   "14"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 3 × 11 = 33.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:46:c59267424ab0a75f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Work out 30 ÷ 5",
+  "options": [
+   "25",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 5 × 6 = 30, so 30 ÷ 5 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:47:3ab736cf7c0fb059",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Work out 370 + 221",
+  "options": [
+   "149",
+   "591",
+   "592",
+   "601"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 370 + 221 = 591.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:48:a3dd79f87d752604",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Work out 269 + 300",
+  "options": [
+   "570",
+   "31",
+   "569",
+   "579"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 269 + 300 = 569.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:49:fdf7d3e5e6e0762c",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Work out 88 ÷ 8",
+  "options": [
+   "10",
+   "11",
+   "12",
+   "80"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 8 × 11 = 88, so 88 ÷ 8 = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:50:f339a5a02be5d08e",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Work out 716 − 501",
+  "options": [
+   "1217",
+   "215",
+   "225",
+   "216"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 716 − 501 = 215.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:51:31209be74bd8d2a4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Work out 24 ÷ 4",
+  "options": [
+   "5",
+   "6",
+   "20",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 4 × 6 = 24, so 24 ÷ 4 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:52:2279f7742ade317d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Work out 3 × 7",
+  "options": [
+   "24",
+   "10",
+   "21",
+   "14"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 3 × 7 = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:53:e2048d5be33e7ca9",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Work out 727 − 152",
+  "options": [
+   "879",
+   "585",
+   "575",
+   "576"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 727 − 152 = 575.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:54:fa1f061f7aeec19d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Work out 144 + 178",
+  "options": [
+   "322",
+   "332",
+   "323",
+   "34"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 144 + 178 = 322.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:55:178c582efe4c0165",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Work out 109 + 285",
+  "options": [
+   "404",
+   "394",
+   "176",
+   "395"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 109 + 285 = 394.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:56:e45f189bb7fb3f90",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Work out 604 − 479",
+  "options": [
+   "135",
+   "126",
+   "125",
+   "1083"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 604 − 479 = 125.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:57:b4a405e184b1b0e6",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Work out 5 × 7",
+  "options": [
+   "40",
+   "35",
+   "12",
+   "28"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 5 × 7 = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:58:80e4c081eead28c5",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Work out 7 × 12",
+  "options": [
+   "19",
+   "91",
+   "84",
+   "72"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 7 × 12 = 84.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:59:b1bbd78371587847",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Work out 2 × 12",
+  "options": [
+   "26",
+   "14",
+   "12",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 2 × 12 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:60:b575235cb6d6dc64",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Work out 12 × 7",
+  "options": [
+   "19",
+   "77",
+   "84",
+   "96"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 12 × 7 = 84.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:61:dfcae5ac62f466a4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Work out 200 − 171",
+  "options": [
+   "29",
+   "39",
+   "30",
+   "371"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 200 − 171 = 29.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:62:b42d101aa76bf3fe",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Work out 207 − 184",
+  "options": [
+   "24",
+   "23",
+   "33",
+   "391"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 207 − 184 = 23.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:63:8a7411ba5385d525",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Work out 99 ÷ 11",
+  "options": [
+   "10",
+   "88",
+   "9",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 11 × 9 = 99, so 99 ÷ 11 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:64:04f5cfe478127173",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Work out 760 − 79",
+  "options": [
+   "682",
+   "681",
+   "691",
+   "839"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 760 − 79 = 681.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:65:27bf6c61f0cc2046",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Work out 305 − 248",
+  "options": [
+   "58",
+   "67",
+   "553",
+   "57"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 305 − 248 = 57.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:66:126ef916158dab9a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Work out 5 × 7",
+  "options": [
+   "12",
+   "35",
+   "28",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 5 × 7 = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:67:4a4a79035d75f971",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Work out 64 ÷ 8",
+  "options": [
+   "9",
+   "7",
+   "56",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide: 8 × 8 = 64, so 64 ÷ 8 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:68:787528d352fcaace",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Work out 364 + 282",
+  "options": [
+   "646",
+   "82",
+   "656",
+   "647"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 364 + 282 = 646.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:69:557794b7aae6c22a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Work out 443 + 318",
+  "options": [
+   "125",
+   "771",
+   "761",
+   "762"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 443 + 318 = 761.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:70:362c3d18544c2406",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Work out 9 × 7",
+  "options": [
+   "16",
+   "63",
+   "56",
+   "72"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 9 × 7 = 63.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:71:5a714d438a11498d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Work out 122 + 424",
+  "options": [
+   "556",
+   "547",
+   "302",
+   "546"
+  ],
+  "answer_index": 3,
+  "explanation": "Add: 122 + 424 = 546.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:72:1eb784fa26252529",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Work out 5 × 7",
+  "options": [
+   "40",
+   "12",
+   "28",
+   "35"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 5 × 7 = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:73:7c31df4915990884",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Work out 108 ÷ 9",
+  "options": [
+   "11",
+   "12",
+   "99",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 9 × 12 = 108, so 108 ÷ 9 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:74:e9e371cec0a5c18f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Work out 471 + 246",
+  "options": [
+   "718",
+   "225",
+   "727",
+   "717"
+  ],
+  "answer_index": 3,
+  "explanation": "Add: 471 + 246 = 717.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:75:0dd2c335283f56df",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Work out 358 + 486",
+  "options": [
+   "854",
+   "128",
+   "844",
+   "845"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 358 + 486 = 844.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:76:988927ee71377d97",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Work out 60 ÷ 10",
+  "options": [
+   "50",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 10 × 6 = 60, so 60 ÷ 10 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:77:a9506b3fa84cb19b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Work out 126 + 379",
+  "options": [
+   "515",
+   "505",
+   "506",
+   "253"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 126 + 379 = 505.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:78:9d60b12fdffa0e5a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Work out 24 ÷ 4",
+  "options": [
+   "7",
+   "5",
+   "6",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 4 × 6 = 24, so 24 ÷ 4 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:79:882ce972d8263a2e",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Work out 152 + 439",
+  "options": [
+   "592",
+   "591",
+   "601",
+   "287"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 152 + 439 = 591.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:80:c4af0731f4052dcf",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Work out 524 − 105",
+  "options": [
+   "419",
+   "629",
+   "429",
+   "420"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 524 − 105 = 419.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:81:db77d407ba6d127c",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Work out 77 ÷ 11",
+  "options": [
+   "6",
+   "7",
+   "66",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 11 × 7 = 77, so 77 ÷ 11 = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:82:718f0bc74c44e698",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Work out 60 ÷ 6",
+  "options": [
+   "11",
+   "10",
+   "9",
+   "54"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 6 × 10 = 60, so 60 ÷ 6 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:83:e06ae892969bf94e",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Work out 11 × 8",
+  "options": [
+   "99",
+   "19",
+   "88",
+   "80"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 11 × 8 = 88.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:84:baaf92081ec7aaa0",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Work out 813 − 196",
+  "options": [
+   "627",
+   "1009",
+   "617",
+   "618"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 813 − 196 = 617.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:85:295edef6e751cb6b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Work out 108 ÷ 12",
+  "options": [
+   "10",
+   "9",
+   "96",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 12 × 9 = 108, so 108 ÷ 12 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:86:e097a2fd7f3e4e82",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Work out 717 − 196",
+  "options": [
+   "521",
+   "913",
+   "531",
+   "522"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 717 − 196 = 521.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:87:0150106e791b0950",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Work out 3 × 12",
+  "options": [
+   "24",
+   "15",
+   "39",
+   "36"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 3 × 12 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:88:2a7b43fe122ae2ca",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Work out 458 + 225",
+  "options": [
+   "683",
+   "233",
+   "693",
+   "684"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 458 + 225 = 683.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:89:1354e2a5fb36efde",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Work out 2 × 10",
+  "options": [
+   "10",
+   "12",
+   "22",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 2 × 10 = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:90:5e7545e40a6265bc",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Work out 6 × 6",
+  "options": [
+   "12",
+   "30",
+   "42",
+   "36"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 6 × 6 = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:91:437d3f200aa9b971",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Work out 2 × 7",
+  "options": [
+   "16",
+   "14",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 2 × 7 = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:92:a6db015fd7f1f761",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Work out 99 ÷ 11",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "88"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 11 × 9 = 99, so 99 ÷ 11 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:93:ca8cba10c63a3b15",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Work out 60 ÷ 5",
+  "options": [
+   "55",
+   "11",
+   "12",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 5 × 12 = 60, so 60 ÷ 5 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:94:6566f9b8386ded1a",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Work out 202 + 458",
+  "options": [
+   "660",
+   "661",
+   "256",
+   "670"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 202 + 458 = 660.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:95:bb70f5930c1280bb",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Work out 122 + 228",
+  "options": [
+   "360",
+   "106",
+   "350",
+   "351"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 122 + 228 = 350.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:96:a82eae9e585930a4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Work out 173 + 122",
+  "options": [
+   "295",
+   "51",
+   "296",
+   "305"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 173 + 122 = 295.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:97:68a1914d40fd4fcd",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Work out 479 + 270",
+  "options": [
+   "749",
+   "209",
+   "750",
+   "759"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 479 + 270 = 749.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:98:f10f8af527e966c4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Work out 121 ÷ 11",
+  "options": [
+   "110",
+   "12",
+   "10",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide: 11 × 11 = 121, so 121 ÷ 11 = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:99:aa7693439736c26d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Work out 232 − 153",
+  "options": [
+   "385",
+   "80",
+   "79",
+   "89"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 232 − 153 = 79.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:100:5c499beb3c6c99c7",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Work out 869 − 732",
+  "options": [
+   "147",
+   "138",
+   "1601",
+   "137"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 869 − 732 = 137.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:101:76780572558ef574",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Work out 99 ÷ 11",
+  "options": [
+   "9",
+   "8",
+   "10",
+   "88"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 11 × 9 = 99, so 99 ÷ 11 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:103:f7211e5b493961e4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Work out 72 ÷ 12",
+  "options": [
+   "5",
+   "60",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 12 × 6 = 72, so 72 ÷ 12 = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:104:23649db565da122d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Work out 8 × 9",
+  "options": [
+   "63",
+   "72",
+   "17",
+   "80"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 8 × 9 = 72.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:105:c5423b18997ecd89",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Work out 8 × 12",
+  "options": [
+   "96",
+   "104",
+   "84",
+   "20"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 8 × 12 = 96.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:106:4f7bdce437a702f4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Work out 56 ÷ 8",
+  "options": [
+   "7",
+   "8",
+   "48",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 8 × 7 = 56, so 56 ÷ 8 = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:107:1967532bf7ff543b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Work out 5 × 10",
+  "options": [
+   "40",
+   "15",
+   "55",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 5 × 10 = 50.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:108:5ac73002132daba4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Work out 654 − 594",
+  "options": [
+   "1248",
+   "60",
+   "61",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 654 − 594 = 60.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:109:7145e3551da4a028",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Work out 9 × 7",
+  "options": [
+   "63",
+   "72",
+   "16",
+   "56"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 9 × 7 = 63.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:110:28a858e6bc4eeff7",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Work out 120 ÷ 12",
+  "options": [
+   "10",
+   "108",
+   "11",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 12 × 10 = 120, so 120 ÷ 12 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:111:b9f88dd198e7af05",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Work out 893 − 779",
+  "options": [
+   "124",
+   "114",
+   "115",
+   "1672"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 893 − 779 = 114.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:112:1e80683dc76228c9",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Work out 10 × 7",
+  "options": [
+   "17",
+   "63",
+   "70",
+   "80"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 10 × 7 = 70.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:113:1ab1d4fdb8d45890",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Work out 55 ÷ 5",
+  "options": [
+   "11",
+   "12",
+   "10",
+   "50"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 5 × 11 = 55, so 55 ÷ 5 = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:114:20f6516ea5230262",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Work out 12 × 8",
+  "options": [
+   "88",
+   "108",
+   "20",
+   "96"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 12 × 8 = 96.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:115:536d826c04a7e646",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Work out 144 ÷ 12",
+  "options": [
+   "132",
+   "11",
+   "12",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 12 × 12 = 144, so 144 ÷ 12 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:116:bcc49d1775f56b16",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Work out 2 × 9",
+  "options": [
+   "18",
+   "20",
+   "11",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 2 × 9 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:117:f6595c219301fd92",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Work out 555 − 301",
+  "options": [
+   "264",
+   "255",
+   "254",
+   "856"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 555 − 301 = 254.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:118:6bea8e03af0a9000",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Work out 72 ÷ 8",
+  "options": [
+   "64",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 8 × 9 = 72, so 72 ÷ 8 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:119:9989d51ca476ca90",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Work out 124 + 468",
+  "options": [
+   "593",
+   "592",
+   "344",
+   "602"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 124 + 468 = 592.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:120:1acd4ae8eaa99170",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Work out 622 − 162",
+  "options": [
+   "784",
+   "461",
+   "470",
+   "460"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 622 − 162 = 460.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:121:90750622feec5af9",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Work out 428 + 397",
+  "options": [
+   "826",
+   "825",
+   "31",
+   "835"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 428 + 397 = 825.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:122:f4f8c3630b0fdaca",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Work out 12 × 12",
+  "options": [
+   "132",
+   "24",
+   "156",
+   "144"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 12 × 12 = 144.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:123:913b8e80641e3194",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Work out 3 × 6",
+  "options": [
+   "12",
+   "18",
+   "9",
+   "21"
+  ],
+  "answer_index": 1,
+  "explanation": "Multiply: 3 × 6 = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:124:67e1e9dbc625fa95",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Work out 359 + 293",
+  "options": [
+   "66",
+   "653",
+   "652",
+   "662"
+  ],
+  "answer_index": 2,
+  "explanation": "Add: 359 + 293 = 652.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:125:56bd1726d307dd15",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Work out 472 + 429",
+  "options": [
+   "901",
+   "902",
+   "43",
+   "911"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 472 + 429 = 901.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:126:352541d7f9b80a0f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Work out 445 − 398",
+  "options": [
+   "57",
+   "47",
+   "48",
+   "843"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 445 − 398 = 47.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:127:83560b3c69fca344",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Work out 200 − 161",
+  "options": [
+   "49",
+   "361",
+   "40",
+   "39"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 200 − 161 = 39.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:128:3b1117d0c810156b",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Work out 286 − 167",
+  "options": [
+   "129",
+   "120",
+   "453",
+   "119"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 286 − 167 = 119.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:129:522d5efe1767f630",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Work out 471 + 410",
+  "options": [
+   "61",
+   "881",
+   "882",
+   "891"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 471 + 410 = 881.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:130:0da210904204eba4",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Work out 48 ÷ 4",
+  "options": [
+   "13",
+   "11",
+   "44",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide: 4 × 12 = 48, so 48 ÷ 4 = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:131:75fcdc45ea8730bb",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Work out 108 ÷ 12",
+  "options": [
+   "96",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 12 × 9 = 108, so 108 ÷ 12 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:132:855a7fde293b4489",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Work out 290 − 66",
+  "options": [
+   "356",
+   "234",
+   "225",
+   "224"
+  ],
+  "answer_index": 3,
+  "explanation": "Take away: 290 − 66 = 224.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:133:ab1ee24c8f6a1814",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Work out 117 + 179",
+  "options": [
+   "297",
+   "296",
+   "62",
+   "306"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 117 + 179 = 296.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:134:3f36464c2009fc7d",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Work out 4 × 6",
+  "options": [
+   "24",
+   "28",
+   "18",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Multiply: 4 × 6 = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:135:5f937f633dc3cc7f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Work out 386 − 226",
+  "options": [
+   "161",
+   "170",
+   "160",
+   "612"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 386 − 226 = 160.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:136:5b7b60c2bc9910d5",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Work out 287 + 468",
+  "options": [
+   "181",
+   "755",
+   "756",
+   "765"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 287 + 468 = 755.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:137:bd3df94554eb49d9",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Work out 36 ÷ 4",
+  "options": [
+   "32",
+   "10",
+   "8",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide: 4 × 9 = 36, so 36 ÷ 4 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:138:175acdf55dc86717",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Work out 12 × 8",
+  "options": [
+   "108",
+   "88",
+   "96",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "Multiply: 12 × 8 = 96.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:139:f53e334c5d79c075",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Work out 56 ÷ 7",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 7 × 8 = 56, so 56 ÷ 7 = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:140:7361c98b2020da36",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Work out 27 ÷ 3",
+  "options": [
+   "24",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide: 3 × 9 = 27, so 27 ÷ 3 = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:141:f356c8bf5f541685",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Work out 427 + 461",
+  "options": [
+   "888",
+   "34",
+   "889",
+   "898"
+  ],
+  "answer_index": 0,
+  "explanation": "Add: 427 + 461 = 888.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:142:98d8679ce29e2ff8",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Work out 209 − 114",
+  "options": [
+   "105",
+   "95",
+   "96",
+   "323"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 209 − 114 = 95.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:143:d82848d4fbf533e3",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Work out 12 × 10",
+  "options": [
+   "132",
+   "22",
+   "110",
+   "120"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 12 × 10 = 120.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:144:20964e90a79e0546",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Work out 681 − 472",
+  "options": [
+   "1153",
+   "209",
+   "210",
+   "219"
+  ],
+  "answer_index": 1,
+  "explanation": "Take away: 681 − 472 = 209.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:145:94c5a08869b57373",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Work out 110 ÷ 10",
+  "options": [
+   "11",
+   "12",
+   "100",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 10 × 11 = 110, so 110 ÷ 10 = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:146:14c321d89719896e",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Work out 6 × 9",
+  "options": [
+   "45",
+   "15",
+   "60",
+   "54"
+  ],
+  "answer_index": 3,
+  "explanation": "Multiply: 6 × 9 = 54.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:147:1b89e92bdfc718d3",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Work out 870 − 508",
+  "options": [
+   "362",
+   "1378",
+   "372",
+   "363"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 870 − 508 = 362.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:148:d6862f68d62596b1",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Work out 383 − 132",
+  "options": [
+   "252",
+   "515",
+   "251",
+   "261"
+  ],
+  "answer_index": 2,
+  "explanation": "Take away: 383 − 132 = 251.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:149:db101ffee8ab5bbd",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Work out 433 + 315",
+  "options": [
+   "749",
+   "748",
+   "758",
+   "118"
+  ],
+  "answer_index": 1,
+  "explanation": "Add: 433 + 315 = 748.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:150:42ba7ece2123fd2f",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Work out 80 ÷ 8",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "72"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide: 8 × 10 = 80, so 80 ÷ 8 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:151:47f2829d7c7c24a8",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 151,
+  "stem": "Work out 100 ÷ 10",
+  "options": [
+   "90",
+   "11",
+   "10",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide: 10 × 10 = 100, so 100 ÷ 10 = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:mental_single:152:f935a354e03b61f7",
+  "topic_id": "MA-B01",
+  "qtype": "mental_single",
+  "level": 2,
+  "generator": "reg:mental_single",
+  "generator_version": 1,
+  "seed": 152,
+  "stem": "Work out 794 − 696",
+  "options": [
+   "98",
+   "108",
+   "1490",
+   "99"
+  ],
+  "answer_index": 0,
+  "explanation": "Take away: 794 − 696 = 98.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

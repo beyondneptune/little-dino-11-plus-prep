@@ -1,0 +1,4994 @@
+[
+ {
+  "id": "en:agreement:2:df870adf22caf7dc",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "That boy ___ very fast.",
+  "options": [
+   "swam",
+   "swim",
+   "swimming",
+   "swims"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “swims”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:66f42808a8f797ca",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "My brothers ___ football.",
+  "options": [
+   "liking",
+   "liked",
+   "like",
+   "likes"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “like”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:4f525ea0106dda53",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swimming",
+   "swims",
+   "swam",
+   "swim"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:9dde646bae33cfbe",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "runs",
+   "ran",
+   "running",
+   "run"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:525b0dad0cd27cf2",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "My brothers ___ football.",
+  "options": [
+   "likes",
+   "liking",
+   "liked",
+   "like"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “like”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:16b372c74aca5cef",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grew",
+   "grow",
+   "grows",
+   "growing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:fd011de2e798fc7a",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "point",
+   "pointing",
+   "points",
+   "pointed"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:0b46f8dc5bdde171",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grows",
+   "grew",
+   "grow",
+   "growing"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:65ac530287410948",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "The bird ___ in the tree.",
+  "options": [
+   "sang",
+   "sings",
+   "singing",
+   "sing"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “sings”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:97bbda67ce4bb24e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "She ___ to school every day.",
+  "options": [
+   "walked",
+   "walk",
+   "walks",
+   "walking"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “walks”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f04846239e4cca66",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "We ___ a big house.",
+  "options": [
+   "having",
+   "has",
+   "have",
+   "had"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:88aa34b60353a891",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "My sisters ___ the piano.",
+  "options": [
+   "played",
+   "playing",
+   "plays",
+   "play"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “play”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:cf3783934c3f9cce",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "My sisters ___ the piano.",
+  "options": [
+   "play",
+   "plays",
+   "playing",
+   "played"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “play”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:74bbf2b62f51a36a",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "pointing",
+   "points",
+   "pointed",
+   "point"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:fc98d843a3b446c3",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "ran",
+   "run",
+   "running",
+   "runs"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a438636290b75f6f",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "My brothers ___ football.",
+  "options": [
+   "liking",
+   "liked",
+   "likes",
+   "like"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “like”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a8145e6691b819a0",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "The cat ___ on the mat.",
+  "options": [
+   "sitting",
+   "sit",
+   "sits",
+   "sat"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sits”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:745b9ff26704b727",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "We ___ a big house.",
+  "options": [
+   "have",
+   "having",
+   "had",
+   "has"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:747919330ae79bae",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grow",
+   "growing",
+   "grew",
+   "grows"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:d6f00d85781b6c78",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "My sisters ___ the piano.",
+  "options": [
+   "played",
+   "playing",
+   "play",
+   "plays"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “play”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b72e5c8175351909",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "The child ___ happy.",
+  "options": [
+   "are",
+   "is",
+   "being",
+   "was"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:839dfdcc9393a64d",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swims",
+   "swimming",
+   "swim",
+   "swam"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:fbd4299a6a59c2aa",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "run",
+   "running",
+   "runs",
+   "ran"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a6bd27b77e066bf6",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "She ___ to school every day.",
+  "options": [
+   "walks",
+   "walking",
+   "walked",
+   "walk"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “walks”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e97339acddf54235",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "My brother ___ football.",
+  "options": [
+   "likes",
+   "liked",
+   "like",
+   "liking"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “likes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:027d7ef6f724eeae",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "The bird ___ in the tree.",
+  "options": [
+   "sing",
+   "singing",
+   "sings",
+   "sang"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sings”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:00b92a3adc202f6f",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "The flowers ___ in the sun.",
+  "options": [
+   "grow",
+   "grows",
+   "growing",
+   "grew"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “grow”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f8ff7c838a8c635c",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "pointed",
+   "points",
+   "point",
+   "pointing"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:4f665052cb6c566d",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "The bird ___ in the tree.",
+  "options": [
+   "sing",
+   "sang",
+   "sings",
+   "singing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sings”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:0e9d61ff9df8d020",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "They ___ to school every day.",
+  "options": [
+   "walking",
+   "walk",
+   "walked",
+   "walks"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “walk”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:30e581e2b9ea7fca",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swims",
+   "swim",
+   "swam",
+   "swimming"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:ff8fa1b7c99955ec",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "The child ___ happy.",
+  "options": [
+   "is",
+   "are",
+   "was",
+   "being"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:4b742885bcfe7339",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "My sister ___ the piano.",
+  "options": [
+   "play",
+   "plays",
+   "playing",
+   "played"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “plays”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e0cb9264e8e831e9",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "That boy ___ very fast.",
+  "options": [
+   "swimming",
+   "swim",
+   "swims",
+   "swam"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “swims”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:05d84787d385304b",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "The children ___ happy.",
+  "options": [
+   "was",
+   "are",
+   "being",
+   "is"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “are”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:c54318479ed13d8a",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "The flowers ___ in the sun.",
+  "options": [
+   "grows",
+   "grow",
+   "growing",
+   "grew"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “grow”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a22543a8ef770af8",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "My sister ___ the piano.",
+  "options": [
+   "playing",
+   "play",
+   "played",
+   "plays"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “plays”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b6db9c84edb4f0cb",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "That boy ___ very fast.",
+  "options": [
+   "swam",
+   "swimming",
+   "swims",
+   "swim"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “swims”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b646fb3c61de3b47",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "The birds ___ in the tree.",
+  "options": [
+   "singing",
+   "sings",
+   "sang",
+   "sing"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “sing”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:db3c19b29bc5843c",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "The cats ___ on the mat.",
+  "options": [
+   "sat",
+   "sits",
+   "sitting",
+   "sit"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “sit”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a807c6617573a3d0",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "The babies ___ loudly.",
+  "options": [
+   "crying",
+   "cried",
+   "cry",
+   "cries"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “cry”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:4683151c93fb9f50",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "pointed",
+   "point",
+   "pointing",
+   "points"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:bedf2e070a1f89c4",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "She ___ to school every day.",
+  "options": [
+   "walked",
+   "walking",
+   "walks",
+   "walk"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “walks”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:37467a047cdb340e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "My sisters ___ the piano.",
+  "options": [
+   "play",
+   "played",
+   "playing",
+   "plays"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “play”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:c4d530787f5876c4",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "My brother ___ football.",
+  "options": [
+   "likes",
+   "liking",
+   "liked",
+   "like"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “likes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e9fe9d2424e876d9",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "The child ___ happy.",
+  "options": [
+   "is",
+   "being",
+   "are",
+   "was"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:d5298479dfdc694e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "They ___ to school every day.",
+  "options": [
+   "walking",
+   "walked",
+   "walk",
+   "walks"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “walk”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:c8930c5ea4bb9ffa",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "He ___ a big house.",
+  "options": [
+   "have",
+   "having",
+   "had",
+   "has"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “has”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e5a57b18b4391c6e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "pointing",
+   "pointed",
+   "points",
+   "point"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b511a57e59d861d7",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grow",
+   "grew",
+   "growing",
+   "grows"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:38544fc12c398a20",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "runs",
+   "running",
+   "run",
+   "ran"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a57681e407eb6c14",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "The baby ___ loudly.",
+  "options": [
+   "cry",
+   "cried",
+   "cries",
+   "crying"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “cries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:75e3627f2394c4db",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "The flowers ___ in the sun.",
+  "options": [
+   "grew",
+   "grows",
+   "grow",
+   "growing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “grow”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:5f928f7dcab0bffd",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "The children ___ happy.",
+  "options": [
+   "being",
+   "was",
+   "are",
+   "is"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “are”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:3ea56adef36eb6d1",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swim",
+   "swam",
+   "swims",
+   "swimming"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:08c4f74592a93fca",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "The children ___ happy.",
+  "options": [
+   "is",
+   "are",
+   "was",
+   "being"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “are”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:1b042f57b03a78dc",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swam",
+   "swims",
+   "swimming",
+   "swim"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:ca3306628bbe50b4",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "The flowers ___ in the sun.",
+  "options": [
+   "grows",
+   "growing",
+   "grow",
+   "grew"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “grow”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:862340c98277204a",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "The bird ___ in the tree.",
+  "options": [
+   "sang",
+   "sing",
+   "sings",
+   "singing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sings”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:ee018b0336b0baa9",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "The cat ___ on the mat.",
+  "options": [
+   "sat",
+   "sitting",
+   "sits",
+   "sit"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sits”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b3a27752ccb816c3",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "My sisters ___ the piano.",
+  "options": [
+   "plays",
+   "played",
+   "playing",
+   "play"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “play”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:60a006a185a9f95e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "The cats ___ on the mat.",
+  "options": [
+   "sat",
+   "sits",
+   "sit",
+   "sitting"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sit”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:59de04f5b461a584",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "The children ___ happy.",
+  "options": [
+   "is",
+   "was",
+   "are",
+   "being"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “are”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e742f97ee23e5aa8",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "point",
+   "points",
+   "pointed",
+   "pointing"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e6af0fed3289775d",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "The teachers ___ at the board.",
+  "options": [
+   "points",
+   "pointing",
+   "pointed",
+   "point"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “point”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:58df741f5ad93c3e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "The child ___ happy.",
+  "options": [
+   "are",
+   "being",
+   "was",
+   "is"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f1d6e99f29f89e90",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "The teacher ___ at the board.",
+  "options": [
+   "point",
+   "pointing",
+   "pointed",
+   "points"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “points”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:3c322c9fc49d4a6b",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "The children ___ happy.",
+  "options": [
+   "being",
+   "are",
+   "is",
+   "was"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “are”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f9ce14a190cd4129",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swimming",
+   "swims",
+   "swim",
+   "swam"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:3d6d9568cab2ac46",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "The child ___ happy.",
+  "options": [
+   "is",
+   "being",
+   "was",
+   "are"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e032439a296e3b95",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "The cat ___ on the mat.",
+  "options": [
+   "sit",
+   "sitting",
+   "sits",
+   "sat"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sits”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:4b555a283641d777",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "The cat ___ on the mat.",
+  "options": [
+   "sit",
+   "sat",
+   "sitting",
+   "sits"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “sits”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:8e8a8f2267f9e850",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "My sister ___ the piano.",
+  "options": [
+   "playing",
+   "play",
+   "plays",
+   "played"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “plays”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e6fddb610b7fdf47",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "She ___ to school every day.",
+  "options": [
+   "walks",
+   "walked",
+   "walking",
+   "walk"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “walks”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:a429d3764c62c88f",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "The birds ___ in the tree.",
+  "options": [
+   "sing",
+   "sings",
+   "sang",
+   "singing"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “sing”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:60f21154720a4d52",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "The teachers ___ at the board.",
+  "options": [
+   "pointing",
+   "points",
+   "pointed",
+   "point"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “point”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:58721a75a31a636a",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "They ___ to school every day.",
+  "options": [
+   "walks",
+   "walking",
+   "walked",
+   "walk"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “walk”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:63557ad24c0e3747",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "The baby ___ loudly.",
+  "options": [
+   "cry",
+   "cries",
+   "crying",
+   "cried"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “cries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:2c79cd6e5554eac8",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "growing",
+   "grow",
+   "grows",
+   "grew"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:d02ca6cfe9379d52",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "My sister ___ the piano.",
+  "options": [
+   "played",
+   "plays",
+   "play",
+   "playing"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “plays”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f380487f5ae30d16",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "She ___ to school every day.",
+  "options": [
+   "walked",
+   "walks",
+   "walk",
+   "walking"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “walks”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:9fdd665b6bae2b3d",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "The dog ___ in the garden.",
+  "options": [
+   "running",
+   "run",
+   "runs",
+   "ran"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “runs”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:19427bf5ab1e6123",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "growing",
+   "grows",
+   "grew",
+   "grow"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:820dd4da7a9c35c5",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "We ___ a big house.",
+  "options": [
+   "had",
+   "have",
+   "having",
+   "has"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:cb4e526a358ce1c9",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "running",
+   "run",
+   "runs",
+   "ran"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:b721c46444a5db64",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "We ___ a big house.",
+  "options": [
+   "having",
+   "have",
+   "had",
+   "has"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:71bc5070f011e0e4",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swimming",
+   "swam",
+   "swims",
+   "swim"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:2630022759b0513b",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "The teachers ___ at the board.",
+  "options": [
+   "pointing",
+   "pointed",
+   "point",
+   "points"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “point”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f68b1caf251d7159",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "The birds ___ in the tree.",
+  "options": [
+   "sings",
+   "sang",
+   "sing",
+   "singing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “sing”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:cb470ff15abdf55e",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "The flowers ___ in the sun.",
+  "options": [
+   "growing",
+   "grow",
+   "grows",
+   "grew"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “grow”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:de6d31254cbeba3f",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "The baby ___ loudly.",
+  "options": [
+   "crying",
+   "cries",
+   "cried",
+   "cry"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “cries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:1c04c41de1915320",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "The child ___ happy.",
+  "options": [
+   "was",
+   "being",
+   "are",
+   "is"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:cf1fd8b777e0fb9f",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "The child ___ happy.",
+  "options": [
+   "being",
+   "is",
+   "are",
+   "was"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:1faf74aa98825547",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "The baby ___ loudly.",
+  "options": [
+   "cries",
+   "cry",
+   "crying",
+   "cried"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “cries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:031ff446c8b4ba03",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "The baby ___ loudly.",
+  "options": [
+   "cries",
+   "crying",
+   "cried",
+   "cry"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “cries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:164b17e31f24d412",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "The dogs ___ in the garden.",
+  "options": [
+   "running",
+   "runs",
+   "ran",
+   "run"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct verb here is “run”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:5769413a29acdc50",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "We ___ a big house.",
+  "options": [
+   "having",
+   "have",
+   "has",
+   "had"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:e64add2bc2ecb621",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "The child ___ happy.",
+  "options": [
+   "was",
+   "is",
+   "being",
+   "are"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “is”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:9e4e085f32e5fcbd",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grow",
+   "grew",
+   "grows",
+   "growing"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f454c9f78ff3ddbf",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "We ___ a big house.",
+  "options": [
+   "had",
+   "has",
+   "have",
+   "having"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct verb here is “have”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:f6eec9bfde6632d3",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "The teachers ___ at the board.",
+  "options": [
+   "points",
+   "point",
+   "pointing",
+   "pointed"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “point”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:57fac20e49e3b993",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "The flower ___ in the sun.",
+  "options": [
+   "grow",
+   "grows",
+   "growing",
+   "grew"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct verb here is “grows”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:0407f12152967def",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "My brother ___ football.",
+  "options": [
+   "likes",
+   "like",
+   "liked",
+   "liking"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “likes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:agreement:2:6f10fcde3fb45c70",
+  "topic_id": "EN-D07",
+  "qtype": "en:agreement",
+  "level": 2,
+  "generator": "en:agreement",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Those boys ___ very fast.",
+  "options": [
+   "swim",
+   "swimming",
+   "swam",
+   "swims"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct verb here is “swim”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

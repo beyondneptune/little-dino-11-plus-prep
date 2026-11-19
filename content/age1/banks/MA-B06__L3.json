@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:two_step_inverse:3:459a422199581ccc",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "What number goes in the box? 5 × ? + 9 = 34",
+  "options": [
+   "5",
+   "4",
+   "7",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "did a step out of order",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:ac0aa53c5be4f25f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What number goes in the box? 3 × ? + 4 = 13",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:0a2887bf9db8badf",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What number goes in the box? 9 × ? + 5 = 23",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:789418aab6488f1c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What number goes in the box? 7 × ? + 4 = 67",
+  "options": [
+   "10",
+   "9",
+   "11",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:41d038d671611ba7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What number goes in the box? 7 × ? + 11 = 67",
+  "options": [
+   "9",
+   "7",
+   "10",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:4396b72d4ee1419c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What number goes in the box? 3 × ? + 14 = 26",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8970c4a33420c1ef",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What number goes in the box? 8 × ? + 20 = 52",
+  "options": [
+   "5",
+   "6",
+   "4",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to take away before dividing",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:177dffc521cd4e0c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What number goes in the box? 4 × ? + 17 = 41",
+  "options": [
+   "5",
+   "10",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6c03dc9e7d105b06",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What number goes in the box? 5 × ? + 2 = 17",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f8b7a241e32f725d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What number goes in the box? 4 × ? + 3 = 19",
+  "options": [
+   "4",
+   "6",
+   "3",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:631bc5f1c8fb70f0",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What number goes in the box? 8 × ? + 17 = 41",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "forgot to take away before dividing",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:0508274f4e6ad4ba",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What number goes in the box? 7 × ? + 8 = 71",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:55c6db509e22f6cd",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What number goes in the box? 8 × ? + 8 = 24",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "did a step out of order",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:59ffdd1badb8a6da",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What number goes in the box? 9 × ? + 20 = 101",
+  "options": [
+   "10",
+   "8",
+   "9",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:3401804b9641f262",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What number goes in the box? 6 × ? + 12 = 24",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:16d8b8aa4fd841a5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What number goes in the box? 9 × ? + 1 = 37",
+  "options": [
+   "4",
+   "6",
+   "3",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:faae0d9c18847cb8",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What number goes in the box? 3 × ? + 11 = 32",
+  "options": [
+   "6",
+   "8",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:1ef5234d4637861d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What number goes in the box? 8 × ? + 16 = 80",
+  "options": [
+   "8",
+   "9",
+   "7",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:af7dfa91b717bd9d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What number goes in the box? 3 × ? + 3 = 27",
+  "options": [
+   "10",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:33cbab5c62edd36b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What number goes in the box? 9 × ? + 4 = 40",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:7fe0fe8d15fd90e7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What number goes in the box? 7 × ? + 17 = 80",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:b5a0b8dc27c2e924",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What number goes in the box? 6 × ? + 10 = 22",
+  "options": [
+   "3",
+   "1",
+   "2",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   null,
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5a54e2cf8ea870ce",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What number goes in the box? 2 × ? + 12 = 30",
+  "options": [
+   "8",
+   "10",
+   "15",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:a185526df34e0670",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What number goes in the box? 4 × ? + 6 = 14",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f159fd5c54772326",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What number goes in the box? 9 × ? + 10 = 82",
+  "options": [
+   "7",
+   "10",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:26a60079190b61dd",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What number goes in the box? 6 × ? + 16 = 40",
+  "options": [
+   "5",
+   "6",
+   "3",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8b29be0a93da63f9",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What number goes in the box? 6 × ? + 17 = 71",
+  "options": [
+   "11",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6c5c29d45e4cae68",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What number goes in the box? 6 × ? + 7 = 43",
+  "options": [
+   "8",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "did a step out of order",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8c11189cf43aebf3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What number goes in the box? 3 × ? + 13 = 25",
+  "options": [
+   "8",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:750e05c622d6cf7a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What number goes in the box? 7 × ? + 19 = 82",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:2b0de24b6654e44c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What number goes in the box? 8 × ? + 20 = 92",
+  "options": [
+   "9",
+   "10",
+   "8",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:9d31e44993266f73",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What number goes in the box? 7 × ? + 6 = 48",
+  "options": [
+   "5",
+   "8",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:630bb9de5c196449",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What number goes in the box? 9 × ? + 19 = 64",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:0103d83fcf27495d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What number goes in the box? 3 × ? + 16 = 25",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6654c01a089eb3ab",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What number goes in the box? 4 × ? + 19 = 27",
+  "options": [
+   "1",
+   "6",
+   "2",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:bfc21e48b4cf2f2e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What number goes in the box? 8 × ? + 18 = 50",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:06a2cf356e13651f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What number goes in the box? 5 × ? + 7 = 22",
+  "options": [
+   "5",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip the other way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:89e1c72b69720d77",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What number goes in the box? 4 × ? + 5 = 29",
+  "options": [
+   "5",
+   "8",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:c6f8a722cc6abfd2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What number goes in the box? 2 × ? + 14 = 18",
+  "options": [
+   "9",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:deae9bdd439e1c38",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What number goes in the box? 4 × ? + 1 = 9",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8e433ecac693f754",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What number goes in the box? 8 × ? + 19 = 35",
+  "options": [
+   "4",
+   "1",
+   "3",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:7e2a0b92158e542a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What number goes in the box? 4 × ? + 14 = 50",
+  "options": [
+   "10",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:4bcf69f693abd377",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What number goes in the box? 9 × ? + 10 = 73",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:95038509801b10b5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "What number goes in the box? 3 × ? + 6 = 18",
+  "options": [
+   "4",
+   "6",
+   "3",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6ea3653d2a9424fb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What number goes in the box? 7 × ? + 10 = 31",
+  "options": [
+   "2",
+   "4",
+   "5",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:c44d990e1fdcb52e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What number goes in the box? 4 × ? + 20 = 36",
+  "options": [
+   "9",
+   "4",
+   "3",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f24f314835833ce2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What number goes in the box? 9 × ? + 17 = 44",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:a71def4d6e0cb4e5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What number goes in the box? 4 × ? + 3 = 31",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:14caff1f36ef2898",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What number goes in the box? 5 × ? + 6 = 36",
+  "options": [
+   "7",
+   "5",
+   "8",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:d4ae677103430cc6",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "What number goes in the box? 2 × ? + 4 = 12",
+  "options": [
+   "4",
+   "6",
+   "5",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "forgot to take away before dividing",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:e6771650922af40f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What number goes in the box? 3 × ? + 18 = 27",
+  "options": [
+   "9",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5bb20f064d1bc65f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What number goes in the box? 6 × ? + 14 = 62",
+  "options": [
+   "10",
+   "8",
+   "9",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5670230e5d50cc2e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What number goes in the box? 8 × ? + 13 = 37",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:673dbb7db9ca61a3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What number goes in the box? 4 × ? + 1 = 29",
+  "options": [
+   "9",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:e5c390189d0eeb67",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What number goes in the box? 8 × ? + 11 = 51",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:dc8f1b00e93e7000",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What number goes in the box? 5 × ? + 14 = 39",
+  "options": [
+   "6",
+   "4",
+   "7",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:3caf091460276ae3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What number goes in the box? 9 × ? + 6 = 60",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:80554ba8bfa8f13d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "What number goes in the box? 3 × ? + 12 = 30",
+  "options": [
+   "6",
+   "10",
+   "5",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:596b2efaf02d3929",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What number goes in the box? 9 × ? + 4 = 31",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:982eaf895f60aa4e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What number goes in the box? 8 × ? + 19 = 59",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:aba18d5662a782ba",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What number goes in the box? 2 × ? + 9 = 19",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:0c5e4a2c34032964",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "What number goes in the box? 4 × ? + 12 = 36",
+  "options": [
+   "9",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f2fb30fbe2d019e1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What number goes in the box? 6 × ? + 10 = 46",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:175e43306ec75943",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "What number goes in the box? 4 × ? + 3 = 15",
+  "options": [
+   "5",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8f31e71875539b5d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What number goes in the box? 3 × ? + 7 = 22",
+  "options": [
+   "6",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:53ec9c3d2464a0a1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What number goes in the box? 6 × ? + 18 = 48",
+  "options": [
+   "5",
+   "4",
+   "6",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:7a51e9a1914ef3aa",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What number goes in the box? 8 × ? + 17 = 73",
+  "options": [
+   "7",
+   "8",
+   "6",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:50e1ee499818067a",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "What number goes in the box? 4 × ? + 2 = 26",
+  "options": [
+   "6",
+   "5",
+   "7",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:60dd648f22e71f5d",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What number goes in the box? 3 × ? + 2 = 17",
+  "options": [
+   "7",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5a28a04b0d676deb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What number goes in the box? 7 × ? + 1 = 50",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:d0a0cdfd90fd5b8f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What number goes in the box? 7 × ? + 6 = 20",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "did a step out of order",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5c52552004b9f10c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What number goes in the box? 3 × ? + 11 = 20",
+  "options": [
+   "3",
+   "6",
+   "4",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "forgot to take away before dividing",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:0745f2670eb85cba",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What number goes in the box? 9 × ? + 14 = 86",
+  "options": [
+   "7",
+   "10",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:62d35a3f5588bc02",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What number goes in the box? 6 × ? + 8 = 38",
+  "options": [
+   "6",
+   "7",
+   "4",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "did a step out of order",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8bad104679747064",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "What number goes in the box? 4 × ? + 13 = 37",
+  "options": [
+   "6",
+   "7",
+   "5",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:82a3fc28a2ac8c07",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What number goes in the box? 2 × ? + 17 = 33",
+  "options": [
+   "16",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:3415ceeb6b7a25de",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What number goes in the box? 2 × ? + 9 = 23",
+  "options": [
+   "7",
+   "6",
+   "11",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:a18e8fb8a94a2acd",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What number goes in the box? 7 × ? + 20 = 48",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:fc03e7f836fe19a2",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What number goes in the box? 5 × ? + 9 = 24",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f7b8037537884951",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What number goes in the box? 4 × ? + 1 = 37",
+  "options": [
+   "8",
+   "11",
+   "10",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5ca15d170150b95e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What number goes in the box? 9 × ? + 16 = 43",
+  "options": [
+   "5",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip the other way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:57804e41ab985c8e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "What number goes in the box? 3 × ? + 20 = 26",
+  "options": [
+   "1",
+   "8",
+   "3",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:84650f3b3ff6f3c3",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "What number goes in the box? 3 × ? + 16 = 31",
+  "options": [
+   "6",
+   "10",
+   "4",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:958c7d3026334f3e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What number goes in the box? 3 × ? + 6 = 30",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot to take away before dividing",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:2d6843abbd53cf45",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What number goes in the box? 8 × ? + 10 = 58",
+  "options": [
+   "6",
+   "8",
+   "7",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8362db13ce1822e5",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What number goes in the box? 4 × ? + 7 = 31",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "did a step out of order",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5aacedf9dd706e20",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What number goes in the box? 3 × ? + 19 = 28",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:af54b954ed9db44e",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What number goes in the box? 7 × ? + 18 = 67",
+  "options": [
+   "9",
+   "7",
+   "6",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:27ca99c66c66defb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What number goes in the box? 7 × ? + 19 = 75",
+  "options": [
+   "9",
+   "10",
+   "7",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:c3c6cee2a84ba02c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What number goes in the box? 6 × ? + 15 = 51",
+  "options": [
+   "6",
+   "5",
+   "8",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6596e4329afedd57",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "What number goes in the box? 4 × ? + 18 = 42",
+  "options": [
+   "6",
+   "7",
+   "5",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:7321c0d78a220791",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "What number goes in the box? 4 × ? + 15 = 27",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:9cc57e6b0f757861",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What number goes in the box? 9 × ? + 7 = 61",
+  "options": [
+   "5",
+   "8",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "did a step out of order",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5e0c0c008bbb4d2f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What number goes in the box? 2 × ? + 8 = 12",
+  "options": [
+   "1",
+   "2",
+   "6",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:b943401e720ced62",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What number goes in the box? 4 × ? + 2 = 30",
+  "options": [
+   "9",
+   "7",
+   "8",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "did a step out of order",
+   null,
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:13a868b8998a0861",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What number goes in the box? 9 × ? + 20 = 83",
+  "options": [
+   "6",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8f5919b735c4c907",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What number goes in the box? 7 × ? + 3 = 59",
+  "options": [
+   "9",
+   "7",
+   "10",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:8a285d45a2352c47",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What number goes in the box? 2 × ? + 19 = 29",
+  "options": [
+   "14",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:6a07bbd78737a843",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What number goes in the box? 2 × ? + 16 = 30",
+  "options": [
+   "15",
+   "7",
+   "6",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip the other way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:d9080fdb10e7b65b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "What number goes in the box? 3 × ? + 20 = 32",
+  "options": [
+   "4",
+   "3",
+   "10",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:13f2bcd0c950aebb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What number goes in the box? 9 × ? + 18 = 90",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "made a small slip",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:3295c2b0381bcf1b",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What number goes in the box? 5 × ? + 20 = 30",
+  "options": [
+   "1",
+   "6",
+   "3",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 2.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:530dd96cf2345278",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What number goes in the box? 5 × ? + 13 = 58",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:29fcc7d541a7c6bc",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What number goes in the box? 9 × ? + 5 = 68",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:57b1b95e99a4feeb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What number goes in the box? 7 × ? + 10 = 52",
+  "options": [
+   "8",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "did a step out of order",
+   "made a small slip",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:428c1cb1470d9d43",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What number goes in the box? 2 × ? + 3 = 15",
+  "options": [
+   "7",
+   "8",
+   "6",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "did a step out of order",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:79d8db34fe970eb4",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "What number goes in the box? 4 × ? + 14 = 26",
+  "options": [
+   "6",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:571f1a32b64dd9d1",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What number goes in the box? 2 × ? + 2 = 12",
+  "options": [
+   "4",
+   "5",
+   "7",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   null,
+   "did a step out of order",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:4d69b656eef68618",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What number goes in the box? 3 × ? + 12 = 24",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "forgot to take away before dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:d415927661d961ee",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "What number goes in the box? 5 × ? + 9 = 49",
+  "options": [
+   "7",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "did a step out of order",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:124422fe5e9f4ac7",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "What number goes in the box? 3 × ? + 5 = 14",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "did a step out of order",
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:1d6904f09e583409",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What number goes in the box? 2 × ? + 6 = 24",
+  "options": [
+   "12",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   null,
+   "made a small slip",
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:f4db55f4a011d083",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What number goes in the box? 3 × ? + 18 = 42",
+  "options": [
+   "14",
+   "9",
+   "8",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:9c470cd02f42da20",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "What number goes in the box? 7 × ? + 11 = 74",
+  "options": [
+   "8",
+   "10",
+   "9",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   null,
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:fdcccdde58c0d8fb",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What number goes in the box? 2 × ? + 20 = 38",
+  "options": [
+   "19",
+   "8",
+   "10",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 9.",
+  "distractor_explanations": [
+   "forgot to take away before dividing",
+   "made a small slip the other way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:39f5fb19f6aaee2c",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What number goes in the box? 3 × ? + 15 = 30",
+  "options": [
+   "4",
+   "6",
+   "10",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip the other way",
+   "made a small slip",
+   "forgot to take away before dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:e1076950a4ed13ab",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What number goes in the box? 6 × ? + 1 = 49",
+  "options": [
+   "9",
+   "10",
+   "8",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Undo each step with its inverse: the box is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "did a step out of order",
+   null,
+   "made a small slip the other way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:9cb391a2521a1393",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What number goes in the box? 6 × ? + 7 = 37",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Undo each step with its inverse: the box is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:5ad03dc3c6937d3f",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What number goes in the box? 4 × ? + 6 = 18",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "made a small slip the other way",
+   "did a step out of order"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:two_step_inverse:3:e79140fa742ce5ce",
+  "topic_id": "MA-B06",
+  "qtype": "l35:two_step_inverse",
+  "level": 3,
+  "generator": "l35:two_step_inverse",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What number goes in the box? 7 × ? + 15 = 64",
+  "options": [
+   "7",
+   "6",
+   "9",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Undo each step with its inverse: the box is 7.",
+  "distractor_explanations": [
+   null,
+   "made a small slip the other way",
+   "forgot to take away before dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

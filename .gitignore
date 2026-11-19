@@ -1,0 +1,26 @@
+# Python virtualenv / caches
+.venv/
+__pycache__/
+*.pyc
+.debug/
+
+# Local runtime artifacts (progress DBs, logs, screenshots)
+platform/progress.db
+platform/age1.db
+platform/server.log
+platform/rejected.log
+platform/backups/
+platform/static/*.png
+design/screenshots/
+_trash/
+*.log
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Agent/job scratch (not part of the tool)
+.claude/
+
+# Note: generated question banks (content/age*/banks/) ARE committed here so the
+# app runs out of the box. Rebuild them any time with `python scripts/build_bank.py`.

@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:perimeter:1:035db22753871b24",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "A rectangle is 6 cm by 8 cm. What is its area?",
+  "options": [
+   "28 cm²",
+   "48 cm²",
+   "54 cm²",
+   "14 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 6×8 = 48 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:2:cc175929a49f4cef",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "A rectangle is 10 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "19 cm",
+   "38 cm",
+   "40 cm",
+   "90 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(10+9) = 38 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:3:6ed8a6e7bdb41086",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "A rectangle is 3 cm by 6 cm. What is its area?",
+  "options": [
+   "9 cm²",
+   "12 cm²",
+   "18 cm²",
+   "21 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 3×6 = 18 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:4:2436a03bf5ac5a84",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "A rectangle is 4 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "18 cm",
+   "20 cm",
+   "9 cm",
+   "13 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(4+5) = 18 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:5:f141af64eb701fce",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "A rectangle is 11 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "44 cm",
+   "46 cm",
+   "121 cm",
+   "22 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(11+11) = 44 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:6:e370b8f7a74ded0d",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "A rectangle is 11 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "34 cm",
+   "17 cm",
+   "36 cm",
+   "66 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(11+6) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:7:c0f9497df682c217",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "A rectangle is 6 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "24 cm",
+   "30 cm",
+   "11 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(6+5) = 22 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:8:183933ed74a69ad9",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "A rectangle is 6 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "60 cm",
+   "34 cm",
+   "16 cm",
+   "32 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(6+10) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:9:c78a9c6df50558e5",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "A rectangle is 6 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "18 cm",
+   "9 cm",
+   "15 cm",
+   "20 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(6+3) = 18 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:10:43e3b8f5c716af33",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "A rectangle is 14 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "40 cm",
+   "42 cm",
+   "84 cm",
+   "20 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(14+6) = 40 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:11:92221ead450c7c51",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "A rectangle is 5 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "36 cm",
+   "17 cm",
+   "34 cm",
+   "60 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(5+12) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:12:635817e40ed62728",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "A rectangle is 15 cm by 8 cm. What is its area?",
+  "options": [
+   "23 cm²",
+   "135 cm²",
+   "120 cm²",
+   "46 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 15×8 = 120 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:13:559a9a7e776d89e7",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "A rectangle is 12 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "32 cm",
+   "15 cm",
+   "30 cm",
+   "36 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(12+3) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:14:3cccdc699dcb5287",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "A rectangle is 10 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "44 cm",
+   "42 cm",
+   "110 cm",
+   "21 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(10+11) = 42 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:15:f584ac056dc458fe",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "A rectangle is 8 cm by 11 cm. What is its area?",
+  "options": [
+   "88 cm²",
+   "19 cm²",
+   "96 cm²",
+   "38 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 8×11 = 88 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:16:e12bbb1d79d2917d",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "A rectangle is 15 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "38 cm",
+   "18 cm",
+   "36 cm",
+   "45 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(15+3) = 36 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:17:ad1a3a42b51bee13",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "A rectangle is 8 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "24 cm",
+   "32 cm",
+   "26 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(8+4) = 24 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:18:b9a67e7a878fb33f",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "A rectangle is 14 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "44 cm",
+   "46 cm",
+   "112 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(14+8) = 44 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:19:536d3b9559ed456a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "A rectangle is 5 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "30 cm",
+   "24 cm",
+   "11 cm",
+   "22 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(5+6) = 22 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:20:4eb100a9873f1a28",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "A rectangle is 4 cm by 3 cm. What is its area?",
+  "options": [
+   "7 cm²",
+   "12 cm²",
+   "14 cm²",
+   "16 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 4×3 = 12 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:21:d212b4f7b8d483c3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "A rectangle is 15 cm by 7 cm. What is its area?",
+  "options": [
+   "22 cm²",
+   "105 cm²",
+   "120 cm²",
+   "44 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 15×7 = 105 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:22:0f4be9bc9dd48bf8",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "A rectangle is 12 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "32 cm",
+   "30 cm",
+   "36 cm",
+   "15 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(12+3) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:23:8cc793a6b8ae24a7",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "A rectangle is 15 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "135 cm",
+   "24 cm",
+   "48 cm",
+   "50 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(15+9) = 48 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:24:fa17f2ff9fd87598",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "A rectangle is 6 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "18 cm",
+   "36 cm",
+   "72 cm",
+   "38 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(6+12) = 36 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:25:f4cdb0e398c870b9",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "A rectangle is 10 cm by 5 cm. What is its area?",
+  "options": [
+   "15 cm²",
+   "30 cm²",
+   "50 cm²",
+   "60 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 10×5 = 50 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:26:6026b4cb6d968836",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "A rectangle is 4 cm by 11 cm. What is its area?",
+  "options": [
+   "30 cm²",
+   "15 cm²",
+   "44 cm²",
+   "48 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 4×11 = 44 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:27:af719eb84a2976b3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "A rectangle is 10 cm by 5 cm. What is its area?",
+  "options": [
+   "30 cm²",
+   "50 cm²",
+   "15 cm²",
+   "60 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 10×5 = 50 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:28:5d7515f9ae75eebf",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "A rectangle is 11 cm by 6 cm. What is its area?",
+  "options": [
+   "66 cm²",
+   "34 cm²",
+   "17 cm²",
+   "77 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 11×6 = 66 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:29:5bdd6999cd2d751c",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "A rectangle is 5 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "20 cm",
+   "25 cm",
+   "10 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(5+5) = 20 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:30:a4c24210efb8fd8e",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "A rectangle is 10 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "16 cm",
+   "32 cm",
+   "60 cm",
+   "34 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(10+6) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:31:9a375aee9dd883fd",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "A rectangle is 11 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "19 cm",
+   "38 cm",
+   "40 cm",
+   "88 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(11+8) = 38 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:32:73ab0712a964a809",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "A rectangle is 5 cm by 11 cm. What is its area?",
+  "options": [
+   "60 cm²",
+   "16 cm²",
+   "32 cm²",
+   "55 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 5×11 = 55 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:33:27a9e3dc7302ed12",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "A rectangle is 13 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "34 cm",
+   "16 cm",
+   "32 cm",
+   "39 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(13+3) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:34:89268f116c9a6ec3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "A rectangle is 13 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "52 cm",
+   "156 cm",
+   "50 cm",
+   "25 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(13+12) = 50 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:35:f8a612267b76c9c2",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "A rectangle is 9 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "54 cm",
+   "32 cm",
+   "15 cm",
+   "30 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(9+6) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:36:cf154979b600d964",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "A rectangle is 10 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "32 cm",
+   "50 cm",
+   "30 cm",
+   "15 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(10+5) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:37:d160c6869f801a47",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "A rectangle is 4 cm by 8 cm. What is its area?",
+  "options": [
+   "24 cm²",
+   "36 cm²",
+   "32 cm²",
+   "12 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 4×8 = 32 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:38:43b374395722d30b",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "A rectangle is 14 cm by 3 cm. What is its area?",
+  "options": [
+   "56 cm²",
+   "42 cm²",
+   "34 cm²",
+   "17 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 14×3 = 42 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:39:34785a84d0cbda60",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "A rectangle is 5 cm by 3 cm. What is its area?",
+  "options": [
+   "15 cm²",
+   "8 cm²",
+   "20 cm²",
+   "16 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 5×3 = 15 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:40:7e9ef9ea3722a930",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "A rectangle is 9 cm by 4 cm. What is its area?",
+  "options": [
+   "45 cm²",
+   "13 cm²",
+   "26 cm²",
+   "36 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 9×4 = 36 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:41:c6fb729fe7ca3b87",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "A rectangle is 10 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "100 cm",
+   "40 cm",
+   "20 cm",
+   "42 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(10+10) = 40 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:42:687e69a1258b319b",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "A rectangle is 4 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "24 cm",
+   "32 cm",
+   "26 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(4+8) = 24 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:43:c0c51864d6210004",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "A rectangle is 5 cm by 5 cm. What is its area?",
+  "options": [
+   "10 cm²",
+   "20 cm²",
+   "25 cm²",
+   "30 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 5×5 = 25 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:44:ac118b2e0502299a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "A rectangle is 6 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "26 cm",
+   "24 cm",
+   "36 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(6+6) = 24 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:45:72ec4df2485dd918",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "A rectangle is 12 cm by 5 cm. What is its area?",
+  "options": [
+   "60 cm²",
+   "72 cm²",
+   "17 cm²",
+   "34 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 12×5 = 60 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:46:0a2ddfd2c42cc592",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "A rectangle is 7 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "34 cm",
+   "32 cm",
+   "16 cm",
+   "63 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(7+9) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:47:81d3422b16316e05",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "A rectangle is 9 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "36 cm",
+   "34 cm",
+   "17 cm",
+   "72 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(9+8) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:48:19e8057df07dc6b0",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "A rectangle is 4 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "34 cm",
+   "48 cm",
+   "16 cm",
+   "32 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(4+12) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:49:958750a64a3bde38",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "A rectangle is 13 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "46 cm",
+   "130 cm",
+   "48 cm",
+   "23 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(13+10) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:50:e62989cf0115967e",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "A rectangle is 8 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "28 cm",
+   "30 cm",
+   "48 cm",
+   "14 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(8+6) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:51:2c8b9539676b7a23",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "A rectangle is 3 cm by 5 cm. What is its area?",
+  "options": [
+   "18 cm²",
+   "8 cm²",
+   "16 cm²",
+   "15 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 3×5 = 15 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:52:eb261024ae323d92",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "A rectangle is 15 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "25 cm",
+   "52 cm",
+   "150 cm",
+   "50 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(15+10) = 50 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:53:180e25d90d6d7f98",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "A rectangle is 12 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "50 cm",
+   "144 cm",
+   "48 cm",
+   "24 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(12+12) = 48 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:54:aad37b2c3b57db5c",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "A rectangle is 14 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "24 cm",
+   "140 cm",
+   "48 cm",
+   "50 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(14+10) = 48 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:55:82148c35eff11fc1",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "A rectangle is 10 cm by 7 cm. What is its area?",
+  "options": [
+   "17 cm²",
+   "70 cm²",
+   "34 cm²",
+   "80 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 10×7 = 70 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:56:d67af74a51ec2a17",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "A rectangle is 13 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "52 cm",
+   "17 cm",
+   "36 cm",
+   "34 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(13+4) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:57:7218f14536c137fe",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "A rectangle is 4 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "9 cm",
+   "18 cm",
+   "20 cm",
+   "13 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(4+5) = 18 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:58:bc89acecb45524c0",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "A rectangle is 12 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "48 cm",
+   "34 cm",
+   "16 cm",
+   "32 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(12+4) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:59:60a979648e7494d3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "A rectangle is 4 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "24 cm",
+   "20 cm",
+   "10 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(4+6) = 20 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:60:79bebc2a4c772719",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "A rectangle is 6 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "14 cm",
+   "30 cm",
+   "48 cm",
+   "28 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(6+8) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:61:dfb038e1195c5187",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "A rectangle is 11 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "48 cm",
+   "132 cm",
+   "23 cm",
+   "46 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(11+12) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:62:1b0b1b3f3aebcde2",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "A rectangle is 3 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "14 cm",
+   "28 cm",
+   "33 cm",
+   "30 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(3+11) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:63:75cb765a083223b5",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "A rectangle is 6 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "9 cm",
+   "15 cm",
+   "20 cm",
+   "18 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(6+3) = 18 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:64:269a89260cea16ce",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "A rectangle is 5 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "50 cm",
+   "32 cm",
+   "15 cm",
+   "30 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(5+10) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:65:0973919983b4c46d",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "A rectangle is 3 cm by 9 cm. What is its area?",
+  "options": [
+   "12 cm²",
+   "24 cm²",
+   "30 cm²",
+   "27 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 3×9 = 27 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:66:9205c23a16ed74f4",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "A rectangle is 8 cm by 4 cm. What is its area?",
+  "options": [
+   "40 cm²",
+   "24 cm²",
+   "32 cm²",
+   "12 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 8×4 = 32 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:67:be34f14ed72133b0",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "A rectangle is 9 cm by 12 cm. What is its area?",
+  "options": [
+   "108 cm²",
+   "21 cm²",
+   "42 cm²",
+   "117 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 9×12 = 108 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:68:9a878fc138e4bca6",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "A rectangle is 14 cm by 4 cm. What is its area?",
+  "options": [
+   "70 cm²",
+   "56 cm²",
+   "36 cm²",
+   "18 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 14×4 = 56 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:69:1f02c15f479fa65a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "A rectangle is 12 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "23 cm",
+   "132 cm",
+   "46 cm",
+   "48 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(12+11) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:70:4f748c161dbe2291",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "A rectangle is 13 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "46 cm",
+   "48 cm",
+   "130 cm",
+   "23 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(13+10) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:71:d76038a801250066",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "A rectangle is 9 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "36 cm",
+   "13 cm",
+   "28 cm",
+   "26 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(9+4) = 26 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:72:3dc7e10e77a64703",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "A rectangle is 6 cm by 6 cm. What is its area?",
+  "options": [
+   "12 cm²",
+   "24 cm²",
+   "42 cm²",
+   "36 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 6×6 = 36 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:73:803621fd5ef0be07",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "A rectangle is 9 cm by 8 cm. What is its area?",
+  "options": [
+   "81 cm²",
+   "72 cm²",
+   "17 cm²",
+   "34 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 9×8 = 72 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:74:f9729d8aef892e9f",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "A rectangle is 9 cm by 12 cm. What is its area?",
+  "options": [
+   "42 cm²",
+   "117 cm²",
+   "21 cm²",
+   "108 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 9×12 = 108 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:75:d193cf17fccd6d41",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "A rectangle is 6 cm by 4 cm. What is its area?",
+  "options": [
+   "24 cm²",
+   "30 cm²",
+   "20 cm²",
+   "10 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 6×4 = 24 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:76:4f87cf773a493af4",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "A rectangle is 15 cm by 11 cm. What is its area?",
+  "options": [
+   "165 cm²",
+   "26 cm²",
+   "52 cm²",
+   "180 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 15×11 = 165 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:77:951403c4898bc587",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "A rectangle is 3 cm by 3 cm. What is its area?",
+  "options": [
+   "10 cm²",
+   "9 cm²",
+   "6 cm²",
+   "12 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 3×3 = 9 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:78:deea520f715326cc",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "A rectangle is 6 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "15 cm",
+   "54 cm",
+   "30 cm",
+   "32 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(6+9) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:79:edc0899dd1c88834",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "A rectangle is 5 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "50 cm",
+   "30 cm",
+   "15 cm",
+   "32 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(5+10) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:80:fb30660de99e3295",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "A rectangle is 5 cm by 4 cm. What is its area?",
+  "options": [
+   "20 cm²",
+   "18 cm²",
+   "9 cm²",
+   "25 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 5×4 = 20 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:81:7429557470a16185",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "A rectangle is 14 cm by 11 cm. What is its area?",
+  "options": [
+   "50 cm²",
+   "25 cm²",
+   "154 cm²",
+   "168 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 14×11 = 154 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:82:f61e2fddb5a60336",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "A rectangle is 4 cm by 10 cm. What is its area?",
+  "options": [
+   "40 cm²",
+   "44 cm²",
+   "14 cm²",
+   "28 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 4×10 = 40 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:83:63936470f0fec84a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "A rectangle is 14 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "54 cm",
+   "168 cm",
+   "26 cm",
+   "52 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(14+12) = 52 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:84:0ea52506b1c1fae7",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "A rectangle is 8 cm by 7 cm. What is its area?",
+  "options": [
+   "15 cm²",
+   "64 cm²",
+   "56 cm²",
+   "30 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 8×7 = 56 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:85:06be148182f48e27",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "A rectangle is 11 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "17 cm",
+   "36 cm",
+   "66 cm",
+   "34 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(11+6) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:86:2183818494d05a4a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "A rectangle is 7 cm by 9 cm. What is its area?",
+  "options": [
+   "16 cm²",
+   "70 cm²",
+   "63 cm²",
+   "32 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 7×9 = 63 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:87:0c8384bb4d975e49",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "A rectangle is 5 cm by 10 cm. What is its area?",
+  "options": [
+   "15 cm²",
+   "30 cm²",
+   "55 cm²",
+   "50 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 5×10 = 50 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:88:66fe3458fc2a8dd9",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "A rectangle is 5 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "16 cm",
+   "8 cm",
+   "18 cm",
+   "15 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(5+3) = 16 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:89:ea16a3326b6769f4",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "A rectangle is 12 cm by 12 cm. What is its area?",
+  "options": [
+   "156 cm²",
+   "144 cm²",
+   "48 cm²",
+   "24 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 12×12 = 144 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:90:2c7cc587bed366be",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "A rectangle is 9 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "30 cm",
+   "15 cm",
+   "54 cm",
+   "32 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(9+6) = 30 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:91:045900f3683231f1",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "A rectangle is 7 cm by 12 cm. What is its area?",
+  "options": [
+   "38 cm²",
+   "84 cm²",
+   "91 cm²",
+   "19 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 7×12 = 84 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:92:dd0e9cc9754b1379",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "A rectangle is 3 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "11 cm",
+   "14 cm",
+   "24 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(3+8) = 22 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:93:e3c2a55ef95078b6",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "A rectangle is 5 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "30 cm",
+   "45 cm",
+   "28 cm",
+   "14 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(5+9) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:94:25360978a27db99a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "A rectangle is 4 cm by 6 cm. What is its area?",
+  "options": [
+   "20 cm²",
+   "24 cm²",
+   "28 cm²",
+   "10 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 4×6 = 24 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:95:0585969a43cf8d2c",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "A rectangle is 8 cm by 4 cm. What is its area?",
+  "options": [
+   "12 cm²",
+   "40 cm²",
+   "32 cm²",
+   "24 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 8×4 = 32 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:96:27ec49f1921b0d8d",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "A rectangle is 8 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "32 cm",
+   "26 cm",
+   "24 cm",
+   "12 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(8+4) = 24 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:97:54b33e2265b77de7",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "A rectangle is 7 cm by 10 cm. What is its area?",
+  "options": [
+   "34 cm²",
+   "77 cm²",
+   "17 cm²",
+   "70 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 7×10 = 70 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:98:5793e8710457b123",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "A rectangle is 14 cm by 12 cm. What is its area?",
+  "options": [
+   "168 cm²",
+   "26 cm²",
+   "182 cm²",
+   "52 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 14×12 = 168 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:99:af8595a752a8207f",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "A rectangle is 5 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "36 cm",
+   "60 cm",
+   "34 cm",
+   "17 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(5+12) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:100:5b28157aeacf5ec1",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "A rectangle is 13 cm by 7 cm. What is its perimeter?",
+  "options": [
+   "40 cm",
+   "42 cm",
+   "20 cm",
+   "91 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(13+7) = 40 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:101:f494bf61bf2f2e9d",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "A rectangle is 11 cm by 8 cm. What is its area?",
+  "options": [
+   "38 cm²",
+   "99 cm²",
+   "88 cm²",
+   "19 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 11×8 = 88 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:102:6ef4fe2a24fcf06b",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "A rectangle is 7 cm by 5 cm. What is its area?",
+  "options": [
+   "35 cm²",
+   "24 cm²",
+   "12 cm²",
+   "42 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 7×5 = 35 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:103:da88e94477cad7d3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "A rectangle is 3 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "14 cm",
+   "24 cm",
+   "11 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(3+8) = 22 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:104:8ffc08e34d977a90",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "A rectangle is 3 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "28 cm",
+   "30 cm",
+   "33 cm",
+   "14 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(3+11) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:105:423344cda9633074",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "A rectangle is 3 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "16 cm",
+   "14 cm",
+   "7 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(3+4) = 14 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:106:eaebda79cbbe86f2",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "A rectangle is 7 cm by 4 cm. What is its area?",
+  "options": [
+   "11 cm²",
+   "35 cm²",
+   "22 cm²",
+   "28 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 7×4 = 28 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:107:e8fc9652b5276ff0",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "A rectangle is 15 cm by 12 cm. What is its area?",
+  "options": [
+   "195 cm²",
+   "27 cm²",
+   "54 cm²",
+   "180 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 15×12 = 180 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:108:fd11c93917dbdf8b",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "A rectangle is 5 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "14 cm",
+   "18 cm",
+   "9 cm",
+   "20 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(5+4) = 18 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:109:72d17709fb9105fc",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "A rectangle is 3 cm by 3 cm. What is its area?",
+  "options": [
+   "6 cm²",
+   "10 cm²",
+   "9 cm²",
+   "12 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 3×3 = 9 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:110:0914ad1a28f4589a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "A rectangle is 8 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "19 cm",
+   "11 cm",
+   "22 cm",
+   "24 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(8+3) = 22 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:111:0333052c5bec740f",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "A rectangle is 5 cm by 11 cm. What is its perimeter?",
+  "options": [
+   "34 cm",
+   "16 cm",
+   "55 cm",
+   "32 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(5+11) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:112:17b6102cbd04b718",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "A rectangle is 7 cm by 3 cm. What is its area?",
+  "options": [
+   "10 cm²",
+   "28 cm²",
+   "21 cm²",
+   "20 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 7×3 = 21 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:113:2ddcb7e46f1ffd82",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "A rectangle is 5 cm by 10 cm. What is its area?",
+  "options": [
+   "30 cm²",
+   "55 cm²",
+   "15 cm²",
+   "50 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 5×10 = 50 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:114:0e693265b82af193",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "A rectangle is 9 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "26 cm",
+   "28 cm",
+   "13 cm",
+   "36 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "Perimeter = 2×(9+4) = 26 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:115:1ff9db106139c33f",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "A rectangle is 15 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "25 cm",
+   "52 cm",
+   "50 cm",
+   "150 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(15+10) = 50 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:116:76c9fa06d7c6d3cb",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "A rectangle is 15 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "48 cm",
+   "23 cm",
+   "120 cm",
+   "46 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(15+8) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:117:b64777e3923c446a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "A rectangle is 13 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "48 cm",
+   "23 cm",
+   "130 cm",
+   "46 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(13+10) = 46 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:118:777841daba444a1a",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "A rectangle is 9 cm by 4 cm. What is its area?",
+  "options": [
+   "26 cm²",
+   "13 cm²",
+   "36 cm²",
+   "45 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 9×4 = 36 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:119:2d87a9b67fbd8c3c",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "A rectangle is 7 cm by 10 cm. What is its area?",
+  "options": [
+   "17 cm²",
+   "77 cm²",
+   "34 cm²",
+   "70 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 7×10 = 70 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:121:0c36e3ed7fb6c6f9",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "A rectangle is 6 cm by 9 cm. What is its area?",
+  "options": [
+   "60 cm²",
+   "54 cm²",
+   "15 cm²",
+   "30 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 6×9 = 54 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:122:cf87b5c979ddd0a6",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "A rectangle is 8 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "16 cm",
+   "64 cm",
+   "34 cm",
+   "32 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(8+8) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:123:565ab3b7dae690c3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "A rectangle is 4 cm by 3 cm. What is its area?",
+  "options": [
+   "12 cm²",
+   "16 cm²",
+   "14 cm²",
+   "7 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 4×3 = 12 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:124:0714a0d385cbf2c3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "A rectangle is 7 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "28 cm",
+   "26 cm",
+   "42 cm",
+   "13 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(7+6) = 26 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:126:9c89f2ede8c719bc",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "A rectangle is 8 cm by 6 cm. What is its area?",
+  "options": [
+   "28 cm²",
+   "48 cm²",
+   "56 cm²",
+   "14 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 8×6 = 48 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:127:b3f14923f2f99773",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "A rectangle is 6 cm by 8 cm. What is its perimeter?",
+  "options": [
+   "48 cm",
+   "14 cm",
+   "28 cm",
+   "30 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(6+8) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:128:5b9692b9ed1715d8",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "A rectangle is 9 cm by 5 cm. What is its perimeter?",
+  "options": [
+   "45 cm",
+   "30 cm",
+   "14 cm",
+   "28 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(9+5) = 28 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:129:7c4cd4e2bb03f725",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "A rectangle is 5 cm by 4 cm. What is its area?",
+  "options": [
+   "9 cm²",
+   "25 cm²",
+   "20 cm²",
+   "18 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 5×4 = 20 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:130:2c8b56bb634374ab",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "A rectangle is 11 cm by 6 cm. What is its area?",
+  "options": [
+   "77 cm²",
+   "34 cm²",
+   "17 cm²",
+   "66 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 11×6 = 66 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:131:fb3738ca83087702",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "A rectangle is 3 cm by 10 cm. What is its perimeter?",
+  "options": [
+   "28 cm",
+   "26 cm",
+   "30 cm",
+   "13 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(3+10) = 26 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:132:9c40b616711e6fb1",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "A rectangle is 10 cm by 6 cm. What is its area?",
+  "options": [
+   "70 cm²",
+   "32 cm²",
+   "60 cm²",
+   "16 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 10×6 = 60 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:133:7406652d7ea723b5",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "A rectangle is 15 cm by 9 cm. What is its area?",
+  "options": [
+   "48 cm²",
+   "24 cm²",
+   "150 cm²",
+   "135 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 15×9 = 135 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:134:27638aecec47bb63",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "A rectangle is 8 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "96 cm",
+   "20 cm",
+   "42 cm",
+   "40 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(8+12) = 40 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:135:ff387332f7314452",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "A rectangle is 3 cm by 10 cm. What is its area?",
+  "options": [
+   "13 cm²",
+   "26 cm²",
+   "33 cm²",
+   "30 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 3×10 = 30 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:136:16266de58a5d0b97",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "A rectangle is 4 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "22 cm",
+   "24 cm",
+   "10 cm",
+   "20 cm"
+  ],
+  "answer_index": 3,
+  "explanation": "Perimeter = 2×(4+6) = 20 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:137:563ab6e4c49f62f3",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "A rectangle is 15 cm by 7 cm. What is its area?",
+  "options": [
+   "44 cm²",
+   "22 cm²",
+   "105 cm²",
+   "120 cm²"
+  ],
+  "answer_index": 2,
+  "explanation": "Area = length × width = 15×7 = 105 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:138:bccf761308f2c452",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "A rectangle is 4 cm by 11 cm. What is its area?",
+  "options": [
+   "44 cm²",
+   "30 cm²",
+   "15 cm²",
+   "48 cm²"
+  ],
+  "answer_index": 0,
+  "explanation": "Area = length × width = 4×11 = 44 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:139:b9be14458573a8ff",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "A rectangle is 14 cm by 10 cm. What is its area?",
+  "options": [
+   "48 cm²",
+   "24 cm²",
+   "154 cm²",
+   "140 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 14×10 = 140 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:140:7814bab1a1c3f266",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "A rectangle is 5 cm by 12 cm. What is its perimeter?",
+  "options": [
+   "17 cm",
+   "36 cm",
+   "34 cm",
+   "60 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(5+12) = 34 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:141:4144c2b67c49c822",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "A rectangle is 8 cm by 6 cm. What is its area?",
+  "options": [
+   "28 cm²",
+   "56 cm²",
+   "14 cm²",
+   "48 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 8×6 = 48 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:142:6b455ce7dc7cc8eb",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "A rectangle is 9 cm by 9 cm. What is its perimeter?",
+  "options": [
+   "38 cm",
+   "36 cm",
+   "81 cm",
+   "18 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(9+9) = 36 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:143:7791fbef1a2ec544",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "A rectangle is 14 cm by 12 cm. What is its area?",
+  "options": [
+   "182 cm²",
+   "26 cm²",
+   "52 cm²",
+   "168 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 14×12 = 168 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:144:828ce1985a2ff421",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "A rectangle is 14 cm by 4 cm. What is its perimeter?",
+  "options": [
+   "38 cm",
+   "36 cm",
+   "18 cm",
+   "56 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(14+4) = 36 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:146:6780d9eb71842cdd",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "A rectangle is 9 cm by 9 cm. What is its area?",
+  "options": [
+   "36 cm²",
+   "81 cm²",
+   "90 cm²",
+   "18 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 9×9 = 81 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:147:09d5e12e0d240a23",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "A rectangle is 12 cm by 3 cm. What is its area?",
+  "options": [
+   "48 cm²",
+   "15 cm²",
+   "30 cm²",
+   "36 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 12×3 = 36 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:148:86722fa2ccb47db6",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "A rectangle is 4 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "12 cm",
+   "7 cm",
+   "14 cm",
+   "16 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(4+3) = 14 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:149:c475faad86072f77",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "A rectangle is 12 cm by 11 cm. What is its area?",
+  "options": [
+   "46 cm²",
+   "144 cm²",
+   "23 cm²",
+   "132 cm²"
+  ],
+  "answer_index": 3,
+  "explanation": "Area = length × width = 12×11 = 132 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:150:decbe6466222c5d0",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "A rectangle is 9 cm by 10 cm. What is its area?",
+  "options": [
+   "99 cm²",
+   "90 cm²",
+   "19 cm²",
+   "38 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 9×10 = 90 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:151:eb8eb21480040332",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 151,
+  "stem": "A rectangle is 10 cm by 6 cm. What is its perimeter?",
+  "options": [
+   "16 cm",
+   "34 cm",
+   "32 cm",
+   "60 cm"
+  ],
+  "answer_index": 2,
+  "explanation": "Perimeter = 2×(10+6) = 32 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:152:7441a944a725c821",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 152,
+  "stem": "A rectangle is 9 cm by 3 cm. What is its perimeter?",
+  "options": [
+   "26 cm",
+   "24 cm",
+   "27 cm",
+   "12 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "Perimeter = 2×(9+3) = 24 cm.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:perimeter:153:d2ec815f1891e2d8",
+  "topic_id": "MA-F07",
+  "qtype": "perimeter",
+  "level": 3,
+  "generator": "reg:perimeter",
+  "generator_version": 1,
+  "seed": 153,
+  "stem": "A rectangle is 9 cm by 11 cm. What is its area?",
+  "options": [
+   "40 cm²",
+   "99 cm²",
+   "108 cm²",
+   "20 cm²"
+  ],
+  "answer_index": 1,
+  "explanation": "Area = length × width = 9×11 = 99 cm².",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

@@ -1,0 +1,216 @@
+age: 1
+topics:
+- id: EN-A01
+  subject: English
+  title: Explicit information retrieval and accurate evidence selection
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A02
+  subject: English
+  title: Direct factual questions and locating precise details
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A03
+  subject: English
+  title: Inference from actions, dialogue, behaviour and description
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A04
+  subject: English
+  title: Deduction supported by multiple pieces of evidence
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A05
+  subject: English
+  title: Characters' feelings, motivations, relationships and development
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A06
+  subject: English
+  title: Distinguishing fact, opinion, assumption and inference
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-A07
+  subject: English
+  title: Identifying main ideas and summarising paragraphs
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-B01
+  subject: English
+  title: Synonyms, antonyms and subtle differences in meaning
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-B02
+  subject: English
+  title: Word meanings from context
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-B06
+  subject: English
+  title: Prefixes, suffixes and root words
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-B08
+  subject: English
+  title: Word families, derivatives and related forms
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: EN-C01
+  subject: English
+  title: Similes, metaphors and personification
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: MA-A02
+  subject: Maths
+  title: Reading and writing large numbers in words and figures
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: MA-A03
+  subject: Maths
+  title: Comparing and ordering positive integers
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+- id: MA-A05
+  subject: Maths
+  title: Rounding integers to powers of ten
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+- id: MA-A07
+  subject: Maths
+  title: Roman numerals to 1,000
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+- id: MA-A08
+  subject: Maths
+  title: Estimation and approximation
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: MA-A09
+  subject: Maths
+  title: Number lines, intervals and missing values
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: MA-B01
+  subject: Maths
+  title: Mental addition, subtraction, multiplication and division
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+- id: MA-B02
+  subject: Maths
+  title: Written addition and subtraction
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: MA-B04
+  subject: Maths
+  title: Multiplication tables and division facts
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+- id: MA-B06
+  subject: Maths
+  title: Inverse operations and missing numbers
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+- id: MA-B13
+  subject: Maths
+  title: Odd/even numbers and number properties
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 1
+  - 2
+  - 3
+  - 4
+- id: MA-C01
+  subject: Maths
+  title: Proper, improper and mixed fractions
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: MA-C02
+  subject: Maths
+  title: Equivalent and simplified fractions
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: NV-A01
+  subject: NVR
+  title: Finding the next figure in a sequence
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: NV-A02
+  subject: NVR
+  title: Increasing/decreasing numbers of shapes
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: NV-A03
+  subject: NVR
+  title: Alternating shading patterns
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: NV-C01
+  subject: NVR
+  title: Odd-one-out diagrams
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: NV-C03
+  subject: NVR
+  title: Shape similarities and common features
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: VR-A01
+  subject: VR
+  title: Synonyms and closest meanings
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: VR-A02
+  subject: VR
+  title: Antonyms and opposite meanings
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: VR-A05
+  subject: VR
+  title: Odd-one-out vocabulary
+  status: not_served
+  reason: language/judgement item — needs blind-solve pipeline
+- id: VR-C01
+  subject: VR
+  title: Alphabet positions and backward alphabet
+  status: not_served
+  reason: computable but needs a generator + independent tester
+- id: VR-C02
+  subject: VR
+  title: Single-letter sequences
+  status: served
+  reason: computable + independent tester exists
+  levels:
+  - 2

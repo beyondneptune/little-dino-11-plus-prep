@@ -1,0 +1,5330 @@
+[
+ {
+  "id": "en:plural:2:a3aaf3677f643017",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "What is the plural of “glass”?",
+  "options": [
+   "glass",
+   "glasies",
+   "glasss",
+   "glasses"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “glass” is “glasses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:a3ba6857ef4f94a6",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What is the plural of “berry”?",
+  "options": [
+   "berry",
+   "berrys",
+   "berries",
+   "berryes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “berry” is “berries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9794159e89c09d2e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What is the plural of “leaf”?",
+  "options": [
+   "leaf",
+   "leaies",
+   "leafs",
+   "leaves"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “leaf” is “leaves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:c804ac7f6f273d9b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What is the plural of “box”?",
+  "options": [
+   "boies",
+   "box",
+   "boxs",
+   "boxes"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “box” is “boxes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f545d3890d6d5bdc",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What is the plural of “fly”?",
+  "options": [
+   "fly",
+   "flyes",
+   "flys",
+   "flies"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “fly” is “flies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:5fd3ffd88a0ebc51",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What is the plural of “leaf”?",
+  "options": [
+   "leafs",
+   "leaies",
+   "leaves",
+   "leaf"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “leaf” is “leaves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:8c9e3e66c71434a7",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What is the plural of “life”?",
+  "options": [
+   "lifees",
+   "life",
+   "lives",
+   "lifies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “life” is “lives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:6f78882714bb98be",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What is the plural of “mouse”?",
+  "options": [
+   "mouse",
+   "mice",
+   "mousees",
+   "mousies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “mouse” is “mice”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:6fc733e541bf8aaf",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What is the plural of “story”?",
+  "options": [
+   "story",
+   "storys",
+   "stories",
+   "storyes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “story” is “stories”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0842f4792ed52899",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What is the plural of “child”?",
+  "options": [
+   "childes",
+   "childs",
+   "chilies",
+   "children"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “child” is “children”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1c00c6ede601c014",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What is the plural of “half”?",
+  "options": [
+   "halfes",
+   "halfs",
+   "halves",
+   "half"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “half” is “halves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:ac3f6a1818bdeb71",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What is the plural of “leaf”?",
+  "options": [
+   "leafs",
+   "leaf",
+   "leaies",
+   "leaves"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “leaf” is “leaves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:b064837632ef3433",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knives",
+   "knifes",
+   "knifies",
+   "knife"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f79bac6799959fa0",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What is the plural of “wife”?",
+  "options": [
+   "wifees",
+   "wives",
+   "wifes",
+   "wifies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “wife” is “wives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:3420959a198a2b81",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What is the plural of “box”?",
+  "options": [
+   "box",
+   "boxes",
+   "boxs",
+   "boies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “box” is “boxes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:ecff701e70aeebe7",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What is the plural of “fly”?",
+  "options": [
+   "flyes",
+   "flys",
+   "fly",
+   "flies"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “fly” is “flies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:dde883db0137696b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What is the plural of “woman”?",
+  "options": [
+   "womaies",
+   "womans",
+   "women",
+   "womanes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “woman” is “women”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:725df1a29cb66a52",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What is the plural of “church”?",
+  "options": [
+   "churches",
+   "churcies",
+   "church",
+   "churchs"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “church” is “churches”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:8631eced9ad84214",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "disies",
+   "dishes",
+   "dishs",
+   "dish"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:7e61485ec6b995fa",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What is the plural of “lady”?",
+  "options": [
+   "ladies",
+   "lady",
+   "ladys",
+   "ladyes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “lady” is “ladies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:6ff7bdc64dfe2fde",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knives",
+   "knifies",
+   "knife",
+   "knifes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9c35dfc7b8d79d94",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What is the plural of “bus”?",
+  "options": [
+   "bus",
+   "buss",
+   "buses",
+   "buies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “bus” is “buses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:b6498719b26f4c5e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What is the plural of “foot”?",
+  "options": [
+   "foot",
+   "footes",
+   "feet",
+   "fooies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “foot” is “feet”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1bd288f667edea46",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What is the plural of “wife”?",
+  "options": [
+   "wifees",
+   "wifies",
+   "wives",
+   "wifes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “wife” is “wives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f92f3b64895bebc0",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What is the plural of “foot”?",
+  "options": [
+   "fooies",
+   "foot",
+   "feet",
+   "footes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “foot” is “feet”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:dfd1457bdcf34d98",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What is the plural of “bush”?",
+  "options": [
+   "bushes",
+   "busies",
+   "bushs",
+   "bush"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “bush” is “bushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:5e524bf5a839dc55",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What is the plural of “life”?",
+  "options": [
+   "lives",
+   "lifees",
+   "lifies",
+   "life"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “life” is “lives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:7017510410478734",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What is the plural of “brush”?",
+  "options": [
+   "brushs",
+   "brusies",
+   "brushes",
+   "brush"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “brush” is “brushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:50a3fe3ffc7ffae9",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What is the plural of “watch”?",
+  "options": [
+   "watchs",
+   "watch",
+   "watcies",
+   "watches"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “watch” is “watches”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:345ce95cc7447f4b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What is the plural of “lady”?",
+  "options": [
+   "ladys",
+   "ladies",
+   "lady",
+   "ladyes"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “lady” is “ladies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:b13030997b109b4b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What is the plural of “child”?",
+  "options": [
+   "children",
+   "chilies",
+   "childs",
+   "childes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “child” is “children”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0bb70ad35d7dcd66",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What is the plural of “deer”?",
+  "options": [
+   "deers",
+   "deer",
+   "deeies",
+   "deeres"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “deer” is “deer”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f706fe28a963d120",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What is the plural of “glass”?",
+  "options": [
+   "glasses",
+   "glasies",
+   "glass",
+   "glasss"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “glass” is “glasses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:3ed775ec316ee9b1",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What is the plural of “glass”?",
+  "options": [
+   "glass",
+   "glasses",
+   "glasies",
+   "glasss"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “glass” is “glasses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:3ac14786c2511fb5",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What is the plural of “woman”?",
+  "options": [
+   "womaies",
+   "womans",
+   "womanes",
+   "women"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “woman” is “women”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:dedecd459e9720c3",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What is the plural of “sheep”?",
+  "options": [
+   "sheeies",
+   "sheep",
+   "sheepes",
+   "sheeps"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “sheep” is “sheep”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1a4fc4351d09d0aa",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What is the plural of “star”?",
+  "options": [
+   "stares",
+   "star",
+   "stars",
+   "staies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “star” is “stars”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:dc8831d4172c6910",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What is the plural of “lady”?",
+  "options": [
+   "ladyes",
+   "ladys",
+   "lady",
+   "ladies"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “lady” is “ladies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:8fe73c8f3c636341",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What is the plural of “goose”?",
+  "options": [
+   "goose",
+   "goosies",
+   "gooses",
+   "geese"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “goose” is “geese”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:4ac545faa8aa3d4d",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What is the plural of “star”?",
+  "options": [
+   "star",
+   "stares",
+   "stars",
+   "staies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “star” is “stars”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d1eb3901f9658e97",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What is the plural of “wife”?",
+  "options": [
+   "wifes",
+   "wifies",
+   "wifees",
+   "wives"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “wife” is “wives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:7ef66a2674f7b9fd",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "dishs",
+   "disies",
+   "dishes",
+   "dish"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:3578faaa88c9a54a",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knives",
+   "knife",
+   "knifies",
+   "knifes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:92801dd5f08cf43c",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "What is the plural of “story”?",
+  "options": [
+   "stories",
+   "storys",
+   "storyes",
+   "story"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “story” is “stories”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:e97e81913768c446",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What is the plural of “foot”?",
+  "options": [
+   "feet",
+   "footes",
+   "foot",
+   "fooies"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “foot” is “feet”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0e0ccf10a8ce76df",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What is the plural of “glass”?",
+  "options": [
+   "glass",
+   "glasss",
+   "glasses",
+   "glasies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “glass” is “glasses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9817f4239413641a",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What is the plural of “table”?",
+  "options": [
+   "tablees",
+   "tablies",
+   "table",
+   "tables"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “table” is “tables”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0023fe4764810948",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What is the plural of “life”?",
+  "options": [
+   "life",
+   "lifies",
+   "lives",
+   "lifees"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “life” is “lives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:7766cd6d0be86799",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What is the plural of “bus”?",
+  "options": [
+   "buss",
+   "bus",
+   "buses",
+   "buies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “bus” is “buses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:60fb7a6d3797bd6b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What is the plural of “tree”?",
+  "options": [
+   "treies",
+   "treees",
+   "trees",
+   "tree"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “tree” is “trees”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0c5fde5358b91f14",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What is the plural of “wife”?",
+  "options": [
+   "wifes",
+   "wifies",
+   "wives",
+   "wifees"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “wife” is “wives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9119e667940e8caa",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What is the plural of “tooth”?",
+  "options": [
+   "tooties",
+   "tooth",
+   "teeth",
+   "toothes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “tooth” is “teeth”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:44346636a732dfee",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What is the plural of “mouse”?",
+  "options": [
+   "mice",
+   "mouse",
+   "mousees",
+   "mousies"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “mouse” is “mice”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:eb4fa822ea3b577c",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What is the plural of “woman”?",
+  "options": [
+   "womans",
+   "womaies",
+   "womanes",
+   "women"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “woman” is “women”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:92faf93e6b5da0a5",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What is the plural of “bus”?",
+  "options": [
+   "buses",
+   "buies",
+   "bus",
+   "buss"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “bus” is “buses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1913bb220b0ac1f2",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What is the plural of “fox”?",
+  "options": [
+   "foies",
+   "foxs",
+   "foxes",
+   "fox"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “fox” is “foxes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:481b5aad8cf4bc07",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What is the plural of “city”?",
+  "options": [
+   "cityes",
+   "cities",
+   "city",
+   "citys"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “city” is “cities”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:8d45dd8ff0177b9d",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "dish",
+   "dishes",
+   "dishs",
+   "disies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:8cfe5534f6d883fb",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What is the plural of “bus”?",
+  "options": [
+   "buies",
+   "bus",
+   "buss",
+   "buses"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “bus” is “buses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:59792d250395b042",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What is the plural of “story”?",
+  "options": [
+   "story",
+   "storyes",
+   "stories",
+   "storys"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “story” is “stories”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0d6a5270a8efff39",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What is the plural of “woman”?",
+  "options": [
+   "women",
+   "womaies",
+   "womans",
+   "womanes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “woman” is “women”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d0af30e9e167346c",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What is the plural of “baby”?",
+  "options": [
+   "baby",
+   "babies",
+   "babys",
+   "babyes"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “baby” is “babies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f479c8e081c2e447",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What is the plural of “bus”?",
+  "options": [
+   "buss",
+   "buies",
+   "bus",
+   "buses"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “bus” is “buses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:635445e65412bfd3",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What is the plural of “sheep”?",
+  "options": [
+   "sheeies",
+   "sheepes",
+   "sheep",
+   "sheeps"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “sheep” is “sheep”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f62ac947c7293278",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What is the plural of “city”?",
+  "options": [
+   "city",
+   "cityes",
+   "citys",
+   "cities"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “city” is “cities”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:70e7694c52d94c06",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What is the plural of “berry”?",
+  "options": [
+   "berryes",
+   "berrys",
+   "berries",
+   "berry"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “berry” is “berries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:ed3ce35856f0f3d9",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What is the plural of “life”?",
+  "options": [
+   "lifees",
+   "life",
+   "lifies",
+   "lives"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “life” is “lives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:99f49ee7b86b5eb6",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What is the plural of “tooth”?",
+  "options": [
+   "tooties",
+   "teeth",
+   "toothes",
+   "tooth"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “tooth” is “teeth”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d79f24ba2b984584",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What is the plural of “house”?",
+  "options": [
+   "houses",
+   "housies",
+   "housees",
+   "house"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “house” is “houses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:5dcee592efd784d0",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "What is the plural of “bush”?",
+  "options": [
+   "bushes",
+   "busies",
+   "bush",
+   "bushs"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “bush” is “bushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:b53da24b453b86b0",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "dishs",
+   "disies",
+   "dish",
+   "dishes"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:5bc883f1c1ae9431",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "dishes",
+   "disies",
+   "dishs",
+   "dish"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9787686dce38e276",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What is the plural of “bush”?",
+  "options": [
+   "bush",
+   "busies",
+   "bushes",
+   "bushs"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “bush” is “bushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:2bfc52a84f7da076",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What is the plural of “brush”?",
+  "options": [
+   "brusies",
+   "brush",
+   "brushes",
+   "brushs"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “brush” is “brushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:58224012f713e811",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What is the plural of “leaf”?",
+  "options": [
+   "leaies",
+   "leaves",
+   "leaf",
+   "leafs"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “leaf” is “leaves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:a735a767ef865089",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knifes",
+   "knives",
+   "knifies",
+   "knife"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9381e85c8eecfdad",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What is the plural of “half”?",
+  "options": [
+   "halves",
+   "halfes",
+   "half",
+   "halfs"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “half” is “halves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:a7a3a1ea1accaff4",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What is the plural of “story”?",
+  "options": [
+   "stories",
+   "story",
+   "storys",
+   "storyes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “story” is “stories”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:459eba5ee95efe90",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What is the plural of “book”?",
+  "options": [
+   "book",
+   "bookes",
+   "booies",
+   "books"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “book” is “books”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0b59e27db621f9a3",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What is the plural of “tree”?",
+  "options": [
+   "treees",
+   "treies",
+   "tree",
+   "trees"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “tree” is “trees”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:eecb6ee6a5a8ff59",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What is the plural of “bush”?",
+  "options": [
+   "busies",
+   "bush",
+   "bushes",
+   "bushs"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “bush” is “bushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:197c41f390ace89e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knifes",
+   "knives",
+   "knife",
+   "knifies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:a790c7fc5223e216",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What is the plural of “glass”?",
+  "options": [
+   "glasies",
+   "glass",
+   "glasss",
+   "glasses"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “glass” is “glasses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f744504d5c618c3f",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "What is the plural of “mouse”?",
+  "options": [
+   "mousies",
+   "mouse",
+   "mice",
+   "mousees"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “mouse” is “mice”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:e88dca2f3fe4d601",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What is the plural of “brush”?",
+  "options": [
+   "brushs",
+   "brusies",
+   "brush",
+   "brushes"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “brush” is “brushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:52b910acbb502e4e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What is the plural of “berry”?",
+  "options": [
+   "berry",
+   "berrys",
+   "berryes",
+   "berries"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “berry” is “berries”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:46b3a621250eae8a",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What is the plural of “baby”?",
+  "options": [
+   "babys",
+   "baby",
+   "babies",
+   "babyes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “baby” is “babies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d17e4e3016f9b16a",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What is the plural of “tooth”?",
+  "options": [
+   "tooth",
+   "toothes",
+   "tooties",
+   "teeth"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “tooth” is “teeth”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:6eb0932d803336d0",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What is the plural of “tooth”?",
+  "options": [
+   "tooth",
+   "teeth",
+   "tooties",
+   "toothes"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “tooth” is “teeth”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:a5c564adcd4899ab",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What is the plural of “fox”?",
+  "options": [
+   "foxs",
+   "fox",
+   "foxes",
+   "foies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “fox” is “foxes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d1893c84256917a3",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What is the plural of “fly”?",
+  "options": [
+   "flies",
+   "flys",
+   "flyes",
+   "fly"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “fly” is “flies”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1da67b750aa707f1",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What is the plural of “party”?",
+  "options": [
+   "parties",
+   "partys",
+   "party",
+   "partyes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “party” is “parties”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1fa6c9c54fe40e5c",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What is the plural of “dish”?",
+  "options": [
+   "dishes",
+   "disies",
+   "dish",
+   "dishs"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “dish” is “dishes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:975f8d89fa85d16a",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What is the plural of “leaf”?",
+  "options": [
+   "leaies",
+   "leaf",
+   "leaves",
+   "leafs"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “leaf” is “leaves”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:955bf7eadfe42371",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What is the plural of “book”?",
+  "options": [
+   "books",
+   "booies",
+   "book",
+   "bookes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “book” is “books”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:639b119c06520691",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What is the plural of “box”?",
+  "options": [
+   "boxs",
+   "boies",
+   "box",
+   "boxes"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “box” is “boxes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:31efc94d8285dab3",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What is the plural of “church”?",
+  "options": [
+   "churcies",
+   "churches",
+   "churchs",
+   "church"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “church” is “churches”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:51da88472cc11e32",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "What is the plural of “child”?",
+  "options": [
+   "childs",
+   "children",
+   "childes",
+   "chilies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “child” is “children”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:67209a87d8a3ab2d",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What is the plural of “mouse”?",
+  "options": [
+   "mousees",
+   "mouse",
+   "mousies",
+   "mice"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “mouse” is “mice”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:f90708fe59f7094e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What is the plural of “brush”?",
+  "options": [
+   "brushs",
+   "brush",
+   "brushes",
+   "brusies"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “brush” is “brushes”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:865f9bcd8022df46",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "What is the plural of “house”?",
+  "options": [
+   "housees",
+   "house",
+   "housies",
+   "houses"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “house” is “houses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:efed63d55120c893",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "What is the plural of “sheep”?",
+  "options": [
+   "sheep",
+   "sheeps",
+   "sheeies",
+   "sheepes"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “sheep” is “sheep”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:be664ee6c12e389c",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What is the plural of “house”?",
+  "options": [
+   "houses",
+   "house",
+   "housies",
+   "housees"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “house” is “houses”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:9043958a81d86a92",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What is the plural of “knife”?",
+  "options": [
+   "knife",
+   "knifies",
+   "knives",
+   "knifes"
+  ],
+  "answer_index": 2,
+  "explanation": "The plural of “knife” is “knives”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:d6955632ae85bcb1",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "What is the plural of “child”?",
+  "options": [
+   "children",
+   "childes",
+   "childs",
+   "chilies"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “child” is “children”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:4387950ae0bda889",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What is the plural of “foot”?",
+  "options": [
+   "footes",
+   "fooies",
+   "foot",
+   "feet"
+  ],
+  "answer_index": 3,
+  "explanation": "The plural of “foot” is “feet”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:461547e867b7cc3e",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What is the plural of “story”?",
+  "options": [
+   "stories",
+   "story",
+   "storyes",
+   "storys"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “story” is “stories”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:0ffc51e2c133cd7f",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What is the plural of “woman”?",
+  "options": [
+   "womanes",
+   "women",
+   "womans",
+   "womaies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “woman” is “women”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:876c7feaf1aa380b",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What is the plural of “sheep”?",
+  "options": [
+   "sheeps",
+   "sheep",
+   "sheepes",
+   "sheeies"
+  ],
+  "answer_index": 1,
+  "explanation": "The plural of “sheep” is “sheep”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:1fa4da16deef9c07",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What is the plural of “watch”?",
+  "options": [
+   "watches",
+   "watchs",
+   "watcies",
+   "watch"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “watch” is “watches”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:plural:2:27f35ad7668cea0d",
+  "topic_id": "EN-F10",
+  "qtype": "en:plural",
+  "level": 2,
+  "generator": "en:plural",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What is the plural of “watch”?",
+  "options": [
+   "watches",
+   "watcies",
+   "watch",
+   "watchs"
+  ],
+  "answer_index": 0,
+  "explanation": "The plural of “watch” is “watches”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

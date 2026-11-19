@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:estimate:3:d32657caee9d6c45",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Estimate 798 − 389 by rounding each number to the nearest 100.",
+  "options": [
+   "409",
+   "400",
+   "500",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:b0ea74ab99eb1a63",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Estimate 563 − 135 by rounding each number to the nearest 100.",
+  "options": [
+   "600",
+   "428",
+   "400",
+   "500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:45cfaa46323617a9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Estimate 867 − 188 by rounding each number to the nearest 100.",
+  "options": [
+   "679",
+   "700",
+   "800",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 700.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:70068725c93f9a60",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Estimate 696 − 302 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "394",
+   "300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:0663fafa7ff384c3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Estimate 362 − 358 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "100",
+   "4",
+   "-100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:912b4a7f58e9b443",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Estimate 668 − 330 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "338",
+   "500",
+   "400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1a8ede19a5fc0366",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Estimate 786 − 469 by rounding each number to the nearest 100.",
+  "options": [
+   "317",
+   "400",
+   "300",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:36c36f2ef596b92a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Estimate 761 − 190 by rounding each number to the nearest 100.",
+  "options": [
+   "700",
+   "500",
+   "571",
+   "600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1fe7cb398cf3aa4e",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Estimate 595 − 319 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "200",
+   "276"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:f7151cc044527dce",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Estimate 477 − 181 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "200",
+   "296",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:f24d1d09c7b5bdf1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Estimate 709 − 411 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "400",
+   "298",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:9baaaee7ef9c2bfa",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Estimate 482 − 245 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "200",
+   "237"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:19d158b4e0b297cc",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Estimate 643 − 560 by rounding each number to the nearest 100.",
+  "options": [
+   "-100",
+   "83",
+   "0",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2606a86e058363ff",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Estimate 304 − 187 by rounding each number to the nearest 100.",
+  "options": [
+   "117",
+   "200",
+   "100",
+   "0"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ffd489bf2cee93a9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Estimate 796 − 268 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "528",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:cc6dbeb27b42cd9c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Estimate 790 − 710 by rounding each number to the nearest 100.",
+  "options": [
+   "80",
+   "200",
+   "100",
+   "0"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d12b1ebbf97b58f9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Estimate 809 − 722 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "87",
+   "100",
+   "0"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ae9e3a04b2d2b5b8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Estimate 548 − 288 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "260",
+   "300",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:8c4fbe5f718ed245",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Estimate 224 − 223 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "1",
+   "0",
+   "-100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:5826b9d2b5dac0c4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Estimate 638 − 165 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "500",
+   "473"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ecc356ce6a12d6af",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Estimate 620 − 178 by rounding each number to the nearest 100.",
+  "options": [
+   "442",
+   "400",
+   "300",
+   "500"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:8dccf740e751a07b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Estimate 738 − 224 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "514",
+   "400"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:01b30eb57b85c3b6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Estimate 542 − 268 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "300",
+   "274"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:53ccd4c6c34d3c40",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Estimate 607 − 480 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "127",
+   "100",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:b4dfcf86569c0289",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Estimate 885 − 854 by rounding each number to the nearest 100.",
+  "options": [
+   "-100",
+   "0",
+   "100",
+   "31"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:6d3905590d75b26b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Estimate 722 − 209 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "513",
+   "400",
+   "600"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:64b6247701b8b0aa",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Estimate 699 − 628 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "200",
+   "71",
+   "0"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:92f3e3e0e79b0b6e",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Estimate 630 − 214 by rounding each number to the nearest 100.",
+  "options": [
+   "416",
+   "400",
+   "300",
+   "500"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:8666a5231a76f809",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Estimate 761 − 223 by rounding each number to the nearest 100.",
+  "options": [
+   "600",
+   "538",
+   "700",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:4471ec1f96908f22",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Estimate 312 − 216 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "96",
+   "0",
+   "200"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:60ff05b8094532b1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Estimate 289 − 137 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "100",
+   "152"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:e028bf3b710170e9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Estimate 780 − 732 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "200",
+   "100",
+   "48"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:375ef59f50752e82",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Estimate 350 − 213 by rounding each number to the nearest 100.",
+  "options": [
+   "137",
+   "200",
+   "100",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:f891e07328b9a59f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Estimate 674 − 522 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "152",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:921e13f3ef39c8e7",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Estimate 651 − 175 by rounding each number to the nearest 100.",
+  "options": [
+   "476",
+   "400",
+   "500",
+   "600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ee39ffff54b4b7ca",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Estimate 396 − 378 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "100",
+   "18",
+   "-100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:c624874482bd68dc",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Estimate 838 − 470 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "368",
+   "300",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2000172de4b04882",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Estimate 582 − 370 by rounding each number to the nearest 100.",
+  "options": [
+   "212",
+   "200",
+   "100",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:4e46793b43a1a3f1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Estimate 593 − 146 by rounding each number to the nearest 100.",
+  "options": [
+   "447",
+   "600",
+   "500",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:83c6fc340a29227d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Estimate 670 − 478 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "192",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:fdd9d862800dc7f4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Estimate 816 − 217 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "700",
+   "599",
+   "600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:f00faffb1a01104d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Estimate 542 − 536 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "6",
+   "100",
+   "-100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d9adb02c92cf79d0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Estimate 827 − 234 by rounding each number to the nearest 100.",
+  "options": [
+   "600",
+   "593",
+   "700",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1d1eea8f0342f396",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Estimate 412 − 270 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "200",
+   "100",
+   "142"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:bb54d7241c84328f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Estimate 576 − 459 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "117",
+   "200",
+   "0"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3a5e7b7568886029",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Estimate 502 − 153 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "349",
+   "400"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:fa266c2d9743c184",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Estimate 745 − 356 by rounding each number to the nearest 100.",
+  "options": [
+   "389",
+   "300",
+   "400",
+   "200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2ae7ddf35a4aadfd",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Estimate 622 − 306 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "316",
+   "200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3deb3830834079e1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Estimate 345 − 288 by rounding each number to the nearest 100.",
+  "options": [
+   "-100",
+   "57",
+   "100",
+   "0"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:25714ec8306e314c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Estimate 613 − 432 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "181",
+   "300",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1bb23ff31904eb0b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Estimate 861 − 191 by rounding each number to the nearest 100.",
+  "options": [
+   "700",
+   "600",
+   "800",
+   "670"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 700.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d9f083fc42cf1920",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Estimate 761 − 168 by rounding each number to the nearest 100.",
+  "options": [
+   "700",
+   "593",
+   "600",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:e67c46d92f9f5a65",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Estimate 785 − 561 by rounding each number to the nearest 100.",
+  "options": [
+   "224",
+   "300",
+   "200",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:816b4064ede50850",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Estimate 573 − 391 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "182",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d0e5b20efb0ab7bf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Estimate 834 − 585 by rounding each number to the nearest 100.",
+  "options": [
+   "249",
+   "300",
+   "100",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:6aa25a72513390ea",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Estimate 255 − 249 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "200",
+   "100",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:27d0c3973c17dd7a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Estimate 206 − 135 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "71",
+   "200",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ce7fcdc6102e3164",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Estimate 744 − 508 by rounding each number to the nearest 100.",
+  "options": [
+   "236",
+   "100",
+   "200",
+   "300"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:09856d9194104530",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Estimate 594 − 233 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "361",
+   "400",
+   "300"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ead450b2357cd4fa",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Estimate 205 − 128 by rounding each number to the nearest 100.",
+  "options": [
+   "77",
+   "200",
+   "0",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2be530dfc655aa60",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Estimate 871 − 184 by rounding each number to the nearest 100.",
+  "options": [
+   "700",
+   "687",
+   "600",
+   "800"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 700.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:8634ce273dc4d90c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Estimate 626 − 351 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "300",
+   "275"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:59db093b0462aa74",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Estimate 759 − 364 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "300",
+   "400",
+   "395"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:7da8c36d49d830ab",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Estimate 742 − 483 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "259",
+   "300",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:692c4bff8f0f4599",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Estimate 549 − 354 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "0",
+   "195",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:e5e7c40a477b5d25",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Estimate 482 − 247 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "235",
+   "300",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:459d24abef9e336d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Estimate 683 − 214 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "600",
+   "469"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:47b39996734795a0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Estimate 729 − 351 by rounding each number to the nearest 100.",
+  "options": [
+   "378",
+   "300",
+   "200",
+   "400"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:04196e993d4f2686",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Estimate 734 − 292 by rounding each number to the nearest 100.",
+  "options": [
+   "442",
+   "500",
+   "300",
+   "400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:6718e044e49aad13",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Estimate 572 − 318 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "254",
+   "300",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:464e4757acd9497d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Estimate 746 − 328 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "400",
+   "418",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:78b3cad3e330d2f5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Estimate 834 − 665 by rounding each number to the nearest 100.",
+  "options": [
+   "169",
+   "0",
+   "200",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1b25e9fb2b34dfbb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Estimate 558 − 393 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "300",
+   "200",
+   "165"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2fc808073834464f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Estimate 685 − 507 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "300",
+   "178"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:9e6c692d536224b1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Estimate 590 − 277 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "200",
+   "313",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ed65a182bfa42a2f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Estimate 790 − 713 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "100",
+   "77",
+   "200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:18db26993bafb713",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Estimate 663 − 220 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "600",
+   "443",
+   "500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:47a821838a02f55a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Estimate 756 − 379 by rounding each number to the nearest 100.",
+  "options": [
+   "377",
+   "300",
+   "400",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3b2999594e40dfec",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Estimate 511 − 380 by rounding each number to the nearest 100.",
+  "options": [
+   "131",
+   "0",
+   "100",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:44b6f22e1227a147",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Estimate 394 − 206 by rounding each number to the nearest 100.",
+  "options": [
+   "188",
+   "200",
+   "300",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:01fbfcfc6ddd0d68",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Estimate 828 − 379 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "449",
+   "400",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3da5356d62476acb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Estimate 545 − 422 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "100",
+   "123",
+   "200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3b205a5accfe3230",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Estimate 864 − 360 by rounding each number to the nearest 100.",
+  "options": [
+   "504",
+   "500",
+   "400",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:5eace0c6e5aabf7d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Estimate 801 − 630 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "171",
+   "100",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:dc2735a158bd2f85",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Estimate 342 − 147 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "195",
+   "300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:7ec3e499f8472969",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Estimate 506 − 404 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "102",
+   "200",
+   "0"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:1ea6cff8f48430f0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Estimate 814 − 740 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "74",
+   "100",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:6e8e266412606b53",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Estimate 506 − 229 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "277",
+   "200",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:04f504fe7812e21d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Estimate 794 − 428 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "400",
+   "300",
+   "366"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:b7d03683e521bf4f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Estimate 632 − 208 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "500",
+   "424"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2cbf99d3a3a0afc8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Estimate 416 − 377 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "-100",
+   "39",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:b2d7a6be1d20af84",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Estimate 680 − 222 by rounding each number to the nearest 100.",
+  "options": [
+   "458",
+   "500",
+   "600",
+   "400"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:0156b958baea59c1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Estimate 504 − 488 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "100",
+   "-100",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 0.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:26addc929ee582ee",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Estimate 876 − 133 by rounding each number to the nearest 100.",
+  "options": [
+   "800",
+   "900",
+   "700",
+   "743"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 800.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:8ea8f39974f724e9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Estimate 686 − 398 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "288",
+   "400"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:5ed6cec9ddacbb8b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Estimate 697 − 386 by rounding each number to the nearest 100.",
+  "options": [
+   "311",
+   "200",
+   "400",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:67d5c1cdcd5edf76",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Estimate 372 − 139 by rounding each number to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "200",
+   "233"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:0ec4a9eba5df78b3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Estimate 796 − 322 by rounding each number to the nearest 100.",
+  "options": [
+   "474",
+   "500",
+   "400",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:9b46d8241c48e94c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Estimate 524 − 240 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "400",
+   "284"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d1bdbd73d2a514f8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Estimate 354 − 198 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "156",
+   "300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:eb1a625f0bf1b9f4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Estimate 555 − 244 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "400",
+   "500",
+   "311"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 400.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:62e253ae35c20178",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Estimate 776 − 151 by rounding each number to the nearest 100.",
+  "options": [
+   "700",
+   "625",
+   "600",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:00b3281f6f7407da",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Estimate 475 − 219 by rounding each number to the nearest 100.",
+  "options": [
+   "256",
+   "200",
+   "300",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:aba12a244a1e53a1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Estimate 610 − 369 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "100",
+   "241",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:be36f18cf57681c0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Estimate 485 − 416 by rounding each number to the nearest 100.",
+  "options": [
+   "0",
+   "200",
+   "100",
+   "69"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:028f284d1ed5c891",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Estimate 712 − 558 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "154",
+   "0"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3e0aac7caa190b50",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Estimate 585 − 362 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "100",
+   "223",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:da5ff1390fe33ac6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Estimate 773 − 542 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "400",
+   "231"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:d1b31594b8de6932",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Estimate 450 − 419 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "200",
+   "0",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:2f26dc52578cc7fe",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Estimate 327 − 193 by rounding each number to the nearest 100.",
+  "options": [
+   "134",
+   "100",
+   "200",
+   "0"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "rounded a number the wrong way"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:ec9dfccf663f7591",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Estimate 448 − 269 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "0",
+   "200",
+   "179"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:a26d1cbd7ca804b1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Estimate 547 − 166 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "400",
+   "200",
+   "381"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:c34ca1d2e9b68d14",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Estimate 636 − 414 by rounding each number to the nearest 100.",
+  "options": [
+   "222",
+   "200",
+   "100",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "rounded a number the wrong way",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:4a0e17da2cdcb183",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Estimate 684 − 549 by rounding each number to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "100",
+   "135"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:3dc90657e629794e",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Estimate 826 − 344 by rounding each number to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "400",
+   "482"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 500.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:c6ed4026874e1d0c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Estimate 392 − 279 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "200",
+   "0",
+   "113"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 100.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:0d60c8493d830dd9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Estimate 596 − 307 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "400",
+   "289",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:482e4e4523249e86",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Estimate 682 − 383 by rounding each number to the nearest 100.",
+  "options": [
+   "200",
+   "299",
+   "300",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 300.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:c6cdd2c68f7d254d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Estimate 562 − 415 by rounding each number to the nearest 100.",
+  "options": [
+   "100",
+   "147",
+   "300",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 200.",
+  "distractor_explanations": [
+   "rounded a number the wrong way",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:3:b5ad93739d429e93",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 3,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Estimate 881 − 273 by rounding each number to the nearest 100.",
+  "options": [
+   "608",
+   "700",
+   "500",
+   "600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "rounded a number the wrong way",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

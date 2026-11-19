@@ -1,0 +1,155 @@
+age: 1
+min_bank: 60
+topics:
+  MA-B01:
+    subject: maths
+    generator: mental_single
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: Work out 40 ÷ 5
+          answer: '8'
+        - stem: Work out 10 + 15
+          answer: '25'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: Work out 36 ÷ 4
+          answer: '9'
+        - stem: Work out 11 × 10
+          answer: '110'
+  MA-A05:
+    subject: maths
+    generator: rounding
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: Round 33 to the nearest 10.
+          answer: '30'
+        - stem: Round 43 to the nearest 10.
+          answer: '40'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: Round 825 to the nearest 100.
+          answer: '800'
+        - stem: Round 342 to the nearest 100.
+          answer: '300'
+  MA-B04:
+    subject: maths
+    generator: division_fact
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: Work out 72 ÷ 8
+          answer: '9'
+        - stem: Work out 48 ÷ 8
+          answer: '6'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: Work out 54 ÷ 6
+          answer: '9'
+        - stem: Work out 48 ÷ 8
+          answer: '6'
+  MA-A03:
+    subject: maths
+    generator: compare_int
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: Which of these numbers is the largest?
+          answer: '94'
+        - stem: Which of these numbers is the smallest?
+          answer: '20'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: Which of these numbers is the smallest?
+          answer: '2159'
+        - stem: Which of these numbers is the smallest?
+          answer: '1180'
+  MA-B13:
+    subject: maths
+    generator: number_property
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: Which of these is a multiple of 10?
+          answer: '20'
+        - stem: Which of these is a multiple of 10?
+          answer: '50'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: Which of these is an odd number?
+          answer: '157'
+        - stem: Which of these is a multiple of 4?
+          answer: '116'
+  MA-A07:
+    subject: maths
+    generator: roman
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: What number does the Roman numeral VIII represent?
+          answer: '8'
+        - stem: What number does the Roman numeral VI represent?
+          answer: '6'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: What number does the Roman numeral DCLXVI represent?
+          answer: '666'
+        - stem: What number does the Roman numeral DCCXXX represent?
+          answer: '730'
+  MA-B06:
+    subject: maths
+    generator: missing_number
+    levels:
+      1:
+        count: 150
+        served: true
+        samples:
+        - stem: What number goes in the box? 8 × ? = 24
+          answer: '3'
+        - stem: What number goes in the box? 28 + ? = 59
+          answer: '31'
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: What number goes in the box? 18 ÷ ? = 2
+          answer: '9'
+        - stem: What number goes in the box? 20 ÷ ? = 4
+          answer: '5'
+  VR-C02:
+    subject: vr
+    generator: letter_series
+    levels:
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: 'Find the next letter: P O N M ?'
+          answer: L
+        - stem: 'Find the next letter: G H I J ?'
+          answer: K

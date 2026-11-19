@@ -1,0 +1,1009 @@
+[
+ {
+  "id": "l35:lcm_hcf:3:6762b60e4363dece",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "What is the lowest common multiple of 8 and 6?",
+  "options": [
+   "48",
+   "24",
+   "32",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "List the multiples of each and find the common one: 24.",
+  "distractor_explanations": [
+   "multiplied them without simplifying",
+   null,
+   "made a small slip",
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:0b2cd3a01fb72084",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What is the lowest common multiple of 6 and 4?",
+  "options": [
+   "24",
+   "18",
+   "12",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "List the multiples of each and find the common one: 12.",
+  "distractor_explanations": [
+   "multiplied them without simplifying",
+   "made a small slip",
+   null,
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:cdf9542abf97e386",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What is the lowest common multiple of 4 and 6?",
+  "options": [
+   "16",
+   "12",
+   "24",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "List the multiples of each and find the common one: 12.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "multiplied them without simplifying",
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:59f996a40fc15b03",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What is the lowest common multiple of 7 and 7?",
+  "options": [
+   "49",
+   "14",
+   "7",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "List the multiples of each and find the common one: 7.",
+  "distractor_explanations": [
+   "multiplied them without simplifying",
+   "made a small slip",
+   null,
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:cc80bbbd818378ff",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What is the lowest common multiple of 8 and 4?",
+  "options": [
+   "4",
+   "8",
+   "16",
+   "32"
+  ],
+  "answer_index": 1,
+  "explanation": "List the multiples of each and find the common one: 8.",
+  "distractor_explanations": [
+   "subtracted them",
+   null,
+   "made a small slip",
+   "multiplied them without simplifying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:9a0a16e503915008",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What is the lowest common multiple of 3 and 3?",
+  "options": [
+   "3",
+   "9",
+   "6",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "List the multiples of each and find the common one: 3.",
+  "distractor_explanations": [
+   null,
+   "multiplied them without simplifying",
+   "made a small slip",
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:ed4bfd694cb2c1f6",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What is the lowest common multiple of 5 and 5?",
+  "options": [
+   "5",
+   "10",
+   "25",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "List the multiples of each and find the common one: 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "multiplied them without simplifying",
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:9900d5ede8aa38e3",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What is the lowest common multiple of 6 and 8?",
+  "options": [
+   "24",
+   "48",
+   "30",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "List the multiples of each and find the common one: 24.",
+  "distractor_explanations": [
+   null,
+   "multiplied them without simplifying",
+   "made a small slip",
+   "subtracted them"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:dc044b2bfce49bf0",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What is the lowest common multiple of 6 and 6?",
+  "options": [
+   "12",
+   "36",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied them without simplifying",
+   "subtracted them",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:9d1f81b827d38ffe",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What is the lowest common multiple of 4 and 4?",
+  "options": [
+   "5",
+   "4",
+   "16",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "List the multiples of each and find the common one: 4.",
+  "distractor_explanations": [
+   "subtracted them",
+   null,
+   "multiplied them without simplifying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:45a4a22044cdf74f",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What is the lowest common multiple of 6 and 9?",
+  "options": [
+   "54",
+   "3",
+   "18",
+   "24"
+  ],
+  "answer_index": 2,
+  "explanation": "List the multiples of each and find the common one: 18.",
+  "distractor_explanations": [
+   "multiplied them without simplifying",
+   "subtracted them",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:c35f8c45a11b9eaa",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What is the lowest common multiple of 4 and 8?",
+  "options": [
+   "4",
+   "12",
+   "8",
+   "32"
+  ],
+  "answer_index": 2,
+  "explanation": "List the multiples of each and find the common one: 8.",
+  "distractor_explanations": [
+   "subtracted them",
+   "made a small slip",
+   null,
+   "multiplied them without simplifying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:fbdc9af941d1db22",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What is the lowest common multiple of 6 and 3?",
+  "options": [
+   "18",
+   "12",
+   "3",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 6.",
+  "distractor_explanations": [
+   "multiplied them without simplifying",
+   "made a small slip",
+   "subtracted them",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:94818fe7d31aa484",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What is the lowest common multiple of 2 and 8?",
+  "options": [
+   "10",
+   "16",
+   "6",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied them without simplifying",
+   "subtracted them",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:d12b8a453508a61b",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What is the lowest common multiple of 3 and 6?",
+  "options": [
+   "9",
+   "18",
+   "3",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "multiplied them without simplifying",
+   "subtracted them",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:01aee5ada8b294d2",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What is the lowest common multiple of 2 and 6?",
+  "options": [
+   "4",
+   "6",
+   "12",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "List the multiples of each and find the common one: 6.",
+  "distractor_explanations": [
+   "subtracted them",
+   null,
+   "multiplied them without simplifying",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:7ba4b97fc5f88680",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What is the lowest common multiple of 2 and 4?",
+  "options": [
+   "2",
+   "6",
+   "8",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 4.",
+  "distractor_explanations": [
+   "subtracted them",
+   "made a small slip",
+   "multiplied them without simplifying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:e330ce00de95e215",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What is the lowest common multiple of 3 and 9?",
+  "options": [
+   "9",
+   "12",
+   "6",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "List the multiples of each and find the common one: 9.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted them",
+   "multiplied them without simplifying"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:lcm_hcf:3:e9eb3a14e5ea136c",
+  "topic_id": "MA-B13",
+  "qtype": "l35:lcm_hcf",
+  "level": 3,
+  "generator": "l35:lcm_hcf",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What is the lowest common multiple of 8 and 8?",
+  "options": [
+   "16",
+   "9",
+   "64",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "List the multiples of each and find the common one: 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted them",
+   "multiplied them without simplifying",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

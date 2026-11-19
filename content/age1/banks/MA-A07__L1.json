@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:roman:1:2b061ed8605e3fa3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "What number does the Roman numeral VIII represent?",
+  "options": [
+   "12",
+   "3",
+   "8",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "VIII = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:2:b0b8703f543fe137",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "What number does the Roman numeral VI represent?",
+  "options": [
+   "5",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "VI = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:3:8291ea567c79697e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "What number does the Roman numeral XL represent?",
+  "options": [
+   "48",
+   "40",
+   "38",
+   "46"
+  ],
+  "answer_index": 1,
+  "explanation": "XL = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:4:bd8cee4a5836e579",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "What number does the Roman numeral XXXV represent?",
+  "options": [
+   "35",
+   "41",
+   "28",
+   "38"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXV = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:5:1b2d804a9d491788",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "43",
+   "40",
+   "42",
+   "45"
+  ],
+  "answer_index": 2,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:6:1d6f21ebe6ae1705",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "What number does the Roman numeral III represent?",
+  "options": [
+   "1",
+   "6",
+   "2",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "III = 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:7:a0f3483b8dcffd08",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "What number does the Roman numeral XVI represent?",
+  "options": [
+   "21",
+   "10",
+   "20",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "XVI = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:8:2769e16bfa1c1829",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "25",
+   "24",
+   "31",
+   "29"
+  ],
+  "answer_index": 0,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:9:9003d68e54cd2720",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "What number does the Roman numeral XXX represent?",
+  "options": [
+   "35",
+   "34",
+   "30",
+   "33"
+  ],
+  "answer_index": 2,
+  "explanation": "XXX = 30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:10:2d74887d776f28c1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "What number does the Roman numeral XXXIII represent?",
+  "options": [
+   "27",
+   "35",
+   "39",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXIII = 33.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:11:41908f905255bc19",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "What number does the Roman numeral V represent?",
+  "options": [
+   "5",
+   "9",
+   "1",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "V = 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:12:13e08e01db473cf1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "17",
+   "14",
+   "12",
+   "15"
+  ],
+  "answer_index": 3,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:13:099583058c1de623",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "25",
+   "21",
+   "28",
+   "27"
+  ],
+  "answer_index": 0,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:14:96e09e31b446d472",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "What number does the Roman numeral VIII represent?",
+  "options": [
+   "10",
+   "8",
+   "7",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "VIII = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:15:fc14c05c7ff6fa1b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "25",
+   "20",
+   "32",
+   "26"
+  ],
+  "answer_index": 0,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:16:311e902389a6c5bb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "What number does the Roman numeral XLIX represent?",
+  "options": [
+   "57",
+   "59",
+   "49",
+   "42"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIX = 49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:17:f070be89611792f4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "What number does the Roman numeral XLV represent?",
+  "options": [
+   "43",
+   "45",
+   "53",
+   "52"
+  ],
+  "answer_index": 1,
+  "explanation": "XLV = 45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:18:0788fb81728fe426",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "35",
+   "42",
+   "48",
+   "44"
+  ],
+  "answer_index": 3,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:19:97b310e9aafb0bb4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "16",
+   "15",
+   "19",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:20:df678f6df5bea3e3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "What number does the Roman numeral XXXVII represent?",
+  "options": [
+   "41",
+   "37",
+   "34",
+   "43"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXVII = 37.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:21:93e2f849202a660b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "What number does the Roman numeral XLVIII represent?",
+  "options": [
+   "40",
+   "48",
+   "56",
+   "41"
+  ],
+  "answer_index": 1,
+  "explanation": "XLVIII = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:22:03413e5f5cba9b3e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "30",
+   "28",
+   "29",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:23:7a84322b022865c7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "What number does the Roman numeral XIX represent?",
+  "options": [
+   "24",
+   "13",
+   "19",
+   "15"
+  ],
+  "answer_index": 2,
+  "explanation": "XIX = 19.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:24:6b33845ff37cd00a",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "What number does the Roman numeral XII represent?",
+  "options": [
+   "17",
+   "9",
+   "12",
+   "16"
+  ],
+  "answer_index": 2,
+  "explanation": "XII = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:25:3408729601205e73",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "What number does the Roman numeral XXXVI represent?",
+  "options": [
+   "32",
+   "36",
+   "41",
+   "35"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXVI = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:26:9f3509ca65ccb9cf",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "What number does the Roman numeral XXVII represent?",
+  "options": [
+   "23",
+   "22",
+   "26",
+   "27"
+  ],
+  "answer_index": 3,
+  "explanation": "XXVII = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:27:ec9b06d72748e636",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "What number does the Roman numeral XIII represent?",
+  "options": [
+   "17",
+   "9",
+   "13",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "XIII = 13.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:28:9049dadcc9fdd726",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "What number does the Roman numeral IX represent?",
+  "options": [
+   "5",
+   "9",
+   "8",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "IX = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:29:486ceabfb4cb40e0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "What number does the Roman numeral XVIII represent?",
+  "options": [
+   "18",
+   "14",
+   "20",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "XVIII = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:30:41a864fcef516ca1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "44",
+   "53",
+   "52",
+   "41"
+  ],
+  "answer_index": 0,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:31:273d3a665d7f70e6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "What number does the Roman numeral XIV represent?",
+  "options": [
+   "17",
+   "13",
+   "14",
+   "15"
+  ],
+  "answer_index": 2,
+  "explanation": "XIV = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:32:77be97542d39cd6a",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "What number does the Roman numeral XIII represent?",
+  "options": [
+   "13",
+   "14",
+   "10",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "XIII = 13.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:33:a3b13102d0f11097",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "What number does the Roman numeral XXXV represent?",
+  "options": [
+   "39",
+   "35",
+   "33",
+   "28"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXV = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:34:3515da42db618e8b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "What number does the Roman numeral XL represent?",
+  "options": [
+   "43",
+   "31",
+   "40",
+   "44"
+  ],
+  "answer_index": 2,
+  "explanation": "XL = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:35:69b3ba06fe3a4570",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "What number does the Roman numeral VII represent?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "VII = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:36:6e2d5500ccfff173",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "What number does the Roman numeral XXXIV represent?",
+  "options": [
+   "42",
+   "34",
+   "26",
+   "38"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXIV = 34.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:37:0ea9de190ef5f33c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "What number does the Roman numeral XVIII represent?",
+  "options": [
+   "15",
+   "17",
+   "16",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "XVIII = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:38:f9f9595a100426c4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "What number does the Roman numeral XXII represent?",
+  "options": [
+   "22",
+   "16",
+   "23",
+   "26"
+  ],
+  "answer_index": 0,
+  "explanation": "XXII = 22.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:39:358aaec62a8cb75f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "39",
+   "38",
+   "42",
+   "36"
+  ],
+  "answer_index": 2,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:40:19a4fb7dedb21255",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "What number does the Roman numeral XXIII represent?",
+  "options": [
+   "20",
+   "18",
+   "24",
+   "23"
+  ],
+  "answer_index": 3,
+  "explanation": "XXIII = 23.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:41:97c19f4ed66d06c0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "15",
+   "19",
+   "18",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:42:2620001462e54786",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "What number does the Roman numeral XVI represent?",
+  "options": [
+   "11",
+   "16",
+   "12",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "XVI = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:43:94f3878542db9f7d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "25",
+   "22",
+   "19",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:44:cf44f1880c5d0c67",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "44",
+   "42",
+   "51",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:45:d9087b76dbffe5c1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "What number does the Roman numeral XLVIII represent?",
+  "options": [
+   "53",
+   "39",
+   "45",
+   "48"
+  ],
+  "answer_index": 3,
+  "explanation": "XLVIII = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:46:233638d6b5842550",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "What number does the Roman numeral XXI represent?",
+  "options": [
+   "21",
+   "19",
+   "16",
+   "15"
+  ],
+  "answer_index": 0,
+  "explanation": "XXI = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:47:3f74cc7c98879a78",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "What number does the Roman numeral XXXIV represent?",
+  "options": [
+   "27",
+   "42",
+   "34",
+   "37"
+  ],
+  "answer_index": 2,
+  "explanation": "XXXIV = 34.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:48:bbbcf18cb7b9bed5",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "What number does the Roman numeral V represent?",
+  "options": [
+   "5",
+   "1",
+   "6",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "V = 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:49:9e84d7522134a396",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "What number does the Roman numeral XVI represent?",
+  "options": [
+   "17",
+   "19",
+   "16",
+   "21"
+  ],
+  "answer_index": 2,
+  "explanation": "XVI = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:50:d0206652cf17d6fa",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "What number does the Roman numeral XXI represent?",
+  "options": [
+   "19",
+   "25",
+   "21",
+   "18"
+  ],
+  "answer_index": 2,
+  "explanation": "XXI = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:51:700536a533a6590b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "What number does the Roman numeral XIV represent?",
+  "options": [
+   "9",
+   "14",
+   "12",
+   "19"
+  ],
+  "answer_index": 1,
+  "explanation": "XIV = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:52:5a47e2114a5ea019",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "What number does the Roman numeral X represent?",
+  "options": [
+   "6",
+   "13",
+   "10",
+   "15"
+  ],
+  "answer_index": 2,
+  "explanation": "X = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:53:c8dbd66ae891ea46",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "What number does the Roman numeral XXIX represent?",
+  "options": [
+   "35",
+   "28",
+   "29",
+   "36"
+  ],
+  "answer_index": 2,
+  "explanation": "XXIX = 29.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:54:eb6c3d2ae9286058",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "51",
+   "42",
+   "44",
+   "35"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:55:6f0a04628fcf3864",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "What number does the Roman numeral XX represent?",
+  "options": [
+   "24",
+   "16",
+   "14",
+   "20"
+  ],
+  "answer_index": 3,
+  "explanation": "XX = 20.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:56:cc451f820988e219",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "What number does the Roman numeral IX represent?",
+  "options": [
+   "5",
+   "6",
+   "14",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "IX = 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:57:90cf9fea6298e554",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "What number does the Roman numeral XIV represent?",
+  "options": [
+   "15",
+   "19",
+   "14",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "XIV = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:58:ba11166213221a20",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "What number does the Roman numeral IV represent?",
+  "options": [
+   "4",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "IV = 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:59:4b49668bd13c1a85",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "32",
+   "18",
+   "25",
+   "29"
+  ],
+  "answer_index": 2,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:60:076ef0d8996efd9b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "31",
+   "25",
+   "22",
+   "28"
+  ],
+  "answer_index": 3,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:61:9a9107f6c92e7d14",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "What number does the Roman numeral XXXVII represent?",
+  "options": [
+   "40",
+   "37",
+   "45",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXVII = 37.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:62:94197c6709b4fa1b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "What number does the Roman numeral XXXI represent?",
+  "options": [
+   "35",
+   "29",
+   "31",
+   "26"
+  ],
+  "answer_index": 2,
+  "explanation": "XXXI = 31.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:63:3b4447d67c12c1b3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "What number does the Roman numeral XVII represent?",
+  "options": [
+   "14",
+   "21",
+   "17",
+   "22"
+  ],
+  "answer_index": 2,
+  "explanation": "XVII = 17.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:64:3bdd72c9ed00f57e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "What number does the Roman numeral X represent?",
+  "options": [
+   "10",
+   "9",
+   "15",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "X = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:65:78b531815cf3a99b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "What number does the Roman numeral XXXVIII represent?",
+  "options": [
+   "40",
+   "42",
+   "38",
+   "37"
+  ],
+  "answer_index": 2,
+  "explanation": "XXXVIII = 38.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:66:b0443d496f521616",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "What number does the Roman numeral XXXIX represent?",
+  "options": [
+   "39",
+   "40",
+   "32",
+   "33"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXIX = 39.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:67:10ab9bbe703770fd",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "15",
+   "12",
+   "18",
+   "13"
+  ],
+  "answer_index": 0,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:68:c8ab715eca15cfa5",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "What number does the Roman numeral XLIII represent?",
+  "options": [
+   "34",
+   "47",
+   "43",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIII = 43.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:69:bb942c9895131f17",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "What number does the Roman numeral XXXI represent?",
+  "options": [
+   "31",
+   "36",
+   "38",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXI = 31.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:70:67faa70e7fad403e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "What number does the Roman numeral VII represent?",
+  "options": [
+   "4",
+   "11",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "explanation": "VII = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:71:91c6fe8865d742c5",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "16",
+   "11",
+   "15",
+   "17"
+  ],
+  "answer_index": 2,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:72:b7150550bd6125be",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "What number does the Roman numeral XXVII represent?",
+  "options": [
+   "29",
+   "27",
+   "31",
+   "34"
+  ],
+  "answer_index": 1,
+  "explanation": "XXVII = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:73:79a8b4e258d15578",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "10",
+   "15",
+   "20",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:74:b8746b4381535374",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "43",
+   "44",
+   "51",
+   "48"
+  ],
+  "answer_index": 1,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:75:6efaf84bf0bb6193",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "What number does the Roman numeral XXXVIII represent?",
+  "options": [
+   "33",
+   "42",
+   "32",
+   "38"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXVIII = 38.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:76:0f1fe74b94c77ac7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "What number does the Roman numeral XIV represent?",
+  "options": [
+   "15",
+   "14",
+   "11",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "XIV = 14.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:77:17207f2c14ebb217",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "What number does the Roman numeral XXVII represent?",
+  "options": [
+   "25",
+   "27",
+   "23",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "XXVII = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:78:c2ba9916b0b37743",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "49",
+   "42",
+   "37",
+   "36"
+  ],
+  "answer_index": 1,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:79:ddd31f2dc5307efc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "What number does the Roman numeral XXIV represent?",
+  "options": [
+   "20",
+   "25",
+   "24",
+   "31"
+  ],
+  "answer_index": 2,
+  "explanation": "XXIV = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:80:4f8a3fbfd385e5c6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "What number does the Roman numeral XXXIII represent?",
+  "options": [
+   "40",
+   "30",
+   "34",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXIII = 33.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:81:7178f32c3c419108",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "What number does the Roman numeral I represent?",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "I = 1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:82:79e139b3dd4ce54d",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "What number does the Roman numeral XXXVIII represent?",
+  "options": [
+   "36",
+   "43",
+   "41",
+   "38"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXVIII = 38.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:83:a1e23e5dc4c9c509",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "What number does the Roman numeral XXXII represent?",
+  "options": [
+   "29",
+   "40",
+   "36",
+   "32"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXII = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:84:225965d175f93243",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "What number does the Roman numeral XXIII represent?",
+  "options": [
+   "27",
+   "23",
+   "17",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "XXIII = 23.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:85:6d95b059239627e9",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "What number does the Roman numeral XXVII represent?",
+  "options": [
+   "20",
+   "27",
+   "26",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "XXVII = 27.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:86:cf8628029e3ba8eb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "What number does the Roman numeral VI represent?",
+  "options": [
+   "6",
+   "9",
+   "10",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "VI = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:87:3389ea1f52505749",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "What number does the Roman numeral XXXVIII represent?",
+  "options": [
+   "38",
+   "41",
+   "42",
+   "32"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXVIII = 38.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:88:34b01253670b1f33",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "What number does the Roman numeral I represent?",
+  "options": [
+   "1",
+   "5",
+   "4",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "I = 1.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:89:4e4c2ce2dea82253",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "What number does the Roman numeral XIX represent?",
+  "options": [
+   "15",
+   "19",
+   "14",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "XIX = 19.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:90:eeed62c1b780c208",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "What number does the Roman numeral XXXV represent?",
+  "options": [
+   "35",
+   "33",
+   "37",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXV = 35.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:91:cdc71886b4b0b54a",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "What number does the Roman numeral V represent?",
+  "options": [
+   "9",
+   "1",
+   "7",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "V = 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:92:81b9ff17397fc7bb",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "What number does the Roman numeral XXXI represent?",
+  "options": [
+   "34",
+   "27",
+   "26",
+   "31"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXI = 31.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:93:e17c1b8231682204",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "What number does the Roman numeral XXXVI represent?",
+  "options": [
+   "31",
+   "36",
+   "44",
+   "28"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXVI = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:94:af724656209b5184",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "What number does the Roman numeral XXXIX represent?",
+  "options": [
+   "42",
+   "33",
+   "32",
+   "39"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXIX = 39.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:95:a49abb2f4914b1cf",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "What number does the Roman numeral VIII represent?",
+  "options": [
+   "13",
+   "12",
+   "8",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "VIII = 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:96:10252dbfc5f9a6e3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "What number does the Roman numeral XXXII represent?",
+  "options": [
+   "32",
+   "33",
+   "26",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXII = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:97:6662986eb74b3da8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "28",
+   "32",
+   "29",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:98:f7abb3d34f538038",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "What number does the Roman numeral XXX represent?",
+  "options": [
+   "25",
+   "33",
+   "34",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "XXX = 30.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:99:872e6e906b301f89",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "What number does the Roman numeral VII represent?",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "VII = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:100:eaf0693bd072b4fd",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "What number does the Roman numeral XXIV represent?",
+  "options": [
+   "25",
+   "26",
+   "28",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "XXIV = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:101:5b947023ef7ecb4e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "What number does the Roman numeral XXI represent?",
+  "options": [
+   "16",
+   "21",
+   "25",
+   "15"
+  ],
+  "answer_index": 1,
+  "explanation": "XXI = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:102:d8a8a91739d0c815",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "36",
+   "49",
+   "42",
+   "37"
+  ],
+  "answer_index": 2,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:103:d78f63dd526f18f7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "45",
+   "48",
+   "44",
+   "42"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:104:d29add6e2bc76070",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "What number does the Roman numeral XLVIII represent?",
+  "options": [
+   "38",
+   "48",
+   "57",
+   "50"
+  ],
+  "answer_index": 1,
+  "explanation": "XLVIII = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:105:0cab4276f90b1846",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "What number does the Roman numeral XII represent?",
+  "options": [
+   "14",
+   "17",
+   "12",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "XII = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:106:7573f49ccafce951",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "27",
+   "24",
+   "28",
+   "22"
+  ],
+  "answer_index": 2,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:107:1591b4d73671ff00",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "What number does the Roman numeral VI represent?",
+  "options": [
+   "6",
+   "3",
+   "8",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "VI = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:108:de08d1bc672a9b19",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "What number does the Roman numeral VII represent?",
+  "options": [
+   "10",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "VII = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:109:7a222d969cc18ccc",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "What number does the Roman numeral VI represent?",
+  "options": [
+   "4",
+   "6",
+   "9",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "VI = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:110:4828fac1d131b047",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "What number does the Roman numeral XXXIX represent?",
+  "options": [
+   "45",
+   "44",
+   "43",
+   "39"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXIX = 39.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:111:31ea75f3794fe431",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "What number does the Roman numeral XVII represent?",
+  "options": [
+   "19",
+   "17",
+   "15",
+   "21"
+  ],
+  "answer_index": 1,
+  "explanation": "XVII = 17.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:112:f8ed939f5c2cccf4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "What number does the Roman numeral XLVIII represent?",
+  "options": [
+   "38",
+   "50",
+   "45",
+   "48"
+  ],
+  "answer_index": 3,
+  "explanation": "XLVIII = 48.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:113:71877b571a384cfe",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "What number does the Roman numeral XLIX represent?",
+  "options": [
+   "58",
+   "42",
+   "50",
+   "49"
+  ],
+  "answer_index": 3,
+  "explanation": "XLIX = 49.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:114:ff4d842c885b4f22",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "What number does the Roman numeral XLII represent?",
+  "options": [
+   "42",
+   "48",
+   "47",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "XLII = 42.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:115:0adc89422b48b484",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "What number does the Roman numeral XXIX represent?",
+  "options": [
+   "29",
+   "33",
+   "27",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "XXIX = 29.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:116:f0deb681b6fb3812",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "What number does the Roman numeral VI represent?",
+  "options": [
+   "6",
+   "8",
+   "10",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "VI = 6.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:117:d75fe359e46d7b88",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "What number does the Roman numeral III represent?",
+  "options": [
+   "2",
+   "4",
+   "1",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "III = 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:118:285a63ecc95d5a5c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "What number does the Roman numeral XI represent?",
+  "options": [
+   "14",
+   "6",
+   "11",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "XI = 11.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:119:5cb6466e41d1e76f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "What number does the Roman numeral XLIII represent?",
+  "options": [
+   "37",
+   "42",
+   "43",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIII = 43.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:120:0a1878bda2ed3dc4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "What number does the Roman numeral XV represent?",
+  "options": [
+   "13",
+   "15",
+   "20",
+   "19"
+  ],
+  "answer_index": 1,
+  "explanation": "XV = 15.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:121:da144b56a839f657",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "What number does the Roman numeral XXXII represent?",
+  "options": [
+   "26",
+   "28",
+   "39",
+   "32"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXII = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:122:93016c7f6ea28d4c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "What number does the Roman numeral XXV represent?",
+  "options": [
+   "22",
+   "25",
+   "30",
+   "27"
+  ],
+  "answer_index": 1,
+  "explanation": "XXV = 25.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:123:0a066e798502802e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "What number does the Roman numeral XXIV represent?",
+  "options": [
+   "25",
+   "24",
+   "21",
+   "18"
+  ],
+  "answer_index": 1,
+  "explanation": "XXIV = 24.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:124:e7bbf9b7857eb77b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "What number does the Roman numeral XLVI represent?",
+  "options": [
+   "52",
+   "46",
+   "40",
+   "54"
+  ],
+  "answer_index": 1,
+  "explanation": "XLVI = 46.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:125:987336ce15bc0d4c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "35",
+   "26",
+   "28",
+   "23"
+  ],
+  "answer_index": 2,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:126:38b796fa6eb6504b",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "What number does the Roman numeral XXXVI represent?",
+  "options": [
+   "38",
+   "41",
+   "36",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "XXXVI = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:127:fee44d1ef9c675a0",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "What number does the Roman numeral VII represent?",
+  "options": [
+   "3",
+   "8",
+   "11",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "VII = 7.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:128:ffad0766eba36f4c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "What number does the Roman numeral XXXIV represent?",
+  "options": [
+   "34",
+   "29",
+   "39",
+   "41"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXIV = 34.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:129:971d1aa5787a99f1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "What number does the Roman numeral X represent?",
+  "options": [
+   "12",
+   "6",
+   "10",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "X = 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:130:d97f10ffbd5449f8",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "42",
+   "51",
+   "44",
+   "41"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:131:97fd3dd370a774d7",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "What number does the Roman numeral XLIII represent?",
+  "options": [
+   "49",
+   "41",
+   "43",
+   "45"
+  ],
+  "answer_index": 2,
+  "explanation": "XLIII = 43.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:132:ceb2e6290b8f1cd2",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "What number does the Roman numeral XII represent?",
+  "options": [
+   "7",
+   "14",
+   "12",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "XII = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:133:f9a17a8f75a5db43",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "What number does the Roman numeral XXI represent?",
+  "options": [
+   "26",
+   "22",
+   "21",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "XXI = 21.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:134:10216b8299fe75a6",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "What number does the Roman numeral XVI represent?",
+  "options": [
+   "16",
+   "18",
+   "21",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "XVI = 16.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:135:ccadf6c673ce3e0c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "What number does the Roman numeral XIII represent?",
+  "options": [
+   "16",
+   "13",
+   "8",
+   "14"
+  ],
+  "answer_index": 1,
+  "explanation": "XIII = 13.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:136:34c1e4a974b7c32f",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "What number does the Roman numeral XXXIII represent?",
+  "options": [
+   "37",
+   "33",
+   "35",
+   "25"
+  ],
+  "answer_index": 1,
+  "explanation": "XXXIII = 33.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:137:dbd2960dcdb5dbf1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "What number does the Roman numeral XVIII represent?",
+  "options": [
+   "22",
+   "21",
+   "18",
+   "19"
+  ],
+  "answer_index": 2,
+  "explanation": "XVIII = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:138:fb308109672cdb5a",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "What number does the Roman numeral XL represent?",
+  "options": [
+   "45",
+   "37",
+   "34",
+   "40"
+  ],
+  "answer_index": 3,
+  "explanation": "XL = 40.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:139:c0937893da0d72f3",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "What number does the Roman numeral XXIX represent?",
+  "options": [
+   "29",
+   "33",
+   "31",
+   "32"
+  ],
+  "answer_index": 0,
+  "explanation": "XXIX = 29.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:140:6b2e047aa22bdc4e",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "What number does the Roman numeral XVIII represent?",
+  "options": [
+   "24",
+   "17",
+   "20",
+   "18"
+  ],
+  "answer_index": 3,
+  "explanation": "XVIII = 18.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:141:95d2fec9b68db204",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "What number does the Roman numeral XLV represent?",
+  "options": [
+   "47",
+   "51",
+   "45",
+   "38"
+  ],
+  "answer_index": 2,
+  "explanation": "XLV = 45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:142:6880109a0f2c49b4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "What number does the Roman numeral XVII represent?",
+  "options": [
+   "23",
+   "12",
+   "18",
+   "17"
+  ],
+  "answer_index": 3,
+  "explanation": "XVII = 17.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:143:36d5d9fd5857d648",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "What number does the Roman numeral XLVI represent?",
+  "options": [
+   "44",
+   "45",
+   "46",
+   "51"
+  ],
+  "answer_index": 2,
+  "explanation": "XLVI = 46.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:144:12bd8aa8c32317d1",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "What number does the Roman numeral XII represent?",
+  "options": [
+   "8",
+   "9",
+   "11",
+   "12"
+  ],
+  "answer_index": 3,
+  "explanation": "XII = 12.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:145:b94f2ac650c54654",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "What number does the Roman numeral XXVIII represent?",
+  "options": [
+   "28",
+   "23",
+   "25",
+   "22"
+  ],
+  "answer_index": 0,
+  "explanation": "XXVIII = 28.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:146:be315a59de595325",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "What number does the Roman numeral XXXII represent?",
+  "options": [
+   "32",
+   "26",
+   "24",
+   "35"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXII = 32.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:147:0236d27abc0458ca",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "What number does the Roman numeral XLIV represent?",
+  "options": [
+   "40",
+   "47",
+   "38",
+   "44"
+  ],
+  "answer_index": 3,
+  "explanation": "XLIV = 44.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:148:fb7ce3a07b2491b4",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "What number does the Roman numeral XLV represent?",
+  "options": [
+   "45",
+   "48",
+   "44",
+   "38"
+  ],
+  "answer_index": 0,
+  "explanation": "XLV = 45.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:149:0bb711b159a53628",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "What number does the Roman numeral XXXVIII represent?",
+  "options": [
+   "42",
+   "39",
+   "44",
+   "38"
+  ],
+  "answer_index": 3,
+  "explanation": "XXXVIII = 38.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:roman:150:b9c546134d35b54c",
+  "topic_id": "MA-A07",
+  "qtype": "roman",
+  "level": 1,
+  "generator": "reg:roman",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "What number does the Roman numeral XXXVI represent?",
+  "options": [
+   "36",
+   "42",
+   "37",
+   "41"
+  ],
+  "answer_index": 0,
+  "explanation": "XXXVI = 36.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

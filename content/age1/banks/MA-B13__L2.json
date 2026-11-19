@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:number_property:1:a2a886589ee8e31c",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "157",
+   "138",
+   "144",
+   "140"
+  ],
+  "answer_index": 0,
+  "explanation": "157 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:2:6853c844f291d81e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "189",
+   "116",
+   "149",
+   "113"
+  ],
+  "answer_index": 1,
+  "explanation": "116 = 29 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:3:f71547abc450572b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "144",
+   "94",
+   "199",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "144 = 48 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:4:4d0eaa38a861df3d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "99",
+   "97",
+   "133",
+   "26"
+  ],
+  "answer_index": 3,
+  "explanation": "26 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:5:ecdf936a329f32e8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "14",
+   "187",
+   "117",
+   "125"
+  ],
+  "answer_index": 0,
+  "explanation": "14 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:6:3fd73ca639c6717f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "44",
+   "101",
+   "94",
+   "104"
+  ],
+  "answer_index": 1,
+  "explanation": "101 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:7:b105ae00e61222d2",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "130",
+   "193",
+   "85",
+   "191"
+  ],
+  "answer_index": 0,
+  "explanation": "130 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:8:5d253d8c97980602",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "175",
+   "128",
+   "197",
+   "87"
+  ],
+  "answer_index": 1,
+  "explanation": "128 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:9:cc9c658db1c57416",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "200",
+   "142",
+   "133",
+   "117"
+  ],
+  "answer_index": 0,
+  "explanation": "200 = 20 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:10:fa6b084ef9b83413",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "58",
+   "82",
+   "103",
+   "84"
+  ],
+  "answer_index": 3,
+  "explanation": "84 = 28 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:11:8748794ec9976314",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "157",
+   "53",
+   "121",
+   "14"
+  ],
+  "answer_index": 3,
+  "explanation": "14 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:12:6a1d7040be6dee2f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "158",
+   "123",
+   "130",
+   "144"
+  ],
+  "answer_index": 2,
+  "explanation": "130 = 13 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:13:d0c073696420d220",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "89",
+   "192",
+   "50",
+   "160"
+  ],
+  "answer_index": 0,
+  "explanation": "89 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:14:96d98ed1e2c9afd4",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "82",
+   "110",
+   "46",
+   "18"
+  ],
+  "answer_index": 1,
+  "explanation": "110 = 22 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:15:29be85225bc4a0b2",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "160",
+   "109",
+   "118",
+   "105"
+  ],
+  "answer_index": 0,
+  "explanation": "160 = 16 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:16:d664ee96c2c23a35",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "151",
+   "69",
+   "115",
+   "184"
+  ],
+  "answer_index": 3,
+  "explanation": "184 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:17:31f9e57620fe4ca5",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "123",
+   "60",
+   "116",
+   "96"
+  ],
+  "answer_index": 0,
+  "explanation": "123 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:18:220d381c1d95d1a8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "138",
+   "28",
+   "17",
+   "44"
+  ],
+  "answer_index": 2,
+  "explanation": "17 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:19:fab8eb810031ff29",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "97",
+   "138",
+   "32",
+   "113"
+  ],
+  "answer_index": 2,
+  "explanation": "32 = 8 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:20:06576a9495c65c3a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "176",
+   "135",
+   "27",
+   "86"
+  ],
+  "answer_index": 1,
+  "explanation": "135 = 27 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:21:1bfafddeb5a4d06b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "138",
+   "82",
+   "24",
+   "161"
+  ],
+  "answer_index": 3,
+  "explanation": "161 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:22:412766de3f0dff9a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "92",
+   "156",
+   "68",
+   "71"
+  ],
+  "answer_index": 3,
+  "explanation": "71 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:23:aea9b7c7153f3b87",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "190",
+   "55",
+   "27",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "190 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:24:03bdf26966cbc169",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "16",
+   "198",
+   "108",
+   "11"
+  ],
+  "answer_index": 3,
+  "explanation": "11 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:25:afd8661f47227d1d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "116",
+   "30",
+   "132",
+   "96"
+  ],
+  "answer_index": 1,
+  "explanation": "30 = 3 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:26:79cb9119de22ca1f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "132",
+   "46",
+   "86",
+   "104"
+  ],
+  "answer_index": 0,
+  "explanation": "132 = 44 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:27:6ebcf499a66c0da6",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "172",
+   "106",
+   "144",
+   "163"
+  ],
+  "answer_index": 3,
+  "explanation": "163 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:28:0e2e97badebe1e0e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "72",
+   "79",
+   "121",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "200 = 20 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:29:86ef2092ec87ca31",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "134",
+   "96",
+   "181",
+   "121"
+  ],
+  "answer_index": 1,
+  "explanation": "96 = 32 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:30:92a6bba515d394e4",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "111",
+   "15",
+   "86",
+   "43"
+  ],
+  "answer_index": 2,
+  "explanation": "86 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:31:d0ad2d187c8e5c26",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "67",
+   "13",
+   "25",
+   "26"
+  ],
+  "answer_index": 3,
+  "explanation": "26 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:32:b3f677c8cc30ce05",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "84",
+   "181",
+   "190",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "84 = 21 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:33:2ca0352f31fc9fbf",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "86",
+   "171",
+   "188",
+   "47"
+  ],
+  "answer_index": 1,
+  "explanation": "171 = 57 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:34:248ea5fcd0b0016a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "142",
+   "138",
+   "141",
+   "144"
+  ],
+  "answer_index": 3,
+  "explanation": "144 = 36 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:35:7b973552d08af7ba",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "55",
+   "51",
+   "78",
+   "59"
+  ],
+  "answer_index": 2,
+  "explanation": "78 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:36:1929563a00ae5992",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "123",
+   "199",
+   "88",
+   "149"
+  ],
+  "answer_index": 2,
+  "explanation": "88 = 22 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:37:0b920e7217cb3fd5",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "73",
+   "38",
+   "135",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "38 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:38:503a2a57e8780d89",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "153",
+   "159",
+   "170",
+   "155"
+  ],
+  "answer_index": 2,
+  "explanation": "170 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:39:db72d117207cfc88",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "118",
+   "83",
+   "84",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "83 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:40:3ce14bbdd8af4b1e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "125",
+   "66",
+   "136",
+   "172"
+  ],
+  "answer_index": 1,
+  "explanation": "66 = 22 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:41:cc8594d2f3305ffd",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "50",
+   "181",
+   "54",
+   "23"
+  ],
+  "answer_index": 2,
+  "explanation": "54 = 18 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:42:ea5f88aadd092f15",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "139",
+   "91",
+   "95",
+   "188"
+  ],
+  "answer_index": 3,
+  "explanation": "188 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:43:85bfdb9d9369209d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "108",
+   "63",
+   "42",
+   "46"
+  ],
+  "answer_index": 1,
+  "explanation": "63 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:44:a4d06b966c34f698",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "196",
+   "14",
+   "96",
+   "185"
+  ],
+  "answer_index": 3,
+  "explanation": "185 = 37 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:45:df64df3924b69f60",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "167",
+   "60",
+   "93",
+   "53"
+  ],
+  "answer_index": 1,
+  "explanation": "60 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:46:cc2f983f3cbe1e3d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "34",
+   "27",
+   "25",
+   "155"
+  ],
+  "answer_index": 0,
+  "explanation": "34 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:47:e4c887832f2c833f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "33",
+   "186",
+   "81",
+   "27"
+  ],
+  "answer_index": 1,
+  "explanation": "186 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:48:bc3f723fcdda85db",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "88",
+   "66",
+   "35",
+   "46"
+  ],
+  "answer_index": 2,
+  "explanation": "35 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:49:45264e66fbf94c9d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "13",
+   "128",
+   "116",
+   "195"
+  ],
+  "answer_index": 3,
+  "explanation": "195 = 65 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:50:7d4c0a22d549d616",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "22",
+   "179",
+   "108",
+   "184"
+  ],
+  "answer_index": 1,
+  "explanation": "179 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:51:d985860c1cfd2213",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "113",
+   "200",
+   "33",
+   "189"
+  ],
+  "answer_index": 1,
+  "explanation": "200 = 50 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:52:d70d6f0b46f1549b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "152",
+   "187",
+   "59",
+   "55"
+  ],
+  "answer_index": 0,
+  "explanation": "152 = 38 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:53:330415e93e04e15f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "109",
+   "190",
+   "160",
+   "58"
+  ],
+  "answer_index": 0,
+  "explanation": "109 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:54:6f50581ec839006a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "110",
+   "133",
+   "126",
+   "194"
+  ],
+  "answer_index": 1,
+  "explanation": "133 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:55:875f65c4dbf7a8b9",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "140",
+   "26",
+   "200",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "25 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:56:384f51d10b1c2f55",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "27",
+   "150",
+   "114",
+   "193"
+  ],
+  "answer_index": 1,
+  "explanation": "150 = 30 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:57:968b91962fbf84d3",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "104",
+   "94",
+   "81",
+   "131"
+  ],
+  "answer_index": 2,
+  "explanation": "81 = 27 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:58:0d142b024ffce19b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "85",
+   "12",
+   "65",
+   "64"
+  ],
+  "answer_index": 1,
+  "explanation": "12 = 4 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:59:f6f394d69595e024",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "58",
+   "38",
+   "176",
+   "165"
+  ],
+  "answer_index": 2,
+  "explanation": "176 = 44 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:60:4190317176730ddd",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "182",
+   "180",
+   "178",
+   "145"
+  ],
+  "answer_index": 3,
+  "explanation": "145 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:61:f153f23425f97ee3",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "198",
+   "172",
+   "46",
+   "126"
+  ],
+  "answer_index": 1,
+  "explanation": "172 = 43 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:62:2e97cb25872a3848",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "103",
+   "119",
+   "83",
+   "112"
+  ],
+  "answer_index": 3,
+  "explanation": "112 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:63:29e4d5b11724b09c",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "15",
+   "49",
+   "125",
+   "108"
+  ],
+  "answer_index": 3,
+  "explanation": "108 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:64:8f6cf5816ed8e716",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "97",
+   "180",
+   "112",
+   "19"
+  ],
+  "answer_index": 1,
+  "explanation": "180 = 36 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:65:1dd2a4860b498d19",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "121",
+   "42",
+   "89",
+   "83"
+  ],
+  "answer_index": 1,
+  "explanation": "42 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:66:381f370566b1877e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "110",
+   "61",
+   "151",
+   "94"
+  ],
+  "answer_index": 0,
+  "explanation": "110 = 22 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:67:ade7e5b179b03ed6",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "28",
+   "144",
+   "45",
+   "198"
+  ],
+  "answer_index": 2,
+  "explanation": "45 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:68:99bcca406c4ff215",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "120",
+   "112",
+   "141",
+   "93"
+  ],
+  "answer_index": 0,
+  "explanation": "120 = 24 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:69:6c9056d4a91b9afb",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "43",
+   "38",
+   "31",
+   "189"
+  ],
+  "answer_index": 3,
+  "explanation": "189 = 63 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:70:796b48a0ab9131fd",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "142",
+   "103",
+   "132",
+   "106"
+  ],
+  "answer_index": 1,
+  "explanation": "103 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:71:2c959a060a361515",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "48",
+   "27",
+   "82",
+   "187"
+  ],
+  "answer_index": 0,
+  "explanation": "48 = 12 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:72:5c92d9aa7a9d72a9",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "142",
+   "129",
+   "107",
+   "37"
+  ],
+  "answer_index": 0,
+  "explanation": "142 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:73:b37a026953829734",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "19",
+   "123",
+   "190",
+   "147"
+  ],
+  "answer_index": 2,
+  "explanation": "190 = 19 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:74:84430861f8c48305",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "39",
+   "151",
+   "55",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "90 = 9 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:75:d8c35b5ff4ec9909",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "32",
+   "187",
+   "144",
+   "170"
+  ],
+  "answer_index": 1,
+  "explanation": "187 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:76:33c5a8585c6ae6d0",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "175",
+   "157",
+   "89",
+   "126"
+  ],
+  "answer_index": 3,
+  "explanation": "126 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:77:bba7a0b93cf4e6bd",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "70",
+   "19",
+   "145",
+   "135"
+  ],
+  "answer_index": 3,
+  "explanation": "135 = 45 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:78:3a93eff65e40b311",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "119",
+   "91",
+   "42",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "42 = 14 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:79:75cda89406067ed7",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "148",
+   "170",
+   "83",
+   "188"
+  ],
+  "answer_index": 2,
+  "explanation": "83 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:80:cfcff661e5211c70",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "196",
+   "60",
+   "47",
+   "61"
+  ],
+  "answer_index": 1,
+  "explanation": "60 = 12 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:81:5467bf1de7c440bf",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "64",
+   "61",
+   "114",
+   "54"
+  ],
+  "answer_index": 1,
+  "explanation": "61 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:82:38d3d376cf9970da",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "150",
+   "139",
+   "45",
+   "63"
+  ],
+  "answer_index": 0,
+  "explanation": "150 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:83:e0a3d29cb4fa24f0",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "71",
+   "27",
+   "11",
+   "190"
+  ],
+  "answer_index": 3,
+  "explanation": "190 = 19 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:84:5e52ed5ecdb7a536",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "71",
+   "172",
+   "180",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "180 = 18 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:85:fde397f8a55f2961",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "67",
+   "39",
+   "130",
+   "169"
+  ],
+  "answer_index": 2,
+  "explanation": "130 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:86:e08ca5a70799f63e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "96",
+   "133",
+   "163",
+   "181"
+  ],
+  "answer_index": 0,
+  "explanation": "96 = 24 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:87:053d71fce4b5dc7a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "151",
+   "54",
+   "73",
+   "65"
+  ],
+  "answer_index": 1,
+  "explanation": "54 = 18 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:88:e3c7b5ee9627a015",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "15",
+   "75",
+   "150",
+   "19"
+  ],
+  "answer_index": 2,
+  "explanation": "150 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:89:df97b9388e1fc463",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "192",
+   "46",
+   "80",
+   "78"
+  ],
+  "answer_index": 2,
+  "explanation": "80 = 8 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:90:d2a0fc9830be9736",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "29",
+   "87",
+   "133",
+   "102"
+  ],
+  "answer_index": 3,
+  "explanation": "102 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:91:d702f244b556e0f0",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "172",
+   "14",
+   "107",
+   "140"
+  ],
+  "answer_index": 2,
+  "explanation": "107 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:92:89292dd4aba3fda8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "43",
+   "68",
+   "148",
+   "196"
+  ],
+  "answer_index": 0,
+  "explanation": "43 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:93:ab6a7299d955fcb1",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "144",
+   "151",
+   "15",
+   "89"
+  ],
+  "answer_index": 0,
+  "explanation": "144 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:94:ecddfe242b825e29",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "75",
+   "26",
+   "19",
+   "147"
+  ],
+  "answer_index": 1,
+  "explanation": "26 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:95:791dc97cf7983189",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "30",
+   "90",
+   "84",
+   "147"
+  ],
+  "answer_index": 3,
+  "explanation": "147 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:96:12d4ea63709938f3",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "147",
+   "176",
+   "174",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "50 = 10 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:97:1b1ee8bfa48f9359",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "163",
+   "83",
+   "156",
+   "141"
+  ],
+  "answer_index": 2,
+  "explanation": "156 = 39 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:98:10febb1cbd56a008",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "25",
+   "181",
+   "36",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "36 = 12 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:99:71df015ecb440514",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "93",
+   "95",
+   "88",
+   "151"
+  ],
+  "answer_index": 2,
+  "explanation": "88 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:100:695bd85b4eb83835",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "141",
+   "116",
+   "49",
+   "133"
+  ],
+  "answer_index": 1,
+  "explanation": "116 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:101:c61d39a5db79cfdc",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "113",
+   "77",
+   "43",
+   "142"
+  ],
+  "answer_index": 3,
+  "explanation": "142 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:102:39362cb4cdd75756",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "143",
+   "56",
+   "83",
+   "113"
+  ],
+  "answer_index": 1,
+  "explanation": "56 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:103:0f620557cb78c7f3",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "126",
+   "56",
+   "147",
+   "38"
+  ],
+  "answer_index": 2,
+  "explanation": "147 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:104:d160d8a1605cd513",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "118",
+   "127",
+   "183",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "50 = 5 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:105:de343f4d9ec83f24",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "96",
+   "44",
+   "70",
+   "151"
+  ],
+  "answer_index": 3,
+  "explanation": "151 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:106:2391ee4de3fe8348",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "187",
+   "21",
+   "197",
+   "44"
+  ],
+  "answer_index": 3,
+  "explanation": "44 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:107:c95568a9360b52bc",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "66",
+   "65",
+   "40",
+   "104"
+  ],
+  "answer_index": 1,
+  "explanation": "65 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:108:a0fe09f4f6c7669e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "195",
+   "161",
+   "59",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "10 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:109:d85194e8e6dc0f44",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "157",
+   "185",
+   "41",
+   "90"
+  ],
+  "answer_index": 3,
+  "explanation": "90 = 30 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:110:5216422953990609",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "61",
+   "181",
+   "80",
+   "21"
+  ],
+  "answer_index": 2,
+  "explanation": "80 = 8 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:111:4c3e97831dca8a69",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "170",
+   "136",
+   "96",
+   "173"
+  ],
+  "answer_index": 3,
+  "explanation": "173 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:112:4f85e958cb10516b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "27",
+   "107",
+   "50",
+   "73"
+  ],
+  "answer_index": 2,
+  "explanation": "50 = 5 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:113:f99d091d5379977e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "84",
+   "118",
+   "86",
+   "106"
+  ],
+  "answer_index": 0,
+  "explanation": "84 = 21 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:114:4bb11366504287b9",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "149",
+   "194",
+   "82",
+   "182"
+  ],
+  "answer_index": 0,
+  "explanation": "149 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:115:219cf16c796bd76b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "42",
+   "110",
+   "22",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "37 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:116:8e864c3e7b8446f6",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "183",
+   "46",
+   "12",
+   "131"
+  ],
+  "answer_index": 2,
+  "explanation": "12 = 3 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:117:72aa51af6192c6c3",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "46",
+   "194",
+   "53",
+   "86"
+  ],
+  "answer_index": 2,
+  "explanation": "53 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:118:0cdb3823b46d6cc7",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "100",
+   "99",
+   "22",
+   "196"
+  ],
+  "answer_index": 1,
+  "explanation": "99 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:119:a256535cdd77bf5e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "45",
+   "174",
+   "19",
+   "135"
+  ],
+  "answer_index": 1,
+  "explanation": "174 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:120:79f3d3583887abec",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "15",
+   "97",
+   "141",
+   "140"
+  ],
+  "answer_index": 3,
+  "explanation": "140 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:121:73f0d2a8e9f671a8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "147",
+   "176",
+   "25",
+   "131"
+  ],
+  "answer_index": 2,
+  "explanation": "25 = 5 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:122:8aa16947424239a6",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "170",
+   "46",
+   "33",
+   "132"
+  ],
+  "answer_index": 3,
+  "explanation": "132 = 33 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:123:0bd12f36304c8a70",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "146",
+   "117",
+   "155",
+   "199"
+  ],
+  "answer_index": 0,
+  "explanation": "146 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:124:979a09d24f86e591",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "34",
+   "81",
+   "182",
+   "104"
+  ],
+  "answer_index": 1,
+  "explanation": "81 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:125:11c3134f1aba1f1d",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "26",
+   "76",
+   "147",
+   "56"
+  ],
+  "answer_index": 2,
+  "explanation": "147 = 49 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:126:df3f1794d986630a",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "64",
+   "133",
+   "141",
+   "125"
+  ],
+  "answer_index": 0,
+  "explanation": "64 = 16 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:127:3b1083a778afacb5",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "100",
+   "62",
+   "21",
+   "95"
+  ],
+  "answer_index": 2,
+  "explanation": "21 = 7 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:128:cc0e27c250a42d5e",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "121",
+   "143",
+   "96",
+   "91"
+  ],
+  "answer_index": 2,
+  "explanation": "96 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:129:7851708dd1e92793",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "192",
+   "148",
+   "78",
+   "60"
+  ],
+  "answer_index": 3,
+  "explanation": "60 = 12 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:130:278c6f9bb65b30c8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "70",
+   "183",
+   "57",
+   "107"
+  ],
+  "answer_index": 0,
+  "explanation": "70 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:131:1b31d4352362e504",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "180",
+   "63",
+   "14",
+   "22"
+  ],
+  "answer_index": 1,
+  "explanation": "63 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:132:2eae4654161c9d2f",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "72",
+   "115",
+   "25",
+   "179"
+  ],
+  "answer_index": 0,
+  "explanation": "72 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:133:cd90959587411084",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "133",
+   "60",
+   "107",
+   "26"
+  ],
+  "answer_index": 1,
+  "explanation": "60 = 12 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:134:3ed6c44a29dbe0c1",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "174",
+   "138",
+   "26",
+   "41"
+  ],
+  "answer_index": 3,
+  "explanation": "41 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:135:49afea10ed4567be",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "45",
+   "132",
+   "135",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "132 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:136:660eadab5453d9f5",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "165",
+   "75",
+   "103",
+   "140"
+  ],
+  "answer_index": 3,
+  "explanation": "140 = 14 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:137:fdb632872ab06ce8",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "91",
+   "37",
+   "20",
+   "137"
+  ],
+  "answer_index": 2,
+  "explanation": "20 = 5 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:138:37d422a07a45a6d4",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "112",
+   "55",
+   "85",
+   "159"
+  ],
+  "answer_index": 0,
+  "explanation": "112 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:139:aad7f2133f506a63",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "34",
+   "198",
+   "90",
+   "26"
+  ],
+  "answer_index": 2,
+  "explanation": "90 = 9 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:140:b4c1c296ab63dabb",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "151",
+   "80",
+   "114",
+   "94"
+  ],
+  "answer_index": 0,
+  "explanation": "151 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:141:0c3f2df1d594cd70",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "24",
+   "124",
+   "200",
+   "23"
+  ],
+  "answer_index": 2,
+  "explanation": "200 = 20 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:142:cf8d35c637f8efec",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "73",
+   "111",
+   "137",
+   "124"
+  ],
+  "answer_index": 3,
+  "explanation": "124 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:143:045a9559328c4c9c",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "116",
+   "110",
+   "34",
+   "75"
+  ],
+  "answer_index": 1,
+  "explanation": "110 = 11 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:144:56b600bc9220667c",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Which of these is a multiple of 5?",
+  "options": [
+   "84",
+   "88",
+   "135",
+   "78"
+  ],
+  "answer_index": 2,
+  "explanation": "135 = 27 × 5, so it is a multiple of 5.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:145:3db996d1ac63af19",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Which of these is an odd number?",
+  "options": [
+   "105",
+   "28",
+   "70",
+   "92"
+  ],
+  "answer_index": 0,
+  "explanation": "105 is odd because its last digit is 1, 3, 5, 7 or 9.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:146:0aedbee23684d745",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "31",
+   "149",
+   "182",
+   "79"
+  ],
+  "answer_index": 2,
+  "explanation": "182 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:147:ccba3781b385c860",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Which of these is an even number?",
+  "options": [
+   "119",
+   "191",
+   "125",
+   "16"
+  ],
+  "answer_index": 3,
+  "explanation": "16 is even because its last digit is 0, 2, 4, 6 or 8.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "parity"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:148:08a7a2c2ad30fa8b",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Which of these is a multiple of 10?",
+  "options": [
+   "133",
+   "190",
+   "17",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "190 = 19 × 10, so it is a multiple of 10.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:149:37fbecf9fb5a11a9",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Which of these is a multiple of 3?",
+  "options": [
+   "166",
+   "125",
+   "113",
+   "129"
+  ],
+  "answer_index": 3,
+  "explanation": "129 = 43 × 3, so it is a multiple of 3.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:number_property:150:4356c2a800b094c4",
+  "topic_id": "MA-B13",
+  "qtype": "number_property",
+  "level": 2,
+  "generator": "reg:number_property",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Which of these is a multiple of 4?",
+  "options": [
+   "154",
+   "112",
+   "171",
+   "146"
+  ],
+  "answer_index": 1,
+  "explanation": "112 = 28 × 4, so it is a multiple of 4.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "multiple"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

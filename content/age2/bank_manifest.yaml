@@ -1,0 +1,51 @@
+age: 2
+min_bank: 60
+topics:
+  MA-C08:
+    subject: maths
+    generator: fraction_of
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: What is 3/4 of 36?
+          answer: '27'
+        - stem: What is 8/10 of 30?
+          answer: '24'
+  MA-F07:
+    subject: maths
+    generator: perimeter
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: A rectangle is 6 cm by 8 cm. What is its area?
+          answer: 48 cm²
+        - stem: A rectangle is 10 cm by 9 cm. What is its perimeter?
+          answer: 38 cm
+  MA-F11:
+    subject: maths
+    generator: money_change
+    levels:
+      3:
+        count: 150
+        served: true
+        samples:
+        - stem: A book costs £5.20. You pay with a £10 note. How much change?
+          answer: £4.80
+        - stem: A book costs £1.63. You pay with a £5 note. How much change?
+          answer: £3.37
+  VR-D01:
+    subject: vr
+    generator: number_series
+    levels:
+      2:
+        count: 150
+        served: true
+        samples:
+        - stem: 'Find the next number: 5, 8, 11, 14, ?'
+          answer: '17'
+        - stem: 'Find the next number: 5, 9, 13, 17, ?'
+          answer: '21'

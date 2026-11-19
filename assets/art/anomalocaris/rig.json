@@ -1,0 +1,19 @@
+{
+  "name": "Anomalocaris",
+  "viewBox": "0 0 240 240",
+  "shadow": "shadow.svg",
+  "parts": [
+    {
+      "id": "body",
+      "src": "body.svg"
+    }
+  ],
+  "states": {
+    "idle": "breathe+blink",
+    "tap": "hop",
+    "talking": "talk",
+    "happy": "happy",
+    "kindWrong": "wrong",
+    "celebrate": "happy"
+  }
+}

@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:division_worded:5:560796dc797ddfe8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Noah shares 72 apples equally between 6 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "8",
+   "7",
+   "12",
+   "62"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:cbef5d26aaef3d6e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Priya shares 30 cards equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "4",
+   "23",
+   "3",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:96ee100bcad29db3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Sam shares 21 badges equally between 3 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "7",
+   "13",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:f9fec403f5a42a33",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Leo shares 66 apples equally between 6 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "3",
+   "4",
+   "11",
+   "53"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:5665c87679d673fd",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Leo shares 24 badges equally between 4 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "17",
+   "6",
+   "3",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:226f83d66163e9fa",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Priya shares 72 badges equally between 6 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "9",
+   "64",
+   "12",
+   "10"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:7390a4b96f0d12f8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Noah shares 24 badges equally between 4 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "6",
+   "16",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c4eaf9b4cce81c65",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Leo shares 45 rulers equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "9",
+   "2",
+   "3",
+   "34"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:5aa951115169e4ef",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Mia shares 66 apples equally between 6 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "4",
+   "5",
+   "54",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0ed9e28ed5ac7a21",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Mia shares 40 rulers equally between 4 friends, then each friend gives away 8. How many does each friend have left?",
+  "options": [
+   "10",
+   "1",
+   "28",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0063a35abe3c2bd8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Sam shares 24 apples equally between 3 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "4",
+   "8",
+   "3",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:1a715f5123b6d779",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Priya shares 66 badges equally between 6 friends, then each friend gives away 9. How many does each friend have left?",
+  "options": [
+   "1",
+   "11",
+   "2",
+   "51"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:042a19650f55d422",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Priya shares 44 apples equally between 4 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "11",
+   "4",
+   "5",
+   "34"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:54017d6140a4fb76",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Sam shares 48 apples equally between 6 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "3",
+   "38",
+   "4",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:fe793a33717f0af2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Sam shares 44 apples equally between 4 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "37",
+   "7",
+   "11",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:6e9c546dd0d91f80",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Sam shares 60 cards equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "11",
+   "12",
+   "54",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 11.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0b8671c3f1a78c5c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Sam shares 50 pencils equally between 5 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "4",
+   "10",
+   "5",
+   "40"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:b24c743d1d219c35",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Sam shares 30 rulers equally between 3 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "6",
+   "7",
+   "10",
+   "24"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:a0a4a8fc727f1026",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Mia shares 48 pencils equally between 6 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "3",
+   "37",
+   "2",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:2f9c64242d7dc3ed",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Zara shares 36 cards equally between 3 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "9",
+   "10",
+   "31",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c2b76291152fd546",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Kai shares 55 stickers equally between 5 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "5",
+   "11",
+   "6",
+   "45"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:25ba84957850b773",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Mia shares 36 apples equally between 4 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "27",
+   "4",
+   "3",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:f16e3a994a6bc7ce",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Kai shares 21 apples equally between 3 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "5",
+   "17",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:88b1086fccc75c2b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Leo shares 40 pencils equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "5",
+   "33",
+   "8",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:874e9a76c574c849",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Mia shares 36 pencils equally between 3 friends, then each friend gives away 9. How many does each friend have left?",
+  "options": [
+   "2",
+   "3",
+   "24",
+   "12"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:f3030456a86af3b2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Sam shares 36 cards equally between 3 friends, then each friend gives away 8. How many does each friend have left?",
+  "options": [
+   "3",
+   "12",
+   "25",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:bfce599546ea5632",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Leo shares 60 rulers equally between 6 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "10",
+   "6",
+   "51",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:616addf74227adf1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Kai shares 35 stickers equally between 5 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "26",
+   "3",
+   "7",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:55c5c234ccec507d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Sam shares 21 rulers equally between 3 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "6",
+   "5",
+   "7",
+   "17"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:262351d50a8849bc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Mia shares 66 pencils equally between 6 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "54",
+   "5",
+   "4",
+   "11"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:b805202ae39def86",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Ava shares 50 rulers equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "43",
+   "10",
+   "8",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:5e597fa0a41fc095",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Ava shares 50 stickers equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "10",
+   "7",
+   "8",
+   "43"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0028ed102c727e3b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Priya shares 40 cards equally between 4 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "9",
+   "35",
+   "10",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:5647b4aee15d297e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Sam shares 45 stickers equally between 5 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "5",
+   "9",
+   "36",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:bd37f1394a57960f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Leo shares 32 pencils equally between 4 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "3",
+   "8",
+   "24",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:bf34240a10b420e3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Ava shares 55 rulers equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "48",
+   "9",
+   "11",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:f069d2288ace5721",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Sam shares 36 pencils equally between 6 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "6",
+   "29",
+   "4",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:8697d29264580282",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Kai shares 36 apples equally between 3 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "7",
+   "12",
+   "29",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:e44b103e50a57dd7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Ava shares 36 badges equally between 3 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "12",
+   "29",
+   "8",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:068df853fb8746ca",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Kai shares 60 cards equally between 5 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "52",
+   "12",
+   "8",
+   "9"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:da17b9562e64495c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Sam shares 36 cards equally between 3 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "12",
+   "6",
+   "7",
+   "28"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:ea77cceed0140c04",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Noah shares 36 cards equally between 3 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "12",
+   "9",
+   "10",
+   "31"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:a3e0bc9bae7fee8b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Kai shares 50 badges equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "10",
+   "4",
+   "39",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:8f676ef8b0df8d69",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Zara shares 44 cards equally between 4 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "10",
+   "39",
+   "11",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:af0875428398cd5f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Ava shares 54 badges equally between 6 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "41",
+   "2",
+   "9",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:9dad25c2d9cd71bf",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Leo shares 50 apples equally between 5 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "10",
+   "40",
+   "4",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:d9c9978eb0016b64",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Leo shares 36 pencils equally between 4 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "6",
+   "29",
+   "9",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c32503ca39af212f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Noah shares 66 badges equally between 6 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "59",
+   "10",
+   "11",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:269d9f143664d28f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Sam shares 40 cards equally between 4 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "6",
+   "32",
+   "5",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:a05fe311c2251cfa",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Noah shares 24 badges equally between 4 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "6",
+   "17",
+   "2",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:a2e58209092000c0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Sam shares 45 apples equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "2",
+   "9",
+   "3",
+   "34"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:94536fb98a9c3df6",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Leo shares 72 rulers equally between 6 friends, then each friend gives away 9. How many does each friend have left?",
+  "options": [
+   "2",
+   "12",
+   "3",
+   "57"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:64d7c3fa7af91da1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Sam shares 45 cards equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "39",
+   "8",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:ac0b96a7b8ff63c4",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Priya shares 18 apples equally between 3 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "6",
+   "4",
+   "5",
+   "14"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:712518921ed33367",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Leo shares 42 stickers equally between 6 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "5",
+   "7",
+   "4",
+   "34"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:e0f02a7d14f80a59",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Kai shares 24 pencils equally between 3 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "2",
+   "1",
+   "8",
+   "15"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0262647761470d48",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Zara shares 50 badges equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "3",
+   "10",
+   "4",
+   "39"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:153bd4fa3a0e7417",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Kai shares 28 rulers equally between 4 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "7",
+   "19",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:d680697238923135",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Noah shares 36 cards equally between 4 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "27",
+   "9",
+   "3",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:e4c6f458838376d9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Sam shares 48 stickers equally between 6 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "2",
+   "36",
+   "1",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:83ba4e171f33f50c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Priya shares 44 apples equally between 4 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "3",
+   "4",
+   "11",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:6eeaf09c2986a8ed",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Ava shares 60 stickers equally between 6 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "4",
+   "49",
+   "10",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c1a4810903b763c2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Mia shares 66 pencils equally between 6 friends, then each friend gives away 8. How many does each friend have left?",
+  "options": [
+   "52",
+   "2",
+   "3",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:184ec81b895cdcd7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Ava shares 36 stickers equally between 6 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "29"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:f6e32a7bf3f06197",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Leo shares 50 apples equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "44"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:389a618ddaaae65f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Zara shares 35 badges equally between 5 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "4",
+   "27",
+   "3",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:dbc05a8c62869e85",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Mia shares 36 apples equally between 4 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "30",
+   "6",
+   "9",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:764819dcbf00e193",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Leo shares 50 pencils equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "39",
+   "4",
+   "3",
+   "10"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:cc8bd078495fefb8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Kai shares 32 pencils equally between 4 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "3",
+   "23",
+   "2",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:049827cd129e3f54",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Leo shares 21 rulers equally between 3 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "1",
+   "2",
+   "7",
+   "13"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:02433c1563794d46",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Sam shares 66 rulers equally between 6 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "11",
+   "8",
+   "57",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:af1d54822d0a2636",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Zara shares 40 rulers equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "5",
+   "33",
+   "8",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:1c38f62b873e6ba7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Noah shares 36 rulers equally between 4 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "30",
+   "6",
+   "9",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:4ddac5db94fff814",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Leo shares 35 pencils equally between 5 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "3",
+   "4",
+   "7",
+   "27"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:ac81000cfb2a9d4a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Priya shares 27 badges equally between 3 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "3",
+   "18",
+   "2",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:753afa8b309fd708",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Sam shares 18 stickers equally between 3 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "13",
+   "3",
+   "6",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:d338bd52e0884ddf",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Sam shares 54 apples equally between 6 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "9",
+   "43",
+   "3",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:dfc9cd3c26ba1ae8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Leo shares 45 pencils equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "34",
+   "3",
+   "2",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   null,
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:38351e042157886e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Ava shares 40 pencils equally between 4 friends, then each friend gives away 8. How many does each friend have left?",
+  "options": [
+   "2",
+   "28",
+   "1",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:4527fb76fee7f605",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Ava shares 60 badges equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "10",
+   "9",
+   "12",
+   "53"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 10.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:8c98a1e298393fb2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Mia shares 27 rulers equally between 3 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "9",
+   "6",
+   "22",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:2e202e631b2feec3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Noah shares 48 apples equally between 4 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "6",
+   "12",
+   "39",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:fba494089757c635",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Zara shares 50 pencils equally between 5 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "10",
+   "38",
+   "2",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0e19dad324fb38bf",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Mia shares 33 stickers equally between 3 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "5",
+   "24",
+   "4",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c3d0300b5c040b2f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Sam shares 30 cards equally between 5 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "2",
+   "6",
+   "3",
+   "22"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:bc3806e455e91823",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Leo shares 72 apples equally between 6 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "8",
+   "63",
+   "9",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:13cff7b724567a00",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Ava shares 21 rulers equally between 3 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "4",
+   "7",
+   "16",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:be5c24321340985b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Mia shares 60 apples equally between 5 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "5",
+   "4",
+   "48",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:dd384dd5d32f34d8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Leo shares 24 rulers equally between 3 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "3",
+   "2",
+   "8",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:b3e0f00c24992390",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Leo shares 32 cards equally between 4 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "5",
+   "8",
+   "25",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:b0f804f0a111d7b9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Leo shares 45 cards equally between 5 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "5",
+   "9",
+   "36",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:e64db9748b9efac8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Mia shares 28 stickers equally between 4 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "5",
+   "7",
+   "4",
+   "22"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0932fe5591baa977",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Noah shares 33 badges equally between 3 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "25",
+   "5",
+   "6",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c2ab1c23e37790e7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Sam shares 45 stickers equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "7",
+   "39",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:aec4b24eb65ded4a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Leo shares 54 stickers equally between 6 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "4",
+   "5",
+   "44",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:3d9901b616f933ff",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Priya shares 30 apples equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "23",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:df8ed162716d398e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Kai shares 45 badges equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "6",
+   "7",
+   "9",
+   "38"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:cc28d930ea3a9a07",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Priya shares 48 cards equally between 6 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "8",
+   "7",
+   "6",
+   "41"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:3a4e4109f81eb577",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Noah shares 27 apples equally between 3 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "6",
+   "21",
+   "5",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:85fb143af0d5d3b7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Kai shares 48 badges equally between 6 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "8",
+   "6",
+   "5",
+   "40"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   null,
+   "made a small slip",
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:13fd36d745be385e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Noah shares 60 pencils equally between 6 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "6",
+   "51",
+   "10",
+   "7"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:98e6dde606a3cacd",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Ava shares 27 apples equally between 3 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "5",
+   "21",
+   "6",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:6c3e55177052ad25",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Mia shares 40 pencils equally between 4 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "9",
+   "35",
+   "8",
+   "10"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:4373807f6bb9538c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Leo shares 36 stickers equally between 3 friends, then each friend gives away 8. How many does each friend have left?",
+  "options": [
+   "4",
+   "12",
+   "25",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "forgot the giving-away step",
+   "subtracted instead of dividing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:16e876cf85b5bb0b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Zara shares 21 apples equally between 3 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "17"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:37f5033065ccc374",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Leo shares 55 pencils equally between 5 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "6",
+   "45",
+   "5",
+   "11"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0fb208c9939a1e56",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Zara shares 27 badges equally between 3 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "5",
+   "6",
+   "21",
+   "9"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:a4d0f27cd43b5442",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Priya shares 35 apples equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "4",
+   "28",
+   "7",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0afe045964823580",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Priya shares 45 pencils equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "39",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:79948c2d604f59b9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Priya shares 48 stickers equally between 4 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "37",
+   "12",
+   "5",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:6bfe05f3b0e48e0b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Zara shares 30 badges equally between 5 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "3",
+   "4",
+   "23",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:93ba7d003fe1e8b9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Noah shares 54 stickers equally between 6 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "9",
+   "7",
+   "8",
+   "47"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "forgot the giving-away step",
+   "made a small slip",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:146330808e675946",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Sam shares 60 pencils equally between 5 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "5",
+   "49",
+   "12",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:48d947993ba8d17c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Zara shares 72 stickers equally between 6 friends, then each friend gives away 4. How many does each friend have left?",
+  "options": [
+   "7",
+   "62",
+   "8",
+   "12"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 8.",
+  "distractor_explanations": [
+   "made a small slip",
+   "subtracted instead of dividing",
+   null,
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:b0848329e1a9f0cc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Leo shares 30 rulers equally between 5 friends, then each friend gives away 1. How many does each friend have left?",
+  "options": [
+   "5",
+   "4",
+   "24",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "subtracted instead of dividing",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:c6f199d7c258eb2e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Noah shares 36 stickers equally between 3 friends, then each friend gives away 3. How many does each friend have left?",
+  "options": [
+   "9",
+   "30",
+   "12",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:219ab572bc917563",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Sam shares 32 rulers equally between 4 friends, then each friend gives away 6. How many does each friend have left?",
+  "options": [
+   "2",
+   "22",
+   "1",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "subtracted instead of dividing",
+   "made a small slip",
+   "forgot the giving-away step"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:5175e0b7466cb932",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Leo shares 60 badges equally between 6 friends, then each friend gives away 5. How many does each friend have left?",
+  "options": [
+   "4",
+   "10",
+   "5",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:8b708b8235cc7c86",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Ava shares 27 badges equally between 3 friends, then each friend gives away 7. How many does each friend have left?",
+  "options": [
+   "17",
+   "9",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "subtracted instead of dividing",
+   "forgot the giving-away step",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:5:0cb3668032dd6e3a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 5,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Ava shares 44 pencils equally between 4 friends, then each friend gives away 2. How many does each friend have left?",
+  "options": [
+   "8",
+   "11",
+   "9",
+   "38"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 9.",
+  "distractor_explanations": [
+   "made a small slip",
+   "forgot the giving-away step",
+   null,
+   "subtracted instead of dividing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

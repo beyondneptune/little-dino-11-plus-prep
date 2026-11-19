@@ -1,0 +1,6452 @@
+[
+ {
+  "id": "reg:rounding:1:c4dc775626a31284",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Round 825 to the nearest 100.",
+  "options": [
+   "825",
+   "700",
+   "800",
+   "900"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 825; 825 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:2:f3f5763bf5536e99",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Round 342 to the nearest 100.",
+  "options": [
+   "342",
+   "400",
+   "300",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 342; 342 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:3:2a628fadaffdab35",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Round 918 to the nearest 100.",
+  "options": [
+   "900",
+   "800",
+   "918",
+   "1000"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 918; 918 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:4:f874b2ace7dd0547",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Round 1039 to the nearest 100.",
+  "options": [
+   "1100",
+   "900",
+   "1000",
+   "1039"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1039; 1039 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:5:e6155d12f4052339",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Round 737 to the nearest 100.",
+  "options": [
+   "800",
+   "737",
+   "600",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 737; 737 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:6:8214c2d7930d27f1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Round 635 to the nearest 100.",
+  "options": [
+   "700",
+   "600",
+   "635",
+   "500"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 635; 635 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:7:966dcb833b682a3f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Round 968 to the nearest 100.",
+  "options": [
+   "968",
+   "1000",
+   "900",
+   "1100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 968; 968 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:8:ce4eb6c6d01be4fc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Round 725 to the nearest 100.",
+  "options": [
+   "600",
+   "725",
+   "800",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 725; 725 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:9:91fc99ecff9a58d3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Round 912 to the nearest 100.",
+  "options": [
+   "912",
+   "900",
+   "800",
+   "1000"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 912; 912 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:10:1eea4cdf16314330",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Round 142 to the nearest 100.",
+  "options": [
+   "101",
+   "142",
+   "100",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 142; 142 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:11:c070b8fcf22d6cca",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Round 383 to the nearest 100.",
+  "options": [
+   "383",
+   "300",
+   "400",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 383; 383 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:12:5844c6cdbf8649a8",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Round 846 to the nearest 100.",
+  "options": [
+   "700",
+   "800",
+   "846",
+   "900"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 846; 846 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:13:a640320adaf1d48a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Round 323 to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "323",
+   "400"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 323; 323 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:14:dd69160125d516c5",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Round 1037 to the nearest 100.",
+  "options": [
+   "1100",
+   "1000",
+   "1037",
+   "900"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 1037; 1037 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:15:360f9a094750e4f4",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Round 267 to the nearest 100.",
+  "options": [
+   "200",
+   "267",
+   "300",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 267; 267 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:16:93cff277e6f00ae7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Round 571 to the nearest 100.",
+  "options": [
+   "700",
+   "500",
+   "600",
+   "571"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 571; 571 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:17:5e28b603b9a580de",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Round 527 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "400",
+   "527"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 527; 527 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:18:0347eba2f03b9318",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Round 1041 to the nearest 100.",
+  "options": [
+   "1041",
+   "1100",
+   "900",
+   "1000"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 1041; 1041 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:19:cc9c4e941b145ad0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Round 864 to the nearest 100.",
+  "options": [
+   "900",
+   "1000",
+   "864",
+   "800"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 864; 864 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:20:c712ccb8011c621a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Round 522 to the nearest 100.",
+  "options": [
+   "522",
+   "400",
+   "500",
+   "600"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 522; 522 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:21:590b725a9b234834",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Round 348 to the nearest 100.",
+  "options": [
+   "300",
+   "400",
+   "200",
+   "348"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 348; 348 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:22:04b48b6f2a307fce",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Round 721 to the nearest 100.",
+  "options": [
+   "700",
+   "721",
+   "800",
+   "600"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 721; 721 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:23:807c703991402470",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Round 550 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "700",
+   "550"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 550; 550 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:24:cc6df4041b8ee267",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Round 539 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "400",
+   "539"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 539; 539 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:25:e47ca45c4aad36fa",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Round 436 to the nearest 100.",
+  "options": [
+   "300",
+   "400",
+   "436",
+   "500"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 436; 436 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:26:2f9cd2aaf09e06e9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Round 544 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "400",
+   "544"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 544; 544 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:27:7845f06e2a92c3dc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Round 926 to the nearest 100.",
+  "options": [
+   "800",
+   "926",
+   "1000",
+   "900"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 926; 926 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:28:f45bb01fae13a65f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Round 442 to the nearest 100.",
+  "options": [
+   "300",
+   "400",
+   "500",
+   "442"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 442; 442 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:29:e6b3e580cb214fbc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Round 965 to the nearest 100.",
+  "options": [
+   "1000",
+   "900",
+   "1100",
+   "965"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 965; 965 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:30:b96da69f7c0e0dd0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Round 1027 to the nearest 100.",
+  "options": [
+   "900",
+   "1100",
+   "1000",
+   "1027"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1027; 1027 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:31:893bbf89aa760c6e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Round 276 to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "276",
+   "400"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 276; 276 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:32:0d50513229c325ae",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Round 684 to the nearest 100.",
+  "options": [
+   "800",
+   "700",
+   "684",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 684; 684 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:33:fef3683a557af249",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Round 510 to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "510",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 510; 510 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:34:e864f2415539feef",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Round 595 to the nearest 100.",
+  "options": [
+   "600",
+   "500",
+   "700",
+   "595"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 595; 595 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:35:bf752994e4c3da43",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Round 290 to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "400",
+   "290"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 290; 290 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:36:2eb06e7926882690",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Round 141 to the nearest 100.",
+  "options": [
+   "101",
+   "200",
+   "141",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 141; 141 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:37:e639bbc59bf47bb7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Round 810 to the nearest 100.",
+  "options": [
+   "700",
+   "900",
+   "810",
+   "800"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 810; 810 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:38:6ad0b2bc8340bb95",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Round 169 to the nearest 100.",
+  "options": [
+   "100",
+   "200",
+   "300",
+   "169"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 169; 169 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:39:e12e405ac669a5cd",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Round 924 to the nearest 100.",
+  "options": [
+   "900",
+   "800",
+   "1000",
+   "924"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 924; 924 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:40:82e9aa718164112b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Round 165 to the nearest 100.",
+  "options": [
+   "300",
+   "165",
+   "200",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 165; 165 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:41:bfd1d39350d5f4c9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Round 682 to the nearest 100.",
+  "options": [
+   "682",
+   "700",
+   "600",
+   "800"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 682; 682 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:42:762bf3b7db73521c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Round 717 to the nearest 100.",
+  "options": [
+   "600",
+   "800",
+   "717",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 717; 717 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:43:a1035239bb740654",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Round 194 to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "194",
+   "300"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 194; 194 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:44:9953f4d201c2d6ab",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Round 522 to the nearest 100.",
+  "options": [
+   "600",
+   "500",
+   "400",
+   "522"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 522; 522 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:45:af1451748357bd55",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Round 1012 to the nearest 100.",
+  "options": [
+   "1012",
+   "900",
+   "1000",
+   "1100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1012; 1012 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:46:93ffdb5d8d221a0b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Round 867 to the nearest 100.",
+  "options": [
+   "1000",
+   "800",
+   "900",
+   "867"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 867; 867 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:47:275e31f559e5fb76",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Round 695 to the nearest 100.",
+  "options": [
+   "700",
+   "695",
+   "600",
+   "800"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 695; 695 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:48:fb6d4c47f8241dc6",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Round 225 to the nearest 100.",
+  "options": [
+   "225",
+   "100",
+   "300",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 225; 225 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:49:502fe70f13cb6e01",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Round 487 to the nearest 100.",
+  "options": [
+   "600",
+   "400",
+   "487",
+   "500"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 487; 487 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:50:5c932fcee70eb055",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Round 1049 to the nearest 100.",
+  "options": [
+   "1049",
+   "900",
+   "1000",
+   "1100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1049; 1049 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:51:e74de7cf2c1d2074",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Round 1007 to the nearest 100.",
+  "options": [
+   "1000",
+   "1100",
+   "1007",
+   "900"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 1007; 1007 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:52:f84edd3c3f08f123",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Round 493 to the nearest 100.",
+  "options": [
+   "493",
+   "600",
+   "500",
+   "400"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 493; 493 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:53:02f5dd65c61ac4fc",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Round 340 to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "400",
+   "340"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 340; 340 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:54:5482af8d2d0fad20",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Round 698 to the nearest 100.",
+  "options": [
+   "700",
+   "698",
+   "600",
+   "800"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 698; 698 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:55:819345e42f99fe9b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Round 690 to the nearest 100.",
+  "options": [
+   "800",
+   "690",
+   "600",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 690; 690 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:56:9179166520025f59",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Round 531 to the nearest 100.",
+  "options": [
+   "531",
+   "400",
+   "500",
+   "600"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 531; 531 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:57:1d218881bdf014b1",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Round 821 to the nearest 100.",
+  "options": [
+   "821",
+   "900",
+   "800",
+   "700"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 821; 821 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:58:ca46c81503580959",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Round 619 to the nearest 100.",
+  "options": [
+   "619",
+   "600",
+   "500",
+   "700"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 619; 619 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:59:38ae3447bb0e2cb6",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Round 821 to the nearest 100.",
+  "options": [
+   "700",
+   "900",
+   "821",
+   "800"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 821; 821 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:60:6753b97b24d1d17d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Round 161 to the nearest 100.",
+  "options": [
+   "100",
+   "300",
+   "200",
+   "161"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 161; 161 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:61:4aa4a9acc60465bd",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Round 437 to the nearest 100.",
+  "options": [
+   "300",
+   "437",
+   "400",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 437; 437 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:62:a6b8f35f66be15a7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Round 731 to the nearest 100.",
+  "options": [
+   "600",
+   "800",
+   "731",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 731; 731 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:63:1386209048616a1e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Round 893 to the nearest 100.",
+  "options": [
+   "800",
+   "893",
+   "1000",
+   "900"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 893; 893 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:64:f924f645cfbf8240",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Round 927 to the nearest 100.",
+  "options": [
+   "900",
+   "927",
+   "800",
+   "1000"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 927; 927 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:65:882c578de906b25c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Round 208 to the nearest 100.",
+  "options": [
+   "200",
+   "300",
+   "100",
+   "208"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 208; 208 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:66:ebc50b061b8586ff",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Round 619 to the nearest 100.",
+  "options": [
+   "700",
+   "619",
+   "600",
+   "500"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 619; 619 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:67:ae0978293808d981",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Round 686 to the nearest 100.",
+  "options": [
+   "686",
+   "600",
+   "800",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 686; 686 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:68:41a84eb5b0e3dfed",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Round 700 to the nearest 100.",
+  "options": [
+   "800",
+   "600",
+   "701",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 700; 700 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:69:8b56e08e539e1055",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Round 1067 to the nearest 100.",
+  "options": [
+   "1100",
+   "1200",
+   "1067",
+   "1000"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 1067; 1067 rounds to 1100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:70:495d18626c6a1cea",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Round 694 to the nearest 100.",
+  "options": [
+   "600",
+   "694",
+   "700",
+   "800"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 694; 694 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:71:8e15e9288e6d34ca",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Round 325 to the nearest 100.",
+  "options": [
+   "325",
+   "300",
+   "200",
+   "400"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 325; 325 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:72:0872fb0a8276ffaa",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Round 484 to the nearest 100.",
+  "options": [
+   "500",
+   "400",
+   "484",
+   "600"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 484; 484 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:73:a5e16088623c0940",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Round 885 to the nearest 100.",
+  "options": [
+   "900",
+   "800",
+   "1000",
+   "885"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 885; 885 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:74:971237eee899b101",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Round 939 to the nearest 100.",
+  "options": [
+   "939",
+   "1000",
+   "900",
+   "800"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 939; 939 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:75:0791d3f3dcf9f847",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Round 758 to the nearest 100.",
+  "options": [
+   "800",
+   "700",
+   "758",
+   "900"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 758; 758 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:76:02b706b838a3ba10",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Round 162 to the nearest 100.",
+  "options": [
+   "300",
+   "100",
+   "200",
+   "162"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 162; 162 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:77:d7fe19c53e0fb27e",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Round 670 to the nearest 100.",
+  "options": [
+   "670",
+   "700",
+   "800",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 670; 670 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:78:6df9da21cde69c90",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Round 327 to the nearest 100.",
+  "options": [
+   "327",
+   "400",
+   "300",
+   "200"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 327; 327 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:79:bf17d808b51a74ba",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Round 629 to the nearest 100.",
+  "options": [
+   "600",
+   "629",
+   "500",
+   "700"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 629; 629 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:80:ba6de998bbb5ab9c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Round 112 to the nearest 100.",
+  "options": [
+   "200",
+   "101",
+   "112",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 112; 112 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:81:1a89e20a7b311a12",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Round 268 to the nearest 100.",
+  "options": [
+   "300",
+   "268",
+   "200",
+   "400"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 268; 268 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:82:e3552c8f66ec054c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Round 925 to the nearest 100.",
+  "options": [
+   "925",
+   "900",
+   "1000",
+   "800"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 925; 925 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:83:e6f4382013e9ed5a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Round 182 to the nearest 100.",
+  "options": [
+   "100",
+   "300",
+   "200",
+   "182"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 182; 182 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:84:44905df5bb565254",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Round 188 to the nearest 100.",
+  "options": [
+   "300",
+   "100",
+   "188",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 188; 188 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:85:789990ce5d40e498",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Round 873 to the nearest 100.",
+  "options": [
+   "873",
+   "1000",
+   "800",
+   "900"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 873; 873 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:86:c02557495aef8a46",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Round 365 to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "365",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 365; 365 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:87:0b730d847dbd09ef",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Round 997 to the nearest 100.",
+  "options": [
+   "900",
+   "1100",
+   "997",
+   "1000"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 997; 997 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:88:825e44468fac2515",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Round 808 to the nearest 100.",
+  "options": [
+   "700",
+   "808",
+   "800",
+   "900"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 808; 808 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:89:6bcfcceb7429d9be",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Round 1084 to the nearest 100.",
+  "options": [
+   "1000",
+   "1200",
+   "1084",
+   "1100"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 1084; 1084 rounds to 1100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:90:11a65e02f7548f91",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Round 880 to the nearest 100.",
+  "options": [
+   "880",
+   "800",
+   "1000",
+   "900"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 880; 880 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:91:e4309fceaf96eeac",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Round 216 to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "216",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 216; 216 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:92:29e60d777a4e438c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Round 521 to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "600",
+   "521"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 521; 521 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:93:b0994d538f5bf9ed",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Round 859 to the nearest 100.",
+  "options": [
+   "1000",
+   "800",
+   "900",
+   "859"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 859; 859 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:94:72b6711485e785dd",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Round 699 to the nearest 100.",
+  "options": [
+   "800",
+   "700",
+   "600",
+   "699"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 699; 699 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:95:7c85b203c93b4fd3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Round 183 to the nearest 100.",
+  "options": [
+   "100",
+   "300",
+   "200",
+   "183"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 183; 183 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:96:841a26529ecae9ec",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Round 592 to the nearest 100.",
+  "options": [
+   "700",
+   "500",
+   "600",
+   "592"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 592; 592 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:97:8e0064f646abb196",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Round 432 to the nearest 100.",
+  "options": [
+   "500",
+   "400",
+   "300",
+   "432"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 432; 432 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:98:64aacb73bb1b3a3b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Round 822 to the nearest 100.",
+  "options": [
+   "800",
+   "822",
+   "900",
+   "700"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 822; 822 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:99:aa58d16424c684d2",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Round 729 to the nearest 100.",
+  "options": [
+   "800",
+   "600",
+   "700",
+   "729"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 729; 729 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:100:659a7ef89d174454",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Round 639 to the nearest 100.",
+  "options": [
+   "600",
+   "500",
+   "700",
+   "639"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 639; 639 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:101:6090e15a05aa820a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Round 892 to the nearest 100.",
+  "options": [
+   "900",
+   "1000",
+   "800",
+   "892"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 892; 892 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:102:14e24e706753ad60",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Round 475 to the nearest 100.",
+  "options": [
+   "400",
+   "475",
+   "600",
+   "500"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 475; 475 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:103:5cc1f4204a910a3a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Round 119 to the nearest 100.",
+  "options": [
+   "119",
+   "200",
+   "100",
+   "101"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 119; 119 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:104:eae30921b5320fb6",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Round 115 to the nearest 100.",
+  "options": [
+   "101",
+   "100",
+   "200",
+   "115"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 115; 115 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:105:fa6d143e61b1e46d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Round 902 to the nearest 100.",
+  "options": [
+   "1000",
+   "900",
+   "800",
+   "902"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 902; 902 rounds to 900 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:106:e062f34ae02545f0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Round 958 to the nearest 100.",
+  "options": [
+   "900",
+   "958",
+   "1100",
+   "1000"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 958; 958 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:107:c0d9f233af005ec0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Round 214 to the nearest 100.",
+  "options": [
+   "300",
+   "200",
+   "214",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 214; 214 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:108:3e683d14fb7c108d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Round 602 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "602",
+   "700"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 602; 602 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:109:bb67105ccd4607e9",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Round 368 to the nearest 100.",
+  "options": [
+   "400",
+   "368",
+   "300",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 368; 368 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:110:2df6933da652711d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Round 386 to the nearest 100.",
+  "options": [
+   "386",
+   "500",
+   "400",
+   "300"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 386; 386 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:111:bb3dd94247a41583",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Round 434 to the nearest 100.",
+  "options": [
+   "434",
+   "400",
+   "500",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 434; 434 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:112:7fb58cff84ec93df",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Round 777 to the nearest 100.",
+  "options": [
+   "800",
+   "900",
+   "777",
+   "700"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 777; 777 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:113:3cd6e87681604078",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Round 359 to the nearest 100.",
+  "options": [
+   "359",
+   "300",
+   "500",
+   "400"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 359; 359 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:114:4c792901c0376e74",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Round 1063 to the nearest 100.",
+  "options": [
+   "1100",
+   "1000",
+   "1200",
+   "1063"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 1063; 1063 rounds to 1100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:115:5f2b76cdacde5460",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Round 773 to the nearest 100.",
+  "options": [
+   "800",
+   "700",
+   "773",
+   "900"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 773; 773 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:116:a6f70b41c068368c",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Round 205 to the nearest 100.",
+  "options": [
+   "205",
+   "300",
+   "200",
+   "100"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 205; 205 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:117:4ae797db1917be09",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Round 239 to the nearest 100.",
+  "options": [
+   "100",
+   "200",
+   "239",
+   "300"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 239; 239 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:118:f636aa58815428a7",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Round 611 to the nearest 100.",
+  "options": [
+   "600",
+   "611",
+   "500",
+   "700"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 611; 611 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:119:cf58acb404f5c4e0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Round 742 to the nearest 100.",
+  "options": [
+   "600",
+   "700",
+   "742",
+   "800"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 742; 742 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:120:0b6f320a578d8eec",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 120,
+  "stem": "Round 236 to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "300",
+   "236"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 236; 236 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:121:2ff020ffff4b4a01",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 121,
+  "stem": "Round 143 to the nearest 100.",
+  "options": [
+   "143",
+   "100",
+   "200",
+   "101"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 143; 143 rounds to 100 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:122:85aaa62032161def",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 122,
+  "stem": "Round 1005 to the nearest 100.",
+  "options": [
+   "900",
+   "1100",
+   "1000",
+   "1005"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1005; 1005 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:123:29d360a36aac7744",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 123,
+  "stem": "Round 223 to the nearest 100.",
+  "options": [
+   "100",
+   "223",
+   "200",
+   "300"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 223; 223 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:124:a525ba3aab48938a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 124,
+  "stem": "Round 314 to the nearest 100.",
+  "options": [
+   "400",
+   "200",
+   "314",
+   "300"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 314; 314 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:125:97ef3a1ac37aa867",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 125,
+  "stem": "Round 650 to the nearest 100.",
+  "options": [
+   "600",
+   "650",
+   "800",
+   "700"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 650; 650 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:126:47497319fd843bb3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 126,
+  "stem": "Round 1018 to the nearest 100.",
+  "options": [
+   "1100",
+   "900",
+   "1000",
+   "1018"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 1018; 1018 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:127:f46c92a7564afb64",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 127,
+  "stem": "Round 995 to the nearest 100.",
+  "options": [
+   "1100",
+   "1000",
+   "900",
+   "995"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 995; 995 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:128:9fea930a27ddec92",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 128,
+  "stem": "Round 535 to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "535",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 535; 535 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:129:960d40c9310f3d73",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 129,
+  "stem": "Round 606 to the nearest 100.",
+  "options": [
+   "600",
+   "500",
+   "606",
+   "700"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 606; 606 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:130:3524ed7bd17a3d55",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 130,
+  "stem": "Round 409 to the nearest 100.",
+  "options": [
+   "400",
+   "409",
+   "500",
+   "300"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 409; 409 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:131:2b54b23b81b43a6a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 131,
+  "stem": "Round 533 to the nearest 100.",
+  "options": [
+   "600",
+   "500",
+   "400",
+   "533"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 533; 533 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:132:dd451c106a2a8375",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 132,
+  "stem": "Round 558 to the nearest 100.",
+  "options": [
+   "500",
+   "700",
+   "558",
+   "600"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 558; 558 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:133:012f44cd1d91108f",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 133,
+  "stem": "Round 842 to the nearest 100.",
+  "options": [
+   "700",
+   "842",
+   "800",
+   "900"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 842; 842 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:134:fdb668270152cc05",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 134,
+  "stem": "Round 496 to the nearest 100.",
+  "options": [
+   "496",
+   "400",
+   "500",
+   "600"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 496; 496 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:135:0f3dce981d0096fd",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 135,
+  "stem": "Round 223 to the nearest 100.",
+  "options": [
+   "200",
+   "100",
+   "300",
+   "223"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 223; 223 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:136:acfd334684c85cbb",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 136,
+  "stem": "Round 216 to the nearest 100.",
+  "options": [
+   "300",
+   "216",
+   "100",
+   "200"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 216; 216 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:137:d2d5e4632f7aeaba",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 137,
+  "stem": "Round 712 to the nearest 100.",
+  "options": [
+   "600",
+   "700",
+   "800",
+   "712"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 712; 712 rounds to 700 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:138:e40beae5b879db95",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 138,
+  "stem": "Round 1036 to the nearest 100.",
+  "options": [
+   "1000",
+   "1100",
+   "1036",
+   "900"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 1036; 1036 rounds to 1000 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:139:9d600d72da9e9437",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 139,
+  "stem": "Round 464 to the nearest 100.",
+  "options": [
+   "500",
+   "600",
+   "400",
+   "464"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 464; 464 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:140:1086fc5280a3064b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 140,
+  "stem": "Round 819 to the nearest 100.",
+  "options": [
+   "700",
+   "800",
+   "900",
+   "819"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 819; 819 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:141:8e5db5133682a98b",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 141,
+  "stem": "Round 242 to the nearest 100.",
+  "options": [
+   "200",
+   "242",
+   "300",
+   "100"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 242; 242 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:142:c947090e9ff07e5d",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 142,
+  "stem": "Round 260 to the nearest 100.",
+  "options": [
+   "400",
+   "300",
+   "260",
+   "200"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 260; 260 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:143:c6ffb128ac6615d0",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 143,
+  "stem": "Round 266 to the nearest 100.",
+  "options": [
+   "266",
+   "300",
+   "200",
+   "400"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 266; 266 rounds to 300 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:144:5bee9825185ab310",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 144,
+  "stem": "Round 608 to the nearest 100.",
+  "options": [
+   "608",
+   "500",
+   "600",
+   "700"
+  ],
+  "answer_index": 2,
+  "explanation": "Look at the tens digit of 608; 608 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:145:971bb68285771112",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 145,
+  "stem": "Round 557 to the nearest 100.",
+  "options": [
+   "600",
+   "700",
+   "557",
+   "500"
+  ],
+  "answer_index": 0,
+  "explanation": "Look at the tens digit of 557; 557 rounds to 600 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:146:9665a84f49d780b3",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 146,
+  "stem": "Round 189 to the nearest 100.",
+  "options": [
+   "189",
+   "200",
+   "300",
+   "100"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 189; 189 rounds to 200 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:147:1e912532daad3907",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 147,
+  "stem": "Round 802 to the nearest 100.",
+  "options": [
+   "802",
+   "800",
+   "900",
+   "700"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 802; 802 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:148:4a983d05dc237d10",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 148,
+  "stem": "Round 399 to the nearest 100.",
+  "options": [
+   "500",
+   "400",
+   "300",
+   "399"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 399; 399 rounds to 400 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:149:3d957b6df6f7138a",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 149,
+  "stem": "Round 483 to the nearest 100.",
+  "options": [
+   "400",
+   "500",
+   "483",
+   "600"
+  ],
+  "answer_index": 1,
+  "explanation": "Look at the tens digit of 483; 483 rounds to 500 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "reg:rounding:150:77a57d169899bb51",
+  "topic_id": "MA-A05",
+  "qtype": "rounding",
+  "level": 2,
+  "generator": "reg:rounding",
+  "generator_version": 1,
+  "seed": 150,
+  "stem": "Round 833 to the nearest 100.",
+  "options": [
+   "700",
+   "900",
+   "833",
+   "800"
+  ],
+  "answer_index": 3,
+  "explanation": "Look at the tens digit of 833; 833 rounds to 800 (nearest 100).",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "ok"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

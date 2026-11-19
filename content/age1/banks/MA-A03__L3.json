@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:compare_calc:3:4c1d517c5d15985a",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Which is larger: 10 × 10 or 99? Give the larger value.",
+  "options": [
+   "101",
+   "199",
+   "100",
+   "99"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:9ddbbc97758a66f0",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Which is larger: 7 × 9 or 62? Give the larger value.",
+  "options": [
+   "63",
+   "125",
+   "64",
+   "62"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 63.",
+  "distractor_explanations": [
+   null,
+   "added them instead of comparing",
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:680a6b50baeeb254",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Which is larger: 7 × 12 or 85? Give the larger value.",
+  "options": [
+   "85",
+   "86",
+   "84",
+   "169"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 85.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:19ab89a4e0f5e584",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Which is larger: 7 × 4 or 25? Give the larger value.",
+  "options": [
+   "29",
+   "25",
+   "28",
+   "53"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 28.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:5b0c5b1a52c21a7b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Which is larger: 4 × 5 or 17? Give the larger value.",
+  "options": [
+   "37",
+   "20",
+   "21",
+   "17"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 20.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:6b1859d2ef82bf31",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Which is larger: 9 × 11 or 96? Give the larger value.",
+  "options": [
+   "100",
+   "195",
+   "96",
+   "99"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 99.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d505183128a622a8",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Which is larger: 7 × 8 or 55? Give the larger value.",
+  "options": [
+   "111",
+   "55",
+   "56",
+   "57"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 56.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:809fcd3bc9a8ee56",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Which is larger: 12 × 7 or 83? Give the larger value.",
+  "options": [
+   "167",
+   "83",
+   "84",
+   "85"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 84.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:fad027f4c38a001c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Which is larger: 6 × 5 or 27? Give the larger value.",
+  "options": [
+   "27",
+   "31",
+   "30",
+   "57"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 30.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:2fe228044eb8b0d4",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Which is larger: 4 × 5 or 23? Give the larger value.",
+  "options": [
+   "43",
+   "24",
+   "20",
+   "23"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 23.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:7a1f403311c51b4c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Which is larger: 4 × 3 or 13? Give the larger value.",
+  "options": [
+   "13",
+   "25",
+   "14",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 13.",
+  "distractor_explanations": [
+   null,
+   "added them instead of comparing",
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:226625407da45df2",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Which is larger: 6 × 6 or 31? Give the larger value.",
+  "options": [
+   "36",
+   "37",
+   "67",
+   "31"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:9703d492712b8724",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Which is larger: 6 × 11 or 71? Give the larger value.",
+  "options": [
+   "137",
+   "72",
+   "71",
+   "66"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 71.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:b74c2f4ccd9dbf61",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Which is larger: 5 × 9 or 48? Give the larger value.",
+  "options": [
+   "45",
+   "93",
+   "48",
+   "49"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 48.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d49947523ff505f2",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Which is larger: 11 × 10 or 109? Give the larger value.",
+  "options": [
+   "219",
+   "111",
+   "110",
+   "109"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 110.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:6c36c07d698638f0",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Which is larger: 10 × 11 or 107? Give the larger value.",
+  "options": [
+   "110",
+   "111",
+   "107",
+   "217"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 110.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:69f2e20a15c24fcf",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Which is larger: 7 × 10 or 67? Give the larger value.",
+  "options": [
+   "67",
+   "70",
+   "71",
+   "137"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 70.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:ff1c5f6e105c199e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Which is larger: 10 × 4 or 45? Give the larger value.",
+  "options": [
+   "85",
+   "45",
+   "40",
+   "46"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 45.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "gave the smaller value",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:750bf25ae491fd11",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Which is larger: 9 × 6 or 55? Give the larger value.",
+  "options": [
+   "55",
+   "56",
+   "54",
+   "109"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 55.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:eacd2eb1c86d4083",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Which is larger: 7 × 3 or 20? Give the larger value.",
+  "options": [
+   "22",
+   "20",
+   "41",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 21.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:4534935425310bc3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Which is larger: 11 × 3 or 28? Give the larger value.",
+  "options": [
+   "61",
+   "28",
+   "34",
+   "33"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:7974f10bfd87d1f3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Which is larger: 3 × 9 or 30? Give the larger value.",
+  "options": [
+   "31",
+   "30",
+   "27",
+   "57"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 30.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e73f330ff19e3540",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Which is larger: 11 × 3 or 34? Give the larger value.",
+  "options": [
+   "33",
+   "67",
+   "34",
+   "35"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 34.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:15b462db1d2623b3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Which is larger: 7 × 3 or 26? Give the larger value.",
+  "options": [
+   "21",
+   "27",
+   "47",
+   "26"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 26.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:6ed55461695dc21c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Which is larger: 3 × 11 or 28? Give the larger value.",
+  "options": [
+   "34",
+   "33",
+   "28",
+   "61"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:f98933ab55a6e7e6",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Which is larger: 8 × 10 or 83? Give the larger value.",
+  "options": [
+   "84",
+   "83",
+   "80",
+   "163"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 83.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:662f6e44f7956c2e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Which is larger: 10 × 10 or 95? Give the larger value.",
+  "options": [
+   "101",
+   "95",
+   "100",
+   "195"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:8f28ce889644af51",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Which is larger: 11 × 12 or 127? Give the larger value.",
+  "options": [
+   "133",
+   "132",
+   "259",
+   "127"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 132.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3f37f35bbcd8a2f5",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Which is larger: 3 × 11 or 36? Give the larger value.",
+  "options": [
+   "37",
+   "36",
+   "69",
+   "33"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:041319b89d1f9580",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Which is larger: 12 × 11 or 129? Give the larger value.",
+  "options": [
+   "129",
+   "261",
+   "132",
+   "133"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 132.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:cbb5c4a3ec6926c8",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Which is larger: 10 × 5 or 49? Give the larger value.",
+  "options": [
+   "99",
+   "49",
+   "51",
+   "50"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 50.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:64f41b6757fd0a05",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Which is larger: 8 × 11 or 87? Give the larger value.",
+  "options": [
+   "89",
+   "175",
+   "87",
+   "88"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 88.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:160c5bed6d622184",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Which is larger: 5 × 11 or 50? Give the larger value.",
+  "options": [
+   "55",
+   "56",
+   "50",
+   "105"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 55.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e7fcde9a8539bd84",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Which is larger: 7 × 9 or 68? Give the larger value.",
+  "options": [
+   "131",
+   "63",
+   "68",
+   "69"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 68.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3d3be5888d62b73c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Which is larger: 6 × 4 or 29? Give the larger value.",
+  "options": [
+   "53",
+   "29",
+   "24",
+   "30"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 29.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "gave the smaller value",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d5b037b675cca8b5",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Which is larger: 10 × 4 or 43? Give the larger value.",
+  "options": [
+   "40",
+   "83",
+   "44",
+   "43"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 43.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:8aa9039c0bc60fcf",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Which is larger: 9 × 3 or 24? Give the larger value.",
+  "options": [
+   "51",
+   "24",
+   "28",
+   "27"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 27.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:517861eeb3400e48",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Which is larger: 8 × 3 or 25? Give the larger value.",
+  "options": [
+   "26",
+   "24",
+   "49",
+   "25"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 25.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:737eda15402cb694",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Which is larger: 5 × 3 or 16? Give the larger value.",
+  "options": [
+   "31",
+   "15",
+   "16",
+   "17"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 16.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:03ace41254e31113",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Which is larger: 10 × 4 or 41? Give the larger value.",
+  "options": [
+   "40",
+   "42",
+   "81",
+   "41"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 41.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:515a05843f074869",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Which is larger: 12 × 5 or 61? Give the larger value.",
+  "options": [
+   "62",
+   "61",
+   "60",
+   "121"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 61.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:0592ae316448197a",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Which is larger: 5 × 11 or 58? Give the larger value.",
+  "options": [
+   "58",
+   "55",
+   "113",
+   "59"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 58.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:8549cfd28bd910b4",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Which is larger: 6 × 6 or 33? Give the larger value.",
+  "options": [
+   "33",
+   "36",
+   "37",
+   "69"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:df2cd89f929aceb1",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Which is larger: 5 × 7 or 34? Give the larger value.",
+  "options": [
+   "35",
+   "34",
+   "36",
+   "69"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 35.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:39353c9a22e88986",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which is larger: 6 × 9 or 49? Give the larger value.",
+  "options": [
+   "55",
+   "54",
+   "49",
+   "103"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 54.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:8181d35595d84b8b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Which is larger: 7 × 5 or 34? Give the larger value.",
+  "options": [
+   "35",
+   "34",
+   "69",
+   "36"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 35.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:2e7d224461a7e863",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Which is larger: 10 × 10 or 97? Give the larger value.",
+  "options": [
+   "97",
+   "197",
+   "101",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 100.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:af74ffb84672f56b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Which is larger: 8 × 4 or 35? Give the larger value.",
+  "options": [
+   "36",
+   "67",
+   "32",
+   "35"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 35.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:4226e0e541206a81",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Which is larger: 12 × 10 or 119? Give the larger value.",
+  "options": [
+   "119",
+   "121",
+   "239",
+   "120"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 120.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:99bfd71524fdaabc",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Which is larger: 3 × 10 or 33? Give the larger value.",
+  "options": [
+   "33",
+   "34",
+   "30",
+   "63"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e517dd7ffc06b099",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Which is larger: 11 × 3 or 30? Give the larger value.",
+  "options": [
+   "30",
+   "33",
+   "34",
+   "63"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:305614f60434fcca",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Which is larger: 5 × 9 or 46? Give the larger value.",
+  "options": [
+   "45",
+   "46",
+   "91",
+   "47"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 46.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:c51f88d6ca76b5c8",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Which is larger: 12 × 12 or 139? Give the larger value.",
+  "options": [
+   "145",
+   "144",
+   "139",
+   "283"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 144.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:c9537a10e5733c66",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Which is larger: 4 × 8 or 33? Give the larger value.",
+  "options": [
+   "32",
+   "34",
+   "33",
+   "65"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:587c1752dbcceff0",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Which is larger: 9 × 9 or 84? Give the larger value.",
+  "options": [
+   "165",
+   "84",
+   "85",
+   "81"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 84.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:6669ede28f71a5f8",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Which is larger: 8 × 5 or 41? Give the larger value.",
+  "options": [
+   "42",
+   "41",
+   "40",
+   "81"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 41.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:09c0b12bf9c11e75",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Which is larger: 10 × 7 or 73? Give the larger value.",
+  "options": [
+   "143",
+   "74",
+   "73",
+   "70"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 73.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:2cfa865b7b70fe9f",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Which is larger: 9 × 6 or 53? Give the larger value.",
+  "options": [
+   "54",
+   "55",
+   "107",
+   "53"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 54.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:c5ed540594bb07a7",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Which is larger: 11 × 5 or 60? Give the larger value.",
+  "options": [
+   "60",
+   "55",
+   "61",
+   "115"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 60.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3810f6924d6f71f4",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Which is larger: 3 × 9 or 22? Give the larger value.",
+  "options": [
+   "28",
+   "27",
+   "22",
+   "49"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 27.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d1aba19f5e1db76b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Which is larger: 7 × 6 or 43? Give the larger value.",
+  "options": [
+   "85",
+   "43",
+   "44",
+   "42"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 43.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:017687eadc543a60",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Which is larger: 10 × 11 or 113? Give the larger value.",
+  "options": [
+   "113",
+   "110",
+   "223",
+   "114"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 113.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:afa7e2a475f2cc3f",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Which is larger: 11 × 9 or 94? Give the larger value.",
+  "options": [
+   "193",
+   "94",
+   "100",
+   "99"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 99.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:46573c2ab233da96",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Which is larger: 11 × 4 or 45? Give the larger value.",
+  "options": [
+   "89",
+   "46",
+   "44",
+   "45"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 45.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:8e6d55d080024b09",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Which is larger: 8 × 6 or 45? Give the larger value.",
+  "options": [
+   "45",
+   "48",
+   "49",
+   "93"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 48.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d6844518459dbc23",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Which is larger: 11 × 9 or 100? Give the larger value.",
+  "options": [
+   "101",
+   "99",
+   "199",
+   "100"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 100.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e6cbd6e0c16ba69e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Which is larger: 7 × 8 or 51? Give the larger value.",
+  "options": [
+   "56",
+   "51",
+   "57",
+   "107"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 56.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:d6bd50194e39e5f3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Which is larger: 5 × 3 or 10? Give the larger value.",
+  "options": [
+   "15",
+   "25",
+   "10",
+   "16"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 15.",
+  "distractor_explanations": [
+   null,
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:0dc8dba76fbef805",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Which is larger: 9 × 11 or 98? Give the larger value.",
+  "options": [
+   "100",
+   "99",
+   "197",
+   "98"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 99.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:90f040bd09d38701",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Which is larger: 9 × 4 or 33? Give the larger value.",
+  "options": [
+   "37",
+   "33",
+   "36",
+   "69"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:2b6020e45256a82b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which is larger: 10 × 5 or 53? Give the larger value.",
+  "options": [
+   "53",
+   "103",
+   "50",
+   "54"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 53.",
+  "distractor_explanations": [
+   null,
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:9cca92dbaac9dbf3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Which is larger: 9 × 5 or 46? Give the larger value.",
+  "options": [
+   "47",
+   "91",
+   "46",
+   "45"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 46.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:fb7c5bfd010f9a20",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Which is larger: 12 × 7 or 81? Give the larger value.",
+  "options": [
+   "84",
+   "85",
+   "81",
+   "165"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 84.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:1a37d890e98f6793",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Which is larger: 8 × 10 or 75? Give the larger value.",
+  "options": [
+   "80",
+   "81",
+   "75",
+   "155"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 80.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:699c2a53fd868352",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Which is larger: 5 × 6 or 35? Give the larger value.",
+  "options": [
+   "36",
+   "65",
+   "30",
+   "35"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 35.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:0f179b856d902d7b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Which is larger: 8 × 11 or 91? Give the larger value.",
+  "options": [
+   "91",
+   "88",
+   "179",
+   "92"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 91.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3d09f2a0a948a24a",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Which is larger: 9 × 7 or 62? Give the larger value.",
+  "options": [
+   "125",
+   "62",
+   "63",
+   "64"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 63.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:1f2a286c7a7ec827",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Which is larger: 12 × 3 or 33? Give the larger value.",
+  "options": [
+   "33",
+   "69",
+   "36",
+   "37"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:347a7adcccfb7298",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Which is larger: 11 × 12 or 129? Give the larger value.",
+  "options": [
+   "261",
+   "133",
+   "129",
+   "132"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 132.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:9b1d4ab7956bb2d6",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Which is larger: 11 × 5 or 58? Give the larger value.",
+  "options": [
+   "113",
+   "58",
+   "55",
+   "59"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 58.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "gave the smaller value",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3f49a7de9d8c2f38",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Which is larger: 8 × 11 or 83? Give the larger value.",
+  "options": [
+   "171",
+   "83",
+   "89",
+   "88"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 88.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3311dd5c2f9791b7",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Which is larger: 8 × 10 or 79? Give the larger value.",
+  "options": [
+   "159",
+   "79",
+   "81",
+   "80"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 80.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:9a1f30ae2f098375",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Which is larger: 3 × 6 or 21? Give the larger value.",
+  "options": [
+   "22",
+   "39",
+   "18",
+   "21"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 21.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:66137553f3762b23",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Which is larger: 7 × 6 or 39? Give the larger value.",
+  "options": [
+   "42",
+   "39",
+   "43",
+   "81"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 42.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:686351d7098730fa",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Which is larger: 11 × 4 or 49? Give the larger value.",
+  "options": [
+   "49",
+   "44",
+   "50",
+   "93"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 49.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:f4ab68fb7c6e3dae",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Which is larger: 12 × 7 or 89? Give the larger value.",
+  "options": [
+   "90",
+   "89",
+   "84",
+   "173"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 89.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:f5c10637e35bd499",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Which is larger: 3 × 3 or 4? Give the larger value.",
+  "options": [
+   "4",
+   "10",
+   "9",
+   "13"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 9.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:ce84eedafbe4b511",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Which is larger: 12 × 10 or 115? Give the larger value.",
+  "options": [
+   "121",
+   "120",
+   "235",
+   "115"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 120.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:830fab7d69cadd2c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Which is larger: 9 × 10 or 93? Give the larger value.",
+  "options": [
+   "90",
+   "94",
+   "183",
+   "93"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 93.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:7bb01858cdd01a07",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Which is larger: 4 × 8 or 37? Give the larger value.",
+  "options": [
+   "32",
+   "38",
+   "69",
+   "37"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 37.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:00ba5d7ddc49c92f",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Which is larger: 11 × 12 or 137? Give the larger value.",
+  "options": [
+   "137",
+   "138",
+   "269",
+   "132"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 137.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e9f95fdb066cbd49",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Which is larger: 8 × 12 or 91? Give the larger value.",
+  "options": [
+   "91",
+   "97",
+   "187",
+   "96"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 96.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:3c7ccc251676ff31",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Which is larger: 12 × 5 or 55? Give the larger value.",
+  "options": [
+   "55",
+   "115",
+   "60",
+   "61"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 60.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "added them instead of comparing",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:ac95d8815b27d9a7",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Which is larger: 7 × 7 or 48? Give the larger value.",
+  "options": [
+   "48",
+   "50",
+   "97",
+   "49"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 49.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:85ee1d42eb7f694e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Which is larger: 12 × 4 or 51? Give the larger value.",
+  "options": [
+   "99",
+   "51",
+   "52",
+   "48"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 51.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:01ef308f493fd650",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Which is larger: 10 × 11 or 115? Give the larger value.",
+  "options": [
+   "225",
+   "116",
+   "115",
+   "110"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 115.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "made a small slip",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:ef49135036b5097e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Which is larger: 7 × 10 or 65? Give the larger value.",
+  "options": [
+   "65",
+   "70",
+   "71",
+   "135"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 70.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:b27eec5b2fc4280c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Which is larger: 8 × 3 or 21? Give the larger value.",
+  "options": [
+   "25",
+   "45",
+   "21",
+   "24"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:94371bdfe690647f",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Which is larger: 8 × 8 or 63? Give the larger value.",
+  "options": [
+   "64",
+   "65",
+   "127",
+   "63"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 64.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:7921760a2706c14e",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Which is larger: 6 × 12 or 71? Give the larger value.",
+  "options": [
+   "72",
+   "71",
+   "73",
+   "143"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 72.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:0917be3a65bb882c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Which is larger: 11 × 8 or 87? Give the larger value.",
+  "options": [
+   "89",
+   "88",
+   "87",
+   "175"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 88.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:69c33e6c7c7022f4",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Which is larger: 4 × 11 or 47? Give the larger value.",
+  "options": [
+   "91",
+   "44",
+   "48",
+   "47"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 47.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:88a4f7789d727add",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Which is larger: 3 × 4 or 13? Give the larger value.",
+  "options": [
+   "13",
+   "14",
+   "25",
+   "12"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 13.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:e6cf9c2ca49bc5f8",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Which is larger: 4 × 6 or 27? Give the larger value.",
+  "options": [
+   "27",
+   "28",
+   "51",
+   "24"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 27.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:5cdb36cf5a72a9e3",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Which is larger: 9 × 9 or 76? Give the larger value.",
+  "options": [
+   "81",
+   "82",
+   "76",
+   "157"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 81.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:38e6d57f577916f7",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Which is larger: 11 × 11 or 124? Give the larger value.",
+  "options": [
+   "245",
+   "124",
+   "125",
+   "121"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 124.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   null,
+   "made a small slip",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:051821f50cdf99d1",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Which is larger: 4 × 10 or 39? Give the larger value.",
+  "options": [
+   "40",
+   "39",
+   "41",
+   "79"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 40.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:4caedaaf7df451fb",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Which is larger: 3 × 12 or 35? Give the larger value.",
+  "options": [
+   "36",
+   "35",
+   "37",
+   "71"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:cecb7780d26ba0d6",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Which is larger: 8 × 7 or 57? Give the larger value.",
+  "options": [
+   "56",
+   "57",
+   "58",
+   "113"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 57.",
+  "distractor_explanations": [
+   "gave the smaller value",
+   null,
+   "made a small slip",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:751f6a57dc593dec",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Which is larger: 5 × 7 or 36? Give the larger value.",
+  "options": [
+   "37",
+   "35",
+   "36",
+   "71"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 36.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   null,
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:23bbe7c8df8883ba",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Which is larger: 3 × 11 or 32? Give the larger value.",
+  "options": [
+   "33",
+   "32",
+   "65",
+   "34"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 33.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:70f3e07f98abb0e1",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Which is larger: 12 × 6 or 77? Give the larger value.",
+  "options": [
+   "77",
+   "78",
+   "149",
+   "72"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 77.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "added them instead of comparing",
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:030c13d1f3c5ed72",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Which is larger: 6 × 11 or 63? Give the larger value.",
+  "options": [
+   "66",
+   "63",
+   "129",
+   "67"
+  ],
+  "answer_index": 0,
+  "explanation": "Work out both, then pick the larger: 66.",
+  "distractor_explanations": [
+   null,
+   "gave the smaller value",
+   "added them instead of comparing",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:dac8e49b668e8e4b",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Which is larger: 5 × 8 or 35? Give the larger value.",
+  "options": [
+   "41",
+   "40",
+   "35",
+   "75"
+  ],
+  "answer_index": 1,
+  "explanation": "Work out both, then pick the larger: 40.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the smaller value",
+   "added them instead of comparing"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:ad72d7c39b07a902",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Which is larger: 4 × 5 or 25? Give the larger value.",
+  "options": [
+   "26",
+   "45",
+   "25",
+   "20"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 25.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:a1c014c3b46048ab",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Which is larger: 5 × 7 or 40? Give the larger value.",
+  "options": [
+   "75",
+   "35",
+   "40",
+   "41"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 40.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:bae9a78de8991d41",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Which is larger: 11 × 6 or 71? Give the larger value.",
+  "options": [
+   "72",
+   "66",
+   "137",
+   "71"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 71.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the smaller value",
+   "added them instead of comparing",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:853990c0e9d61f7c",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Which is larger: 6 × 4 or 19? Give the larger value.",
+  "options": [
+   "25",
+   "43",
+   "24",
+   "19"
+  ],
+  "answer_index": 2,
+  "explanation": "Work out both, then pick the larger: 24.",
+  "distractor_explanations": [
+   "made a small slip",
+   "added them instead of comparing",
+   null,
+   "gave the smaller value"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:07e950005ed4353f",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Which is larger: 12 × 11 or 135? Give the larger value.",
+  "options": [
+   "267",
+   "132",
+   "136",
+   "135"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 135.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:compare_calc:3:1164176df9a71244",
+  "topic_id": "MA-A03",
+  "qtype": "l35:compare_calc",
+  "level": 3,
+  "generator": "l35:compare_calc",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Which is larger: 5 × 5 or 30? Give the larger value.",
+  "options": [
+   "55",
+   "25",
+   "31",
+   "30"
+  ],
+  "answer_index": 3,
+  "explanation": "Work out both, then pick the larger: 30.",
+  "distractor_explanations": [
+   "added them instead of comparing",
+   "gave the smaller value",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

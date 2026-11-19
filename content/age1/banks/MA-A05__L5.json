@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:estimate:5:7dd9f08f8ae537e1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Estimate (419 + 332) × 6 by rounding 419 and 332 to the nearest 100.",
+  "options": [
+   "4506",
+   "4200",
+   "4300",
+   "2200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:943d53f4625bd3c4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Estimate (454 + 632) × 2 by rounding 454 and 632 to the nearest 100.",
+  "options": [
+   "2172",
+   "1700",
+   "2200",
+   "2300"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:1fd3c9e4025c2a41",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Estimate (379 + 435) × 7 by rounding 379 and 435 to the nearest 100.",
+  "options": [
+   "5700",
+   "3200",
+   "5698",
+   "5600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8b5e925a04bf2a35",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Estimate (767 + 695) × 2 by rounding 767 and 695 to the nearest 100.",
+  "options": [
+   "3000",
+   "2200",
+   "3100",
+   "2924"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7244b0fe99723930",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Estimate (566 + 724) × 3 by rounding 566 and 724 to the nearest 100.",
+  "options": [
+   "3870",
+   "2700",
+   "3900",
+   "4000"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3900.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:1649248890c6fc82",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Estimate (692 + 632) × 4 by rounding 692 and 632 to the nearest 100.",
+  "options": [
+   "3100",
+   "5300",
+   "5200",
+   "5296"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 5200.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8c4a6be36ebb70c6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Estimate (756 + 819) × 8 by rounding 756 and 819 to the nearest 100.",
+  "options": [
+   "12900",
+   "12600",
+   "7200",
+   "12800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 12800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a1b9155ac87f0391",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Estimate (797 + 799) × 3 by rounding 797 and 799 to the nearest 100.",
+  "options": [
+   "4900",
+   "4788",
+   "4800",
+   "3200"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:3fd2f3461f827a26",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Estimate (742 + 803) × 2 by rounding 742 and 803 to the nearest 100.",
+  "options": [
+   "3000",
+   "3090",
+   "3100",
+   "2300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ba877cbb114fae10",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Estimate (817 + 804) × 2 by rounding 817 and 804 to the nearest 100.",
+  "options": [
+   "2400",
+   "3242",
+   "3300",
+   "3200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3200.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:1ad59642f723d2a9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Estimate (219 + 451) × 9 by rounding 219 and 451 to the nearest 100.",
+  "options": [
+   "4700",
+   "6400",
+   "6300",
+   "6030"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6300.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:eb02c69fbd957bc6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Estimate (688 + 769) × 7 by rounding 688 and 769 to the nearest 100.",
+  "options": [
+   "6300",
+   "10600",
+   "10500",
+   "10199"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 10500.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ed289a7ef5714b04",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Estimate (498 + 627) × 6 by rounding 498 and 627 to the nearest 100.",
+  "options": [
+   "4100",
+   "6600",
+   "6700",
+   "6750"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 6600.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:b9b63caa37c0f609",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Estimate (315 + 490) × 9 by rounding 315 and 490 to the nearest 100.",
+  "options": [
+   "4800",
+   "7200",
+   "7300",
+   "7245"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:c690c8c12f5303b5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Estimate (500 + 241) × 8 by rounding 500 and 241 to the nearest 100.",
+  "options": [
+   "2100",
+   "5700",
+   "5928",
+   "5600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:05046a0e6c346e43",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Estimate (724 + 356) × 4 by rounding 724 and 356 to the nearest 100.",
+  "options": [
+   "4320",
+   "2300",
+   "4400",
+   "4500"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:129596bc9183cbf5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Estimate (564 + 622) × 4 by rounding 564 and 622 to the nearest 100.",
+  "options": [
+   "4900",
+   "4800",
+   "4744",
+   "3000"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:2e5e0729e7aca85c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Estimate (813 + 722) × 5 by rounding 813 and 722 to the nearest 100.",
+  "options": [
+   "7600",
+   "7500",
+   "7675",
+   "4300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7500.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8f3f49055dcb41df",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Estimate (733 + 497) × 7 by rounding 733 and 497 to the nearest 100.",
+  "options": [
+   "4200",
+   "8400",
+   "8500",
+   "8610"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 8400.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:dea6cb3763e8f530",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Estimate (321 + 348) × 2 by rounding 321 and 348 to the nearest 100.",
+  "options": [
+   "1200",
+   "1300",
+   "1338",
+   "900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:1d954d27e5af3e95",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Estimate (518 + 273) × 8 by rounding 518 and 273 to the nearest 100.",
+  "options": [
+   "6500",
+   "6328",
+   "6400",
+   "2900"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6400.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a1d19aaef9d29b08",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Estimate (646 + 489) × 4 by rounding 646 and 489 to the nearest 100.",
+  "options": [
+   "2600",
+   "4400",
+   "4500",
+   "4540"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4400.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:42dae1a7051e26af",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Estimate (188 + 259) × 6 by rounding 188 and 259 to the nearest 100.",
+  "options": [
+   "3100",
+   "3000",
+   "2682",
+   "2000"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:e41edc044e7fa5e0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Estimate (520 + 681) × 5 by rounding 520 and 681 to the nearest 100.",
+  "options": [
+   "6000",
+   "4000",
+   "6005",
+   "6100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 6000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7447e5f7a4460379",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Estimate (713 + 645) × 3 by rounding 713 and 645 to the nearest 100.",
+  "options": [
+   "2500",
+   "4074",
+   "3900",
+   "4000"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3900.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:73f9d02fdcba63b0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Estimate (466 + 522) × 3 by rounding 466 and 522 to the nearest 100.",
+  "options": [
+   "2964",
+   "2000",
+   "3000",
+   "3100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:2de46b7bc58f3017",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Estimate (753 + 509) × 3 by rounding 753 and 509 to the nearest 100.",
+  "options": [
+   "2300",
+   "3786",
+   "3900",
+   "4000"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3900.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:2d05beb5c567ef77",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Estimate (684 + 651) × 5 by rounding 684 and 651 to the nearest 100.",
+  "options": [
+   "7100",
+   "4200",
+   "6675",
+   "7000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 7000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:6e57962f504b2b59",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Estimate (209 + 318) × 5 by rounding 209 and 318 to the nearest 100.",
+  "options": [
+   "2500",
+   "2600",
+   "2635",
+   "1700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2500.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:00b985c18730a21c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Estimate (700 + 262) × 7 by rounding 700 and 262 to the nearest 100.",
+  "options": [
+   "7100",
+   "7000",
+   "2800",
+   "6734"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7000.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:6bff4382f463f787",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Estimate (501 + 209) × 7 by rounding 501 and 209 to the nearest 100.",
+  "options": [
+   "5000",
+   "4900",
+   "1900",
+   "4970"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8b66f706ec8328f5",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Estimate (390 + 796) × 2 by rounding 390 and 796 to the nearest 100.",
+  "options": [
+   "2372",
+   "2500",
+   "2000",
+   "2400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ebb56eb9db85acaf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Estimate (448 + 435) × 9 by rounding 448 and 435 to the nearest 100.",
+  "options": [
+   "7947",
+   "4000",
+   "7200",
+   "7300"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:569cf7cd52945d4c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Estimate (725 + 760) × 6 by rounding 725 and 760 to the nearest 100.",
+  "options": [
+   "5500",
+   "9000",
+   "8910",
+   "9100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:47edac23acf1371c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Estimate (191 + 632) × 7 by rounding 191 and 632 to the nearest 100.",
+  "options": [
+   "5700",
+   "4400",
+   "5600",
+   "5761"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:97215b7a7361d861",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Estimate (633 + 395) × 9 by rounding 633 and 395 to the nearest 100.",
+  "options": [
+   "9000",
+   "4200",
+   "9252",
+   "9100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:f8feb368855a6b21",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Estimate (412 + 764) × 8 by rounding 412 and 764 to the nearest 100.",
+  "options": [
+   "9700",
+   "9600",
+   "6800",
+   "9408"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 9600.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:3ec7afed8ee3b068",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Estimate (344 + 352) × 9 by rounding 344 and 352 to the nearest 100.",
+  "options": [
+   "6300",
+   "6264",
+   "6400",
+   "3900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 6300.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4d2aba285896c2b6",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Estimate (315 + 677) × 3 by rounding 315 and 677 to the nearest 100.",
+  "options": [
+   "3100",
+   "3000",
+   "2976",
+   "2400"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:91aa344395f3dff0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Estimate (511 + 218) × 6 by rounding 511 and 218 to the nearest 100.",
+  "options": [
+   "4300",
+   "1700",
+   "4200",
+   "4374"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7b124dd0501d8f04",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Estimate (686 + 309) × 5 by rounding 686 and 309 to the nearest 100.",
+  "options": [
+   "5100",
+   "4975",
+   "2200",
+   "5000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:bbf85a0162d526bf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Estimate (228 + 633) × 7 by rounding 228 and 633 to the nearest 100.",
+  "options": [
+   "6027",
+   "4400",
+   "5600",
+   "5700"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a10f6fa7c05374fe",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Estimate (714 + 298) × 6 by rounding 714 and 298 to the nearest 100.",
+  "options": [
+   "6072",
+   "6000",
+   "6100",
+   "2500"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 6000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:e3db5ccee02929aa",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Estimate (483 + 694) × 6 by rounding 483 and 694 to the nearest 100.",
+  "options": [
+   "7062",
+   "7200",
+   "4700",
+   "7300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7bd59204d00dd8f4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Estimate (649 + 449) × 4 by rounding 649 and 449 to the nearest 100.",
+  "options": [
+   "4392",
+   "4100",
+   "2200",
+   "4000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4e8180ff1b23eb0d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Estimate (668 + 762) × 6 by rounding 668 and 762 to the nearest 100.",
+  "options": [
+   "9100",
+   "5500",
+   "8580",
+   "9000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:67f4b71b135285cf",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Estimate (810 + 344) × 9 by rounding 810 and 344 to the nearest 100.",
+  "options": [
+   "9900",
+   "3500",
+   "10386",
+   "10000"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 9900.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:11e0e9d4ab55ccdb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Estimate (185 + 723) × 6 by rounding 185 and 723 to the nearest 100.",
+  "options": [
+   "5400",
+   "5500",
+   "5448",
+   "4400"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 5400.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7eab361e2a7f5a00",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Estimate (358 + 677) × 3 by rounding 358 and 677 to the nearest 100.",
+  "options": [
+   "3105",
+   "3400",
+   "2500",
+   "3300"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3300.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:c0cb5297ffb91803",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Estimate (562 + 404) × 9 by rounding 562 and 404 to the nearest 100.",
+  "options": [
+   "8694",
+   "9000",
+   "4200",
+   "9100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:b2e982b5e6222b81",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Estimate (255 + 498) × 9 by rounding 255 and 498 to the nearest 100.",
+  "options": [
+   "4800",
+   "7200",
+   "7300",
+   "6777"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:11d8c52bad6bf868",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Estimate (741 + 468) × 4 by rounding 741 and 468 to the nearest 100.",
+  "options": [
+   "4900",
+   "4836",
+   "2700",
+   "4800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ce5e43a1e21fcb00",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Estimate (304 + 391) × 5 by rounding 304 and 391 to the nearest 100.",
+  "options": [
+   "3500",
+   "3600",
+   "2300",
+   "3475"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7ef8cb771d106a42",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Estimate (446 + 567) × 4 by rounding 446 and 567 to the nearest 100.",
+  "options": [
+   "2800",
+   "4052",
+   "4000",
+   "4100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:baeae6182238d0af",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Estimate (540 + 370) × 8 by rounding 540 and 370 to the nearest 100.",
+  "options": [
+   "3700",
+   "7200",
+   "7280",
+   "7300"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4359c8e2ebe60136",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Estimate (286 + 507) × 9 by rounding 286 and 507 to the nearest 100.",
+  "options": [
+   "7200",
+   "7137",
+   "7300",
+   "4800"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 7200.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:850796ccba72279b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Estimate (356 + 364) × 5 by rounding 356 and 364 to the nearest 100.",
+  "options": [
+   "4100",
+   "4000",
+   "2400",
+   "3600"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:bdc69143aad99822",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Estimate (399 + 241) × 2 by rounding 399 and 241 to the nearest 100.",
+  "options": [
+   "1200",
+   "1300",
+   "800",
+   "1280"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:676443a3bbd485eb",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Estimate (231 + 486) × 4 by rounding 231 and 486 to the nearest 100.",
+  "options": [
+   "2200",
+   "2900",
+   "2800",
+   "2868"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:d42370086941cbdd",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Estimate (721 + 297) × 7 by rounding 721 and 297 to the nearest 100.",
+  "options": [
+   "2800",
+   "7000",
+   "7126",
+   "7100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7000.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:c85b5bfe15f89410",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Estimate (460 + 397) × 2 by rounding 460 and 397 to the nearest 100.",
+  "options": [
+   "1900",
+   "1300",
+   "1714",
+   "1800"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:492637e29241c712",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Estimate (559 + 368) × 9 by rounding 559 and 368 to the nearest 100.",
+  "options": [
+   "4200",
+   "8343",
+   "9000",
+   "9100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:5bd313f131d1bc64",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Estimate (209 + 289) × 2 by rounding 209 and 289 to the nearest 100.",
+  "options": [
+   "1100",
+   "800",
+   "996",
+   "1000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 1000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:901d627d5433d1ed",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Estimate (324 + 718) × 5 by rounding 324 and 718 to the nearest 100.",
+  "options": [
+   "5100",
+   "5000",
+   "3800",
+   "5210"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 5000.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:d8e0dda3580b87a9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Estimate (478 + 647) × 6 by rounding 478 and 647 to the nearest 100.",
+  "options": [
+   "6700",
+   "4100",
+   "6600",
+   "6750"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:0aea859aa5e8dce0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Estimate (187 + 512) × 7 by rounding 187 and 512 to the nearest 100.",
+  "options": [
+   "5000",
+   "3700",
+   "4893",
+   "4900"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4900.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7cfad07b27c1864a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Estimate (675 + 502) × 4 by rounding 675 and 502 to the nearest 100.",
+  "options": [
+   "2700",
+   "4800",
+   "4900",
+   "4708"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:9354086530970b06",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Estimate (536 + 665) × 4 by rounding 536 and 665 to the nearest 100.",
+  "options": [
+   "4800",
+   "4900",
+   "4804",
+   "3300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:c2490760d22b1fe1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Estimate (680 + 601) × 9 by rounding 680 and 601 to the nearest 100.",
+  "options": [
+   "11700",
+   "6100",
+   "11800",
+   "11529"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 11700.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7b87b86ac30896ea",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Estimate (352 + 198) × 8 by rounding 352 and 198 to the nearest 100.",
+  "options": [
+   "4400",
+   "4800",
+   "2000",
+   "4900"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:b7e47fbfc0296645",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Estimate (358 + 713) × 5 by rounding 358 and 713 to the nearest 100.",
+  "options": [
+   "5355",
+   "3900",
+   "5600",
+   "5500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 5500.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:42e96c87a76a4831",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Estimate (315 + 205) × 9 by rounding 315 and 205 to the nearest 100.",
+  "options": [
+   "4500",
+   "4600",
+   "2100",
+   "4680"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4500.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a3a17e68da5dd356",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Estimate (401 + 320) × 6 by rounding 401 and 320 to the nearest 100.",
+  "options": [
+   "4300",
+   "4326",
+   "2200",
+   "4200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:11ba3719bf66c66a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Estimate (528 + 206) × 9 by rounding 528 and 206 to the nearest 100.",
+  "options": [
+   "6400",
+   "6300",
+   "2300",
+   "6606"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 6300.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:9d3d50cb00115e71",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Estimate (596 + 256) × 3 by rounding 596 and 256 to the nearest 100.",
+  "options": [
+   "2800",
+   "2556",
+   "1500",
+   "2700"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ae20207ddf83d880",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Estimate (564 + 676) × 6 by rounding 564 and 676 to the nearest 100.",
+  "options": [
+   "4800",
+   "7900",
+   "7800",
+   "7440"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 7800.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:3e01398b2273b05d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Estimate (812 + 794) × 6 by rounding 812 and 794 to the nearest 100.",
+  "options": [
+   "9700",
+   "5600",
+   "9636",
+   "9600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 9600.",
+  "distractor_explanations": [
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:dc287b48f6395326",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Estimate (354 + 694) × 4 by rounding 354 and 694 to the nearest 100.",
+  "options": [
+   "3200",
+   "4400",
+   "4500",
+   "4192"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4400.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:637cc84112fbf7c9",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Estimate (524 + 436) × 3 by rounding 524 and 436 to the nearest 100.",
+  "options": [
+   "2700",
+   "2800",
+   "2880",
+   "1700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:d8bae62a3c3ab323",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Estimate (467 + 792) × 2 by rounding 467 and 792 to the nearest 100.",
+  "options": [
+   "2518",
+   "2700",
+   "2600",
+   "2100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 2600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:dc2e3eec2eaaab82",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Estimate (186 + 759) × 8 by rounding 186 and 759 to the nearest 100.",
+  "options": [
+   "8100",
+   "7560",
+   "6600",
+   "8000"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 8000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:f7ad4145a55f8991",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Estimate (436 + 407) × 7 by rounding 436 and 407 to the nearest 100.",
+  "options": [
+   "5700",
+   "5600",
+   "5901",
+   "3200"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:92d80c9fd3934bdc",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Estimate (714 + 661) × 3 by rounding 714 and 661 to the nearest 100.",
+  "options": [
+   "4200",
+   "4300",
+   "2800",
+   "4125"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:50abf7c02818e354",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Estimate (308 + 728) × 6 by rounding 308 and 728 to the nearest 100.",
+  "options": [
+   "6216",
+   "4500",
+   "6000",
+   "6100"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:0797ff11df719434",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Estimate (721 + 626) × 8 by rounding 721 and 626 to the nearest 100.",
+  "options": [
+   "10400",
+   "10776",
+   "10500",
+   "5500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 10400.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:d71815bef039488c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Estimate (338 + 449) × 6 by rounding 338 and 449 to the nearest 100.",
+  "options": [
+   "4300",
+   "4722",
+   "2700",
+   "4200"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4200.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:69f8be7f00c6476c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Estimate (589 + 208) × 8 by rounding 589 and 208 to the nearest 100.",
+  "options": [
+   "6400",
+   "6376",
+   "2200",
+   "6500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 6400.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:2c2a148bc1e08a81",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Estimate (743 + 288) × 7 by rounding 743 and 288 to the nearest 100.",
+  "options": [
+   "7100",
+   "7217",
+   "7000",
+   "2800"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 7000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:d4580b1b0ebb2d2c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Estimate (619 + 497) × 6 by rounding 619 and 497 to the nearest 100.",
+  "options": [
+   "6696",
+   "6700",
+   "6600",
+   "3600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 6600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:7887e3f78ea9b8a4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Estimate (772 + 767) × 5 by rounding 772 and 767 to the nearest 100.",
+  "options": [
+   "8000",
+   "4800",
+   "8100",
+   "7695"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 8000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:69b3b32067fc6a31",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Estimate (430 + 679) × 8 by rounding 430 and 679 to the nearest 100.",
+  "options": [
+   "8900",
+   "8872",
+   "8800",
+   "6000"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 8800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:0a602e4b07b340e3",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Estimate (414 + 462) × 5 by rounding 414 and 462 to the nearest 100.",
+  "options": [
+   "2900",
+   "4380",
+   "4600",
+   "4500"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 4500.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:11ad2ff347807141",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Estimate (369 + 344) × 4 by rounding 369 and 344 to the nearest 100.",
+  "options": [
+   "2800",
+   "2852",
+   "1600",
+   "2900"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2800.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:14ef9cc600c307c0",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Estimate (297 + 278) × 4 by rounding 297 and 278 to the nearest 100.",
+  "options": [
+   "2300",
+   "1500",
+   "2500",
+   "2400"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 2400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:554de8d09ba906a8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Estimate (222 + 456) × 8 by rounding 222 and 456 to the nearest 100.",
+  "options": [
+   "5600",
+   "4200",
+   "5424",
+   "5700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8928e28c30a7f494",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Estimate (275 + 702) × 7 by rounding 275 and 702 to the nearest 100.",
+  "options": [
+   "7000",
+   "5200",
+   "7100",
+   "6839"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 7000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:5eab6fe4225f1cca",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Estimate (198 + 341) × 7 by rounding 198 and 341 to the nearest 100.",
+  "options": [
+   "3500",
+   "3773",
+   "3600",
+   "2300"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3500.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:fec1b91981f0b525",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Estimate (488 + 541) × 9 by rounding 488 and 541 to the nearest 100.",
+  "options": [
+   "9100",
+   "9261",
+   "9000",
+   "5000"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:b240bc22ebd96ed4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Estimate (545 + 732) × 3 by rounding 545 and 732 to the nearest 100.",
+  "options": [
+   "3831",
+   "2600",
+   "3700",
+   "3600"
+  ],
+  "answer_index": 3,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:f4c6a48bfa0d438c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Estimate (741 + 270) × 3 by rounding 741 and 270 to the nearest 100.",
+  "options": [
+   "3100",
+   "3033",
+   "3000",
+   "1600"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a06e86c2f70ed85c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Estimate (659 + 436) × 8 by rounding 659 and 436 to the nearest 100.",
+  "options": [
+   "8900",
+   "8760",
+   "8800",
+   "3900"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 8800.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:6c3c2304a0bb7d9c",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Estimate (537 + 362) × 3 by rounding 537 and 362 to the nearest 100.",
+  "options": [
+   "2700",
+   "2800",
+   "1700",
+   "2697"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2700.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:2562dac4654189ca",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Estimate (389 + 251) × 2 by rounding 389 and 251 to the nearest 100.",
+  "options": [
+   "1280",
+   "1400",
+   "1500",
+   "1000"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1400.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4ba4a0d38cee22c8",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Estimate (261 + 470) × 2 by rounding 261 and 470 to the nearest 100.",
+  "options": [
+   "1600",
+   "1300",
+   "1700",
+   "1462"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 1600.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:435562859e510624",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Estimate (239 + 686) × 9 by rounding 239 and 686 to the nearest 100.",
+  "options": [
+   "8100",
+   "8325",
+   "8200",
+   "6500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 8100.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:f23d43022dc0c45a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Estimate (326 + 746) × 6 by rounding 326 and 746 to the nearest 100.",
+  "options": [
+   "6000",
+   "6100",
+   "6432",
+   "4500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 6000.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4f3fd8acd5dd9aa1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Estimate (599 + 733) × 2 by rounding 599 and 733 to the nearest 100.",
+  "options": [
+   "2600",
+   "2664",
+   "2700",
+   "2000"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 2600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:4ccb529a28d0f733",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Estimate (231 + 534) × 8 by rounding 231 and 534 to the nearest 100.",
+  "options": [
+   "6120",
+   "5600",
+   "4200",
+   "5700"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:568384da1078fd40",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Estimate (773 + 454) × 6 by rounding 773 and 454 to the nearest 100.",
+  "options": [
+   "7362",
+   "7800",
+   "7900",
+   "3800"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 7800.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8bab797c0dd977a2",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Estimate (655 + 455) × 4 by rounding 655 and 455 to the nearest 100.",
+  "options": [
+   "4800",
+   "4900",
+   "4440",
+   "2700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 4800.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:ec4c1fffcf63ebc4",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Estimate (527 + 476) × 5 by rounding 527 and 476 to the nearest 100.",
+  "options": [
+   "5015",
+   "5000",
+   "3000",
+   "5100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 5000.",
+  "distractor_explanations": [
+   "gave the exact answer, not the estimate",
+   null,
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:e0142bd33c28306f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Estimate (367 + 194) × 9 by rounding 367 and 194 to the nearest 100.",
+  "options": [
+   "5400",
+   "5049",
+   "2200",
+   "5500"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 5400.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:692087e9d026fd9a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Estimate (323 + 202) × 3 by rounding 323 and 202 to the nearest 100.",
+  "options": [
+   "1600",
+   "1500",
+   "1575",
+   "900"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1500.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:562486d5316e6c37",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Estimate (435 + 388) × 5 by rounding 435 and 388 to the nearest 100.",
+  "options": [
+   "2400",
+   "4000",
+   "4115",
+   "4100"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 4000.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   null,
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a96a318effde4866",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Estimate (765 + 243) × 3 by rounding 765 and 243 to the nearest 100.",
+  "options": [
+   "3000",
+   "1400",
+   "3100",
+   "3024"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "made a small slip",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:a802e76807cdc42b",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Estimate (480 + 242) × 8 by rounding 480 and 242 to the nearest 100.",
+  "options": [
+   "2100",
+   "5776",
+   "5600",
+   "5700"
+  ],
+  "answer_index": 2,
+  "explanation": "Round first, then calculate: the estimate is 5600.",
+  "distractor_explanations": [
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:492391d1e696934d",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Estimate (213 + 373) × 2 by rounding 213 and 373 to the nearest 100.",
+  "options": [
+   "1300",
+   "1200",
+   "1000",
+   "1172"
+  ],
+  "answer_index": 1,
+  "explanation": "Round first, then calculate: the estimate is 1200.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:cf199eba74e51df1",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Estimate (635 + 397) × 3 by rounding 635 and 397 to the nearest 100.",
+  "options": [
+   "3000",
+   "1800",
+   "3096",
+   "3100"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3000.",
+  "distractor_explanations": [
+   null,
+   "ignored the brackets",
+   "gave the exact answer, not the estimate",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:236acda8a19a1a5f",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Estimate (557 + 349) × 4 by rounding 557 and 349 to the nearest 100.",
+  "options": [
+   "3600",
+   "3624",
+   "1800",
+   "3700"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 3600.",
+  "distractor_explanations": [
+   null,
+   "gave the exact answer, not the estimate",
+   "ignored the brackets",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:estimate:5:8eefc5e0b56b178a",
+  "topic_id": "MA-A05",
+  "qtype": "l35:estimate",
+  "level": 5,
+  "generator": "l35:estimate",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Estimate (379 + 584) × 9 by rounding 379 and 584 to the nearest 100.",
+  "options": [
+   "9000",
+   "9100",
+   "8667",
+   "5800"
+  ],
+  "answer_index": 0,
+  "explanation": "Round first, then calculate: the estimate is 9000.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the exact answer, not the estimate",
+   "ignored the brackets"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

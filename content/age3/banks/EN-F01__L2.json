@@ -1,0 +1,5474 @@
+[
+ {
+  "id": "en:spelling:2:0b5a08dfddb956f4",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "envirnoment",
+   "enviroment",
+   "enviornment",
+   "environment"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “environment”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:6b167337fbe34eb3",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "gramma",
+   "gramar",
+   "grammar",
+   "grammer"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “grammar”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:608136de4b99ea43",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "ocurrence",
+   "occurence",
+   "occurance",
+   "occurrence"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “occurrence”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:da54d4e3137d55c7",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "beutiful",
+   "beautifull",
+   "butiful",
+   "beautiful"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “beautiful”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:cba5cb8b39a1f6d3",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "fameous",
+   "famos",
+   "famus",
+   "famous"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “famous”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:4d98f5ccf96a981f",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "privelege",
+   "priviledge",
+   "privilege",
+   "privalege"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “privilege”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ae2b18a034748190",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "concious",
+   "conshus",
+   "conscious",
+   "conscous"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “conscious”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:8b8c18c4a0eba9b9",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "parliament",
+   "parlaiment",
+   "parliment",
+   "parlement"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “parliament”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:b78aa4b406f4dd90",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "caut",
+   "caught",
+   "coght",
+   "cawght"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “caught”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:6280cfc30f1e716b",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "Feburary",
+   "Febuary",
+   "February",
+   "Februrary"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “February”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:39e32286d20c4dc2",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "poses",
+   "posess",
+   "possess",
+   "posses"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “possess”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7d3b061d3b6aa881",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "rhythem",
+   "rythem",
+   "rythm",
+   "rhythm"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “rhythm”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:d6609527d3c08483",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "accommodate",
+   "acommodate",
+   "acomodate",
+   "accomodate"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “accommodate”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:5c50c7ef0a1dfdf8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "consciense",
+   "conscience",
+   "concience",
+   "conscence"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “conscience”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:a7338bc47e0963c5",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "beautifull",
+   "beautiful",
+   "butiful",
+   "beutiful"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “beautiful”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:a652d23294e5f77c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "famos",
+   "famus",
+   "fameous",
+   "famous"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “famous”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7931c96305528a5a",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "nessecary",
+   "neccessary",
+   "necessary",
+   "necesary"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “necessary”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:6acfb98c0b48665a",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "possess",
+   "poses",
+   "posses",
+   "posess"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “possess”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:6d8b2e5373dfea71",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "parliment",
+   "parlement",
+   "parlaiment",
+   "parliament"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “parliament”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:675f7de3c7824475",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "rhythem",
+   "rythem",
+   "rhythm",
+   "rythm"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “rhythm”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:19c53781b1fa83fb",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "quater",
+   "quarter",
+   "qarter",
+   "quartar"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “quarter”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:89c5a83206612515",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "occurence",
+   "ocurrence",
+   "occurrence",
+   "occurance"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “occurrence”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7e8c9d63acea87c4",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "nuisence",
+   "nusiance",
+   "nuisanse",
+   "nuisance"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “nuisance”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:a4831ca64c9dc8be",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "heighth",
+   "hight",
+   "heigt",
+   "height"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “height”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:32bd3d3d8dbabb1c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "eight",
+   "aight",
+   "eght",
+   "eigt"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “eight”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:60503e60891f9526",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "cawght",
+   "coght",
+   "caught",
+   "caut"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “caught”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:593a6049efec70b7",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "rhyme",
+   "rhym",
+   "ryme",
+   "rime"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “rhyme”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:5f86b93df121cf53",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "conscous",
+   "conscious",
+   "concious",
+   "conshus"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “conscious”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:3aea3eae0b0ded25",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "iland",
+   "islnd",
+   "island",
+   "ilsand"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “island”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:d481942a41adc654",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "beleeve",
+   "believe",
+   "belive",
+   "beleive"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “believe”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:52a40eadf599d34c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "commitee",
+   "committee",
+   "comittee",
+   "committe"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “committee”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1063d8302f5c89a6",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "quarter",
+   "quater",
+   "quartar",
+   "qarter"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “quarter”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1ef0c6c15be751ee",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "wierd",
+   "weird",
+   "wiered",
+   "weerd"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “weird”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:5e3224289cd41915",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "vehcile",
+   "vehical",
+   "vehicle",
+   "veicle"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “vehicle”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:646eca6271de52e0",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "wuman",
+   "woman",
+   "womun",
+   "womin"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “woman”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:5c201bd6ba86e404",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "recomend",
+   "recommend",
+   "reccommend",
+   "reccomend"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “recommend”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:439915c8c370459e",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "suprize",
+   "suprise",
+   "surprize",
+   "surprise"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “surprise”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:81ad9b13facabb99",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "suficient",
+   "sufficent",
+   "sufficient",
+   "sufficiant"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “sufficient”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:3f6da9ec9d97a0e6",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "sinserely",
+   "sincerely",
+   "sincerley",
+   "sincerly"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “sincerely”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:91d98043c3dc08de",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "defenite",
+   "definite",
+   "definate",
+   "definit"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “definite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:e8887c39989c135e",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "beleeve",
+   "believe",
+   "beleive",
+   "belive"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “believe”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:177de2ce637345c8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "differant",
+   "different",
+   "diferent",
+   "diffrent"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “different”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:078c3bce5ead0b69",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "Febuary",
+   "Feburary",
+   "February",
+   "Februrary"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “February”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:dad7c150c28a5a04",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "iland",
+   "island",
+   "islnd",
+   "ilsand"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “island”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:f6327322bcb164f0",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "hart",
+   "hert",
+   "heart",
+   "heort"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “heart”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:b4d0e6927d87d889",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "privilege",
+   "privalege",
+   "priviledge",
+   "privelege"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “privilege”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:f526d28fa5553a03",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "seperate",
+   "seperite",
+   "separate",
+   "separat"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “separate”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7a5ff746b481c75b",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "famus",
+   "famos",
+   "fameous",
+   "famous"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “famous”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:e8b15a52b87c1d58",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "conshus",
+   "conscious",
+   "conscous",
+   "concious"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “conscious”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:a3537307223ffea0",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "becuase",
+   "becauze",
+   "becouse",
+   "because"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “because”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:4f89280051cc797f",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "famus",
+   "fameous",
+   "famos",
+   "famous"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “famous”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:76ab2c5ff9216ad2",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "favourite",
+   "faverite",
+   "favrite",
+   "favourit"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “favourite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:64abd2ae2e3f5b89",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "eight",
+   "eigt",
+   "aight",
+   "eght"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “eight”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:100bc8f962cd4419",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "gramar",
+   "grammar",
+   "grammer",
+   "gramma"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “grammar”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1331508de8aa482d",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "adres",
+   "adress",
+   "addres",
+   "address"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “address”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:6f7b8eed3c86b211",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "possess",
+   "posses",
+   "posess",
+   "poses"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “possess”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:173b0578e4bb1a70",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "recomend",
+   "reccommend",
+   "reccomend",
+   "recommend"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “recommend”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7a9d84bd29c690b8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "different",
+   "diffrent",
+   "diferent",
+   "differant"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “different”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:85d3f8268d3c13bc",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "mischievious",
+   "mischevous",
+   "mischivous",
+   "mischievous"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “mischievous”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ea76f6a1c67dc5b0",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "enogh",
+   "enuff",
+   "enough",
+   "enouph"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “enough”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ff5dbe54caebdecb",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "earlie",
+   "early",
+   "erly",
+   "earley"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “early”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:713e87a437359e5c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "favourit",
+   "favourite",
+   "faverite",
+   "favrite"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “favourite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:3383e646737011a0",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "diffrent",
+   "diferent",
+   "differant",
+   "different"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “different”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:392993a113c7b7fe",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "centre",
+   "sentre",
+   "centr",
+   "senter"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “centre”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ef1cd4614dc3dffb",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "eght",
+   "aight",
+   "eight",
+   "eigt"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “eight”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:0dbd030431740dea",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "qarter",
+   "quartar",
+   "quater",
+   "quarter"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “quarter”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:4f58f795e7b2762b",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "committee",
+   "comittee",
+   "commitee",
+   "committe"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “committee”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:dd99ab4196b9d2ba",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "parliment",
+   "parlaiment",
+   "parliament",
+   "parlement"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “parliament”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:f26869046c92faf8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "leorn",
+   "larn",
+   "learn",
+   "lern"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “learn”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7dd9dcfdb546c73e",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "rhym",
+   "ryme",
+   "rhyme",
+   "rime"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “rhyme”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:b82acd164556e063",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "concious",
+   "conscious",
+   "conscous",
+   "conshus"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “conscious”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:728dbf243d1050e5",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "definate",
+   "defenite",
+   "definit",
+   "definite"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “definite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:dd9a9db8240c0748",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "striaght",
+   "strait",
+   "straght",
+   "straight"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “straight”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:f3b3161c61a7211b",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "concious",
+   "conshus",
+   "conscous",
+   "conscious"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “conscious”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1d077b226d13fbd2",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "strenth",
+   "strength",
+   "strenght",
+   "strengh"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “strength”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ec053f8613aaba64",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "imediatly",
+   "immediatly",
+   "immediately",
+   "imediately"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “immediately”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7c9165e8525a4b3b",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "straight",
+   "strait",
+   "straght",
+   "striaght"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “straight”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:0b33017879eaf3da",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "neccessary",
+   "nessecary",
+   "necessary",
+   "necesary"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “necessary”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:9db7ef710cdc3f63",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "neccessary",
+   "necesary",
+   "nessecary",
+   "necessary"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “necessary”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:5473d4e8210c1ab8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "suprize",
+   "suprise",
+   "surprise",
+   "surprize"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “surprise”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ba04d301df16fe21",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "centre",
+   "centr",
+   "sentre",
+   "senter"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “centre”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:01461b5e01edb0b8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "embarras",
+   "embarass",
+   "embaras",
+   "embarrass"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “embarrass”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1e28e752e0a70727",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "imediately",
+   "immediatly",
+   "imediatly",
+   "immediately"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “immediately”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:63b168d232dd70ff",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "beleive",
+   "beleeve",
+   "belive",
+   "believe"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “believe”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7053a1eed505fa40",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "hight",
+   "height",
+   "heigt",
+   "heighth"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “height”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1ac5da917b5b9fe5",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "privalege",
+   "priviledge",
+   "privilege",
+   "privelege"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “privilege”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:7d86fda01be8c13d",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "surprize",
+   "surprise",
+   "suprise",
+   "suprize"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “surprise”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:adf37ce6f4a70180",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "Feburary",
+   "February",
+   "Febuary",
+   "Februrary"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “February”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:d206a86f4ed48ea1",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "becauze",
+   "becuase",
+   "because",
+   "becouse"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “because”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:9c504f0fa45ef418",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "acommodate",
+   "accomodate",
+   "acomodate",
+   "accommodate"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “accommodate”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:92fc90047fc22f69",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "parlement",
+   "parliament",
+   "parlaiment",
+   "parliment"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “parliament”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:95502831294a9b5c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "sufficiant",
+   "sufficient",
+   "sufficent",
+   "suficient"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “sufficient”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:1ddd22210da406ed",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "wuman",
+   "womun",
+   "woman",
+   "womin"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “woman”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:63f6b1b936ee093a",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "promiss",
+   "promus",
+   "promis",
+   "promise"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “promise”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:2c03bcd951d90efc",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "ocurrence",
+   "occurrence",
+   "occurance",
+   "occurence"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “occurrence”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:0f9047a2f84bb01a",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "posess",
+   "possess",
+   "posses",
+   "poses"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “possess”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:c95b041e3ac9fd40",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "gramar",
+   "gramma",
+   "grammar",
+   "grammer"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “grammar”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:c19ead3417b476ce",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "friend",
+   "friynd",
+   "frend",
+   "freind"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “friend”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:98e3994e213810eb",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "heigt",
+   "height",
+   "heighth",
+   "hight"
+  ],
+  "answer_index": 1,
+  "explanation": "The correct spelling is “height”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:659cce92e0897085",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "quartar",
+   "qarter",
+   "quater",
+   "quarter"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “quarter”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:e69f2f80fa796f85",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "enough",
+   "enogh",
+   "enuff",
+   "enouph"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “enough”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:a40dc9df2be7a45c",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "nuisence",
+   "nusiance",
+   "nuisance",
+   "nuisanse"
+  ],
+  "answer_index": 2,
+  "explanation": "The correct spelling is “nuisance”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:4e119ac5f96cc2ee",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "immediately",
+   "imediately",
+   "imediatly",
+   "immediatly"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “immediately”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:4bde4c391f60d717",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "heigt",
+   "heighth",
+   "hight",
+   "height"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “height”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:aed45211a1007a27",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "exaggerate",
+   "exagerate",
+   "exaggrate",
+   "exagurate"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “exaggerate”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:ab73a83a231922bf",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "frend",
+   "friynd",
+   "freind",
+   "friend"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “friend”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:dca5200689be6492",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "definite",
+   "definit",
+   "definate",
+   "defenite"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “definite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:db2795145c644b68",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "wuman",
+   "womun",
+   "womin",
+   "woman"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “woman”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:e01123dd40028c05",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "heort",
+   "hart",
+   "hert",
+   "heart"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “heart”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:aa4e41c51844a725",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "because",
+   "becouse",
+   "becauze",
+   "becuase"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “because”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:09281df0a94096f8",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "favourite",
+   "favourit",
+   "favrite",
+   "faverite"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “favourite”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:f9d0761605383801",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "imediatly",
+   "immediatly",
+   "imediately",
+   "immediately"
+  ],
+  "answer_index": 3,
+  "explanation": "The correct spelling is “immediately”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:d8791cec41f176db",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "surprise",
+   "suprise",
+   "suprize",
+   "surprize"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “surprise”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "en:spelling:2:920a974f4ea42807",
+  "topic_id": "EN-F01",
+  "qtype": "en:spelling",
+  "level": 2,
+  "generator": "en:spelling",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Which word is spelt correctly?",
+  "options": [
+   "natural",
+   "naturel",
+   "natrual",
+   "naturral"
+  ],
+  "answer_index": 0,
+  "explanation": "The correct spelling is “natural”.",
+  "distractor_explanations": [],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "data_based",
+   "verifier_version": 1,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "rule_based_checker",
+     "passed": true,
+     "detail": "vetted-list checker: exactly one option correct"
+    },
+    {
+     "name": "structural_harness",
+     "passed": true,
+     "detail": "wrong-key + two-correct caught 100% (english_harness)"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

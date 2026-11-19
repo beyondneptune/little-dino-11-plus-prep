@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "l35:division_worded:4:8f20e2ba9e04636c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 0,
+  "stem": "Zara puts 38 stickers into bags of 5. How many are left over?",
+  "options": [
+   "4",
+   "2",
+   "7",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:14b41e03216dc971",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 1,
+  "stem": "Kai puts 44 pencils into bags of 7. How many are left over?",
+  "options": [
+   "3",
+   "6",
+   "2",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:0efe5c63f66817b0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 2,
+  "stem": "Leo puts 48 badges into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:288cc83cfa1499bc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 3,
+  "stem": "Priya puts 48 pencils into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e19ddb95defcba02",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 4,
+  "stem": "Zara puts 46 badges into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "4",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d8593d430613a2bb",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 5,
+  "stem": "Zara puts 29 badges into bags of 4. How many are left over?",
+  "options": [
+   "2",
+   "7",
+   "3",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:5d04abec78641326",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 6,
+  "stem": "Kai puts 42 cards into bags of 8. How many are left over?",
+  "options": [
+   "5",
+   "6",
+   "2",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:04f4a7225553e456",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 7,
+  "stem": "Priya puts 52 badges into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d9b7974be27be56b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 8,
+  "stem": "Noah puts 17 pencils into bags of 3. How many are left over?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:69b0e002e3579e0d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 9,
+  "stem": "Priya puts 62 pencils into bags of 7. How many are left over?",
+  "options": [
+   "8",
+   "1",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ce382dedf16ea019",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 10,
+  "stem": "Mia puts 14 badges into bags of 3. How many are left over?",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b23579a89bf44a9e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 11,
+  "stem": "Kai puts 60 stickers into bags of 7. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:8ac4a2853a126a5c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 12,
+  "stem": "Zara puts 41 rulers into bags of 8. How many are left over?",
+  "options": [
+   "2",
+   "1",
+   "7",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:7fd3a3f5a2a08883",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 13,
+  "stem": "Leo puts 49 cards into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "1",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:f1ef0fcb5bef7e70",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 14,
+  "stem": "Priya puts 48 rulers into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:687bc26282d0cd00",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 15,
+  "stem": "Leo puts 39 pencils into bags of 4. How many are left over?",
+  "options": [
+   "4",
+   "1",
+   "3",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:04cb7701c28036d8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 16,
+  "stem": "Mia puts 21 pencils into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d3476e515d0a1902",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 17,
+  "stem": "Mia puts 33 badges into bags of 4. How many are left over?",
+  "options": [
+   "1",
+   "8",
+   "3",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:4e2ed0b06a5a413f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 18,
+  "stem": "Leo puts 47 rulers into bags of 6. How many are left over?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:0b06b7da81dbc878",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 19,
+  "stem": "Mia puts 61 stickers into bags of 7. How many are left over?",
+  "options": [
+   "5",
+   "6",
+   "8",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:1edb18c8af9beb42",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 20,
+  "stem": "Leo puts 22 stickers into bags of 7. How many are left over?",
+  "options": [
+   "3",
+   "6",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:8260c909b40cd16c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 21,
+  "stem": "Priya puts 20 rulers into bags of 3. How many are left over?",
+  "options": [
+   "3",
+   "2",
+   "6",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:8e214f96b9d14e97",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 22,
+  "stem": "Noah puts 29 apples into bags of 7. How many are left over?",
+  "options": [
+   "1",
+   "4",
+   "6",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:1cb70ff2ade70363",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 23,
+  "stem": "Mia puts 38 rulers into bags of 8. How many are left over?",
+  "options": [
+   "4",
+   "6",
+   "2",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:7183d0d67bd41f7b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 24,
+  "stem": "Priya puts 70 stickers into bags of 8. How many are left over?",
+  "options": [
+   "8",
+   "2",
+   "7",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:98ac400b8da7b04f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 25,
+  "stem": "Kai puts 73 cards into bags of 8. How many are left over?",
+  "options": [
+   "9",
+   "1",
+   "2",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d5f955f80237fb2c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 26,
+  "stem": "Kai puts 35 cards into bags of 4. How many are left over?",
+  "options": [
+   "4",
+   "3",
+   "8",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d136923401917309",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 27,
+  "stem": "Leo puts 65 rulers into bags of 7. How many are left over?",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:688aef2aa69194c1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 28,
+  "stem": "Zara puts 17 rulers into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "1",
+   "2",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:9411203968c9a09a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 29,
+  "stem": "Ava puts 55 badges into bags of 6. How many are left over?",
+  "options": [
+   "1",
+   "5",
+   "9",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:12ff8ae7c761f070",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 30,
+  "stem": "Noah puts 52 badges into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "8",
+   "5",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:82b0eea9ebe77c6a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 31,
+  "stem": "Noah puts 35 stickers into bags of 4. How many are left over?",
+  "options": [
+   "8",
+   "4",
+   "3",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:4a43b705d7442ffa",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 32,
+  "stem": "Sam puts 31 cards into bags of 8. How many are left over?",
+  "options": [
+   "3",
+   "7",
+   "1",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:79398b6e93023616",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 33,
+  "stem": "Zara puts 53 stickers into bags of 7. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b8a6467ce24a5009",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 34,
+  "stem": "Mia puts 33 badges into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ebc37391fcfead48",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 35,
+  "stem": "Priya puts 39 rulers into bags of 5. How many are left over?",
+  "options": [
+   "5",
+   "4",
+   "1",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:dc58d025a0734292",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 36,
+  "stem": "Noah puts 30 rulers into bags of 8. How many are left over?",
+  "options": [
+   "6",
+   "7",
+   "3",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:6938121c00a2e445",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 37,
+  "stem": "Kai puts 25 cards into bags of 8. How many are left over?",
+  "options": [
+   "3",
+   "7",
+   "2",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:7f7a89362bd3a0e7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 38,
+  "stem": "Leo puts 21 badges into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "1",
+   "2",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:fabe92e117a3fd23",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 39,
+  "stem": "Mia puts 64 rulers into bags of 7. How many are left over?",
+  "options": [
+   "9",
+   "2",
+   "6",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d3d760e96f89a3c3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 40,
+  "stem": "Priya puts 40 stickers into bags of 6. How many are left over?",
+  "options": [
+   "5",
+   "2",
+   "4",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:310c759e5cf77b55",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 41,
+  "stem": "Priya puts 31 badges into bags of 5. How many are left over?",
+  "options": [
+   "6",
+   "4",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:0e58c50453c9e8ab",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 42,
+  "stem": "Sam puts 20 stickers into bags of 3. How many are left over?",
+  "options": [
+   "1",
+   "6",
+   "2",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:fbfaca27e044e860",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 43,
+  "stem": "Sam puts 31 pencils into bags of 5. How many are left over?",
+  "options": [
+   "6",
+   "4",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:c3704bf220a3e3df",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 44,
+  "stem": "Leo puts 36 cards into bags of 7. How many are left over?",
+  "options": [
+   "1",
+   "6",
+   "5",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:3ea609d6c3e2b5a7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 45,
+  "stem": "Sam puts 29 cards into bags of 6. How many are left over?",
+  "options": [
+   "5",
+   "6",
+   "1",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ce23450ee5d346dd",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 46,
+  "stem": "Mia puts 66 cards into bags of 8. How many are left over?",
+  "options": [
+   "2",
+   "3",
+   "8",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e0e7ebfcb767cf55",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 47,
+  "stem": "Leo puts 17 pencils into bags of 3. How many are left over?",
+  "options": [
+   "1",
+   "5",
+   "3",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b46473aaa270c5b4",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 48,
+  "stem": "Noah puts 52 stickers into bags of 6. How many are left over?",
+  "options": [
+   "8",
+   "2",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e655fedb15d8dc27",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 49,
+  "stem": "Sam puts 61 pencils into bags of 7. How many are left over?",
+  "options": [
+   "5",
+   "8",
+   "6",
+   "2"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:00127b87cb5ded20",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 50,
+  "stem": "Noah puts 65 stickers into bags of 8. How many are left over?",
+  "options": [
+   "1",
+   "8",
+   "2",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:da37eabfc3efb17d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 51,
+  "stem": "Ava puts 55 stickers into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "5",
+   "1",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:11d20042bec4e7f8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 52,
+  "stem": "Kai puts 23 rulers into bags of 6. How many are left over?",
+  "options": [
+   "6",
+   "1",
+   "3",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:669c8df3ac3d1039",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 53,
+  "stem": "Ava puts 61 cards into bags of 7. How many are left over?",
+  "options": [
+   "2",
+   "8",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:82866f0ce7bf6f38",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 54,
+  "stem": "Leo puts 29 badges into bags of 6. How many are left over?",
+  "options": [
+   "4",
+   "1",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e095912b78570f60",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 55,
+  "stem": "Kai puts 19 pencils into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "1",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:9502829b8cb90f66",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 56,
+  "stem": "Noah puts 46 pencils into bags of 5. How many are left over?",
+  "options": [
+   "9",
+   "1",
+   "4",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e34e57f843ad1dc7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 57,
+  "stem": "Zara puts 34 cards into bags of 5. How many are left over?",
+  "options": [
+   "5",
+   "4",
+   "1",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:4c492ba0fef8a767",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 58,
+  "stem": "Mia puts 41 rulers into bags of 7. How many are left over?",
+  "options": [
+   "7",
+   "1",
+   "6",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:7037b8b8cf05598a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 59,
+  "stem": "Leo puts 67 apples into bags of 7. How many are left over?",
+  "options": [
+   "4",
+   "9",
+   "3",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:6479373371b64929",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 60,
+  "stem": "Mia puts 66 stickers into bags of 8. How many are left over?",
+  "options": [
+   "2",
+   "6",
+   "3",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:99cc499318b8812b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 61,
+  "stem": "Priya puts 46 cards into bags of 7. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:5ba708e492c012dd",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 62,
+  "stem": "Mia puts 29 pencils into bags of 3. How many are left over?",
+  "options": [
+   "9",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:3678f4c37b4f591c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 63,
+  "stem": "Priya puts 29 badges into bags of 3. How many are left over?",
+  "options": [
+   "3",
+   "9",
+   "2",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:706a6f173fbbe1f0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 64,
+  "stem": "Zara puts 47 pencils into bags of 6. How many are left over?",
+  "options": [
+   "5",
+   "7",
+   "1",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:8abf502d9d7de6e0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 65,
+  "stem": "Zara puts 56 apples into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "9",
+   "3",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:55b650edd569ef3e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 66,
+  "stem": "Kai puts 28 apples into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "2",
+   "5",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:40cc8965347515be",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 67,
+  "stem": "Zara puts 69 cards into bags of 7. How many are left over?",
+  "options": [
+   "6",
+   "1",
+   "7",
+   "9"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:6a3ef02cf15f0608",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 68,
+  "stem": "Ava puts 29 rulers into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "7",
+   "2",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:628ea5850aa4b29e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 69,
+  "stem": "Ava puts 29 rulers into bags of 7. How many are left over?",
+  "options": [
+   "2",
+   "6",
+   "4",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:3e75126da93a9cd7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 70,
+  "stem": "Sam puts 40 stickers into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "6",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:5a22fd83ea4d4918",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 71,
+  "stem": "Ava puts 14 pencils into bags of 3. How many are left over?",
+  "options": [
+   "1",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:6e1fd2e757a35df8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 72,
+  "stem": "Priya puts 41 badges into bags of 5. How many are left over?",
+  "options": [
+   "8",
+   "1",
+   "4",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:67c1caf4ec26670f",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 73,
+  "stem": "Leo puts 19 apples into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "1",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:a194969e1c8008d8",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 74,
+  "stem": "Sam puts 41 pencils into bags of 7. How many are left over?",
+  "options": [
+   "1",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:8069ef3b0e2174c2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 75,
+  "stem": "Kai puts 19 stickers into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:d78b06c63cba3511",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 76,
+  "stem": "Kai puts 33 badges into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "6",
+   "2",
+   "4"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:32b90fee02840898",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 77,
+  "stem": "Mia puts 40 rulers into bags of 6. How many are left over?",
+  "options": [
+   "5",
+   "2",
+   "6",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:717138f95fe09466",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 78,
+  "stem": "Sam puts 19 badges into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:1293658aa511d68c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 79,
+  "stem": "Noah puts 21 pencils into bags of 4. How many are left over?",
+  "options": [
+   "5",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:37e43d506238b29b",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 80,
+  "stem": "Zara puts 19 cards into bags of 5. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "1",
+   "5"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:0101b8c2961a425a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 81,
+  "stem": "Mia puts 27 cards into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:bf2962c99c5132d7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 82,
+  "stem": "Priya puts 68 badges into bags of 7. How many are left over?",
+  "options": [
+   "2",
+   "5",
+   "9",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:20f404ee90dab0f1",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 83,
+  "stem": "Ava puts 29 cards into bags of 3. How many are left over?",
+  "options": [
+   "2",
+   "3",
+   "9",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:06407523d4bcf4b2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 84,
+  "stem": "Ava puts 47 stickers into bags of 8. How many are left over?",
+  "options": [
+   "7",
+   "1",
+   "5",
+   "8"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 7.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:4d5ce379a58eed6e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 85,
+  "stem": "Mia puts 31 apples into bags of 4. How many are left over?",
+  "options": [
+   "4",
+   "3",
+   "7",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b019d4b42a621e68",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 86,
+  "stem": "Mia puts 68 stickers into bags of 7. How many are left over?",
+  "options": [
+   "2",
+   "6",
+   "5",
+   "9"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:5292fa975b1ea41d",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 87,
+  "stem": "Kai puts 21 apples into bags of 4. How many are left over?",
+  "options": [
+   "5",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:f8fc2cc40f67f571",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 88,
+  "stem": "Sam puts 35 rulers into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "8",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:1c71d464183aa1f7",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 89,
+  "stem": "Zara puts 21 apples into bags of 4. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "1",
+   "2"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:963fede94b661efc",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 90,
+  "stem": "Mia puts 52 badges into bags of 6. How many are left over?",
+  "options": [
+   "4",
+   "8",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:a11b3b50b026b148",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 91,
+  "stem": "Mia puts 29 badges into bags of 3. How many are left over?",
+  "options": [
+   "2",
+   "3",
+   "9",
+   "1"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:510e8986d8bb5bf9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 92,
+  "stem": "Kai puts 29 stickers into bags of 4. How many are left over?",
+  "options": [
+   "2",
+   "1",
+   "7",
+   "3"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:69ff91c9b046469a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 93,
+  "stem": "Leo puts 49 badges into bags of 8. How many are left over?",
+  "options": [
+   "6",
+   "1",
+   "2",
+   "7"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:c809c4b5a24264d4",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 94,
+  "stem": "Ava puts 65 badges into bags of 8. How many are left over?",
+  "options": [
+   "8",
+   "2",
+   "1",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:cd29c8a541526968",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 95,
+  "stem": "Mia puts 67 pencils into bags of 8. How many are left over?",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:9bc6d7e1a7acdc61",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 96,
+  "stem": "Ava puts 14 badges into bags of 3. How many are left over?",
+  "options": [
+   "4",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "made a small slip",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ba7beb5728e1bfe0",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 97,
+  "stem": "Leo puts 44 pencils into bags of 5. How many are left over?",
+  "options": [
+   "5",
+   "4",
+   "8",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "gave the number of full bags",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:22da436dff136338",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 98,
+  "stem": "Zara puts 17 cards into bags of 3. How many are left over?",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:6bd2fe26bcf5eda4",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 99,
+  "stem": "Kai puts 34 apples into bags of 7. How many are left over?",
+  "options": [
+   "7",
+   "4",
+   "1",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:132684ad250fb273",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 100,
+  "stem": "Priya puts 46 apples into bags of 7. How many are left over?",
+  "options": [
+   "6",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:e230a1007a7e5bb2",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 101,
+  "stem": "Mia puts 29 badges into bags of 7. How many are left over?",
+  "options": [
+   "4",
+   "1",
+   "2",
+   "6"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "made a small slip",
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ee62f5b400325ee6",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 102,
+  "stem": "Priya puts 51 apples into bags of 8. How many are left over?",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:a2f1b2846140b84e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 103,
+  "stem": "Ava puts 34 stickers into bags of 7. How many are left over?",
+  "options": [
+   "1",
+   "7",
+   "4",
+   "6"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:833e49f188abcbbd",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 104,
+  "stem": "Leo puts 29 stickers into bags of 4. How many are left over?",
+  "options": [
+   "7",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:dd51556636be9dec",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 105,
+  "stem": "Leo puts 23 pencils into bags of 4. How many are left over?",
+  "options": [
+   "5",
+   "3",
+   "1",
+   "4"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 3.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b82ca2406512c63e",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 106,
+  "stem": "Mia puts 41 stickers into bags of 7. How many are left over?",
+  "options": [
+   "7",
+   "5",
+   "6",
+   "1"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 6.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:87eb2a2f6c7ccc42",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 107,
+  "stem": "Kai puts 54 pencils into bags of 7. How many are left over?",
+  "options": [
+   "7",
+   "2",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:9042814413dc3215",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 108,
+  "stem": "Noah puts 22 apples into bags of 6. How many are left over?",
+  "options": [
+   "4",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:9951e97eaeadf36c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 109,
+  "stem": "Leo puts 57 stickers into bags of 7. How many are left over?",
+  "options": [
+   "6",
+   "2",
+   "1",
+   "8"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "made a small slip",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:a0d5d04ecba41f45",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 110,
+  "stem": "Sam puts 26 stickers into bags of 5. How many are left over?",
+  "options": [
+   "1",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:ef1cbc53417310a3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 111,
+  "stem": "Ava puts 43 pencils into bags of 6. How many are left over?",
+  "options": [
+   "7",
+   "1",
+   "5",
+   "2"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   null,
+   "took it away from the bag size",
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:c838a6d5651cb410",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 112,
+  "stem": "Ava puts 46 cards into bags of 7. How many are left over?",
+  "options": [
+   "5",
+   "6",
+   "3",
+   "4"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   "made a small slip",
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:99c66705060dda24",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 113,
+  "stem": "Zara puts 53 stickers into bags of 6. How many are left over?",
+  "options": [
+   "6",
+   "5",
+   "1",
+   "8"
+  ],
+  "answer_index": 1,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "made a small slip",
+   null,
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:5835803c782876a3",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 114,
+  "stem": "Sam puts 38 pencils into bags of 6. How many are left over?",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   null,
+   "took it away from the bag size",
+   "made a small slip",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:25522105bbf1076a",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 115,
+  "stem": "Sam puts 44 stickers into bags of 6. How many are left over?",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "7"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "made a small slip",
+   "took it away from the bag size",
+   null,
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:4fda5825168d91f9",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 116,
+  "stem": "Sam puts 23 stickers into bags of 3. How many are left over?",
+  "options": [
+   "7",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer_index": 2,
+  "explanation": "Divide, then finish the steps: the answer is 2.",
+  "distractor_explanations": [
+   "gave the number of full bags",
+   "took it away from the bag size",
+   null,
+   "made a small slip"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:70d8ddb45436725c",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 117,
+  "stem": "Zara puts 37 stickers into bags of 6. How many are left over?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "6"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 1.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:fd16096b171c0417",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 118,
+  "stem": "Leo puts 54 pencils into bags of 7. How many are left over?",
+  "options": [
+   "2",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer_index": 3,
+  "explanation": "Divide, then finish the steps: the answer is 5.",
+  "distractor_explanations": [
+   "took it away from the bag size",
+   "gave the number of full bags",
+   "made a small slip",
+   null
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ },
+ {
+  "id": "l35:division_worded:4:b9db2d8a44f74356",
+  "topic_id": "MA-B04",
+  "qtype": "l35:division_worded",
+  "level": 4,
+  "generator": "l35:division_worded",
+  "generator_version": 1,
+  "seed": 119,
+  "stem": "Zara puts 39 rulers into bags of 5. How many are left over?",
+  "options": [
+   "4",
+   "5",
+   "1",
+   "7"
+  ],
+  "answer_index": 0,
+  "explanation": "Divide, then finish the steps: the answer is 4.",
+  "distractor_explanations": [
+   null,
+   "made a small slip",
+   "took it away from the bag size",
+   "gave the number of full bags"
+  ],
+  "reading_grade": null,
+  "status": "auto_approved",
+  "verification": {
+   "method": "computable",
+   "verifier_version": 2,
+   "checks": [
+    {
+     "name": "options_distinct",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "answer_label_valid",
+     "passed": true,
+     "detail": ""
+    },
+    {
+     "name": "independent_solver",
+     "passed": true,
+     "detail": "forward solver agrees"
+    },
+    {
+     "name": "second_method",
+     "passed": true,
+     "detail": "reverse/alt-logic cross-check agrees"
+    }
+   ]
+  },
+  "schema_version": 1
+ }
+]

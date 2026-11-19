@@ -1,0 +1,38 @@
+{
+  "name": "Trilobite",
+  "viewBox": "0 0 240 240",
+  "shadow": "shadow.svg",
+  "parts": [
+    {
+      "id": "body",
+      "src": "body.svg"
+    },
+    {
+      "id": "antenna",
+      "src": "antenna.svg",
+      "anim": "sway",
+      "pivot": [
+        120,
+        70
+      ]
+    },
+    {
+      "id": "eyes",
+      "src": "eyes.svg",
+      "anim": "blink"
+    },
+    {
+      "id": "face",
+      "src": "face.svg"
+    }
+  ],
+  "states": {
+    "idle": "breathe+blink+sway",
+    "tap": "hop",
+    "talking": "talk",
+    "happy": "happy",
+    "kindWrong": "wrong",
+    "sleeping": "dim",
+    "celebrate": "happy"
+  }
+}
