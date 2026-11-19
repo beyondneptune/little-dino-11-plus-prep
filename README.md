@@ -1,12 +1,14 @@
 # Little Dino 11+ Prep
 
-**Free, open, offline 11+ practice — so every child gets a fair shot, whatever their family can afford.**
+**Free, open 11+ practice — so every child gets a fair shot, whatever their family can afford.**
 
 Private 11+ tutoring and subscription practice platforms cost hundreds of pounds a
 term, which quietly tilts selective-school admissions toward families who can pay.
 Little Dino is a small attempt to level that playing field: a **free** practice
 platform powered by an engine that generates **unlimited, original, code‑verified**
-11+ questions — no subscription, no copyrighted past papers, no internet required.
+11+ questions — no subscription and no copyrighted past papers. It is **currently
+developed and tested locally, and intended for free online public deployment** as an
+exam‑grade practice platform.
 
 > **Why "code‑verified" matters.** The hard part of auto‑generating practice questions
 > isn't making them — it's trusting the answer key. Here, for Maths / Verbal Reasoning /
@@ -24,8 +26,9 @@ platform powered by an engine that generates **unlimited, original, code‑verif
 - **Verifies every one** before serving it (dual‑method cross‑checks + a serve gate).
 - **Serves them through a friendly platform** ("Dino Ages") with per‑child progress, a
   mastery model, lessons, and a PIN‑protected grown‑ups dashboard.
-- **Runs entirely offline.** No network calls at runtime; fonts, styles, scripts and art
-  are all vendored locally. Original art only.
+- **Privacy‑first and self‑contained.** Currently developed and tested locally; intended
+  for online public deployment. No third‑party trackers or CDNs — fonts, styles, scripts
+  and art are all self‑hosted. Original art only.
 
 ## Quick start
 
@@ -79,7 +82,7 @@ scripts/      the generation + verification engine
   maths_gen.py · vr_gen.py · english_rulegen.py · nvr_svg.py / nvr_3d.py   # generators
   verify2.py · qschema.py · testers.py · answer_norm.py                    # verification + serve gate
   train_all.py                                                             # all generators + testers, in parallel
-platform/     the "Dino Ages" Flask app (offline), mastery model, vendored fonts
+platform/     the "Dino Ages" Flask app (self-hosted assets), mastery model, vendored fonts
 content/      served-topic manifests, lessons, generated question banks, topic taxonomy
 tests/        the full verification suite  (make test → 167 passing)
 reports/      audit exports, harness results, mutation/catch-rate evidence
@@ -88,14 +91,17 @@ assets/ design/  original creature art + art direction & font licences
 
 ## Status & roadmap
 
-Playable today: **Ages 1–3** (Cambrian / Devonian / Carboniferous) across Maths, VR,
-English SPaG and NVR. The engine is the durable part; more ages, topics and an English
-comprehension track (human‑authored, blind‑solver‑checked) are planned.
+Playable today (developed and tested locally): **Ages 1–3** (Cambrian / Devonian /
+Carboniferous) across Maths, VR, English SPaG and NVR. The engine is the durable part.
+Planned: **free online public deployment** as an exam‑grade practice platform, plus more
+ages, topics and an English comprehension track (human‑authored, blind‑solver‑checked).
 
 ## Privacy
 
-No child's data ever leaves the device: progress is a local SQLite file, and there are
-no analytics or network calls at runtime. Nothing is sent to any third‑party service.
+Privacy‑first by design: **no third‑party analytics or trackers**, and a child's data is
+**never sold or sent to any third‑party service**. In the current local build, progress is
+a local SQLite file; the hosted version will keep the same no‑third‑party‑tracking
+commitment, storing only what's needed to show a child their own progress.
 
 ## Contributing & licence
 

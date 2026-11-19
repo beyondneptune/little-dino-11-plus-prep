@@ -22,8 +22,8 @@ Open `content/coverage_report.md` to read it.
 Then open **http://127.0.0.1:5000** in a browser. Pick Child A or Child B, tap a
 creature on the Cambrian Seas map, and go Meet → Learn → Practise → Finish. The
 "Grown-ups" link opens the parent dashboard (you set a PIN the first time).
-Everything runs locally; it makes no internet requests, and every question shown
-has passed the automated verification gate. Stop the app with Ctrl-C.
+When run locally it makes no third‑party calls (assets are self‑hosted), and every
+question shown has passed the automated verification gate. Stop the app with Ctrl-C.
 
 ### Play on a tablet over your home Wi-Fi (not the internet)
 ```

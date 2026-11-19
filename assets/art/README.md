@@ -2,7 +2,7 @@
 
 Drop art for a creature into `assets/art/<creature>/` (or a scene into
 `assets/art/scenes/<age>/`) and the app uses it automatically — no code changes.
-Everything is served locally at `/art/...` (no network at runtime). If a folder
+Everything is served from the app itself at `/art/...` (self-hosted, no third-party CDN). If a folder
 is missing or invalid, the app falls back to the built-in code-drawn art, so you
 can replace one creature at a time.
 

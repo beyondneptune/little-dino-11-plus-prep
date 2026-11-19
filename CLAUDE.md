@@ -1,9 +1,10 @@
 # Little Dino 11+ Prep — project instructions
 
-A **free, open, offline** 11+ practice tool. An engine generates **original,
+A **free, open** 11+ practice tool. An engine generates **original,
 code‑verified** 11+ questions (Maths, Verbal Reasoning, English SPaG, Non‑Verbal
 Reasoning) and a small Flask platform ("Dino Ages") serves them to children with
-progress tracking. The goal is a level playing field: unlimited quality practice
+progress tracking. Currently developed and tested locally; intended for free online
+public deployment. The goal is a level playing field: unlimited quality practice
 with no subscription and no copyrighted content.
 
 ## Invariants (do not break)
@@ -15,10 +16,11 @@ with no subscription and no copyrighted content.
   `make test` green at all times.
 - **Original content only.** No copyrighted past‑paper text, questions, or images.
   All art is original; fonts are vendored under their open licences.
-- **Offline at runtime.** The platform makes **no network requests** when running —
-  fonts, CSS, JS and art are all local.
-- **Privacy.** No child's data leaves the device; progress is a local SQLite file.
-  Never add analytics or third‑party calls, and never commit real names or results.
+- **Self‑hosted, no third parties.** Fonts, CSS, JS and art are all served locally —
+  **no third‑party CDNs or trackers**, in the local build and the intended hosted version.
+- **Privacy.** A child's data is never sold or sent to a third‑party service; the current
+  local build stores progress in a local SQLite file. Never add analytics or third‑party
+  calls, and never commit real names or results.
 - **Honest scope.** Don't overclaim. Reading comprehension, creative writing, and
   heavy 3D NVR are intentionally out of the auto‑generated set — see the README's
   "Honest capability & ceiling".
